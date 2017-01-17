@@ -1,0 +1,652 @@
+KQED Menu
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Menu
+
+    <#>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Specials
+
+        <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED Arts <https://ww2.kqed.org/arts/>
+
+Search
+
+<#search-container>
+
+
+  KQED Arts Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Arts + Social Issues
+<https://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+
+
+  Why Art-Making is Essential to the Tenderloin’s Homeless Population
+
+Hospitality House's community arts center at Market and 6th Street in
+San Francisco's Mid-Market neighborhood offers art classes to people who
+are homeless
+
+Hospitality House's community arts center at Market and 6th Street in
+San Francisco's Mid-Market neighborhood offers art classes to people who
+are homeless (/Photo: Cy Musiker/KQED/)
+
+By Cy Musiker <https://ww2.kqed.org/arts/author/cmusiker/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=email&nb=1>
+*
+
+Jo Jackson <http://www.artlifting.com/collections/jo-jackson> is working
+this sunny late spring afternoon on a series of small watercolors. “I
+like to build colors,” Jackson says. “I’m making a sun shape first, so
+that’s just an easy circular motion that’s so relaxing for me, then I
+get very bold and add a bright red.”
+
+Jackson is a thin white woman, often bundled in a sweater and scarf. For
+years, she taught dance in Bolivia and Venezuela. But a series of
+personal setbacks over the past few years left her living in a San
+Francisco single room occupancy hotel (SRO), and then in a numbered bunk
+bed in a Tenderloin women’s shelter.
+
+Jackson especially likes making collages and working with paints. Art,
+Jackson says, is both a form of expression and a kind of therapy. “Art
+for me is like water, like a river,” she says. “And water is very life
+giving and healing.”
+
+Jo Jackson is currently homeless. She finds solace and inspiration at
+the fine art classes she takes at Hospitality House in the Tenderloin
+Jo Jackson is currently homeless. She finds solace and inspiration at
+the fine art classes she takes at Hospitality House in the Tenderloin
+(Photo: Cy Musiker/KQED)
+
+Jackson values the free art studio provided by Hospitality House
+<http://hospitalityhouse.org/>. The homeless services provider
+is located in the mid-Market neighborhood near 6th Street, a fast
+gentrifying part of the city.
+
+It’s a busy place. As Jackson works on her painting, more than dozen
+artists, most in living situations like Jackson’s, sketch with pastels
+or paint with acrylics. A pottery wheel sits against a wall in the
+studio, next to racks of paper and other supplies.
+
+Hospitality House <http://hospitalityhouse.org/> has served the homeless
+for nearly 50 years. The facility offers a men’s shelter, leadership
+development workshops, and job training programs. It also offers the
+only fine arts studio for the homeless in San Francisco, with more than
+3,500 people using the space each year.
+
+*How art helps homeless people*
+
+When you’re lacking the basics of food and shelter, art might not seem
+like a priority. Yet visitors to Hospitality House consider the creative
+offerings essential to their existence. “The opportunity to create
+should be open to everyone, whether you have a home or not,” says
+Hospitality House executive director Jackie Jenks.
+
+A collage Jo Jackson sold at silent auction at Hospitality house
+A collage Jo Jackson sold at silent auction at Hospitality house (Photo:
+Courtesy Jo Jackson)
+
+Jackson, together with fellow Hospitality House artist Billy Crawford,
+recently had an art opening at the space. They’re showing their work at
+Hospitality House through Friday, Jul. 22. Jackson has sold a few
+paintings, she says. And all the artists gets 100 percent of the
+proceeds from sales of their work. Jenks says Hospitality House artists
+made $16,000 last year.
+
+Art has been an essential service for Hospitality House since 1969, two
+years after its founding. “The walls can really seem to close in on you
+in an SRO or a shelter,” Jenks says. “But here, they’re sharing the
+beauty of what they can create and what’s in their hearts.”
+
+*A common vision*
+
+Hospitality House isn’t the only organization in the neighborhood that
+offers opportunities for homeless people to tap into their creative
+selves. Jackson is also a frequent visitor at The Healing Well, an
+offshoot of the street ministry called Faithful Fools
+<http://www.faithfulfools.org/>. The two organizations share a narrow
+and cozy building on Hyde Street on the edge of the Tenderloin, where
+they offer free poetry, yoga, meditation, and clowning classes.
+
+“When I first got involved in this work, I thought, you’ve got to be
+kidding,” says Kathy Curran, Healing Well’s founder and director.
+“We’re offering classes like yoga and meditation, and art and poetry.
+Shouldn’t we be helping these people find housing and get jobs?”
+
+But Curran soon saw the value of Healing Well’s offerings. “I quickly
+realized how important it is for people to have a place where they can
+develop a sense of calm and confidence in coping with the trials of the
+past and the opportunities of the future,” she says.
+
+An art show in the window of the Community Arts Center at Hospitaity House
+An art show in the window of the Community Arts Center at Hospitality
+House (Photo: Cy Musiker/KQED)
+
+Back at Hospitality House, Jackson puts her paintbrush in a cup of
+water. Jackson has found temporary housing for the next three months.
+She says should be okay, as long as she can continue to make art.
+“Homelessness isn’t who I am,” Jackson says. “It happens to be something
+I’m going through right now.”
+
+Explore: Arts <https://ww2.kqed.org/arts/category/arts/>, News
+<https://ww2.kqed.org/arts/category/news/>, audio
+<https://ww2.kqed.org/arts/tag/audio/>, feature
+<https://ww2.kqed.org/arts/tag/feature/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/?share=email&nb=1>
+  *
+
+0 Comments
+<http://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Arts
+
+San Francisco Arts Groups on Path to Becoming Property Owners
+
+<http://ww2.kqed.org/arts/2015/06/17/san-francisco-arts-groups-on-path-to-becoming-property-owners/>
+
+Stanford's Virtual Reality Lab Cultivates Empathy for the Homeless
+
+<http://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/>
+
+How Pottery Makes All the Difference to a Stressed-out, Milpitas Mother of 7
+
+<http://ww2.kqed.org/arts/2016/02/10/how-pottery-makes-all-the-difference-to-a-stressed-out-milpitas-mother-of-7/>
+
+Kim Novak Opens Up: 'I Think I'm Appreciated More Now'
+
+<http://ww2.kqed.org/arts/2016/02/10/a-talk-with-kim-novak-i-think-im-appreciated-more-now/>
+
+Arts and Homeless Groups Unite Behind Ballot Measure for More Funds
+
+<http://ww2.kqed.org/arts/2016/07/11/arts-and-homeless-groups-unite-behind-balllot-measure-for-more-funds/>
+
+‘We Have a Right to Live Here’: Stories from San Francisco’s Evicted
+
+<http://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Cy Musiker
+
+Cy Musiker co-hosts The Do List and covers the arts for KQED News and
+The California Report.  He loves live performance, especially great
+theater, jazz, roots music, anything by Mahler. Cy has an MJ from UC
+Berkeley's School of Journalism, and got his BA from Hampshire College.
+His work has been recognized by the Society for Professional Journalists
+with their Sigma Delta Chi Award for Public Service in Journalism. When
+he can, Cy likes to swim in Tomales Bay, run with his dog in the East
+Bay Hills, and hike the Sierra.
+
+View all posts by this author <https://ww2.kqed.org/arts/author/cmusiker/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Five Songs for the Homeless: The Bay Area's Empathy on Record
+
+<https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/>
+Next Rob Wasserman, Masterful Upright Bassist, Dies After Brief
+Hospitalization
+
+<https://ww2.kqed.org/arts/2016/06/29/rob-wasserman-masterful-upright-bassist-dies-after-brief-hospitalization/>
+
+
+
+  About KQED Arts
+
+KQED Arts provides daily arts news, reviews and profiles for the San
+Francisco Bay Area.
+
+  * Contributors <http://ww2.kqed.org/arts/contributors/>
+  * Contact Us <mailto:arts@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+Funding for KQED Arts is provided by The William and Flora Hewlett
+Foundation <http://www.hewlett.org/>.
+
+The William and Flora Hewlett Foundation <http://www.hewlett.org/>
+
+Support is also provided by the Kenneth Rainin Foundation and the
+members of KQED.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  When you need an art fix!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

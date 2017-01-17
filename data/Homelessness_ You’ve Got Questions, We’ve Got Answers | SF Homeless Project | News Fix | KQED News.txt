@@ -1,0 +1,901 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Homelessness: You’ve Got Questions, We’ve Got Answers
+
+A man walks by two homeless people sleeping outside in the San Francisco
+Civic Center.
+
+A man walks by two homeless people sleeping outside in San Francisco's
+Civic Center. (/David Marks/KQED/)
+
+By Jessica Placzek <https://ww2.kqed.org/news/author/jplaczek/>
+June 28, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=email&nb=1>
+*
+
+/As part of our series //Bay Curious/
+<http://ww2.kqed.org/news/series/baycurious>/, we answer questions from
+KQED listeners and readers. For our week of homelessness coverage, we
+asked you to submit your questions on homelessness. We received over
+1,200 submissions. The following are some of the questions that were
+asked more frequently. /
+
+*What are the most common causes of homelessness?*
+
+Homelessness mostly arises from poverty and a lack of affordable
+housing. In the Bay Area, the cost of housing is outpacing what people
+making minimum wage can afford. When they lose their jobs or their
+housing, they are at risk for becoming homeless.
+
+In San Francisco during the 2015 Homeless Count
+<http://sfgov.org/lhcb/2015-san-francisco-point-time-homeless-count-0>,
+25 percent of the respondents reported job loss as the primary cause for
+their homelessness. Loss of housing contributed to another 18 percent of
+homelessness (13 percent cited eviction, 3 percent said their landlord
+raised their rent and 2 percent reported foreclosure).
+
+<https://ww2.kqed.org/news/series/baycurious>
+What do you wonder about the Bay Area, its culture or people that you
+want KQED to investigate? Ask Bay Curious.
+<https://ww2.kqed.org/news/series/baycurious>
+
+Other people were forced out of their homes due to interpersonal
+tensions: domestic violence (5 percent), arguments with family (12
+percent), and breakups and divorce (11 percent). These things alone do
+not cause homelessness. It’s a systemic issue involving poverty,
+inadequate safety nets, lack of opportunity and an increasingly
+expensive housing market.
+
+The second most self-reported cause of homelessness was alcohol or
+substance abuse (18 percent).
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*
+
+sfproject3 <http://ww2.kqed.org/news/series/sf-homeless-project>
+
+It’s important to note that two-thirds of the respondents cited one or
+more health conditions. These include physical illness, physical
+disabilities, chronic substance abuse and severe mental health
+conditions. “We know that having mental health problems increases your
+risk of homelessness and that homelessness worsens mental health
+problems,” says Dr. Margot Kushel, a professor at UCSF who specializes
+in homeless issues.
+
+Source: The San Francisco 2015 Homeless Count
+San Francisco 2015 Homeless Count
+
+“The most common mental health problem among people who are homeless is
+severe depression, followed by bipolar disease, followed
+by schizophrenia. People have this view that everyone has a thought
+disorder and that’s just not true,” says Kushel.
+
+Kushel also wants to point out that some of the people you see on the
+street acting erratically are actually housed and in treatment programs.
+“People who are housed may still be out on the street engaging in
+behaviors that might look like they are homeless. … In fact, many of the
+people who don’t have housing in this city are invisible to the general
+public. You’d never guess that they don’t have a home,” says Kushel.
+
+A homeless man sleeping in a doorway in San Francisco.
+A homeless man sleeping in a doorway in San Francisco. (Henry Rubin)
+
+*What do I do if I think someone needs help?*
+
+Most cities have a 311 number. In San Francisco, there are multiple
+outreach groups that aid the homeless, such as the San Francisco
+Homeless Outreach Team (415-734-4233) or the San Francisco Mobile Crisis
+Treatment Team (415-970-4000)
+
+For more information, KQED published a story
+<http://ww2.kqed.org/news/2014/07/help-homeless-san-francisco/>on this
+two years ago or you can check out the San Francisco Coalition on
+Homelessness’ 10 Things To Do When You See Homeless People
+<http://www.cohsf.org/wp-content/uploads/2014/08/WHAT-TO-DO.pdf>.
+
+Volunteers with a church group serve free meals to people at U.N. Plaza
+in San Francisco.
+Volunteers with a church group serve free meals to people at U.N. Plaza
+in San Francisco. (Sara Bloomberg/KQED)
+
+*Are other cities sending their homeless to San Francisco with one-way
+bus tickets?*
+
+Yes, people are being sent here, but San Francisco is putting people on
+buses, too. The Homeward Bound <http://www.sfhsa.org/79.htm>program
+gives people without homes a bus ticket to reunite with family, friends
+and stable living situations. Before leaving San Francisco, city
+officials try to confirm that the traveler has a place to stay at the
+other end of the ride. Since 2004, over 9,000
+<http://www.sfchronicle.com/bayarea/article/S-F-spends-record-241-million-on-homeless-6808319.php>people
+have gotten bus tickets through the Homeward Bound program.
+
+Cities and counties across the country use similar bus ticket programs.
+Yet, while reuniting people with friends and families can be a good
+thing, homeless advocates worry that the bus ticket programs are abused
+and don’t help people but simply export people and their problems
+elsewhere
+<http://www.npr.org/templates/story/story.php?storyId=5221311>. Some
+participants in the program are not even going home but simply to other
+areas that might have an open bed. Critics claim that these programs
+don’t do enough to ensure that people’s needs will be met at their
+destination.
+
+But cities have an economic incentive to keep the program running. San
+Francisco’s Homeward Bound program spends an average of $185 per ticket,
+whereas housing and caring for people without shelter can cost thousands
+of dollars.
+
+That said, there have been examples of bus tickets being used illegally.
+A few years ago, a Las Vegas hospital was found to be systematically
+putting mentally ill patients on Greyhound buses out of town. It was
+estimated that about 500 patients had destinations in California. Last
+year, San Francisco won a $400,000 settlement
+<http://www.sfexaminer.com/sf-reaches-400k-settlement-proposal-in-nevada-patient-dumping-case/>from
+the state of Nevada to cover the medical costs of some 24 patients who
+arrived in the city with one-way tickets.
+
+"Thumper" sits for a portrait in the People's Park in Berkeley, Calif.
+where he is currently homeless and plays guitar to earn money for food.
+‘Thumper’ sits for a portrait in People’s Park in Berkeley, California,
+where he is currently homeless and plays guitar to earn money for food.
+(Brittany Hosea-Small/KQED)
+
+*Do any of the homeless choose life on the street? *
+
+“When people who are homeless are offered a safe and decent place to
+call home, we find they always say yes,” says Jennifer Friedenbach, the
+director of San Francisco’s Coalition on Homelessness.
+
+“People often mistake turning down one night in a shelter as choosing to
+be homeless. They don’t understand that you have to lose all your
+belongings, separate from your pet, separate from your partner and wait
+in line for hours on end, only to get five hours of sleep and get kicked
+out in the next day without your property and survival gear,” says
+Friedenbach.
+
+Other reasons people cite for opting out of shelters include violence,
+racism, homophobia and transphobia. There are others who decide to
+sleep on the streets because they want to avoid the bureaucracy and
+restrictions that come with living in supportive housing. “After going
+through the merry-go-round of social services … people might not be
+interested in a sheltered treatment-type program for long periods of
+time. They want to be more independent and off on their own,” says
+ Eduardo Vega, director of the Mental Health Association of San Francisco .
+
+In regard to long-term housing, the director of Hospitality House, told
+the San Francisco Chronicle
+<http://www.sfchronicle.com/bayarea/article/What-San-Franciscans-know-about-homeless-isn-t-7224018.php>that
+there’s more to a person’s refusal of housing. “A lot of times people
+have been traumatized and re-traumatized and they don’t think [their
+lives will change]. They might need a little bit more work in order to
+be able to make that leap.”
+
+A couple people sleep in a dormitory at a Navigation Center in San
+Francisco. Unlike other centers, couples are allowed to push their beds
+together here, and dogs sleep with their people.
+A couple people sleep in a dormitory at the Navigation Center in San
+Francisco’s Mission District. Unlike other centers, couples are allowed
+to push their beds together here, and dogs sleep with their people.
+(Deborah Svoboda)
+
+*What happens to all the money that San Francisco spends on the homeless?*
+
+San Francisco has allocated over $241 million on homelessness for the
+2015-2016 fiscal year. 
+
+Courtesy of The Chronicle
+The San Francisco Chronicle
+
+The city doesn’t have more details on how exactly the money is spent but
+Supervisor London Breed has asked for a full report. For more
+information, you can read the Chronicle
+<http://www.sfchronicle.com/bayarea/article/S-F-spends-record-241-million-on-homeless-6808319.php>story.
+ 
+
+*Why are there so many homeless people in San Francisco, and why are
+they so visible?*
+
+“It’s because of the high housing costs. San Francisco has a huge
+homeless population because it’s one of the most expensive cities,” says
+Kushel, the UCSF professor who specializes in homeless issues. “There is
+a myth that homeless people are drawn to San Francisco because it’s such
+a great place to be homeless. But research doesn’t hold that up.”
+
+A homeless man waiting in line outside of Glide uses a box for warmth
+and tries to get some sleep.
+A homeless man waiting for homeless services uses a box for warmth and
+tries to get some sleep. (Deborah Svoboda/KQED)
+
+“The draw of a milder climate only has a marginal effect,” says Eduardo
+Vega, director of the Mental Health Association of San Francisco.
+
+According to the 2015 San Francisco Homeless Count, of the 7,539 people
+counted, 71 percent lived in the city before they lost housing. Only 10
+percent came from outside the state and the remaining 19 percent came
+from elsewhere in California.
+
+“We do know that across the country, when people become homeless, they
+tend to migrate to a city. That’s because it’s hard to experience
+homelessness in a suburban area. You might have to walk 4, 10, or
+20 miles to the nearest service agency. So, people tend to move to
+cities, but there’s nothing about San Francisco in particular,” says Kushel.
+
+According to Vega, the ratio of housed to unhoused people in San
+Francisco is unremarkable for a city of its size.
+
+“Because we have a small dense metropolitan area and a lot of people are
+crowded into the same 4 square miles downtown, there is a perception
+that the problem is somehow much worse in San Francisco,” says Vega.
+
+In the 2015 report
+<https://www.hudexchange.info/resources/documents/2015-AHAR-Part-1.pdf> by
+U.S. Housing and Urban Development, San Francisco’s homeless population,
+in sheer numbers, is smaller than New York, Los Angeles, Seattle, San
+Diego, Las Vegas, D.C. and Chicago. 
+
+“The problem is that homelessness is a big problem across the country.
+But here people are seeing lots of homelessness and getting sensitized
+to it, which is good,” says Vega.
+
+Chase and Monique talk in their tent on Florida St. that is part of a
+homeless encampment in the Mission District of San Francisco.
+Chase (left) and Monique (right) in their tent on Florida Street that is
+part of a homeless encampment in the Mission District. (Brittany
+Hosea-Small/KQED)
+
+*Why are there so many more **/young/**homeless people in San
+Francisco than other places?*
+
+“More and more, we are seeing Bay Area youth becoming homeless,” says
+Mary Howe, director of the Homeless Youth Alliance. The organization
+provides a safe space for homeless youth in the Haight neighborhood and
+focuses on providing harm reduction services.
+
+Many young people become homeless after aging out of the foster care
+system. Some were homeless with their families but left because they
+don’t want to be a burden. Some leave abusive, traumatic or neglectful
+homes. Others are kicked out after coming out as LGBTQ. In San
+Francisco, 48 percent of the young respondents in the homeless count
+identified as LGBTQ. 
+
+Mary Howe is the executive director of the Homeless Youth Alliance on
+Haight Street in San Francisco. The organization provides a safe space
+for homeless youth in the Haight neighborhood and focuses on providing
+harm reduction services.
+Mary Howe of the Homeless Youth Alliance (Sara Bloomberg/KQED)
+
+Similar to the adults, many of the homeless youth lived here before
+becoming homeless. According to the Homeless Youth Count
+<http://sfgov.org/lhcb/sites/default/files/Youth_SanFrancisco_HomelessReport_2015_FINAL_2.pdf>,
+56 percent of the homeless youth population was living in San Francisco
+prior to becoming homeless. Another 25 percent came from another county
+in California and 19 percent came from out of state. Many of the
+newcomers head to the Haight.
+
+“I do think the Haight in particular is an international destination for
+young people. It will always draw people in, as it did in the ’60s.
+People still view it as something better than what they are leaving,”
+says Howe. “I also want to point out that many of the people paying rent
+in San Francisco are actually not from here either.”
+
+*Are there any plans for adopting a “Housing First” program similar to
+that in Salt Lake City?*
+
+For the uninitiated: Salt Lake City has nearly eradicated homelessness.
+The city accomplished this through an aggressive “Housing First”
+program, which quickly puts people into permanent housing. There are no
+requirements for eligibility, such as sobriety, treatment or service
+participation. Over 2,000 people who were formerly chronically homeless
+are housed in what is described as “showpieces of modern architecture.”
+
+So why can’t San Francisco do this? Well, the city actually /does/have a
+Housing First program.  According to the San Francisco Chronicle
+<http://www.sfchronicle.com/nation/article/Salt-Lake-City-a-model-for-S-F-on-homeless-5587357.php?t=edc865e5e805236f26&cmpid=twitter-premium>,
+it includes about 5,000 units of supportive housing in the Tenderloin
+neighborhood. But why hasn’t the program seen the same success as Salt
+Lake City?
+
+According to Chronicle reporter Kevin Fagan
+<http://www.sfchronicle.com/author/kevin-fagan/>, Salt Lake City has
+more data on its homeless population, enabling the program to target the
+most at-risk people on the street. These are the people who use
+emergency services most. By identifying these folks, government and
+nonprofit agencies can quickly house and begin supportive services
+catered to the individual’s needs.
+
+San Francisco has no single information network that tracks homeless
+people and the services they use. This hinders the city’s ability to
+help people who need it most.
+
+Fagan says that another reason San Francisco’s program isn’t as
+successful is because it’s harder to cultivate a culture of
+self-improvement in the Tenderloin.  Residents with substance abuse
+issues have a difficult time breaking old habits. Counselors in the
+Tenderloin are spread too thin and can have up to 100 clients each. By
+comparison, the Salt Lake City program has one counselor for every 15
+residents.
+
+“We provide a fair number of [Housing First units], but we need a lot
+more,” says Vega, the director of the Mental Health Association of San
+Francisco.  
+
+Today, San Francisco still has 1,745 chronically homeless individuals
+and 18 chronically homeless families.  To provide more supportive
+housing similar to the Salt Lake City model, the main obstacle will be
+the cost. Building housing in the country’s most expensive real estate
+market costs heaps more than in Utah.
+
+Furthermore, the high prices both cause homelessness and create barriers
+to finding a home outside of government support. In Salt Lake City, the
+program has a 15 percent turnover each year as people are able to
+transition out and support themselves. In San Francisco, less than 5
+percent of the residents leave the program each year. They stay longer
+because they cannot afford to leave.
+
+A tiny home in Madison, Wisconsin.
+A tiny home in Madison, Wisconsin. (Emily Mills/Flickr
+<https://flic.kr/p/iZc92M>) (Emily Mills/Flickr)
+
+*H**ow can building tiny houses help homeless people in the Bay Area**?*
+
+Sonoma
+<http://www.pressdemocrat.com/news/4996725-181/sonoma-county-identifies-site-for?artslide=0>is
+currently working on creating a tiny house community, and similar plans
+are being discussed in Richmond
+<http://ww2.kqed.org/news/2016/05/04/richmond-to-consider-tiny-houses-for-the-homeless>.
+Oakland
+<http://www.sfchronicle.com/bayarea/article/Tiny-homes-often-unwelcome-in-SF-Oakland-7045184.php>
+has a few tiny homes scattered throughout the city, but the police treat
+them like tents. Some government officials are considering a more
+long-term solution with tiny homes, but not much leeway is being made.
+
+Tiny homes cost much less than building traditional housing and can be
+placed in empty city lots. They’ve been found to be especially effective
+when paired with supportive services. Across the country, cities are
+beginning to house people in clusters of tiny homes.
+
+In Eugene, Oregon, the 29 homes in “Opportunity Village” come equipped
+with electricity and Wi-Fi, and a central building houses cooking,
+showering and laundry facilities. With the help of volunteers, the
+initial building costs of Opportunity Village were only $212,000.
+Monthly operations cost around $1,800.
+
+However, a tiny house community may not be well suited to San Francisco
+or other densely populated Bay Area cities. In this expensive real
+estate market, there is a need for multi-unit housing. Tiny homes are
+better suited for cities with large unused lots.
+
+“You need to remember, many of the people experiencing severe housing
+burdens are families. And they are already living in overcrowded spaces.
+What we need to do is build housing that is affordable for multiple
+people,” says Kushel, the UCSF professor who specializes in homeless issues.
+
+Division Street homeless encampments
+Division Street homeless encampments. (Amy Mostafa/KQED)
+
+ 
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>, San Francisco
+<https://ww2.kqed.org/news/tag/san-francisco/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/?share=email&nb=1>
+  *
+
+3 Comments
+<https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+
+How Many Are Homeless? A Question With Many Answers
+
+<https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers>
+
+Disability Agency Blasts Sonoma County Jail's Treatment of Mentally Ill
+
+<http://ww2.kqed.org/news/2016/05/16/sonoma-county-accused-of-involuntarily-medicating-inmates>
+
+Homelessness in San Francisco's Mission: A Neighborhood View
+
+<http://ww2.kqed.org/news/2016/07/12/homelessness-in-san-franciscos-mission-a-neighborhood-view/>
+
+Tent Cities Compete With Super Bowl City for Attention
+
+<http://ww2.kqed.org/news/2016/02/02/tent-cities-compete-with-super-bowl-city-for-attention>
+
+Two Deaths In One Jail In One Month: How Are We Treating Mentally Ill
+Inmates?
+
+<http://ww2.kqed.org/news/2014/03/29/two-mentally-ill-inmates-died-one-month-in-santa-clara>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Jessica Placzek
+
+Jessica Placzek grew up on the West Coast, went to college on the
+East Coast and figured out what she wanted on the Gulf Coast. She likes
+talking to people and learning, so she became a reporter. This is where
+she tweets: @jessicazyp <https://twitter.com/jessicazyp>
+
+View all posts by this author <https://ww2.kqed.org/news/author/jplaczek/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Oakland City Council Votes to Block Coal Shipments Through Port
+
+<https://ww2.kqed.org/news/2016/06/28/oakland-city-council-votes-to-block-coal-shipments-through-port/>
+Next Experience Life on the Streets of San Francisco [360 Video]
+
+<https://ww2.kqed.org/news/2016/06/28/experience-life-on-the-streets-of-san-francisco-360-video/>
+
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

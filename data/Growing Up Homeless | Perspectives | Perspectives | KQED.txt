@@ -1,0 +1,352 @@
+KQED Menu
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <http://ww2.kqed.org/perspectives/>
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <http://ww2.kqed.org/perspectives/>
+  * Schedules
+
+    <#>
+      o Daily Schedule
+
+        <http://www.kqed.org/radio/schedules/daily>
+      o Weekly Schedule
+
+        <http://www.kqed.org/radio/schedules/weekly.jsp>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+
+  Perspectives Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  * Perspectives Home
+
+    <http://ww2.kqed.org/perspectives/>
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+<https://ww2.kqed.org/perspectives/>
+
+
+  Perspectives <https://ww2.kqed.org/perspectives/>
+
+Search
+
+<#search-container>
+Skip to content
+
+<#content>
+
+  * Perspectives Home
+
+    <http://ww2.kqed.org/perspectives/>
+
+Search for:
+
+Perspectives <https://ww2.kqed.org/perspectives>
+
+
+  Growing Up Homeless
+
+Audio Player
+http://www.podtrac.com/pts/redirect.mp3/www.kqed.org/.stream/mp3splice/radio/perspectives/2016/06/PerspHomeless.mp3
+
+00:00
+00:00
+00:00
+Use Up/Down Arrow keys to increase or decrease volume.
+
+<javascript:void(0);>
+By Vrndavana Hines
+<https://ww2.kqed.org/perspectives/author/vrndavana-hines/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=email&nb=1>
+*
+
+Vrndavana Hines	
+
+I was 13 years old the night I became homeless. I was fighting with
+family — that happened a lot — and my mom finally told me to get out. I
+could tell it was serious this time. So I did. I just folded my social
+security card and my birth certificate into my wallet, and headed to the
+railroad tracks
+
+The first night I spent outside, it was raining. I leaned up against a
+broken down truck with no doors. It was like a little music video in my
+head. I was so depressed. I remember thinking, why is my life this way
+when I’m so young?
+
+Later, when I talked to my friends about it, they were like, why didn’t
+you hit me up? But I didn’t want to feel like I was in the way. That’s
+what my family put on me. I felt like I was in the way all the time.
+
+As a teen, I hid my homelessness from most people. If I was talking to a
+school counselor especially, I’d tell them. “You know, everything at
+home is going good.” I would just make up stuff because I wasn’t sure
+what would happen. Like maybe they’d bring in Child Protective Services
+or try to put me on foster care or take me out of this town where all my
+friends lived. I was afraid of that. So I didn’t tell anyone.
+
+For a few years, I moved around a lot, staying on couches or shelters or
+outside, being nomadic. Eventually, I got old enough to start working to
+save up money to get myself off the streets. Now I’m 20 years old. I
+have a stable place to live, I recently got my GED.
+
+When I tell my old teachers and coworkers that I was homeless, they’re
+always so surprised. “But you were so well kept,” they say. “You
+couldn’t tell looking at you.” That was the point, though. Many homeless
+teens don’t want anyone to know. Not because we don’t need help, but
+because we have too much to lose.
+
+With a Perspective, I’m Vrndavana Hines.
+
+/Vrndavana Hines is 20 years old and lives in San Francisco. His
+commentary was produced for the SF Homeless Project by Youth Radio./
+
+Hear more of Vrndavana’s story:
+
+Explore: Perspectives
+<https://ww2.kqed.org/perspectives/category/perspectives/>, Youth
+Issues/Children
+<https://ww2.kqed.org/perspectives/tag/youth-issueschildren/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/?share=email&nb=1>
+  *
+
+2 Comments
+<http://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Perspectives
+
+High Rents = Delayed Adulthood
+
+<http://ww2.kqed.org/perspectives/2016/06/01/high-rents-delayed-adulthood/>
+
+Violence Comes Home
+
+<http://ww2.kqed.org/perspectives/2010/04/22/violence-comes-home/>
+
+When Home Feels Like Prison
+
+<http://ww2.kqed.org/perspectives/2016/11/16/when-home-feels-like-prison/>
+
+Parlez-Vous Programming?
+
+<http://ww2.kqed.org/perspectives/2013/04/25/parlez-vous-programming/>
+
+Young Invincible Needs Obamacare
+
+<http://ww2.kqed.org/perspectives/2013/12/05/young-invincible-needs-obamacare/>
+
+Having Divorced Parents
+
+<http://ww2.kqed.org/perspectives/2010/03/02/having-divorced-parents/>
+Powered by
+
+<https://contextly.com/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev A New Twist on Sex Discrimination
+
+<https://ww2.kqed.org/perspectives/2016/06/27/a-new-twist-on-sex-discrimination/>
+Next Timeless Fixations
+
+<https://ww2.kqed.org/perspectives/2016/06/29/timeless-fixations/>
+
+
+  About KQED’s Perspectives
+
+Our series of daily listener commentaries since 1991.
+*Airs on KQED Public Radio every weekday morning at 6:43am, 8:43am and
+11:29pm and weekends at 7:36am and 8:36am*
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

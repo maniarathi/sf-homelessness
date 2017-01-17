@@ -1,0 +1,648 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  Selling Landlords on Formerly Homeless Tenants
+
+Brad Schwartz sits at his desk at home. After decades of homelessness it
+took half a year to find a landlord willing to rent to him.
+
+Brad Schwartz sits at his desk at home. After decades of homelessness it
+took half a year to find a landlord willing to rent to him. (/J.D.
+Hillard/KQED/)
+
+By *J.D. Hillard*
+June 30, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=email&nb=1>
+*
+
+One of the key tools in the effort to end homelessness has a weakness.
+The “housing first” approach adopted by communities across the country
+involves helping people find housing and, in many cases, subsidizing
+their rent. Facing a shortage of rental housing, Santa Cruz County has
+set out to recruit landlords to rent to people who have been homeless.
+
+In Brad Schwartz’s case, finding a landlord who would rent to him took
+about six months.
+
+Sitting on his couch sipping a beer, he explains that in 2007 or 2008,
+after two decades of homelessness, he applied for a Section 8 voucher —
+a federally funded rental subsidy for people with very low incomes or
+disabilities.
+
+“I got tired of being on the streets,” he says. “I decided I’d done
+everything I’d wanted to do while I was out there and that I wanted to
+tie up all my loose ends.”
+
+He continued sleeping in the woods for about five more years until
+county staff called and told him his name had come up on the waiting list.
+
+“ ‘Now go get your voucher and look for a place. You have two months to
+find one.’ It was like a game show thing and I couldn’t find one.”
+
+The 60-day time limit is supposed to keep vouchers from going unused.
+But for Schwartz it wasn’t enough time to find a landlord who would take
+his voucher. He’s not alone, says Santa Cruz County Housing Manager
+Julie Conway.
+
+*Model Tenants*
+
+“We’ve got a number of property managers whose approach with the
+properties they manage is to just not even consider tenant-based
+subsidies,” she says.
+
+One landlord recently told her he was afraid: “‘I’m just going to have
+this person in here who’s got major substance abuse issues and so do all
+of their friends. He’s just going to come in and trash the unit and cost
+me lots of money and why would I do that.’”
+
+In Conway’s account, the landlord ended up renting to someone he had
+known previously who had become homeless as the result of a health
+issue. The person became a model tenant.
+
+“That person was so relieved to have a housing unit that the last thing
+they were going to do was blow it.” she says.
+
+This is a theme in the campaign Conway is launching to encourage
+landlords to take tenants who have been homeless. The campaign is part
+of the county’s “All-In Strategic Plan to End Homelessness
+<http://www.unitedwaysc.org/news/new-countywide-strategic-plan-end-homelessness-approved>.”
+Counter to stereotypes, people who have been homeless are often quiet,
+reliable tenants.
+
+sfproject3 <http://ww2.kqed.org/news/series/sf-homeless-project>
+
+*A Business Based on Renting to the Formerly Homeless*
+
+A video she plans to show to the local Rotary Club and other civic
+groups opens with the slogan “Landlords: You are the key to ending
+homelessness in Santa Cruz County.” The video includes testimonials from
+landlords. One of them, Jack Cross, owns about 40 small units. He says
+renting to subsidized tenants is good business.
+
+“I don’t like turnover, because turnover or vacancies is a headache of
+cleaning and advertising again and screening tenants,” Cross says.
+“Whereas these tenants stay for a long periods of time. The cash flow’s
+good and you don’t have any down time.”
+
+As an incentive, the county will cover rent, if a tenant fails to pay.
+Conway says that’s unlikely because rent subsidies already automatically
+deposit into property owners’ accounts. The county will also pay a
+limited amount on top of the security deposit if a property gets
+damaged. These financial bonuses follow a model the county tried in a
+small program years ago. In that experience, Conway says only two small
+damage claims were filed.
+
+*Finally Home*
+
+In his search, Brad Schwartz had to request two extensions on the
+deadline for his voucher. He eventually got some help finding a place
+from John Dietz, a volunteer with 180/2020. That’s Santa Cruz County’s
+program that aims to make a 180-degree turnaround for the homelessness
+problem by the year 2020.
+
+“John called me one day — Saturday or something like 8 in the morning,”
+Schwartz says. “And he calls me and goes, ‘I just talked to a lady and
+she wants us there 2 o’clock for an interview. Got a place near the
+beach that you’d like where you can smoke tobacco.’ ”
+
+His house has just two rooms. It’s in a part of Santa Cruz dominated by
+apartment buildings. The ivy and blackberry in the yard require regular
+trimming. Schwartz thinks his enthusiasm for yard work might have
+persuaded his landlord to pick him.
+
+“I help out with the ladies in front, I help with the front yard and do
+a lot of raking. And do little things that help me feel like I’m being
+responsible,” he says. “It’s the place I live, it’s not just this box
+I’m renting and they can do what they want with it.”
+
+Conway says getting more landlords to take formerly homeless tenants is
+just part of the answer to the homelessness problem. Ultimately, the
+county needs more affordable housing.
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/?share=email&nb=1>
+  *
+
+0 Comments
+<https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+For One Man, Looking for Housing Means Putting Fatherhood on Hold
+
+<http://ww2.kqed.org/news/2015/11/17/for-one-man-looking-for-housing-means-putting-fatherhood-on-hold>
+
+In Secretive Marijuana Industry, Whispers of Abuse and Trafficking
+
+<https://ww2.kqed.org/news/2016/10/14/in-secretive-marijuana-industry-whispers-of-abuse-and-trafficking/>
+
+How One Homeless Man in Oakland Found Himself Back Home
+
+<http://ww2.kqed.org/news/2016/01/03/how-one-homeless-man-in-oakland-found-himself-back-home>
+
+Residents of Run-Down Public Housing Complex in Richmond Finally Get Help
+
+<http://ww2.kqed.org/news/2015/02/10/residents-of-run-down-public-housing-complex-in-richmond-finally-get-help/>
+
+Market Street Tenants Sue to Block Eviction
+
+<http://ww2.kqed.org/news/2014/01/10/tenants-of-1049-market-street-fight-eviction>
+
+Homelessness: You've Got Questions, We've Got Answers
+
+<https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers>
+Powered by
+
+<https://contextly.com/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev S.F. Fire Department Brass Say They Have No Evidence of Mission
+District 'Gentri-Fires'
+
+<https://ww2.kqed.org/news/2016/06/30/s-f-fire-department-brass-insist-they-have-no-evidence-of-mission-district-gentri-fires/>
+Next What Happens When One Working Family Becomes Homeless
+
+<https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/>
+
+
+
+  About The California Report
+
+The California Report provides daily coverage of news and culture
+throughout the state.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact <https://ww2.kqed.org/news/contact-the-california-report/>
+  * Tune In <https://ww2.kqed.org/news/tune-in/>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Support for The California Report is Provided By
+
+  * Eric and Wendy Schmidt <http://www.theschmidt.org/>
+  * The California Endowment <http://www.calendow.org/>
+  * California HealthCare Foundation <http://www.chcf.org/>
+  * Rowbotham <http://www.rowbotham.com/>
+  * The Westly Foundation <http://www.westly.org/> 
+
+
+
+  * The James Irvine Foundation <http://www.irvine.org/>
+  * Barracuda Networks <https://www.barracuda.com/>
+  * Blach Construction <http://www.blach.com/>
+  * Digital Foundry <http://www.digitalfoundry.com/>
+  * Wharton San Francisco <http://sf.wharton.upenn.edu/> 
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

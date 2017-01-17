@@ -1,0 +1,648 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  What Happens When One Working Family Becomes Homeless
+
+The Acur family gets a slice of normalcy in temporary housing in San
+Mateo after sleeping in their van and on a garage floor.
+
+The Aucar family gets a slice of normalcy in temporary housing in San
+Mateo after sleeping in their van and on a garage floor. (/Beth
+Willon/KQED/)
+
+By Beth Willon <https://ww2.kqed.org/news/author/bwillon/>
+June 30, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=email&nb=1>
+*
+
+Karima Aucar is getting her hands dirty at a summer camp in San Mateo.
+She dips them in a vat of clay and begins pounding. As she starts to
+shape the clay into a turtle, her dad, Shauky Aucar, hovers over her
+before leaving for work at UCSF Medical Center.
+
+On the surface this could be any day camp in the Bay Area. It’s full of
+giggling kids dressed in Warriors T-shirts and sneakers. But the reality
+is that Karima and the other kids here aren’t your typical carefree
+campers. They live just a few feet away in transitional housing provided
+by LifeMoves <http://lifemoves.org/> for mostly low-income working families.
+
+The apartment and day camp are a slice of normalcy for Karima, who was
+sleeping on a garage floor with her family just a few months ago.
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*sfproject3
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+“Well, it’s like better than sleeping on a cold floor,” says the
+13-year-old. “I had to wake up on my birthday sleeping on the floor, and
+I didn’t get to celebrate it because my parents didn’t have any money.
+It was hard.”
+
+The Aucar family still feels raw after abruptly losing their stable
+home. In December 2015, Aucar says they got pushed out their
+$2,400-a-month rental.
+
+“Everything started when we were living in Daly City for 10 years and
+the landlord went to sell the house,” says Shauky Aucar.
+
+Aucar, his wife and seven children moved into his mother-in-law’s studio
+apartment nearby but the neighbors quickly complained. They then slept
+in the family’s large van until it got so cold they ended up back at his
+mother-in-law’s place. This time they were sleeping in the garage. They
+had to hide like outlaws, getting up early and returning late at night
+so the neighbors didn’t complain.
+
+“I don’t think this is the American Dream,” says Aucar. “I saw my kids
+on the ground and I said, ‘I don’t want this future for them.’ ”
+
+Aucar coped with the upheaval by keeping his routine, going to work
+every day. He says he has worked full time at UCSF for 23 years, taking
+people in and out of surgery.
+
+He also continued taking his 20-year-old daughter, Anshi Aucar, to
+community college so she can be the first family member to graduate from
+college. She has aspirations of going to medical school after she gets
+her degree in respiratory therapy. But there’s little doubt that being
+homeless has taken its toll on her.
+
+“There are some people who were like, ‘Oh wow, you’re homeless,’ and
+there’s always that one person who’s going to be like judgeful,”
+says Anshi. “It’s life. Life happens and even though I didn’t want this
+to happen to my family, I didn’t wish it to anyone else neither.”
+
+But homeless outreach advocates say more and more people are having the
+same experience — which is why cities in San Mateo and Santa Clara
+counties are launching new efforts to find, count and help people they
+call the hidden homeless.
+
+Sabrina Delgado - a homeless outreach team leader is helping a woman
+living out of her car in Redwood City get temporary housing in San Jose.
+Sabrina Delgado, a homeless outreach team leader, is helping a woman
+living out of her car in Redwood City get temporary housing in San Jose.
+(Beth Willon/KQED)
+
+Sabrina Delgado walks the streets in San Mateo County as a Homeless
+Outreach Team leader for LifeMoves, the organization that found
+temporary housing for the Aucars. She says it’s not easy to find the
+people they are trying to count.
+
+“Because they’re at work,” says Delgado. “So we can have a couple, and
+both are working minimum wage jobs. And so, even combining the two
+incomes together, they can’t make the rents in the Bay area.”
+
+Teachers, police or neighbors often refer people to groups like
+LifeMoves, says Brian Greenberg, vice president of programs and services
+for the nonprofit.
+
+“A second- or third-grader will go to their teacher because they have no
+ego and say, ‘We’re homeless, we’re living in a car,’ ” says Greenberg.
+
+Greenberg says there are more than 8,000 homeless people in Santa Clara
+and San Mateo
+<https://hsa.smcgov.org/sites/hsa.smcgov.org/files/2015%20SMC%20Homeless%20Count%20%20Final%20Report.pdf>counties,
+with San Jose
+<http://www.mercurynews.com/bay-area-news/ci_30070297/san-jose-council-oks-controversial-homeless-housing-project>having
+the largest homeless population. He expects the number of working
+homeless people to grow.
+
+“Service-sector jobs on the Peninsula and in Silicon Valley don’t pay
+that much more than other parts of the country, but the price of housing
+obviously is outstanding here,” says Greenberg.
+
+Aucar says that after working his entire adult life, he never thought he
+would wind up in temporary housing — much less sleeping in the family
+van or on a garage floor — with no guarantee of finding affordable
+housing again. LifeMoves is doing everything possible to place the
+family in permanent housing, but Aucar knows the family has a limited
+amount of time before they have to move on.
+
+“A little scared about what happens after we finish the program here.
+Where we are going to go?” says Aucar. “Are we going to end up in the
+car again?”
+
+For a man who tries to do everything right for his family, Aucar now
+knows how quickly the bottom can drop out.
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, San Mateo County
+<https://ww2.kqed.org/news/tag/san-mateo-county/>, Santa Clara County
+<https://ww2.kqed.org/news/tag/santa-clara-county/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/?share=email&nb=1>
+  *
+
+1 Comment
+<https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Homelessness More Complex Since San Jose Shut Down 'The Jungle'
+
+<http://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle>
+
+Profiteering Masquerades as Medical Care for Injured California Workers
+
+<http://ww2.kqed.org/news/2016/04/25/profiteering-masquerades-as-medical-care-for-injured-california-workers>
+
+Berkeley High Struggles With Illegal Student Enrollment
+
+<http://ww2.kqed.org/news/2014/04/23/berkeley-high-struggles-with-illegal-enrollment-by-students-not-living-in-the-distric/>
+
+Latest to Be Displaced in San Francisco's Tech Boom: Art Galleries
+
+<http://ww2.kqed.org/news/2014/02/24/art-galleries-displaced-amid-san-francisco-tech-boom>
+
+California Wheezing: Spike In Ozone Levels Causing Breathing Problems
+
+<http://ww2.kqed.org/news/2016/08/12/california-wheezing-spike-in-ozone-levels-causing-breathing-problems/>
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Beth Willon
+
+Beth Willon is a senior reporter for KQED's Silicon Valley News Desk in
+San Jose. (@KQEDNews )
+
+We cover more than technology from San Jose to the Peninsula.
+
+@BethWillon
+
+View all posts by this author <https://ww2.kqed.org/news/author/bwillon/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Selling Landlords on Formerly Homeless Tenants
+
+<https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/>
+Next Golden Gate Bridge Tolls Going Up by a Quarter on Friday
+
+<https://ww2.kqed.org/news/2016/06/30/golden-gate-bridge-tolls-going-up-by-a-quarter-on-friday/>
+
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

@@ -1,0 +1,605 @@
+KQED Menu
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Menu
+
+    <#>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Specials
+
+        <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED Arts <https://ww2.kqed.org/arts/>
+
+Search
+
+<#search-container>
+
+
+  KQED Arts Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Visual Arts <https://ww2.kqed.org/arts/category/visualarts/>
+
+
+  Homeless Blanket Project ‘Undercover’ Extends Long Past Super Bowl City
+
+blanketsposterimage	
+
+By Creo Noveno <https://ww2.kqed.org/arts/author/crnoveno/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=email&nb=1>
+*
+
+Super Bowl City’s a thing of the past, but San Francisco has been
+clearing streets of homeless encampments
+<http://ww2.kqed.org/news/2016/02/02/tent-cities-compete-with-super-bowl-city-for-attention>
+since the week-long event began. Yet, despite the city’s continuous
+efforts to push the homeless out of sight,
+<http://ww2.kqed.org/news/2016/06/22/san-francisco-to-vote-on-housing-not-tents-homelessness-measure>
+they’re still there.
+
+While local officials have their own ways of dealing it, San Francisco
+artist Annice Jacoby aimed to address the city’s homeless issue through
+her project Undercover <https://www.facebook.com/UndercoverSF/>, which
+started during February’s Super Bowl festivities. Jacoby and her team
+provided those living on the streets with blankets, seeking not only to
+provide warmth to those who needed it, but also to incite conversation
+and create visibility for a community that’s otherwise neglected
+<http://ww2.kqed.org/news/2016/03/09/mayor-lee-blasts-talk-of-homeless-crisis-and-calls-for-critics-to-aid-citys-efforts>.
+
+“Our goal is to use creativity to unite,” Jacoby says. “We’re making a
+visual statement, making a ceremony of care; it’s a mechanism to address
+this problem.”
+
+Families, friends and other community members came together at knitting
+circles held in two Mission stores, Praxis <https://missionpraxis.com/>
+and Alley Cat Books. <http://www.alleycatbookshop.com/> Those who came
+out would put together blankets that doubled as ponchos and distribute
+them in the weeks leading up to the Super Bowl.
+
+The project’s efforts gained national attention, with inquiries and
+notes of appreciation coming in from other states, according to
+Undercover’s Facebook page <https://www.facebook.com/UndercoverSF/>,
+which also provides patterns
+<https://www.facebook.com/UndercoverSF/posts/1029187463790582> for
+people hoping to make and distribute blankets themselves.
+
+“The whole idea was for people to feel like they’re making a difference
+through making garments and connecting with people when they distribute
+them,” says Ivan Vera, program manager at Hospitality House, which
+helped print the Undercover blankets. “The goal is to get in touch with
+those who are homeless and share their humanity – they’re not invisible
+people; they’re just less fortunate.”
+
+Jacoby has since gone on to speak about Undercover to different high
+schools along the Peninsula, hoping to engage students with the project,
+according to Txutxo Perez, one of the artists involved with the project.
+
+“Some kids helped distribute during the first part of the project and
+got really into it and wanted to bring the experience back to their
+schools,” Perez says.
+
+He says he believes bringing such experiences and information to the
+younger generation is a start, as they’ll be the ones making significant
+changes in the future.
+
+While the larger blanket project was mostly focused on the Super Bowl,
+Undercover has served as inspiration for smaller efforts: Praxis
+distributed Undercover hats back in March, and Perez says an artist
+friend of his in Greece started her own project that focuses on
+recycling lifesaver vests from people displaced by war into backpacks
+for them to use on further travels.
+
+Ultimately the goal of the project was to connect people —
+disenfranchised and not — and share each other’s humanity, and Vera says
+he believes Undercover did just that.
+
+“I hope the project has taught others to listen to people, have
+compassion, start understanding how one becomes homeless – we don’t want
+to lose that part of ourselves that make us human.”
+
+/Watch our report on the Undercover project during the Super Bowl:/
+
+Explore: News <https://ww2.kqed.org/arts/category/news/>, Visual Arts
+<https://ww2.kqed.org/arts/category/visualarts/>, video
+<https://ww2.kqed.org/arts/tag/video/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/?share=email&nb=1>
+  *
+
+0 Comments
+<http://ww2.kqed.org/arts/2016/06/29/homeless-blanket-project-undercover-extends-long-past-super-bowl-city/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Arts
+
+Artists Respond to City Sweep of Homeless for Super Bowl
+
+<http://ww2.kqed.org/arts/2016/02/06/artists-respond-to-city-sweep-of-homeless-for-super-bowl/>
+
+Super Bowl Art Project Pulls Back the Covers on Homelessness
+
+<http://ww2.kqed.org/arts/2016/01/21/superbowl-art-project-pulls-back-the-covers-on-homelessness/>
+
+Artists Take Path of Most ‘Resistance’ in Fight Against Displacement
+
+<http://ww2.kqed.org/arts/2016/05/19/artists-take-path-of-most-resistance-in-fight-against-displacement/>
+
+Pro Arts’ Executive Director Steps Down, Latest in Wave of Recent Art
+World Departures
+
+<http://ww2.kqed.org/arts/2015/05/27/pro-arts-executive-director-steps-down-latest-in-wave-of-recent-art-world-departures/>
+
+Spanish Surrealist Salvador Dalí the New Toast of Monterey
+
+<https://ww2.kqed.org/arts/2016/07/07/spanish-surrealist-salvador-dali-the-new-toast-of-monterey/>
+
+Homeless & Arts Org-Backed Measure Earns Place on Nov. Ballot
+
+<http://ww2.kqed.org/arts/2016/07/21/homeless-arts-org-backed-measure-earns-place-on-nov-ballot/>
+Powered by
+
+<https://contextly.com/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev #HeterosexualPrideDay Proves We Can’t Have Nice Things, Let Alone
+Hashtags
+
+<https://ww2.kqed.org/arts/2016/06/29/heterosexualprideday-proves-we-cant-have-nice-things-let-alone-hashtags/>
+Next Actor Alan Cumming Bares It All While Singing Sappy Songs
+
+<https://ww2.kqed.org/arts/2016/06/29/actor-alan-cumming-bares-it-all-while-singing-sappy-songs/>
+
+
+
+  About KQED Arts
+
+KQED Arts provides daily arts news, reviews and profiles for the San
+Francisco Bay Area.
+
+  * Contributors <http://ww2.kqed.org/arts/contributors/>
+  * Contact Us <mailto:arts@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+Funding for KQED Arts is provided by The William and Flora Hewlett
+Foundation <http://www.hewlett.org/>.
+
+The William and Flora Hewlett Foundation <http://www.hewlett.org/>
+
+Support is also provided by the Kenneth Rainin Foundation and the
+members of KQED.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  When you need an art fix!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

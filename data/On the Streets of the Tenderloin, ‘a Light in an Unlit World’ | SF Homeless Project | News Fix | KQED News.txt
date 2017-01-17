@@ -1,0 +1,702 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Two drawings hang at the San Francisco Night Ministry's headquarters,
+where head minister Lyle Beckman led volunteers in prayer before the
+night's crisis line opened and before he hit the streets.
+
+Two drawings hang at the San Francisco Night Ministry's headquarters,
+where head minister Lyle Beckman led volunteers in prayer before the
+night's crisis line opened and before he hit the streets. (/Natalie
+Yemenidjian/KQED/)
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  On the Streets of the Tenderloin, ‘a Light in an Unlit World’
+
+By Natalie Yemenidjian <https://ww2.kqed.org/news/author/nyemenidjian/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=email&nb=1>
+*
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+/Follow a night in the life <https://www.instagram.com/p/BHP180pDRFn/>of
+S.F. Night Minister Lyle Beckman on KQED News’s Instagram. /
+
+San Francisco Night Minister Lyle Beckman is sitting across from me at a
+saloon on Mission Street in San Francisco’s Bernal Heights. He sips on a
+club soda while we wait for drag king Kit Tapata to finish hosting the
+bar’s trivia night.
+
+Tapata, who’s dressed like Westley from “The Princess Bride
+<http://princessbrideforever.com/>,” points out Beckman to the crowd.
+
+“Behave,” Tapata orders. “There’s a father in the house.”
+
+As the bar’s attention turns his way, a woman sitting nearby draws
+closer to Beckman and he leans in. They talk about her late husband, a
+topic that punctuates their conversation about baseball, the differences
+between the West Coast and East Coast, and her past as a devout Catholic.
+
+“Oftentimes it’s under the influence of alcohol that I hear the stories
+of people that really want to share,” Beckman says.
+
+10:30 p.m.: Pastor Lyle Beckman, the SF Night Minister waits for drag
+king, Kit Tapata, to finish her trivia hosting duties at the 3300 Club
+to talk about flyers for an upcoming fundraising. Helping others costs
+money and the Night Ministry relies on folks like Tapata. As Pastor Lyle
+Beckman waits, bar goers approach him with stories of their childhood
+trauma, grief and faith. "Some people are so lonely and isolated that
+it's usually under the influence that I hear the stories that people
+really want to share," Beckman said. Beckman orders club sodas, but
+enjoys the community in local bars. As more neighborhood bars are priced
+out, he says the only people who talk to him at the new "sterile" spots
+are the bartenders. More than 70 percent of San Francisco's homeless
+lived in the city before they were homeless, according to the 2015
+Homeless Count.
+10:30 p.m.: Pastor Lyle Beckman, the S.F. Night Minister, waits for drag
+king Kit Tapata to finish her trivia hosting duties to talk about fliers
+for an upcoming fundraising. Helping others costs money and the Night
+Ministry relies on folks like Tapata. Beckman orders club sodas, but
+enjoys the community in local bars. As more neighborhood bars are priced
+out, he says the only people who talk to him at the new ‘sterile’ spots
+are the bartenders. (Natalie Yemenidjian/KQED)
+
+The Bay Area is one of the least churchgoing metro regions in the United
+States, according to a survey by the Barna Group
+<http://cities.barna.org/barna-cities-the-top-churchless-metro-areas/>,
+with 48 percent reporting they don’t attend church anymore and 14
+percent saying they’ve never gone to church at all.
+
+But Beckman, an ordained Lutheran minister, says church and religion
+aren’t about regular attendance at service.
+
+‘We could change this. But everybody waits for the city to do something.
+If we put our heads and hearts together, we can do something for these
+people sleeping on the streets.’ 
+The Rev. Lyle Beckman,
+San Francisco Night Ministry
+
+The S.F. Night Ministry holds what it calls open cathedrals
+<http://www.sfnightministry.org/joomla30/index.php/programs/open-cathedral>
+— outdoor services. Beckman says some of the people most in need of
+comfort are those who cannot stand in a room or be silent for an hour.
+
+“The real work of the church isn’t about what comes out of the
+archbishop’s office,” Beckman says. “It’s about what the church does
+feeding the hungry, sheltering the homeless, giving access to social
+services.”
+
+Minister Lyle Beckman points out where we are on an intricate mural
+depicting the ghosts of churches leaving the Tenderloin. With them often
+go services rendered to the poor and homeless in the area.
+Minister Lyle Beckman points out where we are on an intricate mural
+depicting the ghosts of churches leaving the Tenderloin. With them often
+go services rendered to the poor and homeless in the area. (Natalie
+Yemenidjian/KQED)
+
+In the Tenderloin, Beckman has noticed that at the beginning of each
+month, when folks get their Social Security or other assistance
+payments, there are fewer people on the streets than usual. But he is
+sure that he’s needed anyway. While other institutions may provide
+shelter, food and services, Beckman and the other night ministers may be
+out in the neighborhood all night, listening to, hugging and praying
+with the homeless and most vulnerable residents.
+
+“We could change this,” Beckman says, pointing down Turk Street. “But
+everybody waits for the city to do something. If we put our heads and
+hearts together, we can do something for these people sleeping on the
+streets.”
+
+Homelessness is part of the landscape, with a 2015 city count showing
+that 60 percent of those living without shelter in the city were found
+in the Tenderloin and South of Market.
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*sfproject3
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+Beckman ponders what change will bring to the neighborhood.
+
+“I wonder often, what’s the future of the Tenderloin? Will it lose its
+character?” said Beckman.
+
+There is no shortage of character in front of Aunt Charlie’s Lounge, a
+gay bar on Turk. Outside on the sidewalk, a local named Tim Haley has
+set up a grill and the aroma of barbecue permeates the air. He sells
+sausage links, ribs, chicken and other favorites to bar patrons and his
+Tenderloin regulars.
+
+
+After popping in to the Tenderloin’s legendary Aunt Charlie’s on the
+corner of Turk Street and Taylor Street, a woman asks the pastor: “He
+has a purple aura, doesn’t he?” referring to Tim Haley (right) who
+barbecues and sells sausage links, ribs, chicken and other meats for bar
+patrons and Tenderloin regulars. For $6, Haley gave her enough meat for
+her and her friends to have a good dinner. (Natalie Yemenidjian/KQED)
+
+‘He has a purple aura, doesn’t he?” a woman asks, referring to Haley.
+
+Beckman stops to check out the aura and waves his hands in the air as if
+to outline the purple glow.
+
+The woman looks at Beckman for a moment, realizing he’s a man of the
+cloth. She asks him if people who kill themselves go to hell. She
+explains her brother had taken his own life. Beckman softly explains
+that his God is one of forgiveness and compassion.
+
+“No one is going to hell tonight,” he says.
+
+
+A homeless woman asks the pastor to pray for her husband and dog, who
+she says had both been stabbed a few days earlier. He comforts her and
+says he’ll pray for all of them. For Pastor Beckman, this corner is
+ground zero.
+
+ 
+
+Tim Haley says he’s a recovering addict who used to be homeless.
+
+“I fell a long way back,” Haley says. He used to work at an apartment
+building around the corner. When they fired everyone, he went on a
+downward spiral, but found his way back.
+
+“I thought I never would get out of that stuff,” he says.
+
+Tim Haley who used to be homeless and addicted to drugs, but turned his
+life around and now hands out food to folks who needs it and takes
+donations to pay for more meat.
+Tim Haley, who used to be homeless and addicted to drugs, turned his
+life around and now hands out food to folks who needs it and takes
+donations to pay for more meat. (Natalie Yemenidjian/KQED)
+
+Beckman has a striking presence as he walks through the Tenderloin.
+While most of us, conditioned by “mean world syndrome” and a thousand
+other anxieties, might put on some kind of psychic armor, Beckman seems
+unguarded in his exchanges with people on the street. He’s affectionate,
+but not overbearing. His 6-foot-4-inch frame, draped in black, is
+somehow more comforting than intimidating.
+
+As we walk down Turk Street, there is no one that Beckman will not stop for.
+
+A man calls out to him from his seat on the pavement: “You’re the light
+in this unlit world. Thanks for being out here.”
+
+Explore: News <https://ww2.kqed.org/news/category/news/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>, Instagram
+<https://ww2.kqed.org/news/tag/instagram/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/?share=email&nb=1>
+  *
+
+1 Comment
+<https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+An Oakland 9-Year-Old, Shot and Paralyzed, Struggles to Return to School
+
+<http://ww2.kqed.org/news/2015/04/28/an-oakland-9-year-old-shot-and-paralyzed-struggles-to-return-to-school>
+
+Mean Street in S.F.'s Tenderloin Will Get a Bicycle-Friendly 'Road Diet'
+
+<http://ww2.kqed.org/news/2016/05/20/mean-street-in-s-f-s-tenderloin-will-get-a-bicycle-friendly-road-diet/>
+
+Forgotten Names: Annual San Francisco Gathering Honors Homeless Dead
+
+<http://ww2.kqed.org/news/dozens_gather_for_deceased_homeless>
+
+Nation's First Library Social Worker Helps Give Hope to the Homeless
+
+<http://ww2.kqed.org/news/2014/04/11/nations-first-library-social-worker-helps-give-hope-to-the-homeless>
+
+The Rev. Otis Charles Remembered as Gay Rights Advocate
+
+<http://ww2.kqed.org/news/2014/01/02/bishop-otis-charles-gay-rights-advocate>
+
+At the Corner of Power and Poverty
+
+<http://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Natalie Yemenidjian
+
+Natalie Yemenidjian is an on-call producer for KQED and multimedia
+reporter.  She studied journalism and urban planning and studies at San
+Francisco State University.
+
+View all posts by this author
+<https://ww2.kqed.org/news/author/nyemenidjian/>
+
+
+  Post navigation
+
+Prev A White Ally Finds Her Voice
+
+<https://ww2.kqed.org/news/2016/06/29/standing-up-for-racial-equality-literally-a-white-ally-finds-her-voice/>
+Next New Music From DJ Shadow and the Dead Ships
+
+<https://ww2.kqed.org/news/2016/06/30/new-music-from-dj-shadow-and-the-dead-ships/>
+
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+
+
+  Get the facts!
+
+Close
+
+:)

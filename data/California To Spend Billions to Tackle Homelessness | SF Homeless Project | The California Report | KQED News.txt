@@ -1,0 +1,655 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  California To Spend Billions to Tackle Homelessness
+
+LOS ANGELES, CA - FEBRUARY 28: Homeless people rest on a public sidewalk
+February 28, 2013 in downtown skid row area of Los Angeles, California.
+
+Homeless people rest on a public sidewalk on Feb. 28, 2013, in downtown
+Skid Row area of Los Angeles. (/Kevork Djansezian/Getty Images/)
+
+By Katie Orr <https://ww2.kqed.org/news/author/korr/>
+<http://twitter.com/1katieorr>
+June 28, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=email&nb=1>
+*
+
+California has more than 115,000 homeless people
+<https://www.hudexchange.info/resources/documents/2015-AHAR-Part-1.pdf>,
+many suffering from some kind of mental illness. This week the state
+Legislature is acting on a $2 billion bond
+<http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB1618> that
+would help get many of them off the streets. The state Senate approved
+the bond yesterday, the Assembly is expected to take it up later this week.
+
+People like Angelina Washington. She is homeless and currently lives in
+a long-term shelter for women with mental illnesses at Sacramento’s
+Loaves & Fishes <http://www.sacloaves.org/>. That’s a nonprofit that
+provides services to the homeless. Washington has a simple wish, if she
+ever has her own apartment.
+
+“To sleep in when I want,” she says. “We can’t sleep in over there at
+the shelter. We have to get up at 6:30 and we have to be out by 8.”
+
+Because she’s been homeless for so long and suffers from mental illness,
+Washington could potentially benefit from the proposed bond. It would
+make $2 billion available to California counties over several years to
+create permanent supportive housing for people like her. The bond would
+be paid for with funds from Proposition 63 <http://prop63.org/>, which
+provides money for mental health services.
+
+Joan Burke is director of advocacy at Loaves & Fishes. She says the
+money would help expand programs that have already proved successful.
+
+“We do know what works. And we do have good programs that are helping
+people get out of homelessness much more quickly,” she says. “We just
+don’t have enough of them.”
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*
+
+sfproject3 <http://ww2.kqed.org/news/series/sf-homeless-project>
+
+Senate President pro tempore Kevin de León started thinking about the
+bill last fall after taking a tour of Skid Row in Los Angeles. Counties
+already provide various services to the homeless. But de León says
+having a home is key to helping a person get stable.
+
+“You just cannot provide psychotherapeutic services or substance abuse
+therapeutic services and expect them to go back and live in a cardboard
+box in an alley or adjacent to an off-ramp,” he says. “It’s nonsensical.
+It’s illogical. And you’re wasting money.”
+
+Jennifer Wolch is dean of UC Berkeley’s College of Environmental Design
+and studies homelessness. She says housing-first approaches have been
+extremely successful. She acknowledges the strategy is initially
+expensive, but says it’s a good investment.
+
+“Ultimately it costs taxpayers more money to leave people on the
+streets,” she says.
+
+Wolch does foresee some challenges, specifically where the housing will
+be built. She says neighborhoods tend to push back when low-income
+housing or other services are proposed nearby.
+
+“There’s a lot of resistance that needs to be dealt with,” she says.
+“And I think that some of it has to be legislated in terms of not
+allowing communities to zone out or, in various other ways, exclude
+these kinds of facilities.”
+
+Money from the bond could be awarded as early as this fiscal year, which
+begins in July.
+
+California voters have supported large housing bonds in the
+past, including a $2.1 billion bond in 2002
+<https://ballotpedia.org/California_Proposition_46,_Bonds_for_Housing_Projects_(2002)> and
+a $2.9 billion bond in 2006
+<https://ballotpedia.org/California_Proposition_1C,_Bonds_for_Housing_(2006)> for
+overall housing programs. In 2014, voters approved $600 million for
+veterans’ housing
+<https://ballotpedia.org/California_Proposition_41,_Veterans_Housing_and_Homeless_Prevention_Bond_(2014)>.
+
+
+Explore: Economy <https://ww2.kqed.org/news/category/economy/>, Law and
+Justice <https://ww2.kqed.org/news/category/law-and-justice/>, News
+<https://ww2.kqed.org/news/category/news/>, Politics and Government
+<https://ww2.kqed.org/news/category/politics-and-government/>, budget
+2016 <https://ww2.kqed.org/news/tag/budget-2016/>, California
+Legislature <https://ww2.kqed.org/news/tag/california-legislature/>,
+homelessness <https://ww2.kqed.org/news/tag/homelessness/>, mental
+illness <https://ww2.kqed.org/news/tag/mental-illness/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/?share=email&nb=1>
+  *
+
+2 Comments
+<https://ww2.kqed.org/news/2016/06/28/california-to-spend-billions-to-tackle-homelessness/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+California Lawmakers Propose $2 Billion Plan to Aid Homeless
+
+<http://ww2.kqed.org/news/2016/01/05/california-lawmakers-propose-2-billion-plan-to-aid-homeless>
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+
+The Cost of a Seat: California Legislators Raise More than $1,000 a Day
+
+<http://ww2.kqed.org/news/2015/06/24/lawmakers-raise-big-money-for-california-legislature-seats/>
+
+With Few Places Left to Go, Southland's Homeless Often End Up on L.A.'s
+Skid Row
+
+<http://ww2.kqed.org/news/2015/10/29/with-few-places-left-to-turn-southlands-homeless-often-end-up-on-l-a-s-skid-row>
+
+Albany Struggles with Homelessness at the Bulb, Faces Lawsuits
+
+<http://ww2.kqed.org/news/2014/01/02/122424/albany-homnelessness-lawsuits>
+
+Thousands Participate in L.A. County Homeless Count
+
+<http://ww2.kqed.org/news/2015/01/30/thousands-participate-in-l-a-county-homeless-count>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Katie Orr
+
+Katie Orr is a Sacramento-based reporter for KQED's Politics and
+Government  Desk, covering the state Capitol and a variety of issues
+including women in politics, voting and elections and legislation. Prior
+to joining KQED in 2016, Katie was state government reporter for Capital
+Public Radio in Sacramento. She's also worked for KPBS in San Diego,
+where she covered City Hall.
+
+Katie received her masters degree in political science from San Diego
+State University and holds a Bachelors degree in broadcast journalism
+from Arizona State University.
+
+In 2015 Katie won a national Clarion Award for a series of stories she
+did on women in California politics. She's been honored by the Society
+for Professional Journalists and, in 2013, was named by /The Washington
+Post/ as one of the country's top state Capitol reporters.   She's
+also reported for the award-winning documentary series /The View from
+Here /and was part of the team that won  national PRNDI and  Gabriel
+Awards in 2015. She lives in Sacramento with her husband. Twitter:
+@1KatieOrr
+
+View all posts by this author <https://ww2.kqed.org/news/author/korr/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Another Gas Leak on Haight Street Months After Troubled Project
+Resumes
+
+<https://ww2.kqed.org/news/2016/06/27/another-gas-leak-on-haight-street-months-after-troubled-project-resumes/>
+Next Persistence, Community Support Help S.F. Neighborhood Fight
+Homelessness
+
+<https://ww2.kqed.org/news/2016/06/28/persistence-community-support-help-san-francisco-neighborhood-fight-homelessness/>
+
+
+
+  About The California Report
+
+The California Report provides daily coverage of news and culture
+throughout the state.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact <https://ww2.kqed.org/news/contact-the-california-report/>
+  * Tune In <https://ww2.kqed.org/news/tune-in/>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Support for The California Report is Provided By
+
+  * Eric and Wendy Schmidt <http://www.theschmidt.org/>
+  * The California Endowment <http://www.calendow.org/>
+  * California HealthCare Foundation <http://www.chcf.org/>
+  * Rowbotham <http://www.rowbotham.com/>
+  * The Westly Foundation <http://www.westly.org/> 
+
+
+
+  * The James Irvine Foundation <http://www.irvine.org/>
+  * Barracuda Networks <https://www.barracuda.com/>
+  * Blach Construction <http://www.blach.com/>
+  * Digital Foundry <http://www.digitalfoundry.com/>
+  * Wharton San Francisco <http://sf.wharton.upenn.edu/> 
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

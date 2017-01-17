@@ -1,0 +1,1504 @@
+  * <http://www.sfgate.com/>
+  * Autos <http://www.sfgate.com/cars/>
+  * Jobs <http://www.sfgate.com/jobs/>
+  * Real Estate <http://www.sfgate.com/realestate/>
+  *
+
+    <http://weather.sfgate.com/US/CA/San_Francisco.html>
+    <http://weather.sfgate.com/US/CA/San_Francisco.html>
+
+  * e-edition <http://www.sfchronicle.com/e-edition/>
+  * Subscribe <http://www.sfchronicle.com/subscribe>
+  *
+    Sign In
+
+
+     
+
+
+              Sign in using
+
+
+                or
+
+    Email Address or Password is incorrect.
+
+    Email address field is required.
+
+    Password field is required.
+    Show password
+    Forgot password? <javascript:void(0)>
+    Keep me signed in
+
+
+    Don't have a profile?
+
+
+                Don't have a subscription?
+
+    Sign up <javascript:void(0)> Subscribe
+
+    <http://www.sfchronicle.com/subscribe/>
+
+    By signing in, you agree to our Terms of Service
+    <http://www.sfchronicle.com/terms_of_use/> and Privacy Policy
+    <http://www.sfchronicle.com/privacy_policy/>.
+
+<http://www.sfchronicle.com/>
+
+
+  Local <http://www.sfchronicle.com/local/>
+
+  *
+    Home <http://www.sfchronicle.com/>
+  *
+    SFGATE <http://www.sfgate.com/>
+  *
+    Local <http://www.sfchronicle.com/local/>
+      o
+        Pot legalization
+        <http://www.sfchronicle.com/pot-legalization/>
+      o
+        Columnists
+        <http://www.sfchronicle.com/local/columnists/>
+      o
+        San Francisco
+        <http://www.sfchronicle.com/local/sanfrancisco/>
+      o
+        Bay Area
+        <http://www.sfchronicle.com/local/bayarea/>
+      o
+        Crime
+        <http://www.sfchronicle.com/local/crime/>
+      o
+        Environment
+        <http://www.sfchronicle.com/local/environment/>
+      o
+        Election 2016
+        <http://www.sfchronicle.com/election/2016/>
+      o
+        Health
+        <http://www.sfchronicle.com/lifestyle/health/>
+      o
+        Obituaries
+        <http://www.legacy.com/obituaries/sfgate/>
+      o
+        California Drought
+        <http://www.sfchronicle.com/drought/>
+  *
+    US & World <http://www.sfchronicle.com/us-world/>
+      o
+        US
+        <http://www.sfchronicle.com/us-world/us/>
+      o
+        World
+        <http://www.sfchronicle.com/us-world/world/>
+      o
+        Politics & Policy
+        <http://www.sfchronicle.com/us-world/politics-policy/>
+      o
+        Environment
+        <http://www.sfchronicle.com/us-world/environment/>
+      o
+        Science
+        <http://www.sfchronicle.com/us-world/science/>
+  *
+    Sports <http://www.sfchronicle.com/sports/>
+      o
+        49ers
+        <http://www.sfchronicle.com/sports/49ers/>
+      o
+        Raiders
+        <http://www.sfchronicle.com/sports/raiders/>
+      o
+        Giants
+        <http://www.sfchronicle.com/sports/giants/>
+      o
+        A's
+        <http://www.sfchronicle.com/sports/athletics/>
+      o
+        Warriors
+        <http://www.sfchronicle.com/sports/warriors/>
+      o
+        Cal
+        <http://www.sfchronicle.com/cal_sports/>
+      o
+        College
+        <http://www.sfchronicle.com/sports/college/>
+      o
+        Stanford
+        <http://www.sfchronicle.com/stanford_sports/>
+      o
+        Sharks
+        <http://www.sfchronicle.com/sports/sharks/>
+      o
+        High School
+        <http://www.sfchronicle.com/sports/high-school/>
+      o
+        More Sports
+        <http://www.sfchronicle.com/sports/other/>
+  *
+    Biz & Tech <http://www.sfchronicle.com/business/>
+      o
+        VisionSF
+        <http://www.sfchronicle.com/visionsf>
+      o
+        Technology
+        <http://www.sfchronicle.com/business/technology/>
+      o
+        Real Estate
+        <http://www.sfchronicle.com/business/realestate/>
+      o
+        Driving the future
+        <http://www.sfchronicle.com/drivingthefuture/>
+      o
+        Markets
+        <http://www.sfchronicle.com/business/markets/>
+  *
+    Opinion <http://www.sfchronicle.com/opinion/>
+      o
+        Editorials
+        <http://www.sfchronicle.com/opinion/editorials/>
+      o
+        Letters to the editor
+        <http://www.sfchronicle.com/opinion/letters-editor/>
+      o
+        Op-ed columns
+        <http://www.sfchronicle.com/opinion/op-ed-columns/>
+      o
+        Insight
+        <http://www.sfchronicle.com/opinion/insight/>
+      o
+        Open Forum
+        <http://www.sfchronicle.com/openforum/>
+      o
+        Submit your opinions
+        <http://www.sfchronicle.com/opinion/article/submit-your-opinion-7244189.php?t=3678db0449>
+
+  *
+    Style <http://www.sfchronicle.com/style/>
+      o
+        Scene
+        <http://www.sfchronicle.com/style/scene/>
+      o
+        Fashion
+        <http://www.sfchronicle.com/style/fashion/>
+      o
+        Shopping
+        <http://www.sfchronicle.com/style/shopping/>
+      o
+        Weddings
+        <http://www.sfchronicle.com/style/weddings/>
+      o
+        Top Shops 2016
+        <http://www.sfchronicle.com/top-shops-2016/>
+  *
+    Food+Home <http://www.sfchronicle.com/foodandhome/>
+      o
+        Restaurants
+        <http://www.sfchronicle.com/foodandhome/restaurants/>
+      o
+        Wine & Beer
+        <http://www.sfchronicle.com/foodandhome/wine/>
+      o
+        Recipes
+        <http://www.sfchronicle.com/foodandhome/recipes/>
+      o
+        Cook Your Week
+        <http://www.sfchronicle.com/cookyourweek/>
+      o
+        Top 100 Restaurants
+        <http://www.sfchronicle.com/top100restaurants>
+      o
+        Home Design
+        <http://www.sfchronicle.com/foodandhome/home-design/>
+      o
+        Habitat
+        <http://digital.olivesoftware.com/Olive/ODN/Habitat/default.aspx>
+  *
+    A&E <http://www.sfchronicle.com/entertainment/>
+      o
+        Movies & TV
+        <http://www.sfchronicle.com/entertainment/movies-tv/>
+      o
+        Arts & Theater
+        <http://www.sfchronicle.com/entertainment/arts-theater/>
+      o
+        Music
+        <http://www.sfchronicle.com/entertainment/music/>
+      o
+        Music Festivals Guide
+        <http://www.sfchronicle.com/music-festivals/>
+      o
+        Books
+        <http://www.sfchronicle.com/entertainment/books/>
+      o
+        Bad Reporter
+        <http://www.sfchronicle.com/badreporter/>
+      o
+        Horoscopes
+        <http://www.sfgate.com/horoscope/>
+      o
+        Comics
+        <http://www.sfchronicle.com/comics/>
+      o
+        Games
+        <http://www.sfgate.com/games>
+      o
+        Movie Listings
+        <http://www.sfgate.com/cgi-bin/movies/listings/search>
+      o
+        SFMOMA
+        <http://www.sfchronicle.com/sfmoma/>
+      o
+        Leah Garchik
+        <http://www.sfchronicle.com/author/leah-garchik/>
+      o
+        Best of Jon Carroll
+        <http://www.sfchronicle.com/bestofjoncarroll/>
+      o
+        The Literary City
+        <http://www.sfchronicle.com/theliterarycity/>
+  *
+    Lifestyle <http://www.sfchronicle.com/lifestyle/>
+      o
+        Style
+        <http://www.sfchronicle.com/style>
+      o
+        Health
+        <http://www.sfchronicle.com/lifestyle/health/>
+      o
+        Outdoors
+        <http://www.sfchronicle.com/lifestyle/outdoors/>
+      o
+        Travel
+        <http://www.sfchronicle.com/lifestyle/travel/>
+      o
+        Tops Shops 2016
+        <http://www.sfchronicle.com/top-shops-2016/>
+  *
+    Photos <http://www.sfchronicle.com/thetake/>
+      o
+        From the Archive
+        <http://www.sfchronicle.com/thetakefromthearchive/>
+      o
+        Photos of the Week
+        <http://www.sfchronicle.com/thetakepotw/>
+      o
+        City Exposed
+        <http://www.sfchronicle.com/takecityexposed/>
+      o
+        Field of Vision
+        <http://www.sfchronicle.com/fieldofvision/>
+      o
+        The Regulars
+        <http://www.sfchronicle.com/theregulars/>
+  *
+    Travel <http://www.sfchronicle.com/lifestyle/travel/>
+  *
+    In-Depth <http://www.sfchronicle.com/special-reports/>
+      o
+        Beyond Homelessness
+        <http://projects.sfchronicle.com/sf-homeless/>
+      o
+        Top 100 Restaurants
+        <http://www.sfchronicle.com/top100restaurants>
+      o
+        AIDS Survivors
+        <http://projects.sfchronicle.com/2016/living-with-aids/>
+      o
+        Chronicle Covers
+        <http://www.sfchronicle.com/covers/>
+      o
+        The Najee Chronicles
+        <http://projects.sfchronicle.com/2016/najee-harris/>
+      o
+        Seafood's new normal
+        <http://projects.sfchronicle.com/2016/california-seafood-collapse/>
+      o
+        Rising sea levels
+        <http://projects.sfchronicle.com/2016/sea-level-rise/>
+      o
+        Bar Stars 2016
+        <http://www.sfchronicle.com/food/article/Bar-Stars-2016-A-drink-for-everyone-9984049.php>
+
+      o
+        Lucas Museum art
+        <http://projects.sfchronicle.com/2016/lucas-art/>
+      o
+        Captive Lives
+        <http://projects.sfchronicle.com/2016/captive-lives/>
+      o
+        Airbnb Project 2016
+        <http://projects.sfchronicle.com/2016/airbnb/>
+      o
+        NorCal Brewery Map
+        <http://www.sfchronicle.com/brewerymap/>
+      o
+        Our SF: Archive
+        <http://www.sfchronicle.com/oursf/>
+  *
+    Membership <http://www.sfchronicle.com/membership/>
+      o
+        About Membership
+        <http://www.sfchronicle.com/membership/faq/>
+      o
+        Exclusive offers
+        <http://www.sfchronicle.com/membership/#offers>
+      o
+        Join Now
+        <http://www.sfchronicle.com/subscribe/?ipid=membership>
+      o
+        Manage my account
+        <http://www.sfchronicle.com/account>
+      o
+        Archive
+        <http://www.sfchronicle.com/archive/>
+  *
+    Store <https://sfchronicle.myshopify.com/>
+
+
+    Mark Farrell’s ‘Housing Not Tents’ measure likely to hit home
+
+By C.W. Nevius <http://www.sfchronicle.com/author/c-w-nevius/>
+
+June 27, 2016 Updated: June 27, 2016 4:25pm
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfchronicle.com/bayarea/nevius/article/Mark-Farrell-s-Housing-Not-Tents-measure-8328205.php#comments>
+
+    94
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Tent dwellers would be given 24-hour eviction notices and a place to
+relocate under Supervisor Mark Farrell’s plan. Photo: Lea Suzuki, The
+Chronicle
+Photo: Lea Suzuki, The Chronicle
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <#comments>
+    94
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Tent dwellers would be given 24-hour eviction notices and a place to
+relocate under Supervisor Mark Farrell’s plan.
+Tent dwellers would be given 24-hour eviction notices and a place...
+
+San Francisco Supervisor Mark Farrell and his “Housing Not Tents”
+initiative for the November ballot have become a political lightning rod.
+
+Granted, the specifics are a little vague. The plan calls for the city
+to give tent dwellers 24-hour notices before they are forced to move —
+and also a place for them to move to. It’s one of those flagship
+measures that all but guarantees a faceoff between the moderates and
+progressives. Farrell says the point of the measure is to move the
+homeless out of tents and into housing.
+
+But, as we’ve seen, at present we don’t have enough rooms or shelters
+for all the homeless on the street.
+
+Still, the measure is bound to resonate with homeowners and
+businesspeople who have had it with campers peeing on the street and
+leaving hypodermic needles on the sidewalks.
+
+There’s an excellent chance it’ll pass. An informal poll of more than
+500 people by Curbed SF found that 86.2 percent backed a law against
+sidewalk camping. A lopsided result like that will energize and
+encourage moderate politicians to promote more forceful efforts to close
+down encampments.
+
+That possibility has energized activist groups that are demanding that
+Farrell pull the legislation from the ballot. Causa Justa and the
+Western Regional Advocacy Project are publishing office phone numbers of
+moderate supervisors and urging people to call and make a “criminalizing
+the homeless” complaint, according to a Causa Justa flyer.
+
+Angela Flax, who is homeless, packs her tent at the Division Street
+encampment in February with the help of friend Jeremy Young of
+Sacramento. In March, the city evicted people camping on Division
+Street. Photo: Lea Suzuki, The Chronicle
+Photo: Lea Suzuki, The Chronicle
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <#comments>
+    94
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Angela Flax, who is homeless, packs her tent at the Division Street
+encampment in February with the help of friend Jeremy Young of
+Sacramento. In March, the city evicted people camping on Division Street.
+Angela Flax, who is homeless, packs her tent at the Division Street...
+
+Farrell posted the bill on his Facebook page Wednesday. Five days later,
+he had more than 400 “likes,” more than 130 “angry” clicks and 350-plus
+comments, ranging from calling Farrell “a selfish, entitled,
+inconsiderate —hole” to “All those people who are sad can house one
+homeless person in their home.”
+
+Meanwhile, in City Hall, Supervisor John Avalos has invoked what
+opponents are calling “the nuclear option.” Avalos is threatening to
+organize progressives to vote against a sales tax on the fall ballot
+that each year would contribute $100 million to transportation and $50
+million to homelessness. Over 25 years, Farrell says, that would work
+out to $1.25 billion for homeless issues.
+
+Avalos declined to be interviewed, but directed me to his Facebook page.
+
+Supervisors Farrell, Scott Wiener, Katy Tang, Malia Cohen and Mayor Ed
+Lee, Avalos wrote, “have to ask themselves if they are willing to forgo
+revenue for homelessness so they can put a vile political measure on the
+ballot targeting homeless people, living in tents with no where else to
+go, as campaign fodder.”
+
+To which Farrell replied, “If Supervisor Avalos wants his legacy ... to
+be voting against an additional $1.25 billion in spending to help our
+homeless get off the street over the next 25 years, that’s his decision
+to make.”
+
+*Boo who?* The fuss at the annual Trans March on Friday was just
+pointless venting — and weird. Mayor Ed Lee, state Sen. Mark Leno and
+Supervisor Scott Wiener were heckled and booed at the Dolores Park event.
+
+Booing the mayor, of course, has become a thing.
+
+
+        C.W. Nevius on the homeless
+
+  *
+    This homeless encampment on Essex Street has a tent, bike and
+    leather armchair
+    <http://www.sfchronicle.com/bayarea/nevius/article/The-homeless-camp-just-outside-the-door-8109886.php>
+
+    The homeless camp just outside the door
+    <http://www.sfchronicle.com/bayarea/nevius/article/The-homeless-camp-just-outside-the-door-8109886.php>
+
+  *
+    Linda Williams (left) and Haile Tillery talk beside a row of tents
+    near Folsom and 16th streets in San Francisco, California, on
+    Sunday, May 22, 2016.
+    <http://www.sfchronicle.com/bayarea/nevius/article/Sidewalk-campsites-frustrate-neighbors-city-7940982.php>
+
+    Sidewalk campsites frustrate neighbors, city leaders
+    <http://www.sfchronicle.com/bayarea/nevius/article/Sidewalk-campsites-frustrate-neighbors-city-7940982.php>
+
+  *
+    Vivian Cook of San Francisco walks past tents pitched along Florida
+    Street at 16th Street on Friday, April 29, 2016 in San Francisco,
+    California. "It's the criminal activity, I have a problem with; I
+    don't have a problem with the homeless. It's very sad," said Kirsty
+    Gumina (not shown), owner McCall Catering and Events, who explained
+    that there had been other homeless who were living on the street
+    outside her business but that there wasn't the criminal activity
+    that there is now. "There are only two tents today because they just
+    made them move. We're a catering company, we used to feed them. Now
+    there are car break-ins, hardcore drug use, fighting. I'll walk by
+    and see them shooting up right next to the day care center. It's
+    become unpredictable and not safe."
+    <http://www.sfchronicle.com/bayarea/nevius/article/SF-supe-s-plan-for-homeless-camps-a-template-7384553.php>
+
+    SF supe’s plan for homeless camps a template for chaos
+    <http://www.sfchronicle.com/bayarea/nevius/article/SF-supe-s-plan-for-homeless-camps-a-template-7384553.php>
+
+  *
+    Papa Smirf (center) carries some of his belongings down the 13th
+    Street as he prepares to move from his tent on 13th Street to Pier
+    80 with help from the San Francisco Homeless Outreach Team on
+    Thursday, February 25, 2016 in San Francisco, California.
+    <http://www.sfchronicle.com/bayarea/nevius/article/Help-the-homeless-by-prioritizing-certain-groups-6857263.php>
+
+    Help the homeless by prioritizing certain groups
+    <http://www.sfchronicle.com/bayarea/nevius/article/Help-the-homeless-by-prioritizing-certain-groups-6857263.php>
+
+
+But Wiener and Leno, both gay, have surely earned bonus points with the
+transgender community over the years. As Leno said at the event, he
+pushed to add gender identity to the Fair Employment Housing Act.
+
+Wiener not only attends the march annually, this year he managed to get
+money in the city budget to pay for the fees and permits for the Trans
+March.
+
+No matter. Each was singled out for heckling. Leno called Monday to say
+he even confronted some of the demonstrators and asked them what their
+issues are.
+
+“Do you know who I am?” Leno asked one of the hecklers.
+
+“No, and I don’t want to,” was the reply.
+
+“It’s not rational,” Leno said. “It’s all emotional.”
+
+*Poignant:* Just a reminder that, although it’s easy to rant about the
+lack of progress and understanding for the LBGT community, we’ve come a
+long way. Golden State Warriors President Rick Welts, the first openly
+gay top-level executive in men’s professional sports, was the keynote
+speaker Sunday at the annual Alice B. Toklas Breakfast before the Pride
+Parade.
+
+He told the story of being a closeted gay man in a committed
+relationship in the 1990s.
+
+“I lost my partner of 17 years to AIDS,” he said. “And I had to go into
+work the next day because I couldn’t tell anyone.”
+
+//
+
+/C.W. Nevius is a San Francisco Chronicle columnist. His columns appear
+Tuesday, Thursday and Saturday. Email: cwnevius@sfchronicle.com
+<mailto:cwnevius@sfchronicle.com> Twitter: @cwnevius
+<http://twitter.com/cwnevius>/
+
+//
+
+C.W. Nevius
+
+
+    C.W. Nevius <http://www.sfchronicle.com/author/c-w-nevius/>
+
+Columnist
+
+You must be signed in to comment
+
+is currently signed inSign In
+
+<javascript:void(0)> <javascript:void(0)>
+
+
+ 
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password? <javascript:void(0)>
+Keep me signed in
+
+
+Don't have a profile?
+
+
+            Don't have a subscription?
+
+Sign up <javascript:void(0)> Subscribe
+
+<http://www.sfchronicle.com/subscribe/>
+
+By signing in, you agree to our Terms of Service
+<http://www.sfchronicle.com/terms_of_use/> and Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+        Local <http://www.sfchronicle.com/local/>
+
+A woman walks past the Forest Hill Christian Church on Laguna Honda
+Boulevard in San Francisco, Calif. on Tuesday, Nov. 15, 2016. Residents
+are unhappy with a proposed plan to build 150 units of affordable senior
+housing on the site.
+<http://www.sfchronicle.com/bayarea/article/In-a-wealthy-SF-neighborhood-residents-fight-10617213.php>
+
+
+
+    In a wealthy SF neighborhood, residents fight low-income housing
+    <http://www.sfchronicle.com/bayarea/article/In-a-wealthy-SF-neighborhood-residents-fight-10617213.php>
+
+
+        Politics & policy
+        <http://www.sfchronicle.com/local/politics-policy/>
+
+UNITED STATES - SEPTEMBER 29: House Minority Leader Nancy Pelosi,
+D-Calif., holds her weekly press conference in the Capitol on Thursday,
+Sept. 29, 2016. (Photo By Bill Clark/CQ Roll Call)
+<http://www.sfchronicle.com/politics/article/Will-Pelosi-take-the-fall-for-Democratic-Party-10617055.php>
+
+
+
+    Will Pelosi take the fall for Democratic Party failures?
+    <http://www.sfchronicle.com/politics/article/Will-Pelosi-take-the-fall-for-Democratic-Party-10617055.php>
+
+
+        Wine & Beer <http://www.sfchronicle.com/foodandhome/wine/>
+
+People sample wines at an In Pursuit of Balance event at the Millennium
+Tower in San Francisco, Calif. on Monday, Nov. 14, 2016. This was the
+last wine tasting event put on by In Pursuit of Balance.
+<http://www.sfchronicle.com/wine/article/In-Pursuit-of-Balance-wine-group-calls-it-quits-10616178.php>
+
+
+
+    In Pursuit of Balance wine group calls it quits with last tasting
+    <http://www.sfchronicle.com/wine/article/In-Pursuit-of-Balance-wine-group-calls-it-quits-10616178.php>
+
+
+        Top 100 Restaurants
+        <http://projects.sfchronicle.com/2016/top-100-restaurants/>
+
+<http://projects.sfchronicle.com/2016/top-100-restaurants/>
+
+
+    Top 100 Restaurants 2016: Savor Bay Area's best
+    <http://projects.sfchronicle.com/2016/top-100-restaurants/>
+
+<http://www.sfchronicle.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php>
+
+
+
+      7:25 PMMan, 20, shot near Dolores Park
+      <http://www.sfchronicle.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php>
+
+<http://www.sfchronicle.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+
+
+      7:06 PMTwo shot during brawl at Berkeley's Strawberry Creek Park
+      <http://www.sfchronicle.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+<http://www.sfchronicle.com/bayarea/article/UC-Berkeley-responds-to-student-demands-in-10619436.php>
+
+
+
+      6:01 PMUC Berkeley responds to student demands in harassment case
+      <http://www.sfchronicle.com/bayarea/article/UC-Berkeley-responds-to-student-demands-in-10619436.php>
+
+
+        Local
+
+Load more in Section
+<http://www.sfchronicle.com/>
+Top <#container>
+
+  *
+
+
+          About
+
+      o Our Company
+        <http://www.hearst.com/newspapers/san-francisco-chronicle.php>
+      o Ad Choices <http://www.aboutads.info/choices/>
+      o Careers <http://www.sfchronicle.com/hr/>
+      o Terms of Use <http://www.sfchronicle.com/terms_of_use/>
+      o Advertising <http://marketing.sfgate.com/>
+      o Privacy Policy <http://www.sfchronicle.com/privacy_policy>
+      o Your Privacy Rights
+        <http://www.sfchronicle.com/privacy_policy#your_rights>
+      o Your California Privacy Rights
+        <http://www.sfchronicle.com/privacy_policy/#caprivacyrights>
+
+  *
+
+
+          Contact
+
+      o Customer Service <http://www.sfchronicle.com/customer_service>
+      o Frequently Asked Questions <http://www.sfchronicle.com/faq>
+      o Newsroom Contacts <http://www.sfchronicle.com/newsroom_contacts>
+
+  *
+
+
+          Connect
+
+      o Facebook <https://www.facebook.com/sanfranciscochronicle>
+      o Twitter <https://twitter.com/sfchronicle>
+      o LinkedIn <https://www.linkedin.com/company/san-francisco-chronicle>
+      o Google+ <https://plus.google.com/+sfgate/posts>
+  *
+
+
+          Connect
+
+      o <https://www.facebook.com/sanfranciscochronicle>
+      o <https://twitter.com/sfchronicle>
+      o <https://www.linkedin.com/company/san-francisco-chronicle>
+      o <https://plus.google.com/+sfgate/posts>
+
+© 2016 Hearst Corporation
+
+
+    The sign in service is not functioning right now.
+
+
+    Please try again in a few minutes
+
+If the issues continue, please contact our customer service at
+
+Phone:
+
+Email:
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password? <javascript:void(0)>
+Keep me signed in
+
+
+Don't have a profile?
+
+
+            Don't have a subscription?
+
+Sign up <javascript:void(0)> Subscribe
+
+<http://www.sfchronicle.com/subscribe/>
+
+By signing in, you agree to our Terms of Service
+<http://www.sfchronicle.com/terms_of_use/> and Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+          Create a profile using
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+Send me email offers
+
+Already have a profile? Sign In <javascript:void(0)>
+
+By clicking "Next" or signing in you confirm that you accept our Terms
+and Conditions <http://www.sfchronicle.com/terms_of_use/> and have read
+and understood our Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel <javascript:void(0)>
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+<javascript:void(0)>
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+
+<javascript:void(0)>
+
+
+          Hi,
+
+
+          You are signed in
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfchronicle.com/profile/>
+
+Maintain your delivery address, payment details and place a vacation
+hold in Subscriber Portal.
+
+MANAGE SUBSCRIPTION
+
+<http://www.sfchronicle.com/account/>
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfchronicle.com/profile/>
+SUBSCRIBE
+
+<http://www.sfchronicle.com/subscribe/>
+SIGN OUT
+
+<javascript:void(0)>
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot password?
+Keep me signed in
+
+By signing in, you agree to our
+Terms of Service <http://www.sfchronicle.com/terms_of_use/> and Privacy
+Policy <http://www.sfchronicle.com/privacy_policy/>
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign In
+
+Keep me signed in
+Show password Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Keep me signed in
+
+By signing in, you agree to our Terms of Service
+<http://www.sfchronicle.com/terms_of_use/> and Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>
+
+
+          Paid Subscription Access Only
+
+You are now signed in but you must have a San Francisco Chronicle
+subscription to access any content.
+
+Already have a subscription?
+
+ACTIVATE
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfchronicle.com%2Fbayarea%2Fnevius%2Farticle%2FMark-Farrell-s-Housing-Not-Tents-measure-8328205.php%3Ft%3Db31956f26b>
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          About Me
+
+DISPLAY NAMEDisplay names must begin with an alpha-numeric character.
+They can not contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor
+may they contain obscenities.
+
+This display name is already in use. Please enter a different display name.
+
+You must enter a display name.
+
+Display names must begin with an alpha-numeric character. They can not
+contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor may they
+contain obscenities.
+
+EMAIL ADDRESSChanging this email address will also change the email
+address associated with your subscription
+
+You must enter an email address.
+
+GENDERThis optional field is required to enter contests and promotions
+
+BIRTH YEARThis optional field is required to enter contests and promotions
+
+* are required fields
+
+
+          SF Chronicle Subscription
+
+You can manage your delivery address, payment details, delete your
+account and more subscription details in the subscriber portal.
+
+Manage Subscription
+
+<http://www.sfchronicle.com/account/>
+
+
+            Get it on all your devices
+
+
+    Unlimited digital access with every subscription
+
+SFChronicle.com | App for iPhone and iPad
+e-edition (daily print replica) | Exclusive member experiences and discounts
+
+SUBSCRIBE NOW AND SAVE!
+
+<http://www.sfchronicle.com/subscribe/> I have a subscription
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfchronicle.com%2Fbayarea%2Fnevius%2Farticle%2FMark-Farrell-s-Housing-Not-Tents-measure-8328205.php%3Ft%3Db31956f26b>
+
+
+          Password
+
+EDIT
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+
+          Password
+
+CANCEL
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+CURRENT PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Current password is incorrect
+
+Current password field is required
+
+NEW PASSWORD Passwords must be at least 8 characters and contain both
+upper and lowercase letters and at least one number.
+
+New password field is required
+
+CONFIRM PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Confirm password field is required
+
+Show password
+
+
+    Welcome, !
+
+Your profile, subscription, linked accounts, and newsletter selections
+are not viewable by other readers on our sites. Your profile can only be
+seen by you. Any comments you post to articles on our sites can be seen
+by all readers and moderators.
+
+
+          Newsletter Preferences
+
+You are subscribed to the following:
+
+  * Top O’ the Bay
+
+    The latest stories from across the San Francisco Bay Area
+
+  * Notes & Errata
+
+    Mark Morford's irreverent and highly satiric weekly column
+
+  * Breaking News
+
+    Be notified when when big stories break or critical warnings are
+    issued for the Bay Area
+
+  * Sports
+
+    Coverage of all your Bay Area teams
+
+  * Inside Scoop
+
+    Insider knowledge for Bay Area foodies
+
+  * New Flicks
+
+    The latest movie reviews
+
+  * Business & Technology
+
+    The latest in business, finance, and tech news
+
+  * 5 Things To Do
+
+    Great events across the Bay Area selected just for you
+
+
+          San Francisco Chronicle Newsletters
+
+  * Chronicle Commuter
+
+    A curated selection of stories just in time for your afternoon commute
+
+  * Membership Updates
+
+    The latest from our membership benefits program (subscribers only)
+
+  * e-edition Reminder
+
+    Reminder of your daily e-edition, a replica of the print newspaper
+    (subscribers only)
+
+  * Subscription Reminders
+
+    Notices and reminders about your subscription (subscribers only)
+
+
+          Email Notifications and Offers
+
+  * Feature Updates
+
+    Special features, new site sections and more from The Chronicle and
+    SFGATE
+
+  * Promotions & Sales
+
+    Subscription offers from the San Francisco Chronicle and other
+    special promotions
+
+  * Surveys
+
+    Surveys about your Chronicle print edition, websites and other
+    digital products
+
+  * Advertiser Special Offers
+
+    Receive special offers sent by us on behalf of select advertisers
+    and partners
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in Forgot Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+You must be a subscriber to access this content.
+
+If you are a subscriber, Sign in!
+
+Stay signed in
+Forgot Your Password?
+
+
+          Sign In
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Back to Sign In
+
+Email address field is required.
+
+Email address is incorrect.
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+You must be a subscriber to access this content.
+
+
+          Link Profiles
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Keep me signed in
+Show password
+Forgot Your Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Forgot Your Password?
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Link Profiles
+
+Stay signed in
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Forgot Your Password?
+
+
+          SIGN IN
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot Your Password?
+Keep me signed in
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Sign In With Your Existing San Francisco Chronicle Account
+Sign In
+OR
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Keep me signed in
+Forgot Your Password?
+
+By signing in, you agree to our terms of use
+<http://www.sfchronicle.com/terms_of_use/>.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password?
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password?
+Keep me signed in
+Keep me signed in
+Show password
+Forgot password?
+
+Create an account
+
+By signing in, you agree to our Terms of Service
+<http://www.sfchronicle.com/terms_of_use/> and Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+          Create a sign-in for your subscription account
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+
+Have a profile on SFGate or San Francisco Chronicle already?
+
+Sign In
+
+Contact Customer Service at 800-310-2455 or email us at
+homedelivery@sfchronicle.com <mailto:homedelivery@sfchronicle.com>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+

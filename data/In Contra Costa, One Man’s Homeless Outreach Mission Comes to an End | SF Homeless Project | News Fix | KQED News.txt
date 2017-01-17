@@ -1,0 +1,670 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  In Contra Costa, One Man’s Homeless Outreach Mission Comes to an End
+
+Doug Stewart and fellow outreach worker Mike Callanan on a recent
+late-night shift.
+
+Doug Stewart and fellow outreach worker Mike Callanan on a recent
+late-night shift. (/Adam Grossberg/KQED/)
+
+By Devin Katayama <https://ww2.kqed.org/news/author/dkatayama/> and Adam
+Grossberg <https://ww2.kqed.org/news/author/agrossberg/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=email&nb=1>
+*
+
+F
+or the past dozen years or so, Doug Stewart has spent most of his nights
+in places most people would never choose to go. He treks through urban
+woodlands and along dark and dangerous train tracks in Contra Costa
+County, seeking the out-of-the-way places where those with no permanent
+shelter are camped out.
+
+Stewart wears a bulletproof vest and, at first glance, looks like a cop.
+But most people he approaches seem to like him. That’s because they know
+who he is and what he’s about.
+
+“You can talk to them for five or 10 minutes,” Stewart says of the
+people he encounters. “No one else has talked to them all day, and you
+can talk to ’em for five or 10 minutes, make them feel like they’re
+worth talking to still. That’s part of providing them services.”
+
+ 
+
+Stewart took on this mission more than a decade ago. He started by
+handing out hot dogs to homeless folks in the community of Pacheco, next
+door to Concord, where he sat on a municipal advisory council.
+
+‘This takes a little chunk out of you every night. You cannot
+continually go out every night and see despair and sadness and be OK. It
+doesn’t work like that.’
+Doug Stewart,
+Contra Costa Homeless Outreach
+
+“It just seemed like every meeting we were talking about homelessness,”
+Stewart says. “What I really found out is that after about 4:30 in the
+afternoon. there was nothing for ’em.”
+
+For the past five years, Stewart has run Contra Costa Homeless Outreach,
+an agency he created to distribute all sorts of aid to people living on
+the streets.
+
+“You can’t just offer homeless services eight hours a day,” he says.
+“Homelessness is not an eight-hour-a-day operation. It’s important to be
+out here 24/7.”
+
+Stewart and his two outreach workers — who together cover a territory
+stretching from Richmond to communities in eastern Contra Costa County —
+get a torrent of calls once night falls. The calls come from police,
+public service agencies and people who need shelter for the night.
+Stewart works the streets in response, handing out food, blankets,
+clothing and medicine. He offers people rides and passes out hotel
+vouchers and bus tickets.
+
+I rode along with Stewart on one of his nighttime drives through
+Martinez. It was after midnight when he spotted an older man, hunched
+over at a bus stop. Stewart knew him. His name was Mark.
+
+Mark was visibly drunk, and Stewart got out to gently warn him the cops
+wouldn’t let him stay all night and that he should move.
+
+“I don’t move as fast as I used to,” said Mark, who uses a walker to get
+around.
+
+Stewart gave Mark a ride to a different bus stop, one that’s a little
+more discreet.
+
+Doug Stewart has been providing homeless outreach in Contra Costa County
+for 12 years.
+Doug Stewart has been providing homeless outreach in Contra Costa County
+for 12 years. (Devin Katayama/KQED)
+
+“If the police come, you tell them I put you here, OK?” Stewart said.
+“If somebody comes and bothers you, you tell them I put you here.”
+
+Stewart won’t be helping Mark, or any of the other hundreds of people
+he’s gotten to know over the years, for much longer. He’s “retiring” —
+quitting to move on to something else — later this week.
+
+The constant scramble for funding has taken a toll, Stewart says.
+
+The Martinez Police Department provides one of seven grants that have
+funded Stewart’s outreach unit this past year.
+
+Martinez Police Chief Manjit Sappal says Stewart knows how to connect
+people with the network of services that are available in a way that
+police don’t.
+
+“Doug can be far more approachable, and when we partner with him we get
+the benefit of his building those relationships,” Sappal said.
+
+Sappal says he’s concerned about the void Stewart will leave behind.
+Sappal says he plans to hire one of Stewart’s employees to pick up where
+he left off.
+
+Stewart says that to carry on, you need to be ready for the harsh
+reality he has seen night in and night out.
+
+“You gotta be prepared for whatever’s in front of you, whether it’s
+dangerous, sad, disgusting, whatever,” Stewart said while making his
+rounds one evening.
+
+He says he’s torn about ending work he knows has been important to so many.
+
+“I feel bad, you know, I do,” Stewart says. “This takes a little chunk
+out of you every night. You cannot continually go out every night and
+see despair and sadness and be OK. It doesn’t work like that.”
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*sfproject3
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+Explore: Health <https://ww2.kqed.org/news/category/health/>, Housing
+<https://ww2.kqed.org/news/category/housing/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>, video
+<https://ww2.kqed.org/news/tag/video/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/?share=email&nb=1>
+  *
+
+3 Comments
+<https://ww2.kqed.org/news/2016/06/29/original-homelessness-shifts-to-eastern-contra-costa-county/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Boxed In on San Francisco's Streets: Homeless Man Shares His Story
+
+<http://ww2.kqed.org/news/2016/01/25/boxed-in-on-san-franciscos-streets-homeless-man-shares-his-story>
+
+City Settles Lawsuit With Plaintiffs Living in Tent Village on Albany Bulb
+
+<http://ww2.kqed.org/news/2014/04/23/albany-settles-with-plaintiffs-suing/>
+
+Tent Cities Compete With Super Bowl City for Attention
+
+<http://ww2.kqed.org/news/2016/02/02/tent-cities-compete-with-super-bowl-city-for-attention>
+
+As El Niño-Fueled Rains Fall, L.A.'s Homeless Turn to Alternate Shelters
+
+<http://ww2.kqed.org/news/2016/01/12/as-el-nino-fueled-rains-fall-l-a-s-homeless-turn-to-alternate-shelters/>
+
+Martinez Refinery Flare Prompts Brief Contra Costa Health Advisory
+
+<http://ww2.kqed.org/news/2015/12/15/martinez-refinery-flare-prompts-health-advisory>
+
+Rookie and Veteran S.F. Police Officers Testify About Confronting,
+Shooting Alejandro Nieto
+
+<http://ww2.kqed.org/news/2016/03/03/rookie-and-veteran-s-f-police-officers-at-center-of-alejandro-nieto-shooting-testify>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Devin Katayama
+
+Devin Katayama is a reporter covering the East Bay for KQED News.
+Previously, he was the education reporter for WFPL in Louisville and
+worked as a producer with radio stations in Chicago and Portland, OR.
+His work has appeared on NPR’s /Morning Edition, All Things Considered,
+The Takeaway/ and /Here and Now./
+
+Devin earned his MA in Journalism from Columbia College Chicago, where
+he was a Follett Fellow and the recipient of the 2011 Studs Terkel
+Community Media Workshop Scholarship for his story on Chicago's homeless
+youth. He won WBUR's 2014 Daniel Schorr award and a regional RTNDA
+Edward R. Murrow Award for his documentary "At Risk" that looked at
+issues facing some of Louisville's students. Devin has also received
+numerous local awards from the Associated Press and the Society of
+Professional Journalists.
+
+Email: dkatayama@kqed.org <mailto:dkatayama@kqed.org> Twitter:
+@RadioDevin Website: audiocollected.org
+
+View all posts by this author <https://ww2.kqed.org/news/author/dkatayama/>
+
+
+    Author
+
+
+      Adam Grossberg
+
+Adam Grossberg is a web video producer at KQED News.
+Email: agrossberg@kqed.org.
+
+View all posts by this author
+<https://ww2.kqed.org/news/author/agrossberg/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Attack at Istanbul's International Airport Kills Dozens
+
+<https://ww2.kqed.org/news/2016/06/28/attack-at-istanbuls-international-airport-kills-dozens/>
+Next Where Homeless People Can Get Free Meals in the Bay Area
+
+<https://ww2.kqed.org/news/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/>
+
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

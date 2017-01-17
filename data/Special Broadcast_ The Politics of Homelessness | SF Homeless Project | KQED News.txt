@@ -1,0 +1,594 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+SF Homeless Project <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+
+  Special Broadcast: The Politics of Homelessness
+
+A homemade sign that reads "Legalize Sleep."
+
+The coalition on homelessness holds a press conference on Oct. 29, 2013,
+at San Francisco City Hall to protest legislation sponsored by
+Supervisor Scott Wiener to close all city parks at night. (/Photo: Sara
+Bloomberg/KQED/)
+
+By Scott Shafer <https://ww2.kqed.org/news/author/scottshafer/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=email&nb=1>
+*
+
+Panhandling, tents, people passed out on sidewalks, mental illness —
+it’s all there on San Francisco streets, in good economic times and bad.
+ No matter what politicians do or say, the problem doesn’t seem to go
+away. In this special live broadcast, we’ll explore the political forces
+that make homelessness such a persistent problem and hear about the
+latest propositions put forth by members of the San Francisco Board of
+Supervisors. And we want to hear from you: If you could make politicians
+take one action regarding homelessness, what would it be?
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*sfproject3
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+We invite you to join the conversation by posting in the comments below,
+calling in at 866-733-6786 during the live broadcast or tweeting us at
+@KQEDNews and following the hashtag #sfhomelessproject.
+
+Guests for the hour include:
+
+  * *Bevan Dufty*, former San Francisco supervisor and former director
+    of HOPE SF
+  * *Jennifer Friedenbach*, executive director of the Coalition on
+    Homelessness
+  * *Gwen Kaplan*, founder of the North East Mission Business
+    Association and ACE Mailing
+  * *Jennifer Loving*, executive director of Destination Home,  a
+    public-private partnership to fight homelessness in Santa Clara County
+  * *Jim Ross*, political consultant, a co-sponsor of Care Not Cash in 2002
+
+*Related Coverage:*
+
+  * SF Homeless Project
+    <http://ww2.kqed.org/news/series/sf-homeless-project>
+  * San Francisco Creates New Department to Address Homelessness
+    <http://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/>
+  * Homelessness: You’ve Got Questions, We’ve Got Answers
+    <http://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers>
+  * Start the Conversation: What Are Your Ideas For Addressing
+    Homelessness?
+    <http://ww2.kqed.org/news/2016/06/24/start-the-conversation-what-are-your-ideas-for-addressing-homelessness>
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, Politics and Government
+<https://ww2.kqed.org/news/category/politics-and-government/>,
+homelessness <https://ww2.kqed.org/news/tag/homelessness/>, housing
+<https://ww2.kqed.org/news/tag/housing-3/>, politics
+<https://ww2.kqed.org/news/tag/politics/>, San Francisco
+<https://ww2.kqed.org/news/tag/san-francisco/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/?share=email&nb=1>
+  *
+
+7 Comments
+<https://ww2.kqed.org/news/2016/06/28/special-broadcast-the-politics-of-homelessness/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+S.F. Proposition Q Would Ban Tents on City Sidewalks
+
+<http://ww2.kqed.org/news/2016/09/16/s-f-proposition-q-would-ban-tents-on-city-sidewalks/>
+
+Mission Resident Opens Her Home to Homeless Man in Need of a Little Help
+
+<http://ww2.kqed.org/news/2014/12/24/mission-district-homelessness-neighbors-fed-up/>
+
+S.F. Supervisor Scott Wiener: Homeless Tent Camps 'Need to Go Away'
+
+<http://ww2.kqed.org/news/2016/01/25/s-f-supervisor-scott-wiener-city-needs-fast-response-to-homeless-tent-camps>
+
+A Visit to Pier 80, S.F.'s Temporary Homeless Shelter in Remote Corner
+of City
+
+<https://ww2.kqed.org/news/2016/03/04/a-visit-to-pier-80-s-f-s-temporary-homeless-shelter-in-remote-corner-of-city>
+
+Huge Police Presence Herds S.F. Homeless Protest Around Super Bowl City
+
+<http://ww2.kqed.org/news/2016/02/03/huge-police-presence-herds-s-f-homeless-protest-around-super-bowl-city>
+
+Homelessness: You've Got Questions, We've Got Answers
+
+<https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Scott Shafer
+
+Scott Shafer migrated to KQED in 1998 after extended stints in politics
+and government to host /The California  Report./ Now he covers those
+things and more as senior editor for KQED's Politics and Government
+Desk. When he's not asking questions you'll often find him in a pool
+playing water polo. Find him on Twitter @scottshafer
+
+View all posts by this author
+<https://ww2.kqed.org/news/author/scottshafer/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev ‘We Have a Right to Live Here’: Stories from San Francisco’s Evicted
+
+<https://ww2.kqed.org/news/2016/06/29/we-have-a-right-to-live-here-stories-from-san-franciscos-evicted/>
+Next In My Experience: Homeless in the Bay Area
+
+<https://ww2.kqed.org/news/2016/06/29/in-my-experience-homeless-in-the-bay-area/>
+
+
+
+  About KQED News
+
+KQED News provides daily and in-depth coverage of regional and state
+issues, and is a service of KQED Public Radio, TV, and Interactive.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact the Newsroom <mailto:assignmentdesk@kqed.org>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

@@ -1,0 +1,3458 @@
+52°F <http://www.sfgate.com/weather/> San Francisco
+
+  * <javascript:void(0)>
+  * antioch <javascript:void(0)>
+  * concord <javascript:void(0)>
+  * fairfield <javascript:void(0)>
+  * hayward <javascript:void(0)>
+  * livermore <javascript:void(0)>
+  * mill valley <javascript:void(0)>
+  * mountain view <javascript:void(0)>
+  * napa <javascript:void(0)>
+  * oakland <javascript:void(0)>
+  * palo alto <javascript:void(0)>
+  * richmond <javascript:void(0)>
+  * san carlos <javascript:void(0)>
+  * san francisco <javascript:void(0)>
+  * san jose <javascript:void(0)>
+  * santa rosa <javascript:void(0)>
+
+  *
+
+    <https://www.facebook.com/SFGate/>
+  *
+
+    <https://twitter.com/sfgate/>
+  *
+
+    <https://instagram.com/sfgate/>
+  *
+
+    <http://www.pinterest.com/sfgate/>
+  *
+
+    <http://www.sfgate.com/rss/>
+  * Subscribe
+
+    <http://www.sfgate.com/subscriptions>
+  *
+    Sign In
+
+
+     
+
+
+              Sign in using
+
+    	
+
+    	
+
+    	
+
+    	
+
+
+                or
+
+    Email Address or Password is incorrect.
+
+    Email address field is required.
+
+    Password field is required.
+    Show password
+    Forgot password? <javascript:void(0)>
+    Keep me signed in
+
+
+                Don't have a profile?
+
+
+    Don't have a subscription?
+
+    Sign up
+
+    <javascript:void(0)> Subscribe <http://www.sfgate.com/subscribe/>
+
+    By signing in, you agree to our Terms of Service
+    <http://www.sfgate.com/termsandconditions/> and Privacy Policy
+    <http://www.sfgate.com/privacy-policy/>.
+
+  * Home
+
+    <http://www.sfgate.com/>
+          + Contact SFGate
+
+            <http://www.sfgate.com/chronicle-contacts/>
+              # Contact SFGate
+
+                <http://www.sfgate.com/chronicle-contacts/>
+              # Customer Support
+
+                <http://www.sfgate.com/feedback/>
+              # Submissions & Tips
+
+                <http://www.sfgate.com/submissions/>
+          + Classifieds
+
+            <http://sfc.ipublishmarketplace.com/sf-marketplace/>
+          + About SFGate
+
+            <http://www.sfgate.com/aboutsfgate/>
+              # About SFGate
+
+                <http://www.sfgate.com/aboutsfgate/>
+              # FAQ
+
+                <http://www.sfgate.com/faq/>
+              # SFGate Newsletters
+
+                <http://www.sfgate.com/profile>
+              # SFGate Staff
+
+                <http://www.sfgate.com/staff/>
+              # Careers
+
+                <http://www.sfgate.com/chronicle/hr/>
+              # Site Index
+
+                <http://www.sfgate.com/index/>
+              # Hearst
+
+                <http://www.hearst.com/>
+          + About The Chronicle
+
+            <http://www.hearst.com/newspapers/san-francisco-chronicle>
+              # About The Chronicle
+
+                <http://www.hearst.com/newspapers/san-francisco-chronicle>
+              # The Chronicle Staff
+
+                <http://www.sfchronicle.com/newsroom_contacts/>
+              # Become a Subscriber
+
+                <http://www.sfchronicle.com/ultimate_access/?cmpid=sfg_nav>
+              # Manage Your Subscription
+
+                <http://www.sfchronicle.com/account>
+              # Customer Service
+
+                <http://www.sfchronicle.com/customer_service/>
+              # Careers
+
+                <http://www.sfgate.com/chronicle/hr/>
+              # e-edition
+
+                <http://www.sfchronicle.com/e-edition>
+              # Back Copies
+
+                <http://www.sfgate.com/faq/#faq10>
+              # Chronicle in Education
+
+                <http://nieonline.com/sfchronicle>
+              # Corrections
+
+                <http://www.sfgate.com/corrections/>
+          + Advertise with Us
+
+            <http://marketing.sfgate.com/>
+          + More on Advertising
+
+            <http://marketing.sfgate.com/>
+              # More on Advertising
+
+                <http://marketing.sfgate.com/>
+              # Place a Classified Ad
+
+                <http://sfc.ipublishmarketplace.com/sf-marketplace/>
+              # About Our Ads
+
+                <http://www.sfgate.com/privacy-policy/>
+              # Public Notices
+
+                <http://www.legalnotice.org/pl/SFGate/landing1.aspx>
+              # Local Business Directory
+
+                <http://local.sfgate.com/>
+              # Place an Obituary
+
+                <http://ezads.sfchron.com/sf-adportal/obits/index.html>
+              # Gate List
+
+                <http://local.sfgate.com/>
+          + Store
+
+            <http://sfchronicle.myshopify.com/>
+          + Privacy policy
+
+            <http://www.sfgate.com/privacy-policy/>
+              # Privacy policy
+
+                <http://www.sfgate.com/privacy-policy/>
+              # Ad Choices
+
+                <http://www.aboutads.info/choices/>
+          + Chronicle Archives
+
+            <http://www.sfchronicle.com/archive/>
+          + Terms of Use
+
+            <http://www.sfgate.com/termsandconditions/>
+          + Newsletters
+
+            <http://www.sfgate.com/profile>
+          + Get news alerts
+
+            <http://www.sfgate.com/getus/>
+        SFGate Customer support - Photo
+
+
+                SFGate Customer support
+
+        <http://www.sfgate.com/feedbackredesign/>
+        Get VIP access with SF Chronicle Membership - Photo
+
+
+                Get VIP access with SF Chronicle Membership
+
+        <http://www.sfchronicle.com/subscribe/?ipid=membership>
+        Get SFGate newsletters for the latest from the Bay - Photo
+
+
+                Get SFGate newsletters for the latest from the Bay
+
+        <http://www.sfgate.com/newsletters>
+        Check out the Top 100 Bay Area restaurants - Photo
+
+
+                Check out the Top 100 Bay Area restaurants
+
+        <http://projects.sfchronicle.com/2016/top-100-restaurants/>
+  * News
+
+    <http://www.sfgate.com/news/>
+          + Bay Area & State
+
+            <http://www.sfgate.com/bayarea/>
+          + Education
+
+            <http://sfgate.com/education/>
+          + Traffic
+
+            <http://www.sfgate.com/traffic>
+          + Nation
+
+            <http://www.sfgate.com/nation/>
+          + World
+
+            <http://www.sfgate.com/world/>
+          + Politics
+
+            <http://www.sfgate.com/politics/>
+          + Crime
+
+            <http://www.sfgate.com/crime/>
+          + Election Results
+
+            <http://www.sfgate.com/elections/>
+          + Obituaries
+
+            <http://www.legacy.com/obituaries/sfgate/>
+          + Smell the Truth
+
+            <http://blog.sfgate.com/smellthetruth/>
+        8 students file federal lawsuit against Berkeley school district
+        - Photo
+
+
+                8 students file federal lawsuit against Berkeley school
+                district
+
+        <http://www.sfgate.com/bayarea/article/8-students-file-federal-lawsuit-against-Berkeley-10619819.php>
+
+        Man, 20, shot near Dolores Park - Photo
+
+
+                Man, 20, shot near Dolores Park
+
+        <http://www.sfgate.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php>
+
+        Two shot during brawl at Berkeley’s Strawberry Creek Park - Photo
+
+
+                Two shot during brawl at Berkeley’s Strawberry Creek Park
+
+        <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+        What shook the South Bay on Tuesday? Not a sonic boom - Photo
+
+
+                What shook the South Bay on Tuesday? Not a sonic boom
+
+        <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php>
+
+  * Sports
+
+    <http://www.sfgate.com/sports/>
+          + 49ers
+
+            <http://www.sfgate.com/49ers/>
+          + Raiders
+
+            <http://www.sfgate.com/raiders/>
+          + Giants
+
+            <http://www.sfgate.com/giants/>
+          + A's
+
+            <http://www.sfgate.com/athletics/>
+          + Warriors
+
+            <http://www.sfgate.com/warriors/>
+          + Sports Blogs
+
+            <http://www.sfgate.com/sports/blogs/>
+          + Sports Calendar
+
+            <http://www.sfgate.com/sports/tv/>
+          + NFL
+
+            <http://sfgate.stats.com/fb/front.asp>
+          + MLB
+
+            <http://sfgate.stats.com/mlb/front.asp>
+          + NBA
+
+            <http://sfgate.stats.com/nba/front.asp>
+          + College
+
+            <http://www.sfgate.com/collegesports/>
+          + Preps
+
+            <http://www.sfgate.com/preps/>
+          + Golf
+
+            <http://sfgate.stats.com/golf/front.asp>
+          + Outdoors
+
+            <http://www.sfgate.com/outdoors/>
+        Raiders’ undrafted Latham proving to be a diamond in the rough -
+        Photo
+
+
+                Raiders’ undrafted Latham proving to be a diamond in the
+                rough
+
+        <http://www.sfgate.com/raiders/article/Raiders-undrafted-Latham-proving-to-be-a-10619361.php>
+
+        Draymond Green reinforces value in Warriors’ win over Raptors -
+        Photo
+
+
+                Draymond Green reinforces value in Warriors’ win over
+                Raptors
+
+        <http://www.sfgate.com/warriors/article/Draymond-Green-reinforces-his-value-in-10619696.php>
+
+        Rancho Cotate coach Ed Conroy hopes to go out with title - Photo
+
+
+                Rancho Cotate coach Ed Conroy hopes to go out with title
+
+        <http://www.sfgate.com/sports/article/Rancho-Cotate-coach-Ed-Conroy-hopes-to-go-out-10619270.php>
+
+        Texas-born Davis Webb has had eyes on Big Game - Photo
+
+
+                Texas-born Davis Webb has had eyes on Big Game
+
+        <http://www.sfgate.com/collegesports/article/Texas-born-Webb-always-had-eyes-on-Big-Game-10619539.php>
+
+  * Business
+
+    <http://www.sfgate.com/business/>
+          + Scotland Business Opportunities
+
+            <http://www.sfgate.com/scotlandbusinessopportunities/>
+          + Technology
+
+            <http://www.sfgate.com/technology/>
+          + Mortgage Rates
+
+            <http://www.sfgate.com/mortgagerates/>
+          + Home Guides
+
+            <http://homeguides.sfgate.com/>
+          + Public Notices
+
+            <http://www.legalnotice.org/pl/SFGate/landing1.aspx>
+          + Sponsored Content
+
+            <http://www.sfgate.com/sponsoredarticles/business/>
+          + The Tech Chronicles
+
+            <http://blog.sfgate.com/techchron/>
+          + VisionSF
+
+            <http://www.sfgate.com/visionsf/>
+          + Jobs
+
+            <http://www.sfgate.com/jobs/>
+        CEOs look to move forward after election - Photo
+
+
+                CEOs look to move forward after election
+
+        <http://www.sfgate.com/business/article/CEOs-look-to-move-forward-after-election-10618780.php>
+
+        4 things to know about United’s new cheaper fares - Photo
+
+
+                4 things to know about United’s new cheaper fares
+
+        <http://www.sfgate.com/business/article/4-things-to-know-about-United-s-new-cheaper-10619120.php>
+
+        Tinder adds transgender and nonconforming options - Photo
+
+
+                Tinder adds transgender and nonconforming options
+
+        <http://www.sfgate.com/business/article/Tinder-adds-transgender-and-nonconforming-options-10618678.php>
+
+        Prince’s estate sues Tidal; a toilet called Trump; itching to
+        fly - Photo
+
+
+                Prince’s estate sues Tidal; a toilet called Trump;
+                itching to
+
+        <http://www.sfgate.com/business/article/Prince-s-estate-sues-Tidal-a-toilet-called-10619090.php>
+
+  * Entertainment
+
+    <http://www.sfgate.com/entertainment/>
+          + The Daily Dish
+
+            <http://www.sfgate.com/dailydish/>
+          + Snow
+
+            <http://www.sfgate.com/snow-ski/>
+          + Movies
+
+            <http://www.sfgate.com/movies/>
+          + Music & Nightlife
+
+            <http://www.sfgate.com/music/>
+          + Performance
+
+            <http://www.sfgate.com/performance/>
+          + Art
+
+            <http://www.sfgate.com/art/>
+          + Blogs
+
+            <http://www.sfgate.com/entertainment/blogs/>
+          + Events
+
+            <http://events.sfgate.com/>
+          + Puzzles
+
+            <http://www.sfgate.com/games/>
+          + TV
+
+            <http://www.sfgate.com/tv/>
+          + Horoscope
+
+            <http://www.sfgate.com/horoscope/>
+          + Comics
+
+            <http://www.sfgate.com/comics/>
+          + Crosswords & Puzzles
+
+            <http://www.sfgate.com/games/>
+          + Things To Do
+
+            <http://www.sfgate.com/thingstodo/>
+        “Fantastic Beasts” embarks on a magical journey to the familiar
+        - Photo
+
+
+                “Fantastic Beasts” embarks on a magical journey to the
+
+        <http://www.sfgate.com/movies/article/Fantastic-Beasts-embarks-on-a-magical-10616137.php>
+
+        The latest from Dear Abby - Photo
+
+
+                The latest from Dear Abby
+
+        <http://www.sfgate.com/dearabby/>
+        “Fantastic Beasts” embarks on a magical journey to the familiar
+        - Photo
+
+
+                “Fantastic Beasts” embarks on a magical journey to the
+
+        <http://www.sfgate.com/movies/article/Fantastic-Beasts-embarks-on-a-magical-10619217.php>
+
+        Andrew & Polly give back with family benefit concert - Photo
+
+
+                Andrew & Polly give back with family benefit concert
+
+        <http://www.sfgate.com/music/article/Andrew-Polly-give-back-with-family-benefit-10617048.php>
+
+  * Food
+
+    <http://www.sfgate.com/food/>
+          + Restaurants
+
+            <http://www.sfgate.com/restaurants/>
+          + Wine
+
+            <http://www.sfgate.com/wine/>
+          + Top 100 Restaurants
+
+            <http://insidescoopsf.sfgate.com/blog/category/top-100/>
+          + Chronicle Wine Competition
+
+            <http://www.sfgate.com/wine/article/2016-San-Francisco-Chronicle-Wine-Competition-6749722.php>
+
+          + Reservations
+
+            <http://www.opentable.com/start.aspx?m=4&ref=7801>
+          + Beer News
+
+            <http://www.sfgate.com/beer/>
+          + Inside Scoop SF
+
+            <http://insidescoopsf.sfgate.com/>
+          + Healthy Eating
+
+            <http://healthyeating.sfgate.com/>
+        La Urbana closes on Divisadero - Photo
+
+
+                La Urbana closes on Divisadero
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/la-urbana-closes-possibly-for-good/>
+
+        Philadelphia star chef Marc Vetri rolls out Terrain Cafe in Palo
+        Alto’s Anthropologie - Photo
+
+
+                Philadelphia star chef Marc Vetri rolls out Terrain Cafe
+                in Palo
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/philadelphia-star-chef-marc-vetri-rolls-out-terrain-cafe-in-palo-altos-anthropologie/>
+
+        San Francisco restaurants join the mannequin challenge - Photo
+
+
+                San Francisco restaurants join the mannequin challenge
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/san-francisco-restaurants-join-the-mannequin-challenge/>
+
+        Phlox Commons to open in Saha’s old Hotel Carlton space - Photo
+
+
+                Phlox Commons to open in Saha’s old Hotel Carlton space
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/phlox-commons-to-open-in-sahas-old-hotel-carlton-space/>
+
+  * Living
+
+    <http://www.sfgate.com/living/>
+          + Home & Garden
+
+            <http://www.sfgate.com/homeandgarden/>
+          + Style
+
+            <http://www.sfgate.com/style/>
+          + Parties
+
+            <http://www.sfgate.com/sfsocial/>
+          + Lust
+
+            <http://www.sfgate.com/lust/>
+          + LGBT
+
+            <http://www.sfgate.com/lgbt/>
+          + Mommy Files & Parenting
+
+            <http://www.sfgate.com/mommyfiles/>
+          + Houzz
+
+            <http://remodeling.sfgate.com/>
+          + Outdoors
+
+            <http://www.sfgate.com/outdoors/>
+          + Health
+
+            <http://www.sfgate.com/health/>
+          + Blogs
+
+            <http://www.sfgate.com/living/blogs/>
+          + Education
+
+            <http://www.sfgate.com/education/>
+          + Sponsored
+
+            <http://www.sfgate.com/sponsoredarticles/lifestyle/>
+          + Schools, Camps & Activities
+
+            <http://www.sfgate.com/campguide/>
+        Fewer U.S. parents are spanking their kids - Photo
+
+
+                Fewer U.S. parents are spanking their kids
+
+        <http://blog.sfgate.com/sfmoms/2016/11/16/fewer-u-s-parents-are-spanking-their-kids/>
+
+        14 fresh ways to mix vintage style into a modern home - Photo
+
+
+                14 fresh ways to mix vintage style into a modern home
+
+        <http://www.sfgate.com/living/article/14-fresh-ways-to-mix-vintage-style-into-a-modern-10609146.php>
+
+        Read a California student's letter to Donald Trump - Photo
+
+
+                Read a California student's letter to Donald Trump
+
+        <http://www.sfgate.com/mommyfiles/article/third-grader-writes-letter-Trump-California-Donald-10608754.php>
+
+        9 of the weirdest classic Thanksgiving recipes The Chronicle has
+        ever published - Photo
+
+
+                9 of the weirdest classic Thanksgiving recipes The
+                Chronicle has
+
+        <http://www.sfgate.com/living/article/9-of-the-weirdest-classic-Thanksgiving-recipes-10592219.php>
+
+  * Travel
+
+    <http://www.sfgate.com/travel/>
+          + Destination BC
+
+            <http://www.sfgate.com/destinationbc/>
+          + Whistler
+
+            <http://www.sfgate.com/whistlertourism/>
+          + Monterey-Carmel
+
+            <http://www.sfgate.com/monterey-carmel/>
+          + Weekend Getaways
+
+            <http://www.sfgate.com/getaways/>
+          + Wine Country
+
+            <http://www.sfgate.com/winecountry/>
+          + Napa
+
+            <http://www.sfgate.com/napa/>
+          + Reno-Tahoe
+
+            <http://www.sfgate.com/renotahoe/>
+          + Hawaii
+
+            <http://www.sfgate.com/hawaii/>
+          + Mexico
+
+            <http://www.sfgate.com/mexico/>
+          + Exotic Destinations
+
+            <http://www.sfgate.com/exoticdestinations/>
+          + Snow
+
+            <http://www.sfgate.com/snow-ski/>
+        Suite Spot: Chaminade Resort & Spa, Santa Cruz - Photo
+
+
+                Suite Spot: Chaminade Resort & Spa, Santa Cruz
+
+        <http://www.sfgate.com/travel/article/Suite-Spot-Chaminade-Resort-Spa-Santa-Cruz-10609479.php>
+
+        Insider: Guidebook author’s Santa Cruz favorites - Photo
+
+
+                Insider: Guidebook author’s Santa Cruz favorites
+
+        <http://www.sfgate.com/travel/article/Insider-Guidebook-author-s-Santa-Cruz-favorites-10609485.php>
+
+        Rick Steves: Communicate even if you don’t know the lingo - Photo
+
+
+                Rick Steves: Communicate even if you don’t know the lingo
+
+        <http://www.sfgate.com/travel/article/Rick-Steves-Communicate-even-if-you-don-t-know-10593610.php>
+
+        Stargazing in Lake County - Photo
+
+
+                Stargazing in Lake County
+
+        <http://www.sfgate.com/travel/article/Stargazing-in-Lake-County-10591366.php>
+
+  * Real Estate
+
+    <http://www.sfgate.com/realestate/>
+          + New Homes
+
+            <http://www.sfgate.com/newhomes/>
+          + Open Homes
+
+            <http://www.sfgate.com/openhomes/>
+          + Luxury
+
+            <http://www.sfgate.com/luxuryhomes/>
+          + Rentals
+
+            <http://www.sfgate.com/rentals/>
+          + Mortgage Rates
+
+            <http://www.sfgate.com/mortgagerates/>
+          + Commercial
+
+            <http://www.sfgate.com/commercial/>
+          + Place an ad
+
+            <http://www.sfgate.com/realestate/advertise/>
+          + Home Guides
+
+            <http://homeguides.sfgate.com/>
+          + Home Sales
+
+            <http://www.sfgate.com/webdb/homesales>
+          + On the Block Blog
+
+            <http://blog.sfgate.com/ontheblock>
+        Hot Property: - Photo
+
+
+                Hot Property:
+
+        <http://www.sfgate.com/realestate/article/Hot-Property-10609318.php>
+
+        How Trump could affect the San Francisco real-estate market - Photo
+
+
+                How Trump could affect the San Francisco real-estate market
+
+        <http://blog.sfgate.com/ontheblock/2016/11/16/how-trump-could-affect-the-san-francisco-real-estate-market/>
+
+        Prime location, fine style await at Cow Hollow trilevel - Photo
+
+
+                Prime location, fine style await at Cow Hollow trilevel
+
+        <http://www.sfgate.com/realestate/walkthrough/article/Prime-location-fine-style-await-at-Cow-Hollow-10616575.php>
+
+        Escape reality with this hexagonal home in the La Honda woods -
+        Photo
+
+
+                Escape reality with this hexagonal home in the La Honda
+                woods
+
+        <http://blog.sfgate.com/ontheblock/2016/11/15/escape-reality-with-this-hexagonal-home-in-the-la-honda-woods/>
+
+  * Cars
+
+    <http://cars.sfgate.com/>
+          + Dealers
+
+            <http://cars.sfgate.com/Dealers?zipCode=94103&make=&maxDistance=100&sortBy=1>
+
+          + Click and Clack
+
+            <http://www.sfgate.com/columns/clickandclack/>
+          + Car Blog
+
+            <http://blog.sfgate.com/topdown/>
+          + My Ride
+
+            <http://www.sfgate.com/columns/myride/>
+          + Al's Road to the Big Game
+
+            <http://www.sfgate.com/als_road_to_big_game/>
+          + Sell Your Car
+
+            <http://ezads.sfchron.com/sf-adportal/classifieds/index.html>
+        An Artfully Performing SUV - Photo
+
+
+                An Artfully Performing SUV
+
+        <http://www.sfgate.com/cars/article/An-Artfully-Performing-SUV-10609325.php>
+
+        1955 Beardmore Taxi - Photo
+
+
+                1955 Beardmore Taxi
+
+        <http://www.sfgate.com/cars/myride/article/1955-Beardmore-Taxi-10594724.php>
+
+        A mid-size fuel saving hybrid without a plug - Photo
+
+
+                A mid-size fuel saving hybrid without a plug
+
+        <http://www.sfgate.com/cars/article/A-mid-size-fuel-saving-hybrid-without-a-plug-10420755.php>
+
+        Nurse finds adventure in ’66 Porsche - Photo
+
+
+                Nurse finds adventure in ’66 Porsche
+
+        <http://www.sfgate.com/cars/myride/article/Nurse-finds-adventure-in-66-Porsche-10079065.php>
+
+  * Jobs
+
+    <http://www.sfgate.com/jobs/>
+          + Job Events
+
+            <http://events.sfgate.com/search?acat=&new=n&sort=0&srad=50&srss=10&ssrss=5&st=event&svt=text&swhat=&swhen=&swhere=San+Francisco%2CCA&trim=1&cat=1111>
+
+          + Advertise
+
+            <http://marketing.sfgate.com/marketplaces/recruitment>
+          + Salary Wizard
+
+            <http://bayarea.salary.com/SalaryWizard/LayoutScripts/Swzl_NewSearch.aspx>
+
+          + Get To Work
+
+            <http://blog.sfgate.com/gettowork/>
+        How to Ace a 30-Minute Interview - Photo
+
+
+                How to Ace a 30-Minute Interview
+
+        <http://blog.sfgate.com/gettowork/2016/11/14/how-to-ace-a-30-minute-interview/>
+
+        Know why you need to develop self-awareness - Photo
+
+
+                Know why you need to develop self-awareness
+
+        <http://blog.sfgate.com/gettowork/2016/11/03/know-why-you-need-to-develop-self-awareness/>
+
+        Shape up your resume to open more doors of opportunity - Photo
+
+
+                Shape up your resume to open more doors of opportunity
+
+        <http://blog.sfgate.com/gettowork/2016/10/27/shape-up-your-resume-to-open-more-doors-of-opportunity/>
+
+        Know how to ace an executive interview - Photo
+
+
+                Know how to ace an executive interview
+
+        <http://blog.sfgate.com/gettowork/2016/10/21/know-how-to-ace-an-executive-interview/>
+
+  * Video
+
+    <http://www.sfgate.com/video/>
+  * Chronicle
+
+    <http://www.sfchronicle.com/>
+          + Latest columns
+
+            <http://www.sfchronicle.com/local/columnists>
+          + Michael Bauer
+
+            <http://www.sfchronicle.com/author/michael-bauer>
+          + Leah Garchik
+
+            <http://www.sfchronicle.com/author/leah-garchik/>
+          + Bruce Jenkins
+
+            <http://www.sfchronicle.com/author/bruce-jenkins/>
+          + Esther Mobley
+
+            <http://www.sfchronicle.com/author/esther-mobley/>
+          + Ann Killion
+
+            <http://www.sfchronicle.com/author/ann-killion/>
+          + Thomas Lee
+
+            <http://www.sfchronicle.com/author/thomas-lee/>
+          + Matier & Ross
+
+            <http://www.sfchronicle.com/author/matier-ross/>
+          + C.W Nevius
+
+            <http://www.sfchronicle.com/author/c-w-nevius/>
+          + Kathleen Pender
+
+            <http://www.sfchronicle.com/author/kathleen-pender/>
+          + Scott Ostler
+
+            <http://www.sfchronicle.com/author/scott-ostler/>
+        The ultimate NorCal brewery map - Photo
+
+
+                The ultimate NorCal brewery map
+
+        <http://www.sfchronicle.com/brewerymap/>
+        Top 100 Restaurants - Photo
+
+
+                Top 100 Restaurants
+
+        <http://www.sfchronicle.com/top100restaurants>
+        Warriors show their style off the court - Photo
+
+
+                Warriors show their style off the court
+
+        <http://www.sfchronicle.com/style/article/Fashion-Warriors-Golden-State-shows-its-style-7271312.php>
+
+
+<http://www.sfgate.com/>MenuSections
+
+http://www.sfgate.com/bayarea/article/How-BART-police-will-keep-riders-from-hogging-two-8321857.php
+
+
+
+  How BART police will keep riders from hogging 2 seats
+
+By Michael Cabanatuan <http://www.sfgate.com/author/michael-cabanatuan/>
+
+
+Updated 4:45 pm, Thursday, June 23, 2016
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+    214
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <#prev>
+
+    <#next>
+    Taking more than one seat to get some shut-eye won’t be acceptable
+    during rush hour once enforcement of the one-person, one-seat law
+    begins. Photo: Michael Macor, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Who are the worst BART passengers you encounter every day?The One
+    Who Won’t Scoot Further into the Train&nbsp;There is so much space
+    in there! Acres of space! We could rent that space as a studio
+    apartment for $3,000! Why won’t you move down?? Photo: Santiago
+    Mejia, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    The Asleep in the Aisle Seat and My Stop is Coming UpDo you think
+    they’re asleep? Like really asleep? Should I cough? I’ll start
+    rustling around with my things, give them the heads-up. Oh god, am I
+    going to have to nudge this person on the shoulder? Please wake up.
+    Photo: Darrin Klimek, Getty Images / (c) Darrin Klimek
+  *
+
+    <#prev>
+
+    <#next>
+    Patient Zero This person has a horrific sickness yet is still riding
+    at peak hours. It doesn’t even have to be a real case of measles. My
+    hypochondria will take it from here, thanks. Photo: Image Source,
+    Getty Images / (c) Image Source
+  *
+
+    <#prev>
+
+    <#next>
+    The Angry BirderYou gain nothing by playing your iPhone games with
+    the volume on. The angry birds do not get angrier if you subject us
+    all to your sound effects. But do you know what does get angrier?
+    Me. It’s me.  Photo: Cnet Review
+  *
+
+    <#prev>
+
+    <#next>
+    The Uncomfortably Loud Personal Conversation HaverI don’t think your
+    Aunt Ruth would appreciate having her gout discussed in front of
+    dozens of strangers on a train.  Photo: Westend61, Getty Images /
+    Westend61
+  *
+
+    <#prev>
+
+    <#next>
+    The ‘I-Can’t-See-Old-People’ PassengerKeeping your head down and
+    headphones on does not make the elderly person who needs your seat
+    disappear. It makes you a rude human being.  Photo: Allison Michael
+    Orenstein, Getty Images / (c) Allison Michael Orenstein
+  *
+
+    <#prev>
+
+    <#next>
+    The Seat-HoggerIf there are plenty of seats available, knock
+    yourself out. Put that backpack on the other seat. But if there are
+    people standing, have a little common courtesy. Photo: Liz Hafalia
+    Elizabeth Hafalia, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    The TurtleYour giant backpack is making you triple-wide, and I will
+    ram into you to passive-aggressively express my displeasure.  Photo:
+    Carlos Avila Gonzalez, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    The ‘YEAH I’M IN THE TUNNEL RIGHT NOW’ Cell Phone TalkerThese are
+    clearly not the ideal circumstances under which to have a phone
+    conversation. Please stop yelling. Photo: ML Harris, Getty Images /
+    (c) ML Harris
+  *
+
+    <#prev>
+
+    <#next>
+    The Seat Scavenger This passenger has their head on a swivel,
+    staring with piercing eyes at every movement and making everyone
+    self-conscious in the process. If you need a seat that badly, ask
+    someone for one. Otherwise, chill out. Photo: Michael Short, Special
+    To The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    The AthleteDear bro doing pull-ups on the train: No one is
+    impressed, and you’re going to break the car. Photo: Mike Kepka, The
+    Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    The 'There Are Empty Seats All Over This Train But You’ve Sat Down
+    Next to Me'Nothing sends panic down the spine like someone who sits
+    directly next to you on a train full of empty pairs of seats.
+    ‘Please don’t start talking to me,’ you pray silently. ‘Please
+    please just go away.’ Photo: Michael Macor, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    The Obnoxious PDA CoupleLove is lovely. But sharing with a train
+    full of people doesn’t feel like the most romantic or reasonable
+    expression of it.  Photo: DreamPictures, Getty Images / (c)
+    DreamPictures
+  *
+
+    <#prev>
+
+    <#next>
+    The Music BlasterHow could it possibly be a good listening
+    experience to be playing music at full volume on your phone? Your
+    complete lack of shame aside, it’s just not a good way to listen to
+    music. Photo: Roberto Westbrook, Getty Images / (c) Image Source
+  *
+
+    <#prev>
+
+    <#next>
+    The "Oh God, Please Stop Touching Me"At first, you couldn’t tell if
+    your fellow passenger was intentionally touching you. But now
+    they’ve made contact a half dozen times and it’s starting to feel
+    deliberate.  Photo: Darrin Klimek, Getty Images / (c) Darrin Klimek
+  *
+
+    <#prev>
+
+    <#next>
+    The Wake and BakerListen, what you do in your recreational hours is
+    your business. But this is the 7 a.m. train to San Francisco so it
+    feels early to be smelling that powerfully of weed.  Photo: Diverse
+    Images/UIG, Getty Images / Universal Images Group
+  *
+
+    <#prev>
+
+    <#next>
+    The EaterWe’ve all sneaked a quick drink or snack on BART before,
+    but this passenger takes out an entire pungent meal and tucks in
+    during the commute. Either share with everyone or we vote you off
+    the train. Photo: David Oliver, Getty Images / (c) David Oliver
+  *
+
+    <#prev>
+
+    <#next>
+    The Groomer I’ve seen a shocking number of people clipping their
+    nails on BART over the years. Truly shocking. What compels people to
+    do this?! Photo: Ian Hooton/SPL, Getty Images
+  *
+
+    <#prev>
+
+    <#next>
+    The PerformerYou might be very talented, but the small confines of
+    the BART train amplifies the captive audience feel of any
+    performance.  Photo: Leah Millis, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    BART police talk to passengers heading to San Francisco
+    International Airport and occupying one seat each. Photo: Michael
+    Macor, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A passenger on an almost-empty train passing through San Francisco
+    occupies more than a single seat. Starting in the fall, that won’t
+    be allowed at peak times. Photo: Michael Macor, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A passenger occupies more than a single seat as the train stops at
+    the Montgomery St. station along the BART system in San Francisco,
+    California, on Thurs. June 23, 2016. BART is unveiling its system
+    for fining passengers who take up more than a single seat on a
+    train. Photo: Michael Macor, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A BART train pulls into the Millbrae station along the BART system
+    in San Francisco, California, on Thurs. June 23, 2016. BART is
+    unveiling its system for fining passengers who take up more than a
+    single seat on a train. Photo: Michael Macor, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+
+<http://www.netseer.com/netseer-inimage-ads/?utm_source=info_button&utm_medium=publisher>
+
+  *
+    Taking more than one seat to get some shut-eye won’t be acceptable
+    during rush hour once enforcement of the one-person, one-seat law
+    begins. <#photo-10435989>
+  *
+    Who are the worst BART passengers you encounter every day?The One
+    Who Won’t Scoot Further into the Train&nbsp;There is so much space
+    in there! Acres of space! We could rent that space as a studio
+    apartment for $3,000! Why won’t you move down?? <#photo-7984614>
+  *
+    The Asleep in the Aisle Seat and My Stop is Coming UpDo you think
+    they’re asleep? Like really asleep? Should I cough? I’ll start
+    rustling around with my things, give them the heads-up. Oh god, am I
+    going to have to nudge this person on the shoulder? Please wake up.
+    <#photo-9579661>
+  *
+    Patient Zero This person has a horrific sickness yet is still riding
+    at peak hours. It doesn’t even have to be a real case of measles. My
+    hypochondria will take it from here, thanks. <#photo-9579667>
+  *
+    The Angry BirderYou gain nothing by playing your iPhone games with
+    the volume on. The angry birds do not get angrier if you subject us
+    all to your sound effects. But do you know what does get angrier?
+    Me. It’s me.  <#photo-3815814>
+  *
+    The Uncomfortably Loud Personal Conversation HaverI don’t think your
+    Aunt Ruth would appreciate having her gout discussed in front of
+    dozens of strangers on a train.  <#photo-9579657>
+  *
+    The ‘I-Can’t-See-Old-People’ PassengerKeeping your head down and
+    headphones on does not make the elderly person who needs your seat
+    disappear. It makes you a rude human being.  <#photo-9579658>
+  *
+    The Seat-HoggerIf there are plenty of seats available, knock
+    yourself out. Put that backpack on the other seat. But if there are
+    people standing, have a little common courtesy. <#photo-9570139>
+  *
+    The TurtleYour giant backpack is making you triple-wide, and I will
+    ram into you to passive-aggressively express my displeasure. 
+    <#photo-8383284>
+  *
+    The ‘YEAH I’M IN THE TUNNEL RIGHT NOW’ Cell Phone TalkerThese are
+    clearly not the ideal circumstances under which to have a phone
+    conversation. Please stop yelling. <#photo-9579672>
+  *
+    The Seat Scavenger This passenger has their head on a swivel,
+    staring with piercing eyes at every movement and making everyone
+    self-conscious in the process. If you need a seat that badly, ask
+    someone for one. Otherwise, chill out. <#photo-4851856>
+  *
+    The AthleteDear bro doing pull-ups on the train: No one is
+    impressed, and you’re going to break the car. <#photo-7617856>
+  *
+    The 'There Are Empty Seats All Over This Train But You’ve Sat Down
+    Next to Me'Nothing sends panic down the spine like someone who sits
+    directly next to you on a train full of empty pairs of seats.
+    ‘Please don’t start talking to me,’ you pray silently. ‘Please
+    please just go away.’ <#photo-5262908>
+  *
+    The Obnoxious PDA CoupleLove is lovely. But sharing with a train
+    full of people doesn’t feel like the most romantic or reasonable
+    expression of it.  <#photo-9579673>
+  *
+    The Music BlasterHow could it possibly be a good listening
+    experience to be playing music at full volume on your phone? Your
+    complete lack of shame aside, it’s just not a good way to listen to
+    music. <#photo-9579662>
+  *
+    The "Oh God, Please Stop Touching Me"At first, you couldn’t tell if
+    your fellow passenger was intentionally touching you. But now
+    they’ve made contact a half dozen times and it’s starting to feel
+    deliberate.  <#photo-9579659>
+  *
+    The Wake and BakerListen, what you do in your recreational hours is
+    your business. But this is the 7 a.m. train to San Francisco so it
+    feels early to be smelling that powerfully of weed.  <#photo-9579656>
+  *
+    The EaterWe’ve all sneaked a quick drink or snack on BART before,
+    but this passenger takes out an entire pungent meal and tucks in
+    during the commute. Either share with everyone or we vote you off
+    the train. <#photo-9579655>
+  *
+    The Groomer I’ve seen a shocking number of people clipping their
+    nails on BART over the years. Truly shocking. What compels people to
+    do this?! <#photo-9580055>
+  *
+    The PerformerYou might be very talented, but the small confines of
+    the BART train amplifies the captive audience feel of any
+    performance.  <#photo-9247586>
+  *
+    BART police talk to passengers heading to San Francisco
+    International Airport and occupying one seat each. <#photo-10435788>
+  *
+    A passenger on an almost-empty train passing through San Francisco
+    occupies more than a single seat. Starting in the fall, that won’t
+    be allowed at peak times. <#photo-10435787>
+  *
+    A passenger occupies more than a single seat as the train stops at
+    the Montgomery St. station along the BART system in San Francisco,
+    California, on Thurs. June 23, 2016. BART is unveiling its system
+    for fining passengers who take up more than a single seat on a
+    train. <#photo-10435988>
+  *
+    A BART train pulls into the Millbrae station along the BART system
+    in San Francisco, California, on Thurs. June 23, 2016. BART is
+    unveiling its system for fining passengers who take up more than a
+    single seat on a train. <#photo-10435786>
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Photo: Michael Macor, The Chronicle
+Image 1of/25
+
+Caption
+
+Close
+
+Image 1of 25
+Taking more than one seat to get some shut-eye won’t be acceptable
+during rush hour once enforcement of the one-person, one-seat law begins.
+Taking more than one seat to get some shut-eye won’t be acceptable
+during rush hour once enforcement of the one-person, one-seat law begins.
+Photo: Michael Macor, The Chronicle
+Image 2of 25
+*Who are the worst BART passengers you encounter every day?*
+*The One Who Won’t Scoot Further into the Train *
+There is so much space in there! Acres of space! We could rent that
+space as a studio apartment for $3,000! Why won’t you move down??
+less
+*Who are the worst BART passengers you encounter every day?*
+*The One Who Won’t Scoot Further into the Train *
+There is so much space in there! Acres of space! We could rent that
+space as a studio apartment
+... more
+Photo: Santiago Mejia, The Chronicle
+Image 3of 25
+*The Asleep in the Aisle Seat and My Stop is Coming Up*
+
+Do you think they’re asleep? Like /really/ asleep? Should I cough? I’ll
+start rustling around with my things, give them the heads-up. Oh god, am
+I going to have to nudge this person on the shoulder? Please wake up.
+less
+*The Asleep in the Aisle Seat and My Stop is Coming Up*
+
+Do you think they’re asleep? Like /really/ asleep? Should I cough? I’ll
+start rustling around with my things, give them the heads-up. Oh god, am
+I going to
+... more
+Photo: Darrin Klimek, Getty Images
+Image 4of 25
+*Patient Zero *
+
+This person has a horrific sickness yet is still riding at peak hours.
+It doesn’t even have to be a real case of measles. My hypochondria will
+take it from here, thanks.
+*Patient Zero *
+
+This person has a horrific sickness yet is still riding at peak hours.
+It doesn’t even have to be a real case of measles. My hypochondria will
+take it from here, thanks.
+Photo: Image Source, Getty Images
+Image 5of 25
+*The Angry Birder*
+
+You gain nothing by playing your iPhone games with the volume on. The
+angry birds do not get angrier if you subject us all to your sound
+effects. But do you know what does get angrier? Me. It’s me. 
+less
+*The Angry Birder*
+
+You gain nothing by playing your iPhone games with the volume on. The
+angry birds do not get angrier if you subject us all to your sound
+effects. But do you know what does get angrier? Me.
+... more
+Photo: Cnet Review
+Image 6of 25
+*The Uncomfortably Loud Personal Conversation Haver*
+
+I don’t think your Aunt Ruth would appreciate having her gout discussed
+in front of dozens of strangers on a train. 
+*The Uncomfortably Loud Personal Conversation Haver*
+
+I don’t think your Aunt Ruth would appreciate having her gout discussed
+in front of dozens of strangers on a train. 
+Photo: Westend61, Getty Images
+Image 7of 25
+*The ‘I-Can’t-See-Old-People’ Passenger*
+
+Keeping your head down and headphones on does not make the elderly
+person who needs your seat disappear. It makes you a rude human being. 
+*The ‘I-Can’t-See-Old-People’ Passenger*
+
+Keeping your head down and headphones on does not make the elderly
+person who needs your seat disappear. It makes you a rude human being. 
+Photo: Allison Michael Orenstein, Getty Images
+Image 8of 25
+*The Seat-Hogger*
+
+If there are plenty of seats available, knock yourself out. Put that
+backpack on the other seat. But if there are people standing, have a
+little common courtesy.
+*The Seat-Hogger*
+
+If there are plenty of seats available, knock yourself out. Put that
+backpack on the other seat. But if there are people standing, have a
+little common courtesy.
+Photo: Liz Hafalia Elizabeth Hafalia, The Chronicle
+Image 9of 25
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/37/76/54/8383284/21/628x471.jpg>
+*The Turtle*
+
+Your giant backpack is making you triple-wide, and I will ram into you
+to passive-aggressively express my displeasure. 
+*The Turtle*
+
+Your giant backpack is making you triple-wide, and I will ram into you
+to passive-aggressively express my displeasure. 
+Photo: Carlos Avila Gonzalez, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/37/76/54/8383284/21/628x471.jpg>
+Image 10of 25
+*The ‘YEAH I’M IN THE TUNNEL RIGHT NOW’ Cell Phone Talker*
+
+These are clearly not the ideal circumstances under which to have a
+phone conversation. Please stop yelling.
+*The ‘YEAH I’M IN THE TUNNEL RIGHT NOW’ Cell Phone Talker*
+
+These are clearly not the ideal circumstances under which to have a
+phone conversation. Please stop yelling.
+Photo: ML Harris, Getty Images
+Image 11of 25
+*The Seat Scavenger *
+
+This passenger has their head on a swivel, staring with piercing eyes at
+every movement and making everyone self-conscious in the process. If you
+need a seat that badly, ask someone for one. Otherwise, chill out.
+less
+*The Seat Scavenger *
+
+This passenger has their head on a swivel, staring with piercing eyes at
+every movement and making everyone self-conscious in the process. If you
+need a seat that badly, ask someone for one.
+... more
+Photo: Michael Short, Special To The Chronicle
+Image 12of 25
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/35/03/65/7617856/13/628x471.jpg>
+*The Athlete*
+
+Dear bro doing pull-ups on the train: No one is impressed, and you’re
+going to break the car.
+*The Athlete*
+
+Dear bro doing pull-ups on the train: No one is impressed, and you’re
+going to break the car.
+Photo: Mike Kepka, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/35/03/65/7617856/13/628x471.jpg>
+Image 13of 25
+*The 'There Are Empty Seats All Over This Train But You’ve Sat Down Next
+to Me'*
+
+Nothing sends panic down the spine like someone who sits directly next
+to you on a train full of empty pairs of seats. ‘Please don’t start
+talking to me,’ you pray silently. ‘Please please just go away.’
+less
+*The 'There Are Empty Seats All Over This Train But You’ve Sat Down Next
+to Me'*
+
+Nothing sends panic down the spine like someone who sits directly next
+to you on a train full of empty pairs of seats. ‘Please
+... more
+Photo: Michael Macor, The Chronicle
+Image 14of 25
+*The Obnoxious PDA Couple*
+
+Love is lovely. But sharing with a train full of people doesn’t feel
+like the most romantic or reasonable expression of it. 
+*The Obnoxious PDA Couple*
+
+Love is lovely. But sharing with a train full of people doesn’t feel
+like the most romantic or reasonable expression of it. 
+Photo: DreamPictures, Getty Images
+Image 15of 25
+*The Music Blaster*
+
+How could it possibly be a good listening experience to be playing music
+at full volume on your phone? Your complete lack of shame aside, it’s
+just not a good way to listen to music.
+*The Music Blaster*
+
+How could it possibly be a good listening experience to be playing music
+at full volume on your phone? Your complete lack of shame aside, it’s
+just not a good way to listen to music.
+Photo: Roberto Westbrook, Getty Images
+Image 16of 25
+*The "Oh God, Please Stop Touching Me"*
+
+At first, you couldn’t tell if your fellow passenger was intentionally
+touching you. But now they’ve made contact a half dozen times and it’s
+starting to feel deliberate. 
+less
+*The "Oh God, Please Stop Touching Me"*
+
+At first, you couldn’t tell if your fellow passenger was intentionally
+touching you. But now they’ve made contact a half dozen times and it’s
+starting to feel
+... more
+Photo: Darrin Klimek, Getty Images
+Image 17of 25
+*The Wake and Baker*
+
+Listen, what you do in your recreational hours is your business. But
+this is the 7 a.m. train to San Francisco so it feels early to be
+smelling that powerfully of weed. 
+*The Wake and Baker*
+
+Listen, what you do in your recreational hours is your business. But
+this is the 7 a.m. train to San Francisco so it feels early to be
+smelling that powerfully of weed. 
+Photo: Diverse Images/UIG, Getty Images
+Image 18of 25
+*The Eater*
+
+We’ve all sneaked a quick drink or snack on BART before, but this
+passenger takes out an entire pungent meal and tucks in during the
+commute. Either share with everyone or we vote you off the train.
+*The Eater*
+
+We’ve all sneaked a quick drink or snack on BART before, but this
+passenger takes out an entire pungent meal and tucks in during the
+commute. Either share with everyone or we vote you off the train.
+Photo: David Oliver, Getty Images
+Image 19of 25
+*The Groomer *
+
+I’ve seen a shocking number of people clipping their nails on BART over
+the years. Truly shocking. What compels people to do this?!
+*The Groomer *
+
+I’ve seen a shocking number of people clipping their nails on BART over
+the years. Truly shocking. What compels people to do this?!
+Photo: Ian Hooton/SPL, Getty Images
+Image 20of 25
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/43/21/55/9247586/9/628x471.jpg>
+*The Performer*
+
+You might be very talented, but the small confines of the BART train
+amplifies the captive audience feel of any performance. 
+*The Performer*
+
+You might be very talented, but the small confines of the BART train
+amplifies the captive audience feel of any performance. 
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/43/21/55/9247586/9/628x471.jpg>
+Image 21of 25
+BART police talk to passengers heading to San Francisco International
+Airport and occupying one seat each.
+BART police talk to passengers heading to San Francisco International
+Airport and occupying one seat each.
+Photo: Michael Macor, The Chronicle
+Image 22of 25
+A passenger on an almost-empty train passing through San Francisco
+occupies more than a single seat. Starting in the fall, that won’t be
+allowed at peak times.
+A passenger on an almost-empty train passing through San Francisco
+occupies more than a single seat. Starting in the fall, that won’t be
+allowed at peak times.
+Photo: Michael Macor, The Chronicle
+Image 23of 25
+A passenger occupies more than a single seat as the train stops at the
+Montgomery St. station along the BART system in San Francisco,
+California, on Thurs. June 23, 2016. BART is unveiling its system for
+fining passengers who take up more than a single seat on a train.less
+A passenger occupies more than a single seat as the train stops at the
+Montgomery St. station along the BART system in San Francisco,
+California, on Thurs. June 23, 2016. BART is unveiling its system for
+fining... more
+Photo: Michael Macor, The Chronicle
+Image 24of 25
+A BART train pulls into the Millbrae station along the BART system in
+San Francisco, California, on Thurs. June 23, 2016. BART is unveiling
+its system for fining passengers who take up more than a single seat on
+a train.less
+A BART train pulls into the Millbrae station along the BART system in
+San Francisco, California, on Thurs. June 23, 2016. BART is unveiling
+its system for fining passengers who take up more than a single seat... more
+Photo: Michael Macor, The Chronicle
+Image 25of 25
+How BART police will keep riders from hogging 2 seats
+1 / 25
+Back to Gallery
+
+Starting this fall, BART riders who fail to contain themselves and their
+belongings to a single seat during the most crowded times of day may be
+questioned by police and have their names recorded and criminal records
+checked.
+
+BART Police Chief Kenton Rainey explained Thursday how his officers will
+enforce the one-person, one-seat law that the transit agency’s board
+adopted in April. The goals, he said, are being fair to riders on
+crowded trains while protecting BART from complaints about profiling or
+harassment from those whom police question.
+
+But some BART directors, including one supporter of the ordinance,
+bristled at the idea that transit police might force first-time
+offenders — perhaps tourists on their way from the airport — to identify
+themselves and subject them to criminal records checks.
+
+“I think that’s way beyond the pale,” said director Gail Murray of
+Walnut Creek, who voted for the antiseat-hogging ordinance.
+
+Murray said BART police should change their enforcement strategy to bar
+officers from forcing people to identify themselves if they comply right
+away with an officer’s request to occupy only a single seat.
+
+
+    Related Stories
+
+  * Here's what Bay Area transit looks like in your dreams
+    <http://www.sfgate.com/living/article/Here-s-what-Bay-Area-transit-looks-like-in-your-8316280.php>
+
+  * BART to go to voters in November with $3.5 billion request
+    <http://www.sfgate.com/bayarea/article/BART-to-go-to-voters-in-November-with-3-5-7973673.php>
+
+  * Your burning BART questions answered
+    <http://www.sfgate.com/bayarea/slideshow/Your-burning-BART-questions-answered-128344.php>
+
+
+But agency General Manager Grace Crunican said police will be simply
+following the terms of the law that the BART board approved. Only the
+full board, she said, can dictate how police enforce the law.
+
+First-time offenders will have their names entered into a database and
+be given a verbal warning, Rainey said. Those caught hoarding multiple
+seats a second time will be given a written warning.
+
+*Fines start with 3rd offense*
+
+On the third offense, a violator will cited. The first citation will
+cost $100, the second will cost $200, and each additional ticket after
+that will cost $500. If someone is cited a fourth time, he or she can be
+arrested.
+
+People whose size or medical condition requires them to occupy more than
+one seat will be exempt. BART police will enforce the ordinance weekdays
+from 6 to 10 a.m. and 3 to 7:30 p.m., when trains are most crowded.
+
+BART directors adopted the single-seat law at the suggestion of director
+Joel Keller of Brentwood. Board President Tom Radulovich
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Tom+Radulovich%22>
+voted against the measure, as did board members Nick Josefowitz
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Nick+Josefowitz%22>,
+Robert Raburn
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Robert+Raburn%22>
+and Rebecca Saltzman
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Rebecca+Saltzman%22>.
+Vice President Murray
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Gail+Murray%22>
+voted for it, along with board members Thomas Blalock
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Thomas+Blalock%22>,
+John McPartland
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22John+McPartland%22>,
+Zakhary Mallett
+<http://www.sfgate.com/search/?action=search&channel=bayarea&inlineLink=1&searchindex=gsa&query=%22Zakhary+Mallett%22>
+and Keller.
+
+Josefowitz and Saltzman joined Murray in objecting to the enforcement
+strategy, which they called extreme. Keller said the directors had no
+right to nitpick the way police enforce the ordinance and noted that
+they could propose that the law be rescinded. He suggested the board
+wait at least six months and review enforcement statistics before
+considering doing so.
+
+*Assessing strategy*
+
+McPartland, who has a background in public safety, said the enforcement
+strategy seemed cautious and “liberal to a fault.”
+
+“Someone does something wrong and we’re going to give them four shots at
+it?” he said.
+
+Rainey said police will enforce the law without regard to whether an
+offender is a homeless person, tourist or commuter. The ordinance is
+scheduled to take effect Sept. 1, and police will issue only verbal
+warnings during the first month.
+
+“It’s going to be applied equally to the person who puts a briefcase on
+a seat on a crowded train during the commute or a person who puts a gym
+bag on a seat, or the person who puts a suitcase on a seat, or the
+person who puts his feet on the seat and goes to sleep,” the chief said.
+“We’re going to treat everyone the same.”
+
+/
+
+Michael Cabanatuan is a San Francisco Chronicle staff writer. Email:
+mcabanatuan@sfchronicle.com <mailto:mcabanatuan@sfchronicle.com>
+Twitter: @ctuan <http://twitter.com/ctuan>
+
+/
+
+
+      Sponsored Content
+
+Wall Street Poster Boy Makes Shocking Prediction
+Wall Street Poster Boy Makes Shocking Prediction
+The Sovereign Investor
+<http://thesovereigninvestor.com/exclusives/missing-wall-street-poster-boy-releases-shocking-video/?z=513569>
+
+Downsizing? Ditch These 12 Items
+Downsizing? Ditch These 12 Items
+AARP
+<http://www.aarp.org/money/budgeting-saving/info-2015/downsizing-items-to-ditch-photo.html?cmp=SL-DSO-OUTBRAIN-DESKTAB-MONEY-MONEYSLIDEALTHEAD-SLIDE-PV_Downsizing%3F+Ditch+These+Items_1054317241_40820>
+
+It's Scary What This Site Knows About You - Enter Your Name
+It's Scary What This Site Knows About You - Enter Your Name
+TruthFinder
+<http://tracking.truthfinder.com/?a=163&oc=27&c=303&dip=&s1=NovWLDesktop>
+Taylor Swift Reveals Who She Voted For, And Fans Can't Help But Be In
+Complete Disbelief
+Taylor Swift Reveals Who She Voted For, And Fans Can't Help But…
+TomorroWoman
+<http://www.tomorrowoman.com/culture/trump-vs-hillary/?utm_campaign=Trump%20Vs%20Hillary%20Past%20-%20Desktop%20OB&utm_source=OutBrain&utm_medium=40820&utm_content=69074057&utm_term=Taylor+Swift+Reveals+Who+She+Voted+For%2C+And+Fans>
+
+Wall Street Poster Boy Makes Shocking Prediction
+Wall Street Poster Boy Makes Shocking Prediction
+The Sovereign Investor
+Downsizing? Ditch These 12 Items
+Downsizing? Ditch These 12 Items
+AARP
+It's Scary What This Site Knows About You - Enter Your Name
+It's Scary What This Site Knows About You - Enter Your Name
+TruthFinder
+Taylor Swift Reveals Who She Voted For, And Fans Can't Help But Be In
+Complete Disbelief
+Taylor Swift Reveals Who She Voted For, And Fans Can't Help But…
+TomorroWoman
+
+
+      Sponsored Stories
+
+  *
+    25 Celebrities Who Aren't Democrats
+    <http://celebrities.prettyfamous.com/stories/3089/republican-celebrities?utm_medium=cm&utm_source=outbrain&utm_campaign=ao.cm.ob.dt.3089>
+    PrettyFamous | By Graphiq
+  *
+    Forget 'Googling' Names - This Site Is Addicting
+    <http://www.truthrevealed.us/7.php?utm_source=Outbrain&utm_medium=68417227&utm_content=New+Website+Reveals+Personal+Information+Even+Goog&utm_campaign=tf&utm_term=40820>
+    TruthFinder
+  *
+    The most beautiful Ferraris Girls
+    <http://autoworldcar.com/the-most-beautiful-ferraris-girls/?utm_source=Outbrain&utm_medium=referral&utm_campaign=autoworldcar&utm_source=Outbrain&utm_medium=referral&utm_campaign=autoworldcar>
+    AutoWorldCar
+  *
+    Here Are the 25 Least Intelligent Presidents in US History
+    <http://us-presidents.insidegov.com/stories/5392/least-intelligent-presidents?utm_medium=cm&utm_source=outbrain&utm_campaign=ao.cm.ob.dt.5392>
+    InsideGov | By Graphiq
+  *
+    We Bet You Can't Guess Who's A Republican And Who's A Democrat
+    <http://www.zimbio.com/trivia/qF3e26COs2d/These+Celebrities+Republicans+Democrats?utm_source=outb&utm_medium=cpc&utm_campaign=Outb-ZM-US-Desktop-Games-trivia-Politics>
+    Zimbio
+  *
+    Homeowners Must Claim their $4271 Before End of 2016
+    <https://www.fetcharate.com/pa/mortgage/?tg_ref=fetobran&csg_ref=tapa&keyword=ad_id&sub2=40820&camp_id=ad_title&camp_id=67898727&keyword=Homeowners+Must+Claim+Their+%244271+Rebate+Check+B&sub2=40820&camp_id=68181247&keyword=New+Illinois+Home+Refinance+Plan+Banks+Don%27t+Wan&sub2=40820>
+    FetchRate
+  *
+    How 2 Boston Grads Are Disrupting a $19 Billion Industry
+    <http://article.everquote.com/?id=925&h1=startup&auuid=520822c3-e0c5-49ab-90aa-4111a2b08758&tid=925&subid=58&is_dcpc=0&dt=dup&creativeid=69724986&utm_medium=40820&s1=How+2+Boston+Grads+Are+Disrupting+a+%2419+Billion+&promotedlink=001a0967c6d01f5ffa9a78d83566f68b3b>
+    EverQuote
+
+
+      More From SFGate
+
+  *
+    Obama explains why it’s going to be harder for Republicans to repeal
+    Obamacare than they think
+    <http://www.sfgate.com/technology/businessinsider/article/Obama-explains-why-it-s-going-to-be-harder-for-10614196.php>
+    SF Gate- Business Insider
+  *
+    This $665 million skyscraper in San Francisco will be the tallest
+    residential building on the West Coast
+    <http://www.sfgate.com/technology/businessinsider/article/This-665-million-skyscraper-in-San-Francisco-10615858.php>
+    SF Gate- Business Insider
+  *
+    'Anger shouldn't drive policy': George W. Bush has some advice for
+    the Trump administration
+    <http://www.sfgate.com/technology/businessinsider/article/Anger-shouldn-t-drive-policy-George-W-Bush-10616999.php>
+    SF Gate- Business Insider
+  *
+    'Hillary Clinton' sings a somber tune to open a post-election 'SNL'
+    <http://www.sfgate.com/technology/businessinsider/article/Hillary-Clinton-sings-a-somber-tune-to-open-a-10611448.php>
+    SF Gate- Business Insider
+  *
+    ‘Beverly Hills 90210’ Alums Luke Perry, Jennie Garth Pay Tribute to
+    Shannen Doherty
+    <http://www.sfgate.com/entertainment/the-wrap/article/Beverly-Hills-90210-Alums-Luke-Perry-10611759.php>
+    Entertainment
+  *
+    Donald Trump is about to face a rude awakening over Obamacare
+    <http://www.sfgate.com/news/article/Donald-Trump-is-about-to-face-a-rude-awakening-10610353.php>
+    SF Gate
+  *
+    Joe Biden memes are giving America a much needed laugh
+    <http://www.sfgate.com/entertainment/article/Joe-Biden-memes-are-giving-America-a-much-needed-10611857.php>
+    Entertainment
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+[X]Close
+
+<#>
+Watch: These Boxers Aim to Block Radiation
+
+Flash plugin failed to load
+00:00
+00:00
+ 
+
+
+      Latest from the SFGATE homepage:
+
+
+          Click below for the top news from around the Bay Area and
+          beyond. Sign up for our newsletters to be the first to learn
+          about breaking news and more. Go to 'Sign In' and 'Manage
+          Profile' at the top of the page.
+
+
+    EAST BAY INCIDENT
+
+  *
+    Nicki Pancholy, a resident of Milpitas, was the target of an
+    anti-Muslim hate crime on Monday. Pancholy is not Muslim, and wears
+    a bandana around her head because she has lupus.
+
+    Woman wearing headscarf targeted in anti-Muslim hate crime
+    <http://www.sfgate.com/crime/article/Woman-wearing-headscarf-targeted-for-anti-Muslim-10619245.php?ipid=articlerecirc>
+
+  *
+
+    Suspects target Latinos for hate in Bay Area attacks
+    <http://www.sfgate.com/crime/article/Suspects-target-Latinos-for-hate-in-separate-Bay-10616807.php?ipid=articlerecirc>
+
+  *
+
+    UC Berkeley police investigate election-related hate crime
+    <http://www.sfgate.com/bayarea/article/UC-Berkeley-police-investigate-election-related-10611941.php?ipid=articlerecirc>
+
+  *
+
+    NYPD: Hate crimes up 31% since last year
+    <http://www.sfgate.com/technology/businessinsider/article/NYPD-Hate-crimes-are-up-31-since-last-year-10619323.php?ipid=articlerecirc>
+
+  *
+
+    Racial incidents following election of Donald Trump
+    <http://www.sfgate.com/news/slideshow/Racial-incidents-following-election-of-Donald-137590.php?ipid=articlerecirc>
+
+
+    Latest News
+
+  *
+
+
+              China bans 'fatty' Kim Jong Un nickname on websites
+              <http://www.sfgate.com/news/world/article/China-bans-fatty-Kim-Jong-Un-nickname-on-10617480.php?ipid=articlerecirc>
+
+  *
+
+
+              Eric Trump heckled by teens in New York City
+              <http://www.sfgate.com/entertainment/the-wrap/article/Eric-Trump-Heckled-by-Teenagers-in-New-York-City-10619775.php?ipid=articlerecirc>
+
+  *
+
+
+              Man, 20, shot near Dolores Park
+              <http://www.sfgate.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php?ipid=articlerecirc>
+
+  *
+
+
+              2 shot during brawl at Berkeley park
+              <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php?ipid=articlerecirc>
+
+  *
+
+
+              What shook the South Bay? Not a sonic boom
+              <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php?ipid=articlerecirc>
+
+  *
+
+
+              Megyn Kelly’s book trolled by Trump backers on Amazon
+              <http://www.sfgate.com/entertainment/the-wrap/article/Megyn-Kelly-s-New-Book-Gets-Trolled-by-Donald-10619580.php?ipid=articlerecirc>
+
+  *
+
+
+              Manager: Leonard Cohen died in sleep after fall
+              <http://www.sfgate.com/news/article/Leonard-Cohen-died-in-sleep-after-fall-manager-10619365.php?ipid=articlerecirc>
+
+  *
+
+
+              SF, LA police unions attack Gascón over AG speculation
+              <http://www.sfgate.com/crime/article/SF-police-union-attacks-Gasc-n-amid-speculation-10619438.php?ipid=articlerecirc>
+
+  * Hillary Clinton addresses the Children's Defense Fund's Beat the
+    Odds celebration at the Newseum in Washington, Wednesday, Nov. 16,
+    2016.
+    <http://www.sfgate.com/entertainment/the-wrap/article/Hillary-Clinton-Delivers-First-Public-Speech-10619568.php?ipid=articlerecirc>
+  * Hillary Clinton's first public speech since election loss
+    <http://www.sfgate.com/entertainment/the-wrap/article/Hillary-Clinton-Delivers-First-Public-Speech-10619568.php?ipid=articlerecirc>
+  * Clinton reflects on loss, urges backers to 'stay engaged'
+    <http://www.sfgate.com/news/politics/article/Clinton-reflects-on-loss-urges-backers-to-stay-10619609.php?ipid=articlerecirc>
+  * Mark Cuban: Decision to avoid Trump hotels made 'months ago'
+    <http://www.sfgate.com/news/texas/article/Mark-Cuban-Decision-to-avoid-Trump-hotels-made-10618872.php?ipid=articlerecirc>
+  * Report: Fake election news outperformed real news on Facebook
+    <http://www.sfgate.com/news/article/Report-Fake-election-news-outperformed-real-news-10619699.php?ipid=articlerecirc>
+
+  * <http://www.sfgate.com/entertainment/the-wrap/article/Carrie-Fisher-Denies-Calling-Harrison-Ford-Bad-10619068.php?ipid=articlerecirc>
+  * Carrie Fisher denies saying Harrison Ford was 'bad in bed'
+    <http://www.sfgate.com/entertainment/the-wrap/article/Carrie-Fisher-Denies-Calling-Harrison-Ford-Bad-10619068.php?ipid=articlerecirc>
+  * Carrie Fisher reveals affair with Harrison Ford
+    <http://www.sfgate.com/entertainment/article/Carrie-Fisher-reveals-Star-Wars-affair-with-10617646.php?ipid=articlerecirc>
+
+  * EDITORS NOTE: Graphic content / Demonstrators gesture at police at
+    Pioneer Square in Portland, Oregon on November 11, 2016, to protest
+    the election of US President-elect Donald Trump. Aanti-Trump
+    protesters spilled onto the streets for a third straight night, with
+    the Republican president-elect facing mounting calls to reassure
+    Americans who fear a xenophobic crackdown under his authority. / AFP
+    / Ankur Dholakia (Photo credit should read ANKUR DHOLAKIA/AFP/Getty
+    Images)
+    <http://www.sfgate.com/national/article/Portland-police-arrest-71-people-during-Donald-10616416.php?ipid=articlerecirc>
+  * Many arrested in Portland protests didn't actually vote
+    <http://www.sfgate.com/national/article/Portland-police-arrest-71-people-during-Donald-10616416.php?ipid=articlerecirc>
+  * Report: Colin Kaepernick has never registered to vote
+    <http://www.sfgate.com/sports/article/Report-Colin-Kaepernick-has-never-registered-to-10615716.php?ipid=articlerecirc>
+
+  * Indian man Vijay Parsana (R), 44, takes a selfie photograph with his
+    cow Poonam (L), 2, on the eve of her marriage in Ghuma village, some
+    20 km from Ahmedabad on March 23, 2016. Parsana is marrying off his
+    cow Poonam to an ox named Arjun from Bagdana village, some 250 km
+    from Ahmedabad, on March 24 in an elaborate ceremony in a bid to
+    highlight the revered status enjoyed by cows in Hindu-majority
+    India.
+    <http://www.sfgate.com/news/world/article/More-people-died-taking-selfies-in-India-than-10618368.php?ipid=articlerecirc>
+  * More died taking selfies in India than anywhere else
+    <http://www.sfgate.com/news/world/article/More-people-died-taking-selfies-in-India-than-10618368.php?ipid=articlerecirc>
+  * TripAdvisor: 22 most spectacular places in the world
+    <http://www.sfgate.com/life/travel/article/TripAdvisor-releases-its-picks-for-the-22-most-10610345.php?ipid=articlerecirc>
+
+
+    Today's Gate Features
+
+  * Hundreds of students march on Serra Street to the Main Quadrangle of
+    Stanford University in an anti-Trump protest Tuesday.
+    <http://www.sfgate.com/news/article/Hundreds-walk-out-of-Stanford-classes-demand-10617192.php?ipid=articlerecirc>
+
+
+            Stanford students walk out, demand ‘sanctuary campus’
+            <http://www.sfgate.com/news/article/Hundreds-walk-out-of-Stanford-classes-demand-10617192.php?ipid=articlerecirc>
+
+  * Winona Ryder would have been effective in “The Godfather: Part III.”
+    <http://www.sfgate.com/bayarea/article/Hometown-heroes-Famous-people-from-23-Bay-Area-10616950.php?ipid=articlerecirc>
+
+
+            What's her hometown?: Famous people from 23 Bay Area cities
+            <http://www.sfgate.com/bayarea/article/Hometown-heroes-Famous-people-from-23-Bay-Area-10616950.php?ipid=articlerecirc>
+
+  * FORT ROSS, CA - FEBRUARY 10: Heavy surf slams against the rocks
+    along the coastline near Salt Point State Park on February 10, 2016,
+    near Fort Ross, California. Much of Southern California has entered
+    a fifth year of drought, but the irrigation ponds and reservoirs in
+    Sonoma County Wine Country are filled once again and the grapevines
+    are expected to come alive this week due to recent warm weather.
+    (Photo by George Rose/Getty Images)
+    <http://www.sfgate.com/news/article/116-California-state-parks-will-be-free-to-visit-10618976.php?ipid=articlerecirc>
+
+
+            116 California state parks will be free to visit on Black
+            Friday
+            <http://www.sfgate.com/news/article/116-California-state-parks-will-be-free-to-visit-10618976.php?ipid=articlerecirc>
+
+
+      Trending Now
+
+'Hallelujah' Singer-Songwriter Leonard Cohen dead at age 82
+'Hallelujah' Singer-Songwriter Leonard Cohen dead…
+(SF Gate)
+<http://www.sfgate.com/news/article/Singer-Songwriter-and-poet-Leonard-Cohen-dead-at-10607370.php>
+
+Donald Trump has changed his mind on these 7 campaign promises
+Donald Trump has changed his mind on these 7…
+(SF Gate)
+<http://www.sfgate.com/news/article/Donald-Trump-campaign-promises-breaking-changing-10613486.php>
+
+'Hallelujah' Singer-Songwriter Leonard Cohen dead at age 82
+'Hallelujah' Singer-Songwriter Leonard Cohen dead…
+(SF Gate)
+Donald Trump has changed his mind on these 7 campaign promises
+Donald Trump has changed his mind on these 7…
+(SF Gate)
+<http://www.outbrain.com/what-is/default/en>
+
+
+      Sponsored Content
+
+Presidents Ranked from Best to Last
+Presidents Ranked from Best to Last
+InsideGov | By Graphiq
+<http://us-presidents.insidegov.com/stories/5342/least-most-popular-presidents?utm_medium=cm&utm_source=outbrain&utm_campaign=ao.cm.ob.dt.5342>
+
+Before Hillary Clinton Faced Donald Trump
+Before Hillary Clinton Faced Donald Trump
+AARP
+<http://www.aarp.org/politics-society/history/info-2016/before-hillary-ten-women-who-ran-for-president-photo.html?cmp=SL-DSO-OUTBRAIN-DESKTAB-POLITICS-POLSLIDERSS-SLIDE-PV_Before+Hillary+Clinton+Faced+Donald+Trump_1364024922_40820>
+
+This Year's Crop of Lemons: 13 Cars to Not Buy in 2016
+This Year's Crop of Lemons: 13 Cars to Not Buy in…
+Forbes
+<http://www3.forbes.com/business/13-new-cars-to-avoid-for-2016/?utm_campaign=Cars-To-Avoid-2016&utm_source=Outbrain&utm_medium=Referral&utm_content=56646958&utm_term=40820>
+
+Mazda3 Takes Top Spot Once Again in KBB’s 10 Coolest Cars Under $18,000
+of 2016
+Mazda3 Takes Top Spot Once Again in KBB’s 10…
+The News Wheel
+<https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=18522246&PluID=0&ord=&rtu=%24%24https://thenewswheel.com/mazda3-takes-top-spot-once-again-in-kbbs-10-coolest-cars-under-18000-of-2016/%24%24>
+
+Thinking About Going Solar? Read This First
+Thinking About Going Solar? Read This First
+Home Solar Programs
+<http://www.homesolarprograms.com/out021/homeowners-are-furious-with-their-power-company/?campid=31064DF8B6003CE3&utm_term=40820&utm_source=outbrain&utm_medium=referral>
+
+Presidents Ranked from Best to Last
+Presidents Ranked from Best to Last
+InsideGov | By Graphiq
+Before Hillary Clinton Faced Donald Trump
+Before Hillary Clinton Faced Donald Trump
+AARP
+This Year's Crop of Lemons: 13 Cars to Not Buy in 2016
+This Year's Crop of Lemons: 13 Cars to Not Buy in…
+Forbes
+Mazda3 Takes Top Spot Once Again in KBB’s 10 Coolest Cars Under $18,000
+of 2016
+Mazda3 Takes Top Spot Once Again in KBB’s 10…
+The News Wheel
+Thinking About Going Solar? Read This First
+Thinking About Going Solar? Read This First
+Home Solar Programs
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+
+    SFGATE'S BEST DEALS
+
+Sponsored
+
+  * <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/Amplify-your-daily-productivity-with-Pagico-8-10617167.php>
+
+
+            Amplify your daily productivity with Pagico 8 Task Manager
+            <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/Amplify-your-daily-productivity-with-Pagico-8-10617167.php>
+
+  * <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/This-magnetic-space-putty-is-the-ultmate-stress-10617168.php>
+
+
+            This magnetic space putty is the ultmate stress buster and
+            you...
+            <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/This-magnetic-space-putty-is-the-ultmate-stress-10617168.php>
+
+
+    Most Popular
+
+  * 1
+
+
+              San Jose residents report earthquake, but USGS says
+              there...
+              <http://www.sfgate.com/news/article/Mystery-shaking-in-San-Jose-10616715.php>
+
+
+  * 2
+
+
+              Hundreds walk out of Stanford classes, demand
+              ‘sanctuary...
+              <http://www.sfgate.com/news/article/Hundreds-walk-out-of-Stanford-classes-demand-10617192.php>
+
+
+  * 3
+
+
+              Woman wearing headscarf targeted for anti-Muslim hate in
+              Fremont
+              <http://www.sfgate.com/crime/article/Woman-wearing-headscarf-targeted-for-anti-Muslim-10619245.php>
+
+
+  * 4
+
+
+              Alexandria Vera, teacher impregnated by 13-year-old
+              student,...
+              <http://www.sfgate.com/news/houston-texas/article/Teacher-allegedly-impregnated-by-13-year-old-10618200.php>
+
+
+  * 5
+
+
+              Starvation killed 80,000 reindeer after unusual Arctic
+              rains...
+              <http://www.sfgate.com/news/science/article/Starvation-killed-80-000-reindeer-after-unusual-10618343.php>
+
+
+  * 6
+
+
+              Watch Steph Curry and Dave Chappelle get freaked out by
+              a...
+              <http://www.sfgate.com/entertainment/article/Watch-Steph-Curry-and-Dave-Chappelle-freak-out-at-10618785.php>
+
+
+  * 7
+
+
+              United Airlines flight from SFO makes emergency landing in
+              Utah
+              <http://www.sfgate.com/bayarea/article/United-Airlines-flight-from-SFO-makes-emergency-10618600.php>
+
+
+  * 8
+
+
+              It took only 36 hours for these students to solve
+              Facebook's...
+              <http://www.sfgate.com/technology/businessinsider/article/It-only-took-36-hours-for-these-students-to-solve-10614549.php>
+
+
+  * 9
+
+
+              Laid-off UCSF tech workers allege discrimination in suit
+              <http://www.sfgate.com/bayarea/article/Laid-off-UCSF-tech-workers-allege-discrimination-10619188.php>
+
+
+  * 10
+
+
+              SF tenants take landlady to trial over evictions
+              <http://www.sfgate.com/bayarea/article/S-F-tenants-take-landlady-to-trial-over-evictions-10616690.php>
+
+
+
+    Latest News
+
+  *
+
+
+              China bans 'fatty' Kim Jong Un nickname on websites
+              <http://www.sfgate.com/news/world/article/China-bans-fatty-Kim-Jong-Un-nickname-on-10617480.php>
+
+  *
+
+
+              Eric Trump heckled by teens in New York City
+              <http://www.sfgate.com/entertainment/the-wrap/article/Eric-Trump-Heckled-by-Teenagers-in-New-York-City-10619775.php>
+
+  *
+
+
+              Man, 20, shot near Dolores Park
+              <http://www.sfgate.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php>
+
+  *
+
+
+              2 shot during brawl at Berkeley park
+              <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+  *
+
+
+              What shook the South Bay? Not a sonic boom
+              <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php>
+
+  *
+
+
+              Megyn Kelly’s book trolled by Trump backers on Amazon
+              <http://www.sfgate.com/entertainment/the-wrap/article/Megyn-Kelly-s-New-Book-Gets-Trolled-by-Donald-10619580.php>
+
+  *
+
+
+              Manager: Leonard Cohen died in sleep after fall
+              <http://www.sfgate.com/news/article/Leonard-Cohen-died-in-sleep-after-fall-manager-10619365.php>
+
+  *
+
+
+              SF, LA police unions attack Gascón over AG speculation
+              <http://www.sfgate.com/crime/article/SF-police-union-attacks-Gasc-n-amid-speculation-10619438.php>
+
+View Comments
+
+<http://www.sfgate.com/bayarea/articleComments/How-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+© 2016 Hearst Communications, Inc.
+
+Logo Return to Top <#>
+
+
+      About
+
+  * Our Company <http://www.sfgate.com/aboutsfgate/>
+  * Careers <http://www.sfgate.com/chronicle/hr/>
+  * Advertising <http://marketing.sfgate.com/>
+  * Ad Choices <http://www.aboutads.info/choices/>
+  * Terms & Conditions <http://www.sfgate.com/termsandconditions/>
+  * Privacy Policy <http://www.sfgate.com/privacy-policy/>
+  * Your California Privacy Rights
+    <http://www.sfgate.com/privacy-policy/#caprivacyrights>
+
+
+      Contact
+
+  * Customer Service <http://www.sfgate.com/feedback/>
+  * Newsroom Contacts <http://www.sfgate.com/chronicle-contacts/>
+
+
+      Connect
+
+  * Sign up for Email Alerts <http://www.sfgate.com/profile/>
+  * Facebook <https://www.facebook.com/SFGate/>
+  * Twitter <https://twitter.com/sfgate/>
+  * Pinterest <http://www.pinterest.com/sfgate/>
+  * Google <https://plus.google.com/118071641239908367285/posts/>
+  * Instagram <https://instagram.com/sfgate/>
+
+
+      Subscribe
+
+  * SFChronicle.com <http://www.sfchronicle.com/>
+  * App <http://www.sfgate.com/app/>
+  * e-edition <http://www.sfgate.com/e-edition/>
+  * The Chronicle Archives <http://www.sfgate.com/archive>
+  * Subscription Offers <http://www.sfgate.com/subscribe/?ipid=sfg_foot>
+  * Member Services <http://www.sfgate.com/account>
+
+Hearst Newspapers © Copyright 2016 Hearst Communications, Inc.
+<http://www.sfgate.com/copyright-notice/>
+
+
+    The sign in service is not functioning right now.
+
+
+    Please try again in a few minutes
+
+If the issues continue, please contact our customer service at
+
+Phone:
+
+Email:
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password? <javascript:void(0)>
+Keep me signed in
+
+
+            Don't have a profile?
+
+
+Don't have a subscription?
+
+Sign up
+
+<javascript:void(0)> Subscribe <http://www.sfgate.com/subscribe/>
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>.
+
+
+          Create a profile using
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+Send me email offers
+
+Already have a profile? Sign In <javascript:void(0)>
+
+By clicking "Next" or signing in you confirm that you accept our Terms
+and Conditions <http://www.sfchronicle.com/terms_of_use/> and have read
+and understood our Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel <javascript:void(0)>
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+<javascript:void(0)>
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+
+<javascript:void(0)>
+
+
+          Hi,
+
+
+          You are signed in
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfgate.com/profile/>
+
+Maintain your delivery address, payment details and place a vacation
+hold in Subscriber Portal.
+
+MANAGE SUBSCRIPTION
+
+<http://www.sfgate.com/account/>
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfgate.com/profile/>
+SUBSCRIBE
+
+<http://www.sfgate.com/subscribe/>
+SIGN OUT
+
+<javascript:void(0)>
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot password?
+Keep me signed in
+
+By signing in, you agree to our
+Terms of Service <http://www.sfgate.com/termsandconditions/> and Privacy
+Policy <http://www.sfgate.com/privacy-policy/>
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign In
+
+Keep me signed in
+Show password Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Keep me signed in
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>
+
+
+          Paid Subscription Access Only
+
+You are now signed in but you must have a San Francisco Chronicle
+subscription to access any content.
+
+Already have a subscription?
+
+ACTIVATE
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfgate.com%2Fbayarea%2Farticle%2FHow-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          About Me
+
+DISPLAY NAMEDisplay names must begin with an alpha-numeric character.
+They can not contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor
+may they contain obscenities.
+
+This display name is already in use. Please enter a different display name.
+
+You must enter a display name.
+
+Display names must begin with an alpha-numeric character. They can not
+contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor may they
+contain obscenities.
+
+EMAIL ADDRESSChanging this email address will also change the email
+address associated with your subscription
+
+You must enter an email address.
+
+GENDERThis optional field is required to enter contests and promotions
+
+BIRTH YEARThis optional field is required to enter contests and promotions
+
+* are required fields
+
+
+          SF Chronicle Subscription
+
+You can manage your delivery address, payment details, delete your
+account and more subscription details in the subscriber portal.
+
+Manage Subscription
+
+<http://www.sfgate.com/account/>
+
+
+            Get it on all your devices
+
+
+    Unlimited digital access with every subscription
+
+SFChronicle.com | App for iPhone and iPad
+e-edition (daily print replica) | Exclusive member experiences and discounts
+
+SUBSCRIBE NOW AND SAVE!
+
+<http://www.sfgate.com/subscribe/> I have a subscription
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfgate.com%2Fbayarea%2Farticle%2FHow-BART-police-will-keep-riders-from-hogging-two-8321857.php>
+
+
+          Password
+
+EDIT
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+
+          Password
+
+CANCEL
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+CURRENT PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Current password is incorrect
+
+Current password field is required
+
+NEW PASSWORD Passwords must be at least 8 characters and contain both
+upper and lowercase letters and at least one number.
+
+New password field is required
+
+CONFIRM PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Confirm password field is required
+
+Show password
+
+
+    Welcome, !
+
+Your profile, subscription, linked accounts, and newsletter selections
+are not viewable by other readers on our sites. Your profile can only be
+seen by you. Any comments you post to articles on our sites can be seen
+by all readers and moderators.
+
+
+          Newsletter Preferences
+
+You are subscribed to the following:
+
+  * Top O’ the Bay
+
+    The latest stories from across the San Francisco Bay Area
+
+  * Notes & Errata
+
+    Mark Morford's irreverent and highly satiric weekly column
+
+  * Breaking News
+
+    Be notified when when big stories break or critical warnings are
+    issued for the Bay Area
+
+  * Sports
+
+    Coverage of all your Bay Area teams
+
+  * Inside Scoop
+
+    Insider knowledge for Bay Area foodies
+
+  * New Flicks
+
+    The latest movie reviews
+
+  * Business & Technology
+
+    The latest in business, finance, and tech news
+
+  * 5 Things To Do
+
+    Great events across the Bay Area selected just for you
+
+
+          San Francisco Chronicle Newsletters
+
+  * Chronicle Commuter
+
+    A curated selection of stories just in time for your afternoon commute
+
+  * Membership Updates
+
+    The latest from our membership benefits program (subscribers only)
+
+  * e-edition Reminder
+
+    Reminder of your daily e-edition, a replica of the print newspaper
+    (subscribers only)
+
+  * Subscription Reminders
+
+    Notices and reminders about your subscription (subscribers only)
+
+
+          Email Notifications and Offers
+
+  * Feature Updates
+
+    Special features, new site sections and more from The Chronicle and
+    SFGATE
+
+  * Promotions & Sales
+
+    Subscription offers from the San Francisco Chronicle and other
+    special promotions
+
+  * Surveys
+
+    Surveys about your Chronicle print edition, websites and other
+    digital products
+
+  * Advertiser Special Offers
+
+    Receive special offers sent by us on behalf of select advertisers
+    and partners
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in Forgot Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+You must be a subscriber to access this content.
+
+If you are a subscriber, Sign in!
+
+Stay signed in
+Forgot Your Password?
+
+
+          Sign In
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Back to Sign In
+
+Email address field is required.
+
+Email address is incorrect.
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+You must be a subscriber to access this content.
+
+
+          Link Profiles
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Keep me signed in
+Show password
+Forgot Your Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Forgot Your Password?
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Link Profiles
+
+Stay signed in
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Forgot Your Password?
+
+
+          SIGN IN
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot Your Password?
+Keep me signed in
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Sign In With Your Existing San Francisco Chronicle Account
+Sign In
+OR
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Keep me signed in
+Forgot Your Password?
+
+By signing in, you agree to our terms of use
+<http://www.sfgate.com/termsandconditions/>.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password?
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password?
+Keep me signed in
+Keep me signed in
+Show password
+Forgot password?
+
+Create an account
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>.
+
+
+          Create a sign-in for your subscription account
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+
+Have a profile on SFGate or San Francisco Chronicle already?
+
+Sign In
+
+Contact Customer Service at 800-310-2455 or email us at
+homedelivery@sfchronicle.com <mailto:homedelivery@sfchronicle.com>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+

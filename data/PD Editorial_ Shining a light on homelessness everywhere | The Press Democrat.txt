@@ -1,0 +1,722 @@
+Next Article
+//
+Just an advertisement
+
+s
+/
+
+/
+
+  * Sign In
+    <https://dpw1.pressdemocrat.com/Login.aspx?SentFromUrl=http%3A%2F%2Fwww.pressdemocrat.com%2F>
+  * e-Edition
+    <https://dpw1.pressdemocrat.com/Login.aspx?SentFromUrl=eEdition>
+  * Subscribe <https://dpw1.pressdemocrat.com/Subscribe.aspx>
+
+s
+Sections
+/
+
+/
+
+  * Home
+
+    <http://www.pressdemocrat.com/>
+  * News
+
+    <http://www.pressdemocrat.com/news/>
+    /
+
+    /
+      o Local News
+
+        <http://www.pressdemocrat.com/news/local/>
+      o Arrest Logs
+
+        <http://www.pressdemocrat.com/arrest/>
+      o Towns
+
+        <http://www.pressdemocrat.com/towns>
+      o Obituaries
+
+        <http://www.pressdemocrat.com/news/obits/>
+      o Weather
+
+        <http://www.pressdemocrat.com/weather/>
+      o Videos
+
+        <http://www.pressdemocrat.com/video/>
+      o Archives
+
+        <http://www.pressdemocrat.com/archives/>
+      o Gallery
+
+        <http://www.pressdemocrat.com/gallery/>
+      o Datacenter
+
+        <http://www.pressdemocrat.com/datacenter/>
+  * Opinion
+
+    <http://pressdemocrat.com/opinion>
+    /
+
+    /
+      o Editorials
+
+        <http://www.pressdemocrat.com/opinion/editorials/>
+      o Close to Home
+
+        <http://www.pressdemocrat.com/opinion/closetohome/>
+      o Letters
+
+        <http://www.pressdemocrat.com/opinion/letters/>
+      o Paul Gullixson
+
+        <http://www.pressdemocrat.com/category/?t=paulgullixson>
+      o Pete Golis
+
+        <http://www.pressdemocrat.com/category/?t=petegolis>
+  * Sports
+
+    <http://pressdemocrat.com/sports>
+    /
+
+    /
+      o PD Preps
+
+        <http://www.pdpreps.com/>
+      o NFL
+
+        <http://www.pressdemocrat.com/sports/nfl/>
+      o NBA
+
+        <http://www.pressdemocrat.com/sports/nba/>
+      o MLB
+
+        <http://www.pressdemocrat.com/sports/mlb/>
+      o College
+
+        <http://www.pressdemocrat.com/sports/college/>
+      o Kerry Benefield
+
+        <http://www.pressdemocrat.com/category/?t=kerrybenefield>
+      o 49ers Blog
+
+        <http://49ers.pressdemocrat.com/>
+      o Bob Padecky
+
+        <http://www.pressdemocrat.com/category/?t=bobpadecky>
+      o Lowell Cohn
+
+        <http://www.pressdemocrat.com/category/?t=lowellcohn>
+      o Grant Cohn
+
+        <http://www.pressdemocrat.com/category/?t=grantcohn>
+  * Business
+
+    <http://pressdemocrat.com/business>
+    /
+
+    /
+      o Real Estate
+
+        <http://www.pressdemocrat.com/business/realestate/>
+      o Business Journal
+
+        <http://www.northbaybusinessjournal.com/>
+      o People & Business
+
+        <http://www.pressdemocrat.com/peopleinbusiness>
+      o Book of Lists
+
+        <http://lists.northbaybusinessjournal.com/index.htm>
+      o Wine Business
+
+        <http://www.pressdemocrat.com/category/?t=winebusiness>
+  * Food & Wine
+
+    <http://pressdemocrat.com/lifestyle/food>
+    /
+
+    /
+      o Bite Club
+
+        <http://www.biteclubeats.com/>
+      o Wine
+
+        <http://www.pressdemocrat.com/lifestyle/wine>
+      o Beer
+
+        <http://www.pressdemocrat.com/topics/?t=pd-beer>
+  * Lifestyle
+
+    <http://pressdemocrat.com/lifestyle>
+    /
+
+    /
+      o Home and Garden
+
+        <http://www.pressdemocrat.com/category/?t=homeandgarden>
+      o Unions
+
+        <http://www.pressdemocrat.com/unions>
+      o Outdoors
+
+        <http://www.pressdemocrat.com/category/?t=outdoors>
+      o Biteclub
+
+        <http://www.biteclubeats.com/>
+      o Beer
+
+        <http://www.pressdemocrat.com/topics/?t=pd-beer>
+      o Pets
+
+        <http://www.pressdemocrat.com/lifestyle/pets/>
+      o Celebrate Community
+
+        <http://www.celebratecommunity.org/>
+  * A & E
+
+    <http://pressdemocrat.com/entertainment>
+    /
+
+    /
+      o Games
+
+        <http://www.pressdemocrat.com/games/>
+      o Calendar
+
+        <http://events.pressdemocrat.com/>
+      o Movie Listings
+
+        <http://movies.pressdemocrat.com/>
+      o TV Blog + Listings
+
+        <http://tv.blogs.pressdemocrat.com/>
+      o Sudoku
+
+        <http://www.pressdemocrat.com/sudoku/>
+      o Comics
+
+        <http://www.pressdemocrat.com/comics/>
+      o Horoscopes
+
+        <http://www.pressdemocrat.com/horoscopes/>
+  * Cars
+
+    <http://www.northbaycarsearch.com/>
+  * Blogs
+
+    <http://www.pressdemocrat.com/blogs/>
+
+/
+
+/
+
+/
+
+/
+Sections
+<http://www.pressdemocrat.com/>
+
+<http://www.pressdemocrat.com/> News
+<http://www.pressdemocrat.com/news/> Obits
+<http://www.pressdemocrat.com/news/obits/> Sports
+<http://www.pressdemocrat.com/sports/> Business
+<http://www.pressdemocrat.com/business/> Opinion
+<http://www.pressdemocrat.com/opinion/> Food & Wine
+<http://www.pressdemocrat.com/lifestyle/food/> Lifestyle
+<http://www.pressdemocrat.com/lifestyle/> A&E
+<http://www.pressdemocrat.com/entertainment/> Events
+<http://www.pressdemocrat.com/events> Blogs
+<http://www.pressdemocrat.com/blogs/>
+Subscribe
+
+<https://dpw1.pressdemocrat.com/Subscribe.aspx>
+//
+
+You've read 5 of 15 free articles this month.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=A1>
+
+CLOSE X
+<#>
+You've read 10 of 15 free articles this month.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=A2>
+
+CLOSE X
+<#>
+You've read all of your free articles this month.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=A3>
+
+CLOSE X
+<#>
+We've got a special deal for readers like you.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=B1>
+
+CLOSE X
+<#>
+Thanks for reading! Why not subscribe?
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=B2>
+
+CLOSE X
+<#>
+Want to keep reading? Subscribe today!
+Ooops! You're out of free articles. Starting at just 99 cents per month,
+you can keep reading all of our products and support local journalism.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=B3>
+
+CLOSE X
+<#>
+<http://www.pressdemocrat.com/opinion/6315796-181/pd-editorial-president-elect-trump-deserves>
+
+PD Editorial: President-elect Trump deserves time to prove himself
+<http://www.pressdemocrat.com/opinion/6315796-181/pd-editorial-president-elect-trump-deserves?ref=TSM>
+
+<http://www.pressdemocrat.com/opinion/6314980-181/thursdays-letters-to-the-editor>
+
+Thursday’s Letters to the Editor
+<http://www.pressdemocrat.com/opinion/6314980-181/thursdays-letters-to-the-editor?ref=TSM>
+
+<http://www.pressdemocrat.com/opinion/6316487-181/the-last-word-the-press>
+The Last Word: The Press Democrat’s write-a-caption contest
+<http://www.pressdemocrat.com/opinion/6316487-181/the-last-word-the-press?ref=TSM>
+
+<http://www.pressdemocrat.com/opinion/6316517-181/the-last-word-our-top>
+The Last Word: Our top picks from the write-a-caption contest
+<http://www.pressdemocrat.com/opinion/6316517-181/the-last-word-our-top?ref=TSM>
+
+<http://www.pressdemocrat.com/opinion/6315031-181/mcmanus-some-advice-from-a>
+
+McManus: Some advice from a GOP elder statesman
+<http://www.pressdemocrat.com/opinion/6315031-181/mcmanus-some-advice-from-a?ref=TSM>
+
+<http://www.pressdemocrat.com/opinion/6315095-181/sizing-up-the-field-in>
+Sizing up the field in California’s next big election
+<http://www.pressdemocrat.com/opinion/6315095-181/sizing-up-the-field-in?ref=TSM>
+
+
+
+          *(1 of )* Morning light spreads under the Highway 101 over
+          crossing on Sixth Street in Santa Rosa as a homeless man
+          sleeps. (KENT PORTER / The Press Democrat)
+
+prev
+next
+//
+ <javascript:prevSlidePlease();> //
+ <javascript:nextSlidePlease();>
+
+
+  PD Editorial: Shining a light on homelessness everywhere
+
+THE EDITORIAL BOARD
+BY THE EDITORIAL BOARD | June 29, 2016
+
+<#>
+
+<#>
+
+<#>
+
+
+        SF Homeless Project
+
+Read works on homelessness from dozens of Bay Area media organizations
+at SF Homeless Project <http://www.sfgate.com/homeless/>.
+
+
+News organizations from around the Bay Area are working together today
+to shine a light on a problem that besets many California communities —
+homelessness.
+
+Soaring housing costs and a lapse in housing construction over the past
+decade — along with inadequate public resources to deal with mental
+illness, addictions and other issues that plague the chronically
+homeless — have combined to create a nightmare scenario for those on the
+margins.
+
+Unfortunately, it’s a nightmare with which Press Democrat readers are
+familiar.
+
+According to official estimates, some 2,000 people are living without a
+permanent place to call home in Sonoma County, a homelessness rate
+that’s higher than San Francisco’s, which is the primary focus of
+today’s media coverage.
+
+Although census data show the homeless population in Sonoma County
+declining 37 percent from 2011 and 2015 and dropping another 8 percent
+last year, downtown merchants, shoppers and workers contend homelessness
+is more visible than ever. That may be a result of ongoing efforts to
+clear out homeless encampments near the railroad tracks in preparation
+for the start of the SMART train service later this year. The visibility
+also is related to a perceived increase in aggressive panhandling, as
+well as outbursts by those suffering from mental illness.
+
+What can’t be forgotten in the community debate about how to address the
+problem is that nobody is more vulnerable that the homeless themselves.
+This was demonstrated by the stabbing of a 32-year-old homeless man who
+was found dead early Monday on a downtown Santa Rosa sidewalk. Cirak
+Mateos Tesfazgi of Santa Rosa was the third homeless homicide victim in
+Santa Rosa this year.
+
+As Jennielynn Holmes, director of shelter and housing for Catholic
+Charities, noted, the homeless “already feel exposed and so vulnerable.”
+Ongoing concern about these homicides “adds another level of trauma and
+uncertainty,” she said.
+
+Attacks like this underscore the importance of “housing first”
+initiatives, endorsed by local elected leaders, which are based on the
+simple notion that the best chance for success for intervention programs
+for homeless individuals — whether it involves taking medication,
+committing to addition programs or keeping a job — begins with making
+sure he or she has a permanent place to live.
+
+In that area, Santa Rosa and Sonoma County can point to recent successes
+including the grand opening earlier this month of the Palms Inn, a
+104-unit former motel on Santa Rosa Avenue that has been converted into
+permanent housing for homeless people, including veterans.
+
+In March, Santa Rosa saw the opening of Dream Center, a short-term
+housing facility for those 18-24 years old, some of whom aged out of the
+foster care program and had no place else to go. According to Chief
+Executive Officer Matt Martin, the center, which is the only one of its
+kind between San Francisco and the Oregon border, has already reached
+its first-year capacity of 40. Meanwhile, nearby Tamayo Village, a
+similar facility, has also maxed out at 25 residents between the same ages.
+
+But more work is needed as evidenced by the long lines that
+traditionally form outside most homeless service programs around Sonoma
+County and the long waits to get into assisted housing.
+
+The issue has reached the point that, next month, the Santa Rosa City
+Council will consider declaring a homeless emergency, a move that would
+open up other programs to assist those living on the street.
+
+
+        SF Homeless Project
+
+Read works on homelessness from dozens of Bay Area media organizations
+at SF Homeless Project <http://www.sfgate.com/homeless/>.
+
+Most Popular Stories
+<http://www.pressdemocrat.com/news/6320771-181/report-man-died-seeking-place>
+
+Officials: Tourist dissolved in Yellowstone hot spring
+<http://www.pressdemocrat.com/news/6320771-181/report-man-died-seeking-place?ref=most>
+
+<http://www.pressdemocrat.com/news/6315200-181/brandon-maxfield-child-shooting-victim>
+
+Willits man paralyzed by bullet as child remembered as 'smart,'
+'exceptional'
+<http://www.pressdemocrat.com/news/6315200-181/brandon-maxfield-child-shooting-victim?ref=most>
+
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing>
+
+Additional suspects named in killing of Laytonville pot farmer; 1 turns
+self in
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing?ref=most>
+
+<http://www.pressdemocrat.com/news/6315535-181/witnesses-testify-against-santa-rosa>
+
+Witnesses recount brawl that led to Santa Rosa woman plowing into
+nightclub crowd
+<http://www.pressdemocrat.com/news/6315535-181/witnesses-testify-against-santa-rosa?ref=most>
+
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors>
+
+Santa Rosa teen, tribal youth program honored at White House
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors?ref=most>
+
+
+Such a declaration is certainly warranted if only to confirm what many
+already know — that Sonoma County and the rest of the Bay Area are in
+crisis mode, and that if it weren’t for the efforts of many people, like
+Holmes and Martin, who are already working tirelessly to provide
+services to the homeless, this problem would be far worse than it is.
+
+Related Stories
+<http://www.pressdemocrat.com/news/5772529-181/pushed-from-hidden-encampments-plight>
+
+Plight of homeless grows more visible
+<http://www.pressdemocrat.com/news/5772529-181/pushed-from-hidden-encampments-plight?ref=related>
+
+<http://www.pressdemocrat.com/news/5772604-181/santa-rosas-thousands-of-homeless>
+
+Homeless camp life in Santa Rosa: free and filthy
+<http://www.pressdemocrat.com/news/5772604-181/santa-rosas-thousands-of-homeless?ref=related>
+
+
+Government officials should keep that in mind as they search for simple
+solutions to this complex problem. There are none. What’s needed is to
+recognize those who already knows what works — and make sure they get
+the time and resources to do their best.
+
+Sponsored Contenton Press Democrat
+A jump-start for clean transportation
+<http://www.pressdemocrat.com/sponsored2?prx_t=9nQCAv44KArbcMA&ntv_fr>
+A jump-start for clean transportation
+<http://www.pressdemocrat.com/sponsored2?prx_t=9nQCAv44KArbcMA&ntv_fr>
+By Tony Earley, Chairman & CEO, PG&E Corporation
+<http://www.pressdemocrat.com/sponsored2?prx_t=9nQCAv44KArbcMA&ntv_fr>
+
+After a disappointing 2015, when cheap gasoline drove electric vehicle
+sales into the slow lane, this year’s market started with a roar. In a
+single week, Tesla Motors booked 325,000 advance...
+
+Recent Columns
+<http://www.pressdemocrat.com/category/?t=lowellcohn>
+<http://www.pressdemocrat.com/sports/6320161-184/lowell-cohn-andre-ward-vs>
+*Lowell Cohn:* Ward vs. Kovalev a big fight like the old days
+<http://www.pressdemocrat.com/sports/6320161-181/lowell-cohn-andre-ward-vs>
+<http://www.pressdemocrat.com/category/?t=kerrybenefield>
+<http://www.pressdemocrat.com/sports/6316087-184/benefield-playoffs-give-high-school>
+*Benefield:* Playoffs give high school football rivals another shot at
+each other
+<http://www.pressdemocrat.com/sports/6316087-181/benefield-playoffs-give-high-school>
+
+<http://www.pressdemocrat.com/category/?t=chrissmith>
+<http://www.pressdemocrat.com/news/6315335-184/smith-late-nights-are-little>
+*Smith:* Late nights are little trouble for this ‘Music Man’ duo
+<http://www.pressdemocrat.com/news/6315335-181/smith-late-nights-are-little>
+
+<http://www.pressdemocrat.com/category/?t=petegolis>
+<http://www.pressdemocrat.com/opinion/6292785-184/golis-making-good-on-the>
+*Golis:* Making good on the promise of more housing
+<http://www.pressdemocrat.com/opinion/6292785-181/golis-making-good-on-the>
+<http://www.pressdemocrat.com/category/?t=paulgullixson>
+<http://www.pressdemocrat.com/opinion/6270626-184/gullixson-dont-be-too-surprised>
+*Gullixson:* Don’t be too surprised if … Trump wins
+<http://www.pressdemocrat.com/opinion/6270626-181/gullixson-dont-be-too-surprised>
+
+
+Most Popular Stories
+<http://www.pressdemocrat.com/news/6320771-181/report-man-died-seeking-place>
+
+Officials: Tourist dissolved in Yellowstone hot spring
+<http://www.pressdemocrat.com/news/6320771-181/report-man-died-seeking-place?ref=most>
+
+<http://www.pressdemocrat.com/news/6315200-181/brandon-maxfield-child-shooting-victim>
+
+Willits man paralyzed by bullet as child remembered as 'smart,'
+'exceptional'
+<http://www.pressdemocrat.com/news/6315200-181/brandon-maxfield-child-shooting-victim?ref=most>
+
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing>
+
+Additional suspects named in killing of Laytonville pot farmer; 1 turns
+self in
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing?ref=most>
+
+<http://www.pressdemocrat.com/news/6315535-181/witnesses-testify-against-santa-rosa>
+
+Witnesses recount brawl that led to Santa Rosa woman plowing into
+nightclub crowd
+<http://www.pressdemocrat.com/news/6315535-181/witnesses-testify-against-santa-rosa?ref=most>
+
+
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors>
+
+Santa Rosa teen, tribal youth program honored at White House
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors?ref=most>
+
+<http://www.pressdemocrat.com/news/6311195-181/old-courthouse-square-reunification-project>
+
+A reunified Old Courthouse Square for the holidays? Think again
+<http://www.pressdemocrat.com/news/6311195-181/old-courthouse-square-reunification-project?ref=most>
+
+<http://www.pressdemocrat.com/news/6315086-181/two-teens-arrested-in-santa>
+2 arrested in Santa Rosa High theater vandalism
+<http://www.pressdemocrat.com/news/6315086-181/two-teens-arrested-in-santa?ref=most>
+
+<http://www.pressdemocrat.com/home/6314656-181/father-and-son-who-died>
+California dad, son who died in hiking accident loved to explore
+<http://www.pressdemocrat.com/news/6314656-181/father-and-son-who-died?ref=most>
+
+
+<javascript:showDisqus2016()>
+  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+by Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>by
+Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+Sponsored Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>Sponsored
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+Promoted Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>Promoted
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+You May Like
+The Brofessional
+<http://www.thebrofessional.net/unreal-photos-taken-tragic-moments-history/?utm_source=taboola&utm_medium=LAZ%5FTheBrofessional%2Enet%2DDesktop%2DUS%2DFinalD&&utm_term=nytrng-pressdemocrat&utm_content=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F7b94434aa02f1f1210dc778c3cd86562.jpg&utm_campaign=Final+Images+Taken+Seconds+Before+Tragedy+Struck>Final
+Images Taken Seconds Before Tragedy StruckThe Brofessional
+<http://www.thebrofessional.net/unreal-photos-taken-tragic-moments-history/?utm_source=taboola&utm_medium=LAZ%5FTheBrofessional%2Enet%2DDesktop%2DUS%2DFinalD&&utm_term=nytrng-pressdemocrat&utm_content=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F7b94434aa02f1f1210dc778c3cd86562.jpg&utm_campaign=Final+Images+Taken+Seconds+Before+Tragedy+Struck>
+Undo
+Trend Chaser
+<http://www.trend-chaser.com/trending/frightening-pictures-view-daytime/?utm_source=tb&utm_medium=nytrng-pressdemocrat-tb&utm_term=9+Out+Of+10+People+Can%27t+Get+Through+These+Photos%2C+Can+You%3F-https%3A%2F%2Fconsole.brax-cdn.com%2Fcreatives%2Fb86bbc0b-1fab-4ae3-9b34-fef78c1a7488%2Fwoman_frightening_b3a42a9074f3a0182e888bd3c8a22f3d.png&utm_content=-7615896481188695752&utm_campaign=391455-tb>9
+Out Of 10 People Can't Get Through These Photos, Can You?Trend Chaser
+<http://www.trend-chaser.com/trending/frightening-pictures-view-daytime/?utm_source=tb&utm_medium=nytrng-pressdemocrat-tb&utm_term=9+Out+Of+10+People+Can%27t+Get+Through+These+Photos%2C+Can+You%3F-https%3A%2F%2Fconsole.brax-cdn.com%2Fcreatives%2Fb86bbc0b-1fab-4ae3-9b34-fef78c1a7488%2Fwoman_frightening_b3a42a9074f3a0182e888bd3c8a22f3d.png&utm_content=-7615896481188695752&utm_campaign=391455-tb>
+Undo
+Vital Reds Supplement
+<http://gundrymd.com/cmd.php?ad=801094&utm_source=taboola&utm_medium=referral>How
+To Fix Your Fatigue And Get More EnergyVital Reds Supplement
+<http://gundrymd.com/cmd.php?ad=801094&utm_source=taboola&utm_medium=referral>
+Undo
+Lower My Bills
+<https://www.lowermybills.com/lending/home-refinance/index.loan?sourceid=lmb-43857-83240&moid=147627&providerId=9628390&pkey1=nytrng-pressdemocrat&pkey2=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2127352fefaa745fce6c5d115cef92eb.jpg&pkey3=Pay+Off+Your+House+At+A+Furious+Pace>Pay
+Off Your House At A Furious PaceLower My Bills
+<https://www.lowermybills.com/lending/home-refinance/index.loan?sourceid=lmb-43857-83240&moid=147627&providerId=9628390&pkey1=nytrng-pressdemocrat&pkey2=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2127352fefaa745fce6c5d115cef92eb.jpg&pkey3=Pay+Off+Your+House+At+A+Furious+Pace>
+Undo
+YourCreditCardsMatters.com
+<http://comparecreditcards.online/?utm_campaign=us-ccc-lp-web&utm_source=taboola&utm_content=baseline&adgroup=native&utm_term=nytrng-pressdemocrat>Here
+Is How You Find Great Credit CardsYourCreditCardsMatters.com
+<http://comparecreditcards.online/?utm_campaign=us-ccc-lp-web&utm_source=taboola&utm_content=baseline&adgroup=native&utm_term=nytrng-pressdemocrat>
+Undo
+Bankrate
+<http://www.bankrate.com/lite/celebrity-money/richest-golfers-1.aspx?ic_id=tb_80002&pid=pm_tb65>Can
+You Guess The Top 5 Richest Golfers In The World?Bankrate
+<http://www.bankrate.com/lite/celebrity-money/richest-golfers-1.aspx?ic_id=tb_80002&pid=pm_tb65>
+Undo
+VitaPulse Supplement
+<http://princetonnutrients.com/cmd.php?ad=746840&utm_source=taboola&utm_medium=referral>Heart
+Attack Red Flags: Don’t Miss These WarningsVitaPulse Supplement
+<http://princetonnutrients.com/cmd.php?ad=746840&utm_source=taboola&utm_medium=referral>
+Undo
+Zoo.com
+<https://www.zoo.com/quiz/97-people-cant-identify-individual-countries-just-a-map-outline-can-you?mkcpgn=i600006625&utm_source=taboola&utm_medium=paid&utm_campaign=Zoo-CountryOutline-Screenshots%28desktop%29&utm_term=nytrng-pressdemocrat&utm_content=Can+You+Identify+the+Countries+by+Their+Outline%3F+%28Quiz%29&sg_uid=utxSXZczT7GrSJWJqzKQ4w>Can
+You Identify the Countries by Their Outline? (Quiz)Zoo.com
+<https://www.zoo.com/quiz/97-people-cant-identify-individual-countries-just-a-map-outline-can-you?mkcpgn=i600006625&utm_source=taboola&utm_medium=paid&utm_campaign=Zoo-CountryOutline-Screenshots%28desktop%29&utm_term=nytrng-pressdemocrat&utm_content=Can+You+Identify+the+Countries+by+Their+Outline%3F+%28Quiz%29&sg_uid=utxSXZczT7GrSJWJqzKQ4w>
+Undo
+Sponsored Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>Sponsored
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+Promoted Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>Promoted
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+From The WebYou May Also Like
+These 17 Movies Almost Ended Very Differently (Head Cramp)(Head Cramp)
+
+<http://headcramp.com/17-deleted-scenes/?as=2020010101085&utm_source=taboola&utm_medium=referral&utm_term=nytrng-pressdemocrat>
+Top 20 Famous Gay Men Who Married Women (POP Hitz)(POP Hitz)
+
+<http://pophitz.com/top-20-famous-gay-men-who-married-women/?utm_source=taboola&utm_medium=desktop&utm_content=nytrng-pressdemocrat>
+Growth Hack Instagram for your Business (www.kickstagram.io)(www.kickstagram.io)
+
+<https://www.kickstagram.io/quiz/?utm_source=taboola&utm_medium=referral>
+21 Mind Blowing Photos that Haven’t Been Photoshopped (OMG-Whut)(OMG-Whut)
+
+<http://omgwhut.com/21-mind-blowing-photos-that-havent-been-photoshopped/?utm_source=taboola&utm_medium=referral&utm_campaign=mind-blowing-photos>
+The One Little Device That's Going to Grow In The Market by 8000% (Sovereign Society)(Sovereign Society)
+
+<http://oaetrk.com/click.php?c=67&key=626v3jq2mashuf8bo3e9r44u&campgroupid=A4D&campid=67.1028_TBL_W_N_A4D_PRL_WL_US&tsid=TBL&channelid=nytrng-pressdemocrat&orderid=%7Bcampaign%7D&tbl_click_id=CiRlZDU4NDk0Zi0xODA0LTRkYTktYTg3OC0yM2U4ZDk2MDU0ZjgSF2NsaWNremNsb2Nrei1zYy1maW5hbmNl&adid=AD4&channelid=nytrng-pressdemocrat&tbl_click_id=CiRlZDU4NDk0Zi0xODA0LTRkYTktYTg3OC0yM2U4ZDk2MDU0ZjgSF2NsaWNremNsb2Nrei1zYy1maW5hbmNl>
+11 Worst College Degrees For Today's Job Market (The Investment Dr)(The Investment Dr)
+
+<http://www.theinvestmentdr.com/11-worst-college-degrees-for-todays-job-market/54/875/?utm_source=Taboola&utm_medium=BlaG&utm_campaign=USAD&utm_term=nytrng-pressdemocrat>
+Belva Davis at Petaluma Copperfield's, Excerpt 2
+
+<http://video.pressdemocrat.com/video/885549986001>
+  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+by Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>by
+Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+
+  * News <http://www.pressdemocrat.com/news/>
+  * Opinion <http://www.pressdemocrat.com/opinion/>
+  * Sports <http://www.pressdemocrat.com/sports/>
+  * Entertainment <http://www.pressdemocrat.com/entertainment/>
+  * Wine Country Life <http://www.pressdemocrat.com/lifestyle/>
+  * Business <http://www.pressdemocrat.com/business/>
+  * Find Events <http://events.pressdemocrat.com/>
+  * Archives <http://www.pressdemocrat.com/archives>
+
+Find it Fast
+
+  * Obituaries <http://www.pressdemocrat.com/news/obits/>
+  * Columnists <http://www.pressdemocrat.com/opinion/columnists/>
+  * Dining Out <http://www.pressdemocrat.com/lifestyle/dining/>
+  * Events Calendar <http://events.pressdemocrat.com/>
+  * Real Estate <http://www.pressdemocrat.com/business/realestate/>
+  * Cars <http://www.pressdemocrat.com/business/cars/>
+  * Unions <http://www.pressdemocrat.com/topics/?t=pd-unions>
+  * Food & Recipes <http://www.pressdemocrat.com/lifestyle/food/>
+  * Local Headlines <http://www.pressdemocrat.com/news/>
+  * Santa Rosa News <http://www.pressdemocrat.com/news/>
+  * Towns <http://towns.pressdemocrat.com/>
+
+Other Sections
+
+  * Letters to the Editor <http://www.pressdemocrat.com/opinion/letters/>
+  * Public/Legal Notices <http://www.capublicnotice.com/>
+  * Weather <http://www.pressdemocrat.com/weather/>
+  * Arrest Reports <http://www.pressdemocrat.com/arrest/>
+  * This Week's Headlines <http://www.pressdemocrat.com/news/>
+  * Editorials <http://www.pressdemocrat.com/opinion/editorials/>
+  * BiteClub <http://www.biteclubeats.com/>
+  * High School Sports <http://www.pdpreps.com/>
+  * Scores <http://pressdemocrat.stats.com/>
+  * Blogs <http://www.pressdemocrat.com/news/blogs/>
+
+Contact + Help
+
+  * Contact Us <http://www.pressdemocrat.com/contactus>
+  * Advertising <http://www.pdmediasource.com/>
+  * Corrections <http://www.pressdemocrat.com/corrections>
+  * Letters to the Editor <http://www.pressdemocrat.com/opinion/letters/>
+  * About Us <http://www.pressdemocrat.com/about>
+  * Special Sections/Magazines
+    <http://santarosapressdemocrat.ca.newsmemory.com/ssindex.php>
+  * Staff Directory <http://www.pressdemocrat.com/staff-directory/>
+  * Data Center <http://www.pressdemocrat.com/datacenter/>
+  * Purchase Photos
+    <https://store.pressdemocrat.com/pages/press-democrat-reprints>
+  * FAQ <http://www.pressdemocrat.com/faq>
+  * Classified Ads <http://classifieds.pressdemocrat.com/>
+
+Subscribers
+
+  * Manage Home Delivery <https://dpw1.pressdemocrat.com/Login.aspx>
+  * Subscribe <https://dpw1.pressdemocrat.com/Subscribe.aspx>
+  * e-Edition
+    <https://dpw1.pressdemocrat.com/Login.aspx?SentFromUrl=eEdition>
+  * RSS Feeds
+    <http://www.pressdemocrat.com/multimedia/2013908-181/rss-feeds>
+  * News in Education <http://www.pressdemocrat.com/news-in-education>
+
+<https://dpw1.pressdemocrat.com/Login.aspx>
+<https://dpw1.pressdemocrat.com/LinkAnExistingSubscription.aspx>
+<https://dpw1.pressdemocrat.com/Subscribe.aspx>
+<javascript:showArticle();>
+<https://dpw1.pressdemocrat.com/Login.aspx>
+<https://dpw1.pressdemocrat.com/LinkAnExistingSubscription.aspx>
+<https://dpw1.pressdemocrat.com/Subscribe.aspx>
+<javascript:showArticle();>

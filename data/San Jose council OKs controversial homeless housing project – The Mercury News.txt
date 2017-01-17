@@ -1,0 +1,900 @@
+  * Most Popular
+
+    <#>
+  * News <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+The Mercury News
+
+<http://www.mercurynews.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+  * Most Popular
+
+    <#>
+  * News
+
+    <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local
+
+    <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports
+
+    <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business
+
+    <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment
+
+    <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries
+
+    <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+
+        San Jose council OKs controversial homeless…
+        <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/>
+
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/#print>
+*
+
+<#>
+
+Trending:
+
+  * Sherri Papini case
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+  * 49ers should’ve kept Smith
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+  * Kim K. to divorce?
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+  * Pitt vs. Jolie
+    <http://www.mercurynews.com/2016/12/07/brad-pitt-moves-to-seal-documents-in-angelina-jolie-custody-dispute/>
+
+  * After cold snap, rain
+    <http://www.mercurynews.com/2016/12/06/bay-area-weather-after-cold-snap-rain-on-the-way/>
+
+  * Bay Area poverty
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+Business <http://www.mercurynews.com/business/>
+
+
+  San Jose council OKs controversial homeless housing project
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/san-jose-council-oks-controversial-homeless-housing-project/#print>
+*
+
+The church on the proposed site has been razed.
+The church on the proposed site has been razed.
+
+By Ramona Giwargis <http://www.mercurynews.com/author/ramona-giwargis/>
+| rgiwargis@bayareanewsgroup.com <mailto:rgiwargis@bayareanewsgroup.com>	
+PUBLISHED: June 28, 2016 at 9:48 pm | UPDATED: August 12, 2016 at 12:06 am
+
+SAN JOSE — A little girl stood before the council in a purple T-shirt
+and told the city’s elected leaders she had slept in a cardboard box
+under a highway overpass, while fretful homeowners clutched yellow signs
+complaining that San Jose already does more than its neighbors to help
+the homeless.
+
+In the end, after a 15-hour meeting that stretched past 2 a.m.
+Wednesday, the City Council made plodding progress on a host of
+proposals aimed at easing one of San Jose’s most intractable problems at
+a time when Silicon Valley’s soaring technology economy is widening the
+gulf between rich and poor.
+
+The council on an 8-1 vote upheld a 162-unit apartment complex at 2500
+Senter Road for chronically homeless residents, denying an appeal from
+opponents who threatened to sue San Jose over potential loss to their
+home values.
+
+The council also approved setting aside $5 million for a program that
+provides funding for capital improvements to landlords who accept
+referrals to house homeless veterans. And the council unanimously
+extended a policy that allows churches to house homeless people without
+permits for another year. City leaders agreed to expand the program to
+allow up to 30 people to stay in one location for 90 days.
+
+But the council in a unanimous vote backed away from approving a project
+that would have allowed temporary modular homes for up to 102 homeless
+people for 15 years on a six-acre Evans Lane site in Willow Glen, voting
+instead to study using it for a larger permanent housing project. And
+the council passed on a proposal to sanction a supervised tent
+campground, with city officials saying they weren’t successful in
+finding a suitable operator or a site for an encampment.
+
+“I think we made progress Tuesday night,” said Jennifer Loving,
+executive director of Destination: Home, a nonprofit that works to end
+homelessness. “We’ve never had a group of more committed local elected
+leaders earnestly looking at solving this problem. But we still have a
+lot of fear that solutions to homelessness will look like the problems
+of homelessness. The real work we have ahead of us is to remove the fear.”
+
+Loving said if San Jose is serious about ending homelessness, then “we
+are going to have lots of tough conversations in the future about new
+projects and where homeless people will live.”
+
+The most contentious of the proposals was the Senter Road project, with
+Councilman Tam Nguyen, whose district includes the project site, casting
+the dissenting vote. Councilmen Manh Nguyen and Johnny Khamis were absent.
+
+Nguyen echoed concerns from residents who said the project was “rushed”
+with little outreach, the site is too close to neighbors and could
+increase crime and blight in the area.
+
+“Common sense tells us this will end in disaster,” said nearby homeowner
+Jonathan Fleming. “They will drink, do drugs and roam our streets.”
+
+But the project, which will be built on county-owned land at no cost to
+San Jose, includes a dozen on-site employees, 24-hour security and
+access to counseling and health services. Advocates for the homeless say
+permanent supportive housing could actually reduce crime and 84 percent
+of people placed in projects like Senter Road stay housed. The city’s
+Planning Commission gave its unanimous approval in April.
+
+“We have a good operator, we have good amenities and we can make this a
+benefit to the community,” said Councilman Raul Peralez. “We have a good
+project.”
+
+Vice Mayor Rose Herrera encouraged the project managers to regularly
+meet with neighbors to discuss concerns — one of Nguyen’s ideas — and
+asked that more city services and police resources be dedicated to
+neighborhoods that house the poor.
+
+Though Tam Nguyen opposed the Senter Road project, he urged the council
+to give legal tent cities a chance. He slept in one in Portland earlier
+this year and said it could work in San Jose. But Mayor Sam Liccardo
+said the city would better serve the homeless with other ideas.
+
+“It seems to me we should focus our energies on all the other
+initiatives we have,” said Liccardo, adding that council members pushing
+the idea should find sites in their districts.
+
+With the Evans Lane modular home proposal, Councilman Pierluigi
+Oliverio, who represents the district, convinced his colleagues to study
+other housing options. The city’s housing staff will bring alternative
+options to a council meeting on Aug. 16.
+
+“There’s been one concept floated and there have been deep concerns,”
+Oliverio said.
+
+Despite the unanimous approval, some city leaders said the move sends
+“mixed messages” to residents. Under increasing public pressure, the
+council over the past year has pushed for quick solutions to house
+homeless people — yet they put off a project that could be ready in
+about a year to study longer-term alternatives.
+
+The program that allows churches to house homeless people without
+permits transformed Yolanda Estrada’s life. The 50-year-old had been
+homeless for three years before she started sleeping inside three South
+Bay churches this year. Now she’s on her way to moving into an apartment.
+
+“My self-esteem was raised up and these people genuinely care about me,”
+Estrada said. “I felt a sense of belonging.”
+
+Contact Ramona Giwargis at 408-920-5705. Follow her at
+Twitter.com/ramonagiwargis <http://twitter.com/ramonagiwargis>.
+
+A unified effort on homelessness
+
+With 70 other news organizations, the Mercury News is participating in a
+Bay Area-wide effort to raise awareness about solutions to homelessness
+in the region.
+Online: See more stories and photos at
+www.mercurynews.com/bay-area-homeless
+<http://www.mercurynews.com/bay-area-homeless>
+Social media: Read and post with the hashtag #SFHomelessProject
+
+Review: Samsung Fixes the TV Remote
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Sponsored Content
+
+
+        Review: Samsung Fixes the TV Remote
+        <http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+
+By Samsung
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Geoffrey A. Fowler tests Samsung’s 2016 TVs, which have one smart
+clicker to control all our cable boxes, disc players, video streamers
+and apps
+
+  * Tags: 
+  * California Governor
+    <http://www.mercurynews.com/tag/california-governor/>
+
+Ramona Giwargis, City of San Jose city hall reporter, San Jose Mercury
+News, for her Wordpress profile. (Michael Malone/Bay Area News Group)	
+
+
+Ramona Giwargis <http://www.mercurynews.com/author/ramona-giwargis/>
+
+Ramona Giwargis is the San Jose City Hall reporter at The Mercury News.
+After stints in Eureka, Salinas and Merced, Giwargis returned to San
+Jose to cover local government and politics for her hometown newspaper.
+Giwargis won numerous awards for investigative journalism and is a
+graduate of San Jose State University.
+// Follow Ramona Giwargis @ramonagiwargis
+<https://twitter.com/ramonagiwargis>
+Subscribe Today! All Access Digital offer for just 99 cents!
+<https://myaccount.mercurynews.com/dsssubscribe.aspx>
+ 
+You Might Also Like
+
+  *
+    Building Successful Salespeople: 7 Skills You Can Teach Building
+    Successful Salespeople: 7 Skills You Can Teach Salesforce
+    <https://ad.doubleclick.net/ddm/clk/314701428;142502725;t>
+  *
+    How I Finally Understood My 401(k)… in 10 minutes How I Finally
+    Understood My 401(k)… in 10 minutes Mint.com
+    <https://ad.doubleclick.net/ddm/trackclk/N9515.186294OUTBRAININC0/B8198435.127074735;dc_trk_aid=300209997;dc_trk_cid=58834128;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=>
+
+  *
+    Hollywood Mourns The Death of This Legend! Hollywood Mourns The
+    Death of This Legend! Marble Buzz
+    <http://marblebuzz.com/celebrities-you-didnt-know-passed-away/?utm_source=Outbrain&utm_medium=248358&utm_term=QH-BASE&utm_content=67699340&utm_campaign=Celeb-Legends>
+
+
+  *
+    Reach data quickly—anywhere, anytime—with the Intel® Xeon® processor
+    E5 v4 family Reach data quickly—anywhere, anytime—with the Intel®…
+    Intel Servers Rock
+    <https://ad.doubleclick.net/ddm/clk/310019257;137043392;v>
+  *
+    10 Best Rewards Cards: Get $150 Bonus Cashback 10 Best Rewards
+    Cards: Get $150 Bonus Cashback GET.com
+    <https://www.get.com/credit-cards-best-bonus-offers/?ad=outbrain_bonus_150&utm_medium=cpc&utm_source=outbrain_248358&utm_campaign=outbrain_bonus_150_69875867&oclid=0b2588a4aea194e22f2b67987b34df6a>
+
+  *
+    Tips on How To Become a Manager Tips on How To Become a Manager CAL
+    STATE MONTEREY BAY
+    <https://mba.csumb.edu/blog/tips-on-how-to-become-a-manager?utm_source=Outbrain&utm_medium=Online%20Media&utm_campaign=CSUMB_Native>
+
+
+  *
+    Tim Tebow dumped by former Miss Universe refusing sex Tim Tebow
+    dumped by former Miss Universe refusing sex MercuryNews.com
+    <http://www.mercurynews.com/2015/11/30/tim-tebow-dumped-by-former-miss-universe-refusing-sex/>
+
+  *
+    Melania Trump’s nude photos: Who leaked them? Melania Trump’s nude
+    photos: Who leaked them? MercuryNews.com
+    <http://www.mercurynews.com/2016/08/01/melania-trumps-nude-photos-who-leaked-them/>
+
+  *
+    Ask Amy: My new daughter-in-law doesn’t know about this toxic woman
+    Ask Amy: My new daughter-in-law doesn’t know about… MercuryNews.com
+    <http://www.mercurynews.com/2016/10/13/ask-amy-toxic-in-law-forms-an-alliance/>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+Sign up for our newsletters!
+
+Subscribe <http://direct.mercurynews.com/mrc/mrcreg.action>
+Follow Us
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+
+    Most Popular
+
+ 1. Oakland fire aftermath: Evictions as artists’ worst fears come true
+
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+ 2. Kim Kardashian is plotting to divorce Kanye West, one report says
+
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+ 3. San Jose: Firefighters knock down abandoned home fire, suspect squatter
+
+    <http://www.mercurynews.com/2016/12/07/san-jose-firefighters-knock-down-abandoned-home-fire-suspect-squatter/>
+
+ 4. Oakland warehouse fire: Officials release names of 9 more victims
+
+    <http://www.mercurynews.com/2016/12/06/oakland-warehouse-fire-search-for-victims-85-percent-complete-death-toll-still-36/>
+
+ 5. Purdy: It’s now obvious the 49ers should have kept Smith, not
+    Kaepernick
+
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+ 6. Eddy Lepp free after 10-year sentence for growing marijuana
+
+    <http://www.mercurynews.com/2016/12/07/cannabis-convict-eddy-lepp-free-after-long-prison-term/>
+
+ 7. Sherri Papini ‘consultant’ asked to find another missing California mom
+
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+ 8. Oakland: Artists, restaurant at odds over Salt Lick warehouse
+    following deadly Ghost Ship blaze
+
+    <http://www.mercurynews.com/2016/12/07/oakland-artists-restaurant-at-odds-over-salt-lick-warehouse/>
+
+
+
+    More in Real Estate
+
+  *
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+    In the few days following the Ghost Ship tragedy, artists' fears of
+    a backlash against un-permitted living spaces are coming to fruition
+    with some reporting they have been served eviction notices.
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+
+
+              Oakland fire aftermath: Evictions as artists’ worst fears
+              come true
+              <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+
+    December 07, 2016, 7:33 pm
+
+    In the few days following the Ghost Ship tragedy, artists’ fears of
+    a backlash against un-permitted living spaces are coming to fruition
+    with some reporting they have been served eviction notices.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/housing-groups-sue-fannie-mae-for-failure-to-take-care-of-foreclosed-properties-in-communities-of-color/>
+
+    Foreclosed homes in majority African-American and Latino
+    neighborhoods were more likely to have untended yards, debris and
+    broken windows, which affected crime and property values in the
+    area, suit alleges.
+    <http://www.mercurynews.com/2016/12/07/housing-groups-sue-fannie-mae-for-failure-to-take-care-of-foreclosed-properties-in-communities-of-color/>
+
+
+
+              Housing groups sue Fannie Mae over foreclosed Bay Area
+              properties in communities of color
+              <http://www.mercurynews.com/2016/12/07/housing-groups-sue-fannie-mae-for-failure-to-take-care-of-foreclosed-properties-in-communities-of-color/>
+
+
+    December 07, 2016, 3:52 pm
+
+    Foreclosed homes in majority African-American and Latino
+    neighborhoods were more likely to have untended yards, debris and
+    broken windows, which affected crime and property values in the
+    area, suit alleges.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+    Close to 30 percent of the Bay Area's residents, hit by high housing
+    costs, aren't able to make ends meet, according to a study released
+    Wednesday.
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+              More Bay Area residents struggling than poverty statistics
+              indicate
+              <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+    December 07, 2016, 2:11 pm
+
+    Close to 30 percent of the Bay Area’s residents, hit by high housing
+    costs, aren’t able to make ends meet, according to a study released
+    Wednesday.
+    75
+
+    <#comments>
+
+  *
+    <http://www.mercurynews.com/2016/12/06/after-oakland-warehouse-fire-calls-come-for-more-inspectors/>
+
+    “We have a shortage of staff at the enforcement level and in the
+    fire level,” said Councilman Noel Gallo, who represents the
+    Fruitvale district where the fire happened. “We’ve been trying to
+    merge the building inspectors with the fire inspectors.”
+    <http://www.mercurynews.com/2016/12/06/after-oakland-warehouse-fire-calls-come-for-more-inspectors/>
+
+
+
+              After Oakland warehouse fire, calls come for more
+              inspectors
+              <http://www.mercurynews.com/2016/12/06/after-oakland-warehouse-fire-calls-come-for-more-inspectors/>
+
+
+    December 07, 2016, 12:49 pm
+
+    “We have a shortage of staff at the enforcement level and in the
+    fire level,” said Councilman Noel Gallo, who represents the
+    Fruitvale district where the fire happened. “We’ve been trying to
+    merge the building inspectors with the fire inspectors.”
+
+  * Member Services <https://myaccount.mercurynews.com/>
+  * News Alerts <https://digioh.com/BANG/general?source=TakeAction>
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+  * Subscribe
+
+    <https://myaccount.mercurynews.com/dssSubscribe.aspx?pid=22>
+
+    <#>
+      o Manage Your Subscription <https://myaccount.mercurynews.com/>
+      o All Access Subscriptions <http://www.bayareanewsaccess.com/>
+      o Today’s e-Edition <http://mercurynews.ca.newsmemory.com/>
+      o Newsletter Sign-Up <http://direct.mercurynews.com/mrc/mrcreg.action>
+      o Mobile Apps <http://www.mercurynews.com/mobile/>
+  * Contact Us
+
+    <http://www.mercurynews.com/contact-us/>
+
+    <#>
+      o Corrections <http://www.mercurynews.com/news/corrections/>
+      o Reprints <http://www.mercurynews.com/reprints/>
+      o Archive Search <http://www.mercurynews.com/archive-search/>
+      o Lottery <http://www.mercurynews.com/lottery/>
+  * Classifieds
+
+    <http://marketplace.bayareanewsgroup.com/marketplace/>
+
+    <#>
+      o Autos <http://www.norcaldrives.com/>
+      o Jobs <http://www.mercurynews.com/jobs/>
+      o Real Estate <http://realestate.mercurynews.com/>
+      o Place an Obituary
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+      o Place a Legal Ad
+        <http://bang.theadhawk.com/bang-adportal/legals/index.html>
+  * Advertise With Us
+
+    <http://www.mercurynews.com/advertise/>
+
+    <#>
+      o Today’s Ads <http://ads.mercurynews.com/>
+      o Weekly Ads <http://www.mercurynews.com/weekly-ads/>
+      o Local Guide <http://mylocal.mercurynews.com/>
+      o Fry’s Ad
+        <http://newspaperads.mercurynews.com/FSI/tiles.aspx?advid=200177&loc=53824>
+      o Public Notices <http://capublicnotice.com/>
+
+  * © 2016 Digital First Media <http://www.digitalfirstmedia.com/>
+  * Site Map <http://www.mercurynews.com/sitemap.xml>
+  * Copyright <http://www.mercurynews.com/copyright/>
+  * Privacy Policy <http://www.mercurynews.com/privacy-policy/>
+  * Arbitration
+    <http://local.digitalfirstmedia.com/common/dfm/arbitration.pdf>
+  * Powered by WordPress.com VIP <https://vip.wordpress.com/>
+  * Bay Area News Group
+
+    <http://www.bayareanewsgroup.com/>
+
+
+      Email This Article
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel
+
+<#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+Quantcast
+:)

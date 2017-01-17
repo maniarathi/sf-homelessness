@@ -1,0 +1,808 @@
+CNBC <http://www.cnbc.com/>
+// <javascript:void(0)>// <javascript:void(0)>
+
+<http://www.cnbc.com/>
+
+  * HOME//
+
+    <http://www.cnbc.com/>
+      o EDITION
+  * News
+
+    <http://www.cnbc.com/us-news/>
+      o Economy
+
+        <http://www.cnbc.com/economy/>
+      o Finance
+
+        <http://www.cnbc.com/finance/>
+      o Health Care
+
+        <http://www.cnbc.com/health-care/>
+      o Real Estate
+
+        <http://www.cnbc.com/real-estate/>
+      o Wealth
+
+        <http://www.cnbc.com/wealth/>
+      o Autos
+
+        <http://www.cnbc.com/autos/>
+      o Earnings
+
+        <http://www.cnbc.com/earnings/>
+      o Energy
+
+        <http://www.cnbc.com/energy/>
+      o Life
+
+        <http://www.cnbc.com/life/>
+      o Media
+
+        <http://www.cnbc.com/media/>
+      o Politics
+
+        <http://www.cnbc.com/politics/>
+      o Retail
+
+        <http://www.cnbc.com/retail/>
+      o Commentary
+
+        <http://www.cnbc.com/commentary/>
+      o Special Reports
+
+        <http://www.cnbc.com/special-reports/>
+      o Asia
+
+        <http://www.cnbc.com/asia-news/>
+      o Europe
+
+        <http://www.cnbc.com/europe-news/>
+      o CFO Council
+
+        <http://www.cnbc.com/global-cfo-council/>
+  * Markets
+
+    <http://www.cnbc.com/markets/>
+      o Pre-Markets
+
+        <http://www.cnbc.com/pre-markets/>
+      o U.S.
+
+        <http://www.cnbc.com/us-markets/>
+      o Asia
+
+        <http://www.cnbc.com/markets-asia-pacific/>
+      o Europe
+
+        <http://www.cnbc.com/markets-europe/>
+      o Stocks
+
+        <http://www.cnbc.com/stocks/>
+      o Commodities
+
+        <http://www.cnbc.com/commodities/>
+      o Currencies
+
+        <http://www.cnbc.com/currencies/>
+      o Bonds
+
+        <http://www.cnbc.com/bonds/>
+      o Funds
+
+        <http://www.cnbc.com/mutual-funds/>
+      o ETFs
+
+        <http://www.cnbc.com/exchange-traded-funds/>
+  * Investing
+
+    <http://www.cnbc.com/investing/>
+      o Trading Nation
+
+        <http://www.cnbc.com/trading-nation/>
+      o Financial Advisors
+
+        <http://www.cnbc.com/financial-advisors/>
+      o Personal Finance
+
+        <http://www.cnbc.com/personal-finance/>
+      o CNBC Explains
+
+        <http://www.cnbc.com/cnbc-explains/>
+      o Portfolio
+
+        <http://portfolio.cnbc.com/>
+      o Watchlist
+
+        <http://watchlist.cnbc.com/>
+      o Stock Screener
+
+        <http://www.cnbc.com/id/15839076>
+      o Fund Screener
+
+        <http://www.cnbc.com/id/15839074>
+  * Tech
+
+    <http://www.cnbc.com/technology/>
+      o Recode
+
+        <http://recode.net/>
+      o Mobile
+
+        <http://www.cnbc.com/mobile/>
+      o Social Media
+
+        <http://www.cnbc.com/social-media/>
+      o Enterprise
+
+        <http://www.cnbc.com/enterprise/>
+      o Gaming
+
+        <http://www.cnbc.com/gaming/>
+      o Cybersecurity
+
+        <http://www.cnbc.com/cybersecurity/>
+  * Make It
+
+    <http://www.cnbc.com/make-it/>
+      o Entrepreneurs
+
+        <http://www.cnbc.com/make-it/entrepreneurs/>
+      o Leadership
+
+        <http://www.cnbc.com/make-it/leadership/>
+      o Careers
+
+        <http://www.cnbc.com/make-it/careers/>
+      o Money
+
+        <http://www.cnbc.com/make-it/money/>
+      o Specials
+
+        <http://www.cnbc.com/make-it/special-reports/>
+      o Shows
+
+        <http://www.cnbc.com/make-it/shows/>
+  * Video
+
+    <http://video.cnbc.com/>
+      o Top Video
+
+        <http://www.cnbc.com/top-video/>
+      o Latest Video
+
+        <http://www.cnbc.com/video-all/>
+      o U.S. Video
+
+        <http://www.cnbc.com/us-video/>
+      o Asia Video
+
+        <http://www.cnbc.com/asia-video/>
+      o Europe Video
+
+        <http://www.cnbc.com/europe-video/>
+      o CEO Interviews
+
+        <http://www.cnbc.com/video-ceo-interviews/>
+      o Analyst Interviews
+
+        <http://www.cnbc.com/video-analyst-interviews/>
+      o Full Episodes
+
+        <http://www.cnbc.com/live-tv/>
+  * Shows
+
+    <http://www.cnbc.com/tv-worldwide/>
+      o Watch Live
+
+        <http://www.cnbc.com/live-tv/>
+      o CNBC U.S. Business Day
+
+        <http://www.cnbc.com/tv-worldwide/>
+      o CNBC U.S. Primetime
+
+        <http://www.cnbc.com/make-it/shows/>
+      o CNBC Asia-Pacific
+
+        <http://www.cnbc.com/asia-business-day/>
+      o CNBC Europe
+
+        <http://www.cnbc.com/europe-television/>
+      o CNBC World
+
+        <http://www.cnbc.com/global-television-shows/>
+      o Full Episodes
+
+        <http://www.cnbc.com/live-tv/>
+  *
+    More
+
+    <javascript:void(0)>
+          + Log In
+
+            <http://www.cnbc.com/application/generic/?action=signin>
+          + |
+          + Register
+
+            <http://www.cnbc.com/application/generic/?action=signup>
+          + Log Out
+
+            <javascript:void(0);>
+      o News
+
+        <http://www.cnbc.com/us-news/>
+      o
+          + Economy
+
+            <http://www.cnbc.com/economy/>
+          + Finance
+
+            <http://www.cnbc.com/finance/>
+          + Health Care
+
+            <http://www.cnbc.com/health-care/>
+          + Real Estate
+
+            <http://www.cnbc.com/real-estate/>
+          + Wealth
+
+            <http://www.cnbc.com/wealth/>
+          + Autos
+
+            <http://www.cnbc.com/autos/>
+          + Consumer
+
+            <http://www.cnbc.com/consumers/>
+          + Earnings
+
+            <http://www.cnbc.com/earnings/>
+          + Energy
+
+            <http://www.cnbc.com/energy/>
+          + Life
+
+            <http://www.cnbc.com/life/>
+          + Media
+
+            <http://www.cnbc.com/media/>
+          + Politics
+
+            <http://www.cnbc.com/politics/>
+          + Retail
+
+            <http://www.cnbc.com/retail/>
+          + Commentary
+
+            <http://www.cnbc.com/commentary/>
+          + Special Reports
+
+            <http://www.cnbc.com/special-reports/>
+          + Asia
+
+            <http://www.cnbc.com/asia-news/>
+          + Europe
+
+            <http://www.cnbc.com/europe-news/>
+          + CFO Council
+
+            <http://www.cnbc.com/global-cfo-council/>
+      o Pro
+
+        <http://www.cnbc.com/pro>
+      o
+          + View All
+
+            <http://www.cnbc.com/pro>
+          + News & Analysis
+
+            <http://www.cnbc.com/pro-story>
+          + Video
+
+            <http://www.cnbc.com/pro-video>
+          + PRO Talks
+
+            <http://www.cnbc.com/protalks>
+          + PRO Uncut
+
+            <http://www.cnbc.com/pro-uncut>
+          + Kensho Stats
+
+            <http://www.cnbc.com/kensho>
+          + Halftime Portfolio
+
+            <http://www.cnbc.com/halftime-portfolio>
+          + Squawk Box Portfolio
+
+            <http://www.cnbc.com/squawk-box-portfolio>
+          + Take a Tour
+
+            <javascript:void(0)>
+          + Subscribe
+
+            <http://www.cnbc.com/application/pro>
+      o Markets
+
+        <http://www.cnbc.com/markets/>
+      o
+          + Pre-Markets
+
+            <http://www.cnbc.com/pre-markets/>
+          + U.S.
+
+            <http://www.cnbc.com/us-markets/>
+          + Asia
+
+            <http://www.cnbc.com/markets-asia-pacific/>
+          + Europe
+
+            <http://www.cnbc.com/markets-europe/>
+          + Stocks
+
+            <http://www.cnbc.com/stocks/>
+          + Commodities
+
+            <http://www.cnbc.com/commodities/>
+          + Currencies
+
+            <http://www.cnbc.com/currencies/>
+          + Bonds
+
+            <http://www.cnbc.com/bonds/>
+          + Funds
+
+            <http://www.cnbc.com/mutual-funds/>
+          + ETFs
+
+            <http://www.cnbc.com/exchange-traded-funds/>
+      o Make It
+
+        <http://www.cnbc.com/make-it/>
+      o
+          + Entrepreneurs
+
+            <http://www.cnbc.com/make-it/entrepreneurs/>
+          + Leadership
+
+            <http://www.cnbc.com/make-it/leadership/>
+          + Careers
+
+            <http://www.cnbc.com/make-it/careers/>
+          + Money
+
+            <http://www.cnbc.com/make-it/money/>
+          + Specials
+
+            <http://www.cnbc.com/make-it/special-reports/>
+          + Shows
+
+            <http://www.cnbc.com/make-it/shows/>
+      o Investing
+
+        <http://www.cnbc.com/investing/>
+      o
+          + Trading Nation
+
+            <http://www.cnbc.com/trading-nation/>
+          + Financial Advisors
+
+            <http://www.cnbc.com/financial-advisors/>
+          + Personal Finance
+
+            <http://www.cnbc.com/personal-finance/>
+          + CNBC Explains
+
+            <http://www.cnbc.com/cnbc-explains/>
+          + Portfolio
+
+            <http://portfolio.cnbc.com/>
+          + Watchlist
+
+            <http://watchlist.cnbc.com/>
+          + Stock Screener
+
+            <http://www.cnbc.com/id/15839076>
+          + Fund Screener
+
+            <http://www.cnbc.com/id/15839074>
+      o Tech
+
+        <http://www.cnbc.com/technology/>
+      o
+          + Recode
+
+            <http://recode.net/>
+          + Mobile
+
+            <http://www.cnbc.com/mobile/>
+          + Social Media
+
+            <http://www.cnbc.com/social-media/>
+          + Enterprise
+
+            <http://www.cnbc.com/enterprise/>
+          + Gaming
+
+            <http://www.cnbc.com/gaming/>
+          + Cybersecurity
+
+            <http://www.cnbc.com/cybersecurity/>
+      o Video
+
+        <http://video.cnbc.com/>
+      o
+          + Top Video
+
+            <http://www.cnbc.com/top-video/>
+          + Latest Video
+
+            <http://www.cnbc.com/video-all/>
+          + U.S. Video
+
+            <http://www.cnbc.com/us-video/>
+          + Asia Video
+
+            <http://www.cnbc.com/asia-video/>
+          + Europe Video
+
+            <http://www.cnbc.com/europe-video/>
+          + CEO Interviews
+
+            <http://www.cnbc.com/video-ceo-interviews/>
+          + Analyst Interviews
+
+            <http://www.cnbc.com/video-analyst-interviews/>
+          + Full Episodes
+
+            <http://www.cnbc.com/live-tv/>
+      o Shows
+
+        <http://www.cnbc.com/tv-worldwide/>
+      o
+          + CNBC U.S. Business Day
+
+            <http://www.cnbc.com/tv-worldwide/>
+          + CNBC U.S. Primetime
+
+            <http://www.cnbc.com/make-it/shows/>
+          + CNBC Asia-Pacific
+
+            <http://www.cnbc.com/asia-business-day/>
+          + CNBC Europe
+
+            <http://www.cnbc.com/europe-television/>
+          + CNBC World
+
+            <http://www.cnbc.com/global-television-shows/>
+      o Special Reports
+
+        <http://www.cnbc.com/special-reports/>
+      o
+          + Investor Toolkit
+
+            <http://www.cnbc.com/investor-toolkit/>
+          + Advisor Insight
+
+            <http://www.cnbc.com/advisor-insight/>
+          + ETF Strategist
+
+            <http://www.cnbc.com/etf-strategist/>
+          + Portfolio Perspective
+
+            <http://www.cnbc.com/portfolio-perspective/>
+          + Tech Drivers
+
+            <http://www.cnbc.com/tech-drivers/>
+          + CNBC IQ 100
+
+            <http://www.cnbc.com/iq100/>
+      o Original Series
+      o
+          + Executive Edge
+
+            <http://www.cnbc.com/executive-edge/>
+          + Trading Nation
+
+            <http://www.cnbc.com/trading-nation/>
+          + Futures Now
+
+            <http://www.cnbc.com/futures-now/>
+          + Retire Well
+
+            <http://www.cnbc.com/retirewell/>
+          + The Pulse @ 1 Market
+
+            <http://www.cnbc.com/the-pulse/>
+          + The Bottom Line
+
+            <http://www.cnbc.com/the-bottom-line/>
+      o CNBC Events
+      o
+          + Davos
+
+            <http://www.cnbc.com/davos-world-economic-forum/>
+          + Delivering Alpha
+
+            <http://www.cnbc.com/delivering-alpha-ii/>
+          + eMerge Americas
+
+            <http://www.cnbc.com/emerge-americas/>
+          + iCONIC Conference
+
+            <http://www.cnbc.com/iconic-conference/>
+          + Cambridge Cyber Summit
+
+            <http://www.cnbc.com/securing-our-future/>
+          + Sohn Conference
+
+            <http://www.cnbc.com/sohn/>
+      o Follow CNBC
+      o
+          + //
+
+            <https://www.facebook.com/cnbc>
+          + //
+
+            <https://twitter.com/cnbc>
+      o
+          + EDITION
+      o //
+
+        <javascript:void(0)>
+
+  * //
+
+    <javascript:void(0)>
+      o Register
+
+        <javascript:void(0);>
+      o Log In
+
+        <javascript:void(0);>
+
+  * //
+
+    <javascript:void(0)>
+      o Profile
+
+        <http://www.cnbc.com/account#profile>
+      o Email Preferences
+
+        <http://www.cnbc.com/account#newsletter>
+      o PRO
+
+        <http://www.cnbc.com/account#pro>
+      o Sign Out
+
+        <javascript:void(0);>
+
+  * Pro
+
+    <http://www.cnbc.com/pro>
+      o View All
+
+        <http://www.cnbc.com/pro>
+      o News & Analysis
+
+        <http://www.cnbc.com/pro-story>
+      o Video
+
+        <http://www.cnbc.com/pro-video>
+      o PRO Talks
+
+        <http://www.cnbc.com/protalks>
+      o PRO Uncut
+
+        <http://www.cnbc.com/pro-uncut>
+      o Kensho Stats
+
+        <http://www.cnbc.com/kensho>
+      o Halftime Portfolio
+
+        <http://www.cnbc.com/halftime-portfolio>
+      o Squawk Box Portfolio
+
+        <http://www.cnbc.com/squawk-box-portfolio>
+      o Take a Tour
+
+        <javascript:void(0)>
+      o Subscribe
+
+        <http://www.cnbc.com/application/pro>
+  * LIVE TV
+
+    <javascript:void(0)>
+      o Watch CNBC TV
+
+        <http://www.cnbc.com/live-tv/>
+      o Watch CNBC Pro
+
+        <http://www.cnbc.com/application/pro>
+  * Watchlist
+
+    <http://watchlist.cnbc.com/>
+
+// <http://www.cnbc.com/markets/> // <http://video.cnbc.com/> //
+<javascript:void(0),>
+
+X
+
+
+×
+
+
+×
+
+
+×
+
+
+    Technology <http://www.cnbc.com/technology/>
+
+      * Technology <http://www.cnbc.com/technology/>
+      * Recode <http://recode.net/>
+      * Mobile <http://www.cnbc.com/mobile/>
+      * Social Media <http://www.cnbc.com/social-media/>
+      * Enterprise <http://www.cnbc.com/enterprise/>
+      * Gaming <http://www.cnbc.com/gaming/>
+      * Cybersecurity <http://www.cnbc.com/cybersecurity/>
+      * The Pulse @ 1 Market <http://www.cnbc.com/the-pulse/>
+
+
+  Craigslist founder asks tech industry to join him in giving back
+
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>	| @laurenthomasx3
+<http://twitter.com/laurenthomasx3>
+Wednesday, 29 Jun 2016 | 9:33 AM ETCNBC.com
+SHARES
+<#>
+show chapters//
+
+Craigslist founder asks tech industry to join in giving back
+<javascript:void(0);> // Craigslist founder asks tech industry to join
+in giving back   
+Wednesday, 29 Jun 2016 | 7:00 AM ET | 01:03
+
+<javascript:void(0);>
+
+Craigslist <https://www.craigslist.org/about/sites> founder Craig
+Newmark committed himself to support the underprivileged of San
+Francisco when he arrived in the city 23 years ago, and now he's asking
+more companies to give back.
+
+"I moved here in the middle of '93 — a good time to move here because it
+was just prior to the dotcom industry," Newmark said in an interview.
+"Now a lot of people can't afford to live here anymore. Restaurants and
+food [is] getting more expensive, housing is getting more expensive, and
+that concerns me. ... And that's why I'm inviting other people in tech
+to help out."
+
+One of Newmark's earliest contributions was to St. Anthony's Foundation
+<https://www.stanthonysf.org/>, which serves 2,400 hot meals daily to
+those in need, in addition to providing San Francisco's Tenderloin
+neighborhood with a medical clinic, free clothing and a technology lab.
+
+Newmark played an "instrumental role" in creating the Tenderloin Tech
+Lab <http://www.tenderlointechnologylab.org/> in 2008, spokesperson
+Anthony Singer said, and the Craigslist founder has been involved with
+the program ever since, even volunteering himself from time to time.
+
+More than 100 people use the Tech Lab every day, Singer said, where they
+gain access to a variety of computer classes, one-on-one technology
+training, computer repair sessions, and other resources provided by tech
+companies, which include Twitter <http://data.cnbc.com/quotes/TWTR>,
+Zendesk and Dolby.
+
+"The resource that people seem to need the most is sometimes coaching in
+terms of creating a good resume, sometimes coaching when it comes to
+interviews. But in a way a lot of people just need the right nudge to
+see that on the internet, there's a lot of tools to help them get a
+job," Newmark said.
+
+The tech industry can be especially discriminatory toward men and women
+over 40 who don't have work but who are looking for a job, Newmark said.
+He sees the Tech Lab as a resource for them to gain more skills and to
+build relationships with entrepreneurs and engineers who have succeeded
+in tech-based careers.
+
+
+        More companies should join: Newmark
+
+Craigslist founder Craig Newmark volunteers at St. Anthony’s Dining Hall
+in the Tenderloin neighborhood in San Francisco.
+Source: St. Anthonys
+Craigslist founder Craig Newmark volunteers at St. Anthony’s Dining Hall
+in the Tenderloin neighborhood in San Francisco.
+
+"The tech boom in San Francisco has been a mixed blessing," Newmark
+said. "It's helped contribute to some desperate housing shortages, and
+it's displaced a lot of people in a way I wish I was smart enough to
+resolve."
+
+Newmark applauded companies such as Salesforce
+<http://data.cnbc.com/quotes/CRM> and Google
+<http://data.cnbc.com/quotes/GOOGL> for giving back, but he thinks
+there's more to be done and there are more ways for millennials to get
+involved to combat the growing problem of homelessness in San Francisco.
+
+"You got to help [the homeless] get a job, hence my support for the
+Tenderloin Technology Lab," Newmark said. "A lot of that is about using
+technology to help people get a job"
+
+According to San Francisco's Homeless Count & Survey
+<http://sfgov.org/lhcb/sites/sfgov.org.lhcb/files/2015%20San%20Francisco%20Homeless%20Count%20Report_0.pdf>,
+the number of homeless in streets and shelters in 2015 was 6,686, an
+increase of 250 from 2013. A 10-year analysis found a 7 percent increase
+in the number of homeless people in San Francisco between 2005 and 2015.
+
+Many homeless surveyed by the city said that employment and income were
+not enough to meet their basic needs. The unemployment rate for homeless
+respondents in San Francisco was 89 percent, up from 62 percent in 2013.
+
+"Money helps, awareness helps and getting volunteers out helps," Newmark
+said. "But I think the part where people in tech can help out most is
+through personal commitment in any form, and sometimes that just means
+relentless awareness in the form of reminding people that help is needed
+via social media."
+
+Newmark declined to comment on the dollar amount that he's donated to
+organizations since moving to San Francisco. A spokesperson said that
+"public advocacy is just as — if not more — important than cash for many
+groups, and focusing on exact numbers undermines that message."
+
+
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>Special to CNBC.com
+
+<http://twitter.com/laurenthomasx3>
+
+
+    Related Securities
+
+Symbol
+	
+Price
+	  	
+Change
+	
+%Change
+CRM <http://data.cnbc.com/quotes/CRM> 		
+---
+		
+
+SHOW COMMENTS
+Please add a username to view or add comments
+
+Public Username for Commenting
+
+JOIN THE DISCUSSION
+To learn more about how we use your information, please read our Privacy
+Policy <http://nbcuni.com/privacy/> and Terms of Service
+<http://www.cnbc.com/id/15837353/>.
+
+
+        Binge <http://www.cnbc.com/binge/>
+
+  *
+    Filmmaker Ken Burns is scared of what he sees in Donald Trump
+    <http://www.cnbc.com/2016/10/27/filmmaker-ken-burns-is-scared-of-what-he-sees-in-donald-trump.html>
+
+    By: Josh Ascher, CNBC producer
+  *
+    Here’s what Steve Jobs had to give Ken Burns to create the 'Ken
+    Burns' effect for iMovie
+    <http://www.cnbc.com/2016/10/27/heres-what-steve-jobs-had-to-give-ken-burns-to-create-the-ken-burns-effect-for-imovie.html>
+
+  *
+    The Ken Burns binge effect: Steve Jobs, Donald Trump and the birth
+    of binge-watching    <http://video.cnbc.com/gallery/?video=3000563031>
+  *
+    Ken Burns: The media gets Steve Jobs wrong   
+    <http://video.cnbc.com/gallery/?video=3000562731>
+  *
+    Steve Jobs once told Ken Burns he should ditch PBS because they
+    weren’t paying him enough
+    <http://www.cnbc.com/2016/10/27/steve-jobs-once-told-ken-burns-he-should-ditch-pbs-because-they-werent-paying-him-enough.html>
+
+
+*
+

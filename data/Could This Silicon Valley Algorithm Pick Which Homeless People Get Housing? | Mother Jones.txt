@@ -1,0 +1,448 @@
+  * MotherJones
+
+    <http://www.motherjones.com/>
+  * Could This Silicon Valley Algorithm Pick Which Homeless People Get
+    Housing?
+  * //Share on Facebook
+
+    <http://facebook.com/sharer.php?u=http://www.motherjones.com/politics/2016/06/homelessness-data-silicon-valley-prediction-santa-clara>
+
+  * //Share on Twitter
+
+    <http://twitter.com/home?status=Could+this+algorithm+pick+which+homeless+people+need+housing+most+urgently%3F%20http://www.motherjones.com/politics/2016/06/homelessness-data-silicon-valley-prediction-santa-clara%20via%20@MotherJones>
+
+  *
+
+                
+                
+                
+                
+              
+
+  * Donate
+
+    <https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&list_source=7HEGP002&extra_don=1&abver=A>
+
+  * Subscribe
+
+    <https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&pub_code=MJM&term_pub=MJM&list_source=SEGYN1&base_country=US>
+
+
+  * Search
+
+    <http://www.motherjones.com/search/apachesolr_search>
+  * Newsletter
+
+    <http://www.motherjones.com/about/interact-engage/free-email-newsletter>
+  * Magazine
+
+    <http://www.motherjones.com/magazine>
+  * Politics
+
+    <http://www.motherjones.com/politics>
+  * Environment
+
+    <http://www.motherjones.com/environment>
+  * Media
+
+    <http://www.motherjones.com/media>
+  * Crime and Justice
+
+    <http://www.motherjones.com/topics/crime-and-justice>
+  * Food
+
+    <http://www.motherjones.com/topics/food>
+  * Guns
+
+    <http://www.motherjones.com/topics/guns>
+  * Dark Money
+
+    <http://www.motherjones.com/topics/dark-money>
+  * Photos
+
+    <http://www.motherjones.com/photoessays>
+  * Investigations
+
+    <http://www.motherjones.com/topics/investigations>
+  * Podcasts
+
+    <http://www.motherjones.com/podcasts>
+  * Kevin Drum
+
+    <http://www.motherjones.com/kevin-drum>
+  * About
+
+    <http://www.motherjones.com/about>
+  * Subscribe
+
+    <https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&pub_code=MJM&term_pub=MJM&list_source=SEGYN1A&base_country=US>
+  * Donate
+
+    <https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&list_source=7HEGP003&extra_don=1&abver=A>
+
+Skip to Navigation
+
+<#navigation>
+Skip to Content
+
+<#site-content>
+<http://www.motherjones.com/category/secondary-tags/bite>
+
+  * <http://www.motherjones.com/>
+  * Politics <http://www.motherjones.com/politics>
+  * Environment <http://www.motherjones.com/environment>
+  * Food <http://www.motherjones.com/topics/food>
+  * Media <http://www.motherjones.com/media>
+  * Crime & Justice <http://www.motherjones.com/topics/crime-and-justice>
+  * Photos <http://www.motherjones.com/photoessays>
+  * Investigations <http://www.motherjones.com/topics/investigations>
+  * Magazine <http://www.motherjones.com/magazine>
+  * Subscribe
+    <https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&pub_code=MJM&term_pub=MJM&list_source=SEGYN&base_country=US>
+  * Donate
+    <https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&list_source=7HEGP001&extra_don=1&abver=A>
+
+
+  Could This Silicon Valley Algorithm Pick Which Homeless People Get
+  Housing?
+
+
+      A new approach seeks to find the most desperate people on the
+      streets—with data.
+
+Josh Harkinson <http://www.motherjones.com/authors/josh-harkinson> Jun.
+29, 2016 5:00 AM
+
+  *
+    /
+
+    /Share on Facebook
+
+    <http://facebook.com/sharer.php?u=http://www.motherjones.com/politics/2016/06/homelessness-data-silicon-valley-prediction-santa-clara>
+  *
+    /
+
+    /Share on Twitter
+
+    <http://twitter.com/home?status=Could+this+algorithm+pick+which+homeless+people+need+housing+most+urgently%3F%20http://www.motherjones.com/politics/2016/06/homelessness-data-silicon-valley-prediction-santa-clara%20via%20@MotherJones>
+  *
+    /
+
+    /Email
+
+    <http://www.motherjones.com/forward?path=node/307811>
+  *
+    /
+
+    /
+
+    <http://www.motherjones.com/print/307811>
+
+Like San Francisco, Silicon Valley is known for the glaring divide
+between its tech-fueled affluence and its persistent homelessness
+problem. An estimated 6,500 homeless people live in Santa Clara County,
+California, an area that stretches from suburban Palo Alto to the garlic
+fields of Gilroy. Seventy percent of its homeless population lives on
+the streets, in cars, or in parks, often in plain sight of glittering
+corporate campuses. In late 2014, more than 300 people were cleared out
+of the Jungle
+<http://www.motherjones.com/politics/2014/12/jungle-homeless-camp-san-jose-silicon-valley-video>,
+a large encampment not far from Apple's headquarters in San Jose. And
+while the county's homeless population has been declining, there just
+aren't enough places to give everyone housing.
+
+*This article is part of the SF Homeless Project
+<http://www.motherjones.com/politics/2016/06/san-francisco-homeless-project-mother-jones>,
+a collaboration between nearly 70 media organizations to explore the
+state of homelessness in San Francisco and potential solutions. *
+
+Enter the geeks. Earlier this year, Santa Clara County unveiled a
+sophisticated algorithm that could revolutionize the way homeless people
+are picked for housing. The algorithm, known as the Silicon Valley
+Triage Tool
+<http://destinationhomescc.org/the-silicon-valley-triage-tool/>, draws
+on millions of pieces of data to predict which homeless individuals will
+use the most public services like emergency rooms, hospitals, and jails.
+The researchers behind the project calculate that identifying and
+quickly housing 1,000 of these high-cost people could save more than $19
+million a year—money that could be rolled into providing more housing
+for homeless people.
+
+"Instead of just throwing money at the problem in a scattershot
+approach, we need to invest where we're going to see the biggest gains,"
+explains Jennifer Loving, the director of Destination:Home
+<http://destinationhomescc.org/>, the public-private partnership that
+cosponsored the development of this data-driven model. "Maybe it sounds
+very Silicon Valley, but it just seems obvious."
+
+ 
+
+
+      Homelessness in major California counties, 2015
+
+Santa Clara County's model is focused on reducing costs while better
+serving chronically homeless people. The 10 percent of homeless people
+with the highest public costs accounted for a whopping 61 percent of the
+county's expenditures on homelessness in 2012; the top 5 percent
+accounted for 47 percent of costs.
+
+Those stats came to light after Santa Clara County commissioned an
+unprecedented breakdown
+<http://www.motherjones.com/politics/2015/05/santa-clara-silicon-valley-homelessness>
+of its public expenditures on the 104,000 people who had been homeless
+in the county over a six-year period. Conducted by the Los Angeles-based
+Economic Roundtable, the 2015 study
+<http://destinationhomescc.org/homenotfound/> concluded that the
+county's 2,800 most persistently homeless people used an average of
+$83,000 in public services a year, far exceeding the cost of simply
+providing them with permanent supportive housing. The researchers found
+26 people who had annual costs of more than $300,000. One was a
+32-year-old man with schizophrenia and a musculoskeletal disorder who
+spent 322 days in the hospital and 10 days in jail in a single year, at
+a cost of $1.5 million.
+
+Most cities and counties don't track how much they spend on individual
+homeless people. Homeless people's personal data tends to be scattered
+across entities like housing programs, hospitals, police departments,
+and drug and alcohol treatment programs. (A recent audit
+<http://www.sfbos.org/Modules/ShowDocument.aspx?documentid=56163> of San
+Francisco's homelessness services noted that its programs maintain
+multiple unlinked and incompatible data systems.) The Economic
+Roundtable processed more than 25 million health, law enforcement, and
+social-service records that documented individuals' demographics,
+medical and mental health diagnoses, ER and hospital visits, arrests,
+and jail time. Compiling and analyzing the data while adhering to
+medical privacy laws was "a huge lift" that took more than three years,
+says Ky Le, the director of the county's Office of Supportive Housing.
+
+2,800 persistently homeless people used an average of $83,000 in
+services a year, far exceeding the cost of simply  housing them.
+
+Yet finally having that comprehensive data allowed Le to start
+rethinking how he placed people in housing. The county's approach
+<http://destinationhomescc.org/our-work/> builds upon a philosophy known
+as Housing First
+<http://www.motherjones.com/politics/2015/02/housing-first-solution-to-homelessness-utah>,
+which centers on giving chronically homeless people long-term housing as
+quickly as possible, with few if any strings attached. When San
+Francisco and New York pioneered the Housing First model in the 1990s
+and 2000s, critics said it coddled drunks and drug abusers. Yet
+experience has consistently shown that prioritizing housing for the most
+distressed homeless people makes it easier to address their other needs,
+such as medical care and mental health. And it saves taxpayers
+money—often a lot of money. After San Francisco placed 162 people with
+unusually high service costs into supportive housing, it reported
+slashing their annual service costs by 72 percent, or $21.4 million.
+Similar outcomes have led to the adoption of Housing First in cities
+such as Seattle and Salt Lake City
+<http://www.motherjones.com/politics/2015/02/housing-first-solution-to-homelessness-utah>.
+
+*Read: The shockingly simple, cost-effective way to fix homelessness
+<http://www.motherjones.com/politics/2015/02/housing-first-solution-to-homelessness-utah>*
+
+But Housing First has limits. The supply of supportive housing cannot
+match demand, particularly in the insanely expensive real estate markets
+of San Francisco and Silicon Valley. And according to the Economic
+Roundtable, the current criteria for assigning housing may
+unintentionally overlook people with acute problems. Like most local
+governments, Santa Clara County has based housing preference on two
+factors: how long people have been homeless, and their self-reported
+medical and mental health issues (known as a "vulnerability index
+survey"). Le knew that approach wasn't perfect. "Those are definite
+indicators of need," he says, "but it didn't necessarily mean that
+everyone we housed were the highest users or even frequent users of our
+public safety net services. We wanted a good tool that would really
+allow us to find people who were going to use those services a lot."
+
+Digging into data to better serve the homeless population has been tried
+elsewhere. San Francisco's Department of Public Health, which oversees a
+third of the city's 5,000 supportive housing units, uses health and jail
+records to identify the highest-cost homeless people and prioritize them
+for housing. Social workers at Los Angeles hospitals use a similar tool,
+as does the Department of Veterans Affairs. Yet unlike Santa Clara
+County's model, none of these systems is predictive: They can identify
+homeless people who cost a lot right now, but not necessarily those who
+are most likely to run up the most future costs.
+
+Those are the people that Santa Clara County wanted to find. Using the
+data compiled on the county's homeless population, Daniel Flaming, the
+Economic Roundtable's president, built a predictive analytic statistical
+algorithm based on 38 variables that can predict if someone will fall
+into the group of homeless people with the highest costs. (Likewise, the
+model tries to eliminate false positives—people with characteristics of
+the highest-cost group who will not have high costs.) The most
+predictive variables include continuous homelessness for three or more
+years, chronic medical conditions, schizophrenia, drug or alcohol abuse,
+and frequent ER admissions and hospital stays, as well as repeated
+arrests and jail time. "It is usually not just one problem—it is a
+combination," Flaming says.
+
+ 
+
+
+      Characteristics of the most vulnerable homeless people
+
+This analysis is the backbone of the Silicon Valley Triage Tool
+<http://destinationhomescc.org/wp-content/uploads/2016/02/Triage-Tool-Report-FINAL-2-10-2016.pdf>,
+which calculates an individual's probability of accruing high public
+service costs. Using the tool could reduce Santa Clara's annual spending
+on homelessness by 4 percent, Flaming estimates. That's not an
+insignificant figure when you consider its total spending is about $520
+million <http://destinationhomescc.org/homenotfound/> annually. (San
+Francisco says it spends more than $200 million a year on homelessness,
+though it used a different methodology than Santa Clara to reach that
+figure.)
+
+The promise of using big data to combat homelessness is hard to resist
+in Silicon Valley. Destination:Home's funders include tech giants such
+as Google, EBay, Cisco, and Symantec. Last week, Google announced a $1
+million grant to Destination:Home to help develop an algorithm that will
+prioritize homeless people for temporary and transitional housing.
+"Obviously we are a data company and an innovation company, so we really
+like to see data being used," says Justin Steele of the company's
+philanthropic arm, Google.org. "That is why we were so excited about the
+Destination:Home project—it was really tied to outcomes."
+
+Yet advocates of this approach insist that it's not just efficient, but
+also humane. "It shouldn't just be about cost," says Loving of
+Destination:Home. "But we know that there's a cohort of people who are
+jamming up the system, who are overutilizing services, who are suffering
+on a daily basis, and housing is the medicine they need. So how do we
+find them?"
+
+"There's a cohort of people who are suffering on a daily basis, and
+housing is the medicine they need. So how do we find them?"
+
+Though Santa Clara County hasn't decided exactly how it will use the
+Silicon Valley Triage Tool to make housing decisions, it is unlikely to
+completely eliminate human discretion from the process. For one thing,
+the tool may not flag homeless families, whose children may not cost
+much in the short term but suffer serious long-term consequences from
+growing without a stable home. And the tool could conceivably miss some
+high-needs homeless people who might be easily identified by doctors and
+caseworkers.
+
+There are also questions about whether the tool's algorithm emphasizes
+savings at the expense of equity. It gives higher scores to men because
+they tend to rack up higher public service costs. Conversely, it
+identifies homeless women as less expensive. (Latinos, Asian Americas,
+and immigrants are also less likely to be in the high-cost group.)
+Factoring gender into medical diagnoses isn't unusual, but it becomes
+harder to justify when the treatment in question is housing. Clinical
+methods "should be exported to prioritizing housing to improve health
+outcomes," says Joshua Bamberger, the medical director of the housing
+and urban health section of the city's Department of Public Health.
+"However, the affordable housing system should be protected from any
+bias. So which is our system?"
+
+San Francisco is grappling with these questions as it seeks to compile
+its own comprehensive data on its homelessness expenditures and revamp
+its system for assigning housing. San Francisco's new prioritization
+system "will likely be algorithmic," says Megan Owens Faught, a program
+manager in the housing and homelessness department of the San Francisco
+Human Services Agency.
+
+Flaming, of the Economic Roundtable, says California's agencies already
+have all the information they need to develop a statewide database
+similar to the one in Santa Clara County. That way, any city or county
+could use his data-driven approach to target people with the most urgent
+need for housing. "It would be effective and quite accurate," he says.
+"This is by far the way you get the most bang for your buck."
+
+/Top image: An abandoned campsite in the Jungle, the San Jose encampment
+cleared out by police in late 2014. Lipo Ching/TNS/ZUMA Wire/
+
+
+          Get the scoop,  straight from Mother Jones.
+
+// 	
+
+  * //Share on Facebook
+
+    <http://facebook.com/sharer.php?u=http://www.motherjones.com/politics/2016/06/homelessness-data-silicon-valley-prediction-santa-clara>
+  * //Share on Twitter
+
+    <http://twitter.com/home?status=Could+this+algorithm+pick+which+homeless+people+need+housing+most+urgently%3F%20http://www.motherjones.com/politics/2016/06/homelessness-data-silicon-valley-prediction-santa-clara%20via%20@MotherJones>
+
+Josh Harkinson <http://www.motherjones.com/authors/josh-harkinson>
+/
+
+/ <http://twitter.com/joshharkinson>
+
+Josh Harkinson is a staff reporter at /Mother Jones/. For more of his
+stories, click here <http://www.motherjones.com/authors/josh-harkinson>.
+Email him with tips at jharkinson (at) motherjones (dot) com. PGP public
+key.
+<https://docs.google.com/document/d/1_euogs_5Cl38TemNcyN1QN22EGlmuWstcmmEgMF6d0M/edit>
+
+/Mother Jones/ is a nonprofit, and stories like this are made possible
+by readers like you. Donate
+<https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&list_source=7HEGP004&extra_don=1&abver=A>
+or subscribe
+<https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&pub_code=MJM&term_pub=MJM&list_source=SEGYN4&base_country=US>
+to help fund independent journalism.
+
+
+Related
+
+  * <http://www.motherjones.com/politics/2015/02/housing-first-solution-to-homelessness-utah>
+
+
+          The Shockingly Simple, Surprisingly Cost-Effective Way to End
+          Homelessness
+          <http://www.motherjones.com/politics/2015/02/housing-first-solution-to-homelessness-utah>
+
+    Scott Carrier <http://www.motherjones.com/authors/scott-carrier>
+  * <http://www.motherjones.com/politics/2015/05/santa-clara-silicon-valley-homelessness>
+
+
+          Silicon Valley Discovers the Cheapest Way to Help the
+          Homeless: Give Them Homes
+          <http://www.motherjones.com/politics/2015/05/santa-clara-silicon-valley-homelessness>
+
+    Gabrielle Canon <http://www.motherjones.com/authors/gabrielle-canon>
+
+//view comments
+
+<http://motherjones.disqus.com/?url=http%3A%2F%2Fwww.motherjones.com%2Fnode%2F307811>
+Mother Jones <http://www.motherjones.com/>
+
+  *
+    /
+
+    /
+
+    <https://www.facebook.com/motherjones>
+  *
+    /
+
+    /
+
+    <https://twitter.com/motherjones>
+  *
+
+    <http://www.motherjones.com/about/interact-engage/free-email-newsletter>
+
+
+  * About Us <http://www.motherjones.com/about> | Store
+    <http://store.motherjones.com/?utm_source=motherjones&utm_medium=footer&utm_content=orangefooterlink&utm_campaign=evergreen>
+
+  * Donate <http://www.motherjones.com/about/support> | Subscribe
+    <https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&pub_code=MJM&term_pub=MJM&list_source=SEGYN4&base_country=US>
+
+  * Customer Service
+    <http://www.motherjones.com/about/subscriptions/customer-service>
+  * Advertise <http://www.motherjones.com/about/advertising/contact-form>
+
+Copyright ©2016 Mother Jones and the Foundation for National Progress.
+All Rights Reserved.
+
+Terms of Service <http://www.motherjones.com/about/terms> Privacy Policy
+<http://www.motherjones.com/about/privacy-policy> Contact Us
+<http://www.motherjones.com/about/contact>
+
+We noticed you have an ad blocker on. Support nonprofit investigative
+reporting by pitching in a few bucks. DONATE
+<https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&list_source=7HEGZS1A&extra_don=1&abver=A>
+X
+

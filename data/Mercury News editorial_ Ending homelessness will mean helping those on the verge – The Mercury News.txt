@@ -1,0 +1,922 @@
+  * Most Popular
+
+    <#>
+  * News <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+The Mercury News
+
+<http://www.mercurynews.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+  * Most Popular
+
+    <#>
+  * News
+
+    <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local
+
+    <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports
+
+    <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business
+
+    <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment
+
+    <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries
+
+    <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+
+        Mercury News editorial: Ending homelessness…
+        <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/>
+
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/#print>
+*
+
+<#>
+
+Trending:
+
+  * Sherri Papini case
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+  * 49ers should’ve kept Smith
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+  * Kim K. to divorce?
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+  * Pitt vs. Jolie
+    <http://www.mercurynews.com/2016/12/07/brad-pitt-moves-to-seal-documents-in-angelina-jolie-custody-dispute/>
+
+  * After cold snap, rain
+    <http://www.mercurynews.com/2016/12/06/bay-area-weather-after-cold-snap-rain-on-the-way/>
+
+  * Bay Area poverty
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+            Opinion <http://www.mercurynews.com/opinion/>Editorials
+<http://www.mercurynews.com/opinion/editorials/>
+
+
+  Mercury News editorial: Ending homelessness will mean helping those on
+  the verge
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/mercury-news-editorial-ending-homelessness-will-mean-helping-those-on-the-verge/#print>
+*
+
+Workers contracted by PG&E begin clean up of a homeless encampment in
+their right of way behind Tortola Way in San Jose, Calif., on Monday,
+April 18, 2016. (Gary Reyes/Bay Area News Group)
+Workers contracted by PG&E begin clean up of a homeless encampment in
+their right of way behind Tortola Way in San Jose, Calif., on Monday,
+April 18, 2016. (Gary Reyes/Bay Area News Group)
+
+By Mercury News Editorial
+<http://www.mercurynews.com/author/mercury-news-editorial/>	
+PUBLISHED: June 28, 2016 at 11:32 am | UPDATED: August 12, 2016 at 12:25 am
+
+If there’s one myth about the homeless that Wednesday’s Bay Area news
+blitz on the crisis should explode, it’s this: The people living in
+squalor on our streets and along creeks want to be there.
+
+They weren’t born homeless. Some were once part of Silicon Valley’s
+prosperity. Many were dragged down by health problems, drugs or alcohol,
+or PTSD from the wars they fought for us. Some were simply blindsided by
+a family illness that bankrupted them.
+
+The vast majority, when placed in supportive housing, stay. At a
+minimum, this has a lower public cost. At best, individuals control or
+overcome their problems, get jobs and rebuild their lives. Look at
+Downtown Streets Team, which guides the homeless into volunteer work,
+then paying jobs and a place to live.
+
+This will be a recurring theme in the SF Homeless Project Media Day on
+Wednesday, when more than 70 multimedia news organizations spearheaded
+by the San Francisco Chronicle will focus on solutions to what has
+seemed an intractable problem.
+
+Santa Clara County is ramping up housing plans with partners such as
+Abode Services, Palantir — the data analytics giant whose pro-bono work
+is described in a column on this page — and a number of cities,
+including San Jose.
+
+But there’s an aspect of this crisis with no answer in sight: how to
+stop the slide of lower-income Silicon Valley residents into homelessness.
+
+In this high-cost region, it doesn’t take much to land retirees on fixed
+incomes or families and individuals in crisis onto the streets. And once
+people are homeless, it’s exponentially harder to get them back into
+housing, let alone jobs. You won’t ace a job interview when you can’t
+take a shower first.
+
+The challenge became graphic in San Jose this week: The same day the
+county supervisors voted to put an affordable housing bond on the
+ballot, San Jose approved a plan to tear down 216 rent-controlled
+apartments and develop a much larger — but market-rate — complex.
+
+It’s not a simple good-bad contrast. The development plan in San Jose
+complied with city zoning and planning requirements; increasing housing
+in appropriate places is critical to the long-term economic health of
+the valley. But still, there’s no denying the irony.
+
+Housing the homeless is the right thing to do for both financial and
+humanitarian reasons. But the cycle will continue until we find ways to
+help people living on the edge to stay in their homes.
+
+Review: Samsung Fixes the TV Remote
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Sponsored Content
+
+
+        Review: Samsung Fixes the TV Remote
+        <http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+
+By Samsung
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Geoffrey A. Fowler tests Samsung’s 2016 TVs, which have one smart
+clicker to control all our cable boxes, disc players, video streamers
+and apps
+
+  * Tags: 
+  * Editorials <http://www.mercurynews.com/tag/editorials/>
+
+
+      Mercury News Editorial
+<http://www.mercurynews.com/author/mercury-news-editorial/>
+
+Subscribe Today! All Access Digital offer for just 99 cents!
+<https://myaccount.mercurynews.com/dsssubscribe.aspx>
+ 
+You Might Also Like
+
+  *
+    Melania Trump: These 36 Photos Will Have You Wondering Whether She’s
+    First Lady Material Melania Trump: These 36 Photos Will Have You
+    Wondering… True Activist
+    <http://www.trueactivist.com/melania-trump-these-36-photos-will-have-you-wondering-whether-shes-first-lady-material-gallery?utm_source=OB&utm_medium=CPC6&utm_campaign=melaniatrump36firstlady-V6OB&utm_source=OB&utm_medium=CPC&utm_campaign=melaniatrump36firstlady-V6OB>
+
+  *
+    Building Successful Salespeople: 7 Skills You Can Teach Building
+    Successful Salespeople: 7 Skills You Can Teach Salesforce
+    <https://ad.doubleclick.net/ddm/clk/314701428;142502725;t>
+  *
+    Tips on How To Become a Manager Tips on How To Become a Manager CAL
+    STATE MONTEREY BAY
+    <https://mba.csumb.edu/blog/tips-on-how-to-become-a-manager?utm_source=Outbrain&utm_medium=Online%20Media&utm_campaign=CSUMB_Native>
+
+
+  *
+    Fascinating Story How Gwen Got Back On ‘The Voice’ Fascinating Story
+    How Gwen Got Back On ‘The Voice’ Fans Fans
+    <http://www.fansfans.com/saying-bye-miley-gwen-stefani-prepares-make-return-voice/>
+
+  *
+    Get a glimpse of an amazing future enabled by the data center in
+    Servers Rock: Our Connected Earth Get a glimpse of an amazing future
+    enabled by the data… Intel Servers Rock
+    <https://ad.doubleclick.net/ddm/clk/310019250;137045041;h>
+  *
+    10 Best Rewards Cards: Get $150 Bonus Cashback 10 Best Rewards
+    Cards: Get $150 Bonus Cashback GET.com
+    <https://www.get.com/credit-cards-best-bonus-offers/?ad=outbrain_bonus_150&utm_medium=cpc&utm_source=outbrain_248358&utm_campaign=outbrain_bonus_150_69875867&oclid=4ffa46cc64ac424cedefcfc9dd6c52a9>
+
+
+  *
+    Is Selena Gomez responsible for Angelina Jolie divorcing Brad Pitt?
+    Is Selena Gomez responsible for Angelina Jolie… MercuryNews.com
+    <http://www.mercurynews.com/2016/09/21/is-selena-gomez-responsible-for-angelina-jolie-divorcing-brad-pitt/>
+
+  *
+    Robin Williams’ widow details his mental disintegration Robin
+    Williams’ widow details his mental disintegration MercuryNews.com
+    <http://www.mercurynews.com/2016/10/03/robin-williams-widow-details-his-mental-disintegration/>
+
+  *
+    Tulsa police officer charged in Terence Crutcher’s death Tulsa
+    police officer charged in Terence Crutcher’s… MercuryNews.com
+    <http://www.mercurynews.com/2016/09/22/tulsa-police-officer-charged-in-mans-death/>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+blog comments powered by Disqus <http://disqus.com/>
+
+Sign up for our newsletters!
+
+Subscribe <http://direct.mercurynews.com/mrc/mrcreg.action>
+Follow Us
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+
+    Most Popular
+
+ 1. Oakland fire aftermath: Evictions as artists’ worst fears come true
+
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+ 2. Kim Kardashian is plotting to divorce Kanye West, one report says
+
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+ 3. San Jose: Firefighters knock down abandoned home fire, suspect squatter
+
+    <http://www.mercurynews.com/2016/12/07/san-jose-firefighters-knock-down-abandoned-home-fire-suspect-squatter/>
+
+ 4. Oakland warehouse fire: Officials release names of 9 more victims
+
+    <http://www.mercurynews.com/2016/12/06/oakland-warehouse-fire-search-for-victims-85-percent-complete-death-toll-still-36/>
+
+ 5. Purdy: It’s now obvious the 49ers should have kept Smith, not
+    Kaepernick
+
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+ 6. Eddy Lepp free after 10-year sentence for growing marijuana
+
+    <http://www.mercurynews.com/2016/12/07/cannabis-convict-eddy-lepp-free-after-long-prison-term/>
+
+ 7. Sherri Papini ‘consultant’ asked to find another missing California mom
+
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+ 8. Oakland: Artists, restaurant at odds over Salt Lick warehouse
+    following deadly Ghost Ship blaze
+
+    <http://www.mercurynews.com/2016/12/07/oakland-artists-restaurant-at-odds-over-salt-lick-warehouse/>
+
+
+OFF
+ON
+
+Aa
+Aa
+Aa
+Aa
+
+00:0002:02
+
+  *
+
+    Oakland warehouse fire: Officials show photos, give update
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news...
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+
+    Responders talk about Oakland warehouse fire
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+
+    Oakland warehouse fire: Officials show photos, give update
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news...
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+
+
+        More videos:
+
+  *
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news conference
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+    Responders talk about Oakland warehouse fire
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Officials show photos, give update
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news conference
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+    Responders talk about Oakland warehouse fire
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Officials show photos, give update
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news conference
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+    Responders talk about Oakland warehouse fire
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Officials show photos, give update
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+
+
+    More in Opinion
+
+  *
+    <http://www.mercurynews.com/2016/12/07/cepeda-media-still-talking-down-to-people-of-the-heartland/>
+
+    The media are covering the Trump states more often, but they're
+    talking down to the people they say they want to pay attention to.
+    <http://www.mercurynews.com/2016/12/07/cepeda-media-still-talking-down-to-people-of-the-heartland/>
+
+
+
+              Cepeda: Media still talking down to people of the
+              Heartland
+              <http://www.mercurynews.com/2016/12/07/cepeda-media-still-talking-down-to-people-of-the-heartland/>
+
+
+    December 07, 2016, 7:07 pm
+
+    The media are covering the Trump states more often, but they’re
+    talking down to the people they say they want to pay attention to.
+    3
+
+    <#comments>
+
+  *
+    <http://www.mercurynews.com/2016/12/07/will-with-carrier-trump-tramples-conservative-values/>
+
+    By paying public money to coerce Carrier to keep some of its jobs in
+    Indiana, Donald Trump and Mike Pence trampled free market principles
+    and showed themselves to be no more conservative than Barack Obama.
+    <http://www.mercurynews.com/2016/12/07/will-with-carrier-trump-tramples-conservative-values/>
+
+
+
+              Will: With Carrier, Trump tramples conservative values
+              <http://www.mercurynews.com/2016/12/07/will-with-carrier-trump-tramples-conservative-values/>
+
+
+    December 07, 2016, 5:22 pm
+
+    By paying public money to coerce Carrier to keep some of its jobs in
+    Indiana, Donald Trump and Mike Pence trampled free market principles
+    and showed themselves to be no more conservative than Barack Obama.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/editorial-contra-costa-district-attorney-should-resign/>
+
+    Contra Costa DA Mark Peterson's illegal use of $66,372 of campaign
+    funds for personal expenses was an egregious breach of state rules
+    by the county's top law enforcement official.
+    <http://www.mercurynews.com/2016/12/07/editorial-contra-costa-district-attorney-should-resign/>
+
+
+
+              Editorial: Contra Costa district attorney should resign
+              <http://www.mercurynews.com/2016/12/07/editorial-contra-costa-district-attorney-should-resign/>
+
+
+    December 07, 2016, 11:16 am
+
+    Contra Costa DA Mark Peterson’s illegal use of $66,372 of campaign
+    funds for personal expenses was an egregious breach of state rules
+    by the county’s top law enforcement official.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/nasol-mann-nguyen-evergreen-college-land-can-provide-education-revenue/>
+
+    Board members say the Evergreen College 27 acres that neighbors want
+    to preserve for education can better be used for commercial space
+    and can pay rent to support education.
+    <http://www.mercurynews.com/2016/12/07/nasol-mann-nguyen-evergreen-college-land-can-provide-education-revenue/>
+
+
+
+              Nasol, Mann, Nguyen: Evergreen College land can provide
+              education revenue
+              <http://www.mercurynews.com/2016/12/07/nasol-mann-nguyen-evergreen-college-land-can-provide-education-revenue/>
+
+
+    December 07, 2016, 9:29 am
+
+    Board members say the Evergreen College 27 acres that neighbors want
+    to preserve for education can better be used for commercial space
+    and can pay rent to support education.
+
+  * Member Services <https://myaccount.mercurynews.com/>
+  * News Alerts <https://digioh.com/BANG/general?source=TakeAction>
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+  * Subscribe
+
+    <https://myaccount.mercurynews.com/dssSubscribe.aspx?pid=22>
+
+    <#>
+      o Manage Your Subscription <https://myaccount.mercurynews.com/>
+      o All Access Subscriptions <http://www.bayareanewsaccess.com/>
+      o Today’s e-Edition <http://mercurynews.ca.newsmemory.com/>
+      o Newsletter Sign-Up <http://direct.mercurynews.com/mrc/mrcreg.action>
+      o Mobile Apps <http://www.mercurynews.com/mobile/>
+  * Contact Us
+
+    <http://www.mercurynews.com/contact-us/>
+
+    <#>
+      o Corrections <http://www.mercurynews.com/news/corrections/>
+      o Reprints <http://www.mercurynews.com/reprints/>
+      o Archive Search <http://www.mercurynews.com/archive-search/>
+      o Lottery <http://www.mercurynews.com/lottery/>
+  * Classifieds
+
+    <http://marketplace.bayareanewsgroup.com/marketplace/>
+
+    <#>
+      o Autos <http://www.norcaldrives.com/>
+      o Jobs <http://www.mercurynews.com/jobs/>
+      o Real Estate <http://realestate.mercurynews.com/>
+      o Place an Obituary
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+      o Place a Legal Ad
+        <http://bang.theadhawk.com/bang-adportal/legals/index.html>
+  * Advertise With Us
+
+    <http://www.mercurynews.com/advertise/>
+
+    <#>
+      o Today’s Ads <http://ads.mercurynews.com/>
+      o Weekly Ads <http://www.mercurynews.com/weekly-ads/>
+      o Local Guide <http://mylocal.mercurynews.com/>
+      o Fry’s Ad
+        <http://newspaperads.mercurynews.com/FSI/tiles.aspx?advid=200177&loc=53824>
+      o Public Notices <http://capublicnotice.com/>
+
+  * © 2016 Digital First Media <http://www.digitalfirstmedia.com/>
+  * Site Map <http://www.mercurynews.com/sitemap.xml>
+  * Copyright <http://www.mercurynews.com/copyright/>
+  * Privacy Policy <http://www.mercurynews.com/privacy-policy/>
+  * Arbitration
+    <http://local.digitalfirstmedia.com/common/dfm/arbitration.pdf>
+  * Powered by WordPress.com VIP <https://vip.wordpress.com/>
+  * Bay Area News Group
+
+    <http://www.bayareanewsgroup.com/>
+
+:)
+
+
+      Email This Article
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel
+
+<#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+Quantcast
+Quantcast

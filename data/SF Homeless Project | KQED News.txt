@@ -1,0 +1,712 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+
+  SFHomeless_long_Horizontal-02
+
+Thousands of people are homeless in San Francisco, and even more
+throughout the Bay Area. Despite years of concern and millions of
+dollars of investment, the problem persists.
+
+Who are the people who live on the streets and on the edge of
+homelessness? Why have we failed to create lasting change? And are there
+solutions that offer hope for the future? *As part of a collaboration
+with dozens of Bay Area news organizations, KQED is exploring these
+questions, and more.*
+
+Tasha Henneman (left) and Nichelle Kitt hold for a photo before tucking
+into their sleeping bags during Covenant House Oakland's Sleep Out.
+
+<https://ww2.kqed.org/news/2016/11/22/gala-5k-this-homeless-shelter-is-fundraising-with-a-sleep-out/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Gala? 5K? This Homeless Shelter Is Fundraising With a ‘Sleep Out’
+  <https://ww2.kqed.org/news/2016/11/22/gala-5k-this-homeless-shelter-is-fundraising-with-a-sleep-out/>
+
+By Laura Klivans <https://ww2.kqed.org/news/author/lklivans/> November
+22, 2016	
+
+The California State University system has been studying student
+homelessness and hunger since 2015.
+
+<https://ww2.kqed.org/news/2016/08/31/california-state-university-plans-to-tackle-college-homelessness/>
+
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  California State University Plans to Tackle College Homelessness
+  <https://ww2.kqed.org/news/2016/08/31/california-state-university-plans-to-tackle-college-homelessness/>
+
+By Devin Katayama <https://ww2.kqed.org/news/author/dkatayama/> August
+31, 2016	
+
+Oakland recyclers wait their turn to cash in on bottles and cans.
+
+<https://ww2.kqed.org/news/2016/08/17/advocates-raise-money-to-help-west-oakland-recyclers/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Advocates Raise Money to Help West Oakland Recyclers
+  <https://ww2.kqed.org/news/2016/08/17/advocates-raise-money-to-help-west-oakland-recyclers/>
+
+By Devin Katayama <https://ww2.kqed.org/news/author/dkatayama/> August
+17, 2016	
+
+Portable toilets mounted to a trailer bed are moved throughout the Lower
+Polk neighborhood each night.
+
+<https://ww2.kqed.org/news/2016/07/20/mobile-bathrooms-offer-solution-for-lower-polks-homeless-community/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Mobile Restrooms Offer Solution for Lower Polk’s Homeless Community
+  <https://ww2.kqed.org/news/2016/07/20/mobile-bathrooms-offer-solution-for-lower-polks-homeless-community/>
+
+By Libby Leyden <https://ww2.kqed.org/news/author/lleyden/> July 20, 2016	
+
+A homeless encampment located on Florida St in the Mission District of
+San Francisco, Calif. on Thursday, June 23, 2016.
+
+<https://ww2.kqed.org/news/2016/07/12/homelessness-in-san-franciscos-mission-a-neighborhood-view/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Homelessness in San Francisco’s Mission: A Neighborhood View
+  <https://ww2.kqed.org/news/2016/07/12/homelessness-in-san-franciscos-mission-a-neighborhood-view/>
+
+By Sukey Lewis <https://ww2.kqed.org/news/author/slewis/> July 12, 2016	
+
+Mariposa
+
+<https://ww2.kqed.org/news/2016/07/05/outside-yosemite-rural-town-grapples-with-homelessness/>
+
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  Outside Yosemite, Rural Town Grapples with Homelessness
+  <https://ww2.kqed.org/news/2016/07/05/outside-yosemite-rural-town-grapples-with-homelessness/>
+
+By Alice Daniel <https://ww2.kqed.org/news/author/aliceldaniel/> July 5,
+2016	
+
+Harold Pyne has lived at the Navigation Center on Mission Street for a
+year. The Navigation Center is one way that San Francisco is trying to
+help homeless people get into more stable housing. The city plans to
+open six more in the next two years.
+
+<https://ww2.kqed.org/news/2016/06/24/start-the-conversation-what-are-your-ideas-for-addressing-homelessness/>
+
+
+SF Homeless Project <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+
+  Start the Conversation: What Are Your Ideas For Addressing
+  Homelessness?
+  <https://ww2.kqed.org/news/2016/06/24/start-the-conversation-what-are-your-ideas-for-addressing-homelessness/>
+
+By KQED News Staff <https://ww2.kqed.org/news/author/kqed/> July 1, 2016	
+
+A homeless encampment on Florida St.
+
+<https://ww2.kqed.org/news/2016/07/01/asking-homeless-people-for-their-advice/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Asking Homeless People for Their Advice
+  <https://ww2.kqed.org/news/2016/07/01/asking-homeless-people-for-their-advice/>
+
+By KQED News Staff and Wires
+<https://ww2.kqed.org/news/author/kqednewsstaffandwires/> July 1, 2016	
+
+Mayor Dianne Feinstein and members of her administration walk through a
+shantytown slated for dismantling near Seventh and Berry streets.
+
+<http://ww2.kqed.org/lowdown/2016/06/30/interactive-timeline-a-history-of-homelessness-in-san-francisco/>
+
+
+The Lowdown <https://ww2.kqed.org/lowdown/>
+
+
+  TIMELINE: A Political History of Homelessness in San Francisco
+  <http://ww2.kqed.org/lowdown/2016/06/30/interactive-timeline-a-history-of-homelessness-in-san-francisco/>
+
+By Matthew Green <https://ww2.kqed.org/news/author/matthewgreen/> June
+30, 2016	
+
+The Acur family gets a slice of normalcy in temporary housing in San
+Mateo after sleeping in their van and on a garage floor.
+
+<https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  What Happens When One Working Family Becomes Homeless
+  <https://ww2.kqed.org/news/2016/06/30/what-happens-when-one-working-family-becomes-homeless/>
+
+By Beth Willon <https://ww2.kqed.org/news/author/bwillon/> June 30, 2016	
+
+Brad Schwartz sits at his desk at home. After decades of homelessness it
+took half a year to find a landlord willing to rent to him.
+
+<https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/>
+
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  Selling Landlords on Formerly Homeless Tenants
+  <https://ww2.kqed.org/news/2016/06/30/selling-landlords-on-formerly-homeless-tenants/>
+
+By *J.D. Hillard* June 30, 2016	
+
+Vrndavana-Hines-1920x1920
+
+<http://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/>	
+
+Perspectives
+
+
+  Growing Up Homeless
+  <http://ww2.kqed.org/perspectives/2016/06/28/teen-homelessness/>
+
+By *Vrndavana Hines* June 30, 2016	
+
+Thumbnail for 11004864
+
+<http://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/>
+
+
+KQED Arts
+
+
+  Why Art-Making is Essential to the Tenderloin’s Homeless Population
+  <http://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/>
+
+By Cy Musiker <https://ww2.kqed.org/news/author/cmusiker/> June 30, 2016	
+
+Two drawings hang at the San Francisco Night Ministry's headquarters,
+where head minister Lyle Beckman led volunteers in prayer before the
+night's crisis line opened and before he hit the streets.
+
+<https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/>
+
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  On the Streets of the Tenderloin, ‘a Light in an Unlit World’
+  <https://ww2.kqed.org/news/2016/06/29/on-the-streets-of-the-tenderloin-a-light-in-an-unlit-world/>
+
+By Natalie Yemenidjian <https://ww2.kqed.org/news/author/nyemenidjian/>
+June 29, 2016
+
+
+  Posts navigation
+
+1 2 <https://ww2.kqed.org/news/series/sf-homeless-project/page/2/> … 6
+<https://ww2.kqed.org/news/series/sf-homeless-project/page/6/> Next Page
+
+<https://ww2.kqed.org/news/series/sf-homeless-project/page/2/>	
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+    KQED Public Media for Northern CA
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube
+    <http://www.youtube.com/subscription_center?add_user=KQEDnews>
+
+
+  Most Popular in KQED News
+
+  * A 40-Year Teaching Career Ending After Trump/Hitler Comparison in
+    Mountain View
+    <https://ww2.kqed.org/news/2016/11/22/a-40-year-teaching-career-ending-after-trumphitler-comparison-in-mountain-view/>
+
+    A 40-Year Teaching Career Ending After Trump/Hitler Comparison in
+    Mountain View
+    <https://ww2.kqed.org/news/2016/11/22/a-40-year-teaching-career-ending-after-trumphitler-comparison-in-mountain-view/>
+
+  * Satellite Study Documents Sinking of S.F. Apartment Tower
+    <https://ww2.kqed.org/news/2016/11/29/satellite-study-documents-sinking-of-s-f-apartment-tower/>
+
+    Satellite Study Documents Sinking of S.F. Apartment Tower
+    <https://ww2.kqed.org/news/2016/11/29/satellite-study-documents-sinking-of-s-f-apartment-tower/>
+
+  * NPR Reporter Tracked Down a Fake-News Creator; Here's What She
+    Learned
+    <https://ww2.kqed.org/news/2016/11/23/npr-tracked-down-a-fake-news-creator-in-the-suburbs-heres-what-they-learned/>
+
+    NPR Reporter Tracked Down a Fake-News Creator; Here's What She
+    Learned
+    <https://ww2.kqed.org/news/2016/11/23/npr-tracked-down-a-fake-news-creator-in-the-suburbs-heres-what-they-learned/>
+
+  * To Save S.F. Bay and Its Dying Delta, State Aims to Replumb
+    California
+    <https://ww2.kqed.org/news/2016/11/30/to-save-s-f-bay-and-its-dying-delta-state-aims-to-re-plumb-california/>
+
+    To Save S.F. Bay and Its Dying Delta, State Aims to Replumb
+    California
+    <https://ww2.kqed.org/news/2016/11/30/to-save-s-f-bay-and-its-dying-delta-state-aims-to-re-plumb-california/>
+
+  * Supreme Court Weighs Limits on Detention of Noncitizens
+    <https://ww2.kqed.org/news/2016/11/30/supreme-court-weighs-limits-on-detention-of-noncitizens/>
+
+    Supreme Court Weighs Limits on Detention of Noncitizens
+    <https://ww2.kqed.org/news/2016/11/30/supreme-court-weighs-limits-on-detention-of-noncitizens/>
+
+  * Where Did the Wild Parrots of San Francisco Come From?
+    <https://ww2.kqed.org/news/2016/11/23/where-did-the-wild-parrots-of-san-francisco-come-from/>
+
+    Where Did the Wild Parrots of San Francisco Come From?
+    <https://ww2.kqed.org/news/2016/11/23/where-did-the-wild-parrots-of-san-francisco-come-from/>
+
+
+
+  About KQED News
+
+KQED News provides daily and in-depth coverage of regional and state
+issues, and is a service of KQED Public Radio, TV, and Interactive.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact the Newsroom <mailto:assignmentdesk@kqed.org>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+:)
+
+
+  Get the facts!
+
+Close
+

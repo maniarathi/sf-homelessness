@@ -1,0 +1,917 @@
+  * Most Popular
+
+    <#>
+  * News <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+The Mercury News
+
+<http://www.mercurynews.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+  * Most Popular
+
+    <#>
+  * News
+
+    <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local
+
+    <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports
+
+    <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business
+
+    <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment
+
+    <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries
+
+    <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+
+        Bay Area advocates sense change in political,…
+        <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/>
+
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/#print>
+*
+
+<#>
+
+Trending:
+
+  * Sherri Papini case
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+  * 49ers should’ve kept Smith
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+  * Kim K. to divorce?
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+  * Pitt vs. Jolie
+    <http://www.mercurynews.com/2016/12/07/brad-pitt-moves-to-seal-documents-in-angelina-jolie-custody-dispute/>
+
+  * After cold snap, rain
+    <http://www.mercurynews.com/2016/12/06/bay-area-weather-after-cold-snap-rain-on-the-way/>
+
+  * Bay Area poverty
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+Business <http://www.mercurynews.com/business/>
+
+
+  Bay Area advocates sense change in political, public will to help
+  homeless
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/bay-area-advocates-sense-change-in-political-public-will-to-help-homeless/#print>
+*
+
+By Eric Kurhi <http://www.mercurynews.com/author/eric-kurhi/> |
+ekurhi@bayareanewsgroup.com <mailto:ekurhi@bayareanewsgroup.com>	
+PUBLISHED: June 28, 2016 at 12:22 pm | UPDATED: August 12, 2016 at 12:16 am
+
+SAN JOSE — Anthony King’s time spent living on the streets began with
+some bad choices he made in his late 20s and lasted a third of his life.
+But today, the 46-year-old San Jose resident has found a permanent home
+and a calling as an advocate for the thousands of people in Santa Clara
+County who remain homeless.
+
+King, who works for Silicon Valley DeBug, serves as a bridge between the
+homeless and the government, telling public officials what those with no
+permanent shelter need and advocating for efforts to solve the Bay
+Area’s homelessness crisis.
+
+“I perfectly fit the definition of what is chronic homelessness,” said
+King, 46, who grew up in Milpitas but has lived in homeless camps from
+Portland, Oregon, to Portland, Maine. “I can tell you that one of the
+outdated notions out there is that people who are homeless want to be
+homeless. Or if they’re chronically homeless they’re too far gone on
+substances or too mentally ill to help, and a lot of times that’s not
+the case.”
+
+Throughout the Bay Area, cities, counties and nonprofits are employing a
+range of solutions to provide the homeless with shelter. While the
+number of homeless people in Santa Clara County has eased in recent
+years — last year’s count of 6,556 reflected a 14 percent drop from the
+previous tally — the issue has drawn more attention as the homeless
+gather in encampments along creek beds and under highway overpasses.
+
+“In a number of communities, homelessness is just more visible now,”
+said Steve Berg, a policy expert with the Washington, D.C.-based
+National Alliance for Ending Homelessness. “The encampment phenomenon of
+people gathering together and forming little communities has made them
+more visible. They often do it for personal safety, and it’s a natural
+human response to band together, but it makes them more visible than if
+they’ve spread themselves around.”
+
+Now, there’s a feeling that something can be done.
+
+“People are seeing that it’s possible to make progress, and success is
+galvanizing the community,” said Rosanne Haggerty president of Community
+Solutions, a New York-based nonprofit dedicated to crafting homeless
+strategies. “We know we’re not helpless, and know what needs to happen.”
+
+Santa Clara County supervisors last week voted to put a $950 million
+affordable housing bond on the November ballot that’s aimed at the
+lowest economic echelon — those who are homeless or at risk of becoming
+homeless. Advocates are calling it a potential game-changer for local
+efforts, and the priority of low-end housing has been embraced by
+officials throughout the Bay Area: On Tuesday, Alameda County
+supervisors advanced a $580 million bond to the ballot for similar
+purposes, and San Francisco voters approved a $300 million version last
+November. San Mateo County is currently mulling over something similar,
+said Amie Fishman of the Nonprofit Housing Association of Northern
+California.
+
+“This is such an exciting moment,” said Fishman. “We’re seeing a
+convergence of political leadership and voter support bringing it to the
+fore.”
+
+If two-thirds of voters pass the bond — and there’s a lot of people out
+there depending on that to happen — Haggerty and others said it will
+need to be matched by an uptick in services for those in need.
+
+“Simply producing a new supply is insufficient to put a dent in the
+homeless population,” Haggerty said. “You also have to have a
+well-functioning system that is constantly identifying people who need
+that support and can help them navigate the housing market and create a
+whole new space around them.”
+
+For King, that kind of turning point came in 2013 when he got involved
+with Housing 1000, a community campaign that housed 850 chronically
+homeless people through 2014, with an 83 percent success rate of them
+remaining off the streets. It’s done by getting people into a stable
+environment and then surrounding them with services that help them
+stabilize their lives, kick their addictions and find jobs. The idea is
+fundamental to the push by local lawmakers looking to create space for
+the homeless to live in the affordable-housing wasteland of the Bay Area.
+
+It worked for King, who now spends time creekside and below highway
+overpasses talking to San Jose’s homeless to find out what they need and
+deliver that message to officials who can help. He attends nearly all
+government meetings dealing with homelessness and last week appeared
+before the county board of supervisors. King said that in Santa Clara
+County, there’s a “schism” between what case management is supposed to
+do and what it actually does.
+
+“People won’t hear from their case worker for a month and a half,” he
+said, “and when they do hear from them, they’re told ‘I no longer work
+there, you’re getting transferred to another agency and you need to
+contact my boss to find out how that’s going to happen but it won’t
+happen until the end of the month.’ And that leads to a lot of questions
+and a lot of frustration among people who are trying to avail themselves.”
+
+Haggerty agrees case management is key.
+
+“The vast majority of people experiencing homelessness find their own
+way out of it after a short-term crisis,” she said. “But there is a
+group that will remain trapped there forever if not for active
+intervention, and it’s that group that must be known by name, to match
+them to the right resources.”
+
+Haggerty pointed out Fremont-based Abode Services, which made news
+nearly a year ago when it partnered with Santa Clara County to create a
+novel “Pay for Success” program in which investors front the cost for
+Abode to help the chronically homeless Haggerty is talking about.
+
+Abode director Louis Chicoine said that so far they’ve housed over 90
+people, the vast majority of whom remained with the program.
+
+“I think we’re on the front end of really beginning to make a noticeable
+change in the way we help homeless people,” he said.
+
+According to a joint study by nonprofit Destination: Home and Santa
+Clara County, 61 percent of the $520 million spent annually in Santa
+Clara County on the homeless is used by just 10 percent of that
+population. And that $67,000 per-person cost could be cut on average by
+nearly $43,000 by getting them housed.
+
+“We encourage people to want to end homelessness because these are our
+brothers and sisters living in a way nobody should have to live,” Berg
+said. “But if they can’t relate to that, we tell them they should just
+do it because it’s cheaper to house them than it is to leave them on the
+streets.”
+
+Contact Eric Kurhi at 408-920-5852. Follow him at Twitter.com/erickurhi
+<http://twitter.com/erickurhi>.
+
+The homeless in Santa Clara County
+
+According to the latest survey conducted every two years and released a
+year ago, there were 6,556 who have no permanent housing in Santa Clara
+County.
+That figure is 14 percent lower than the 7,631 in 2013, and the lowest
+level in a decade. There was a 12 percent decrease among the chronically
+homeless. Of those counted, 71 percent were considered “unsheltered,”
+living on the street, in encampments or in vehicles.
+In San Jose, the number dropped from 4,770 in 2013 to 4,063 in 2015, a
+15 percent decrease.
+
+Review: Samsung Fixes the TV Remote
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Sponsored Content
+
+
+        Review: Samsung Fixes the TV Remote
+        <http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+
+By Samsung
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Geoffrey A. Fowler tests Samsung’s 2016 TVs, which have one smart
+clicker to control all our cable boxes, disc players, video streamers
+and apps
+
+Eric Kurhi, Santa Clara County reporter, San Jose Mercury News. For his
+Wordpress profile. (Michael Malone/Bay Area News Group)	
+
+
+Eric Kurhi <http://www.mercurynews.com/author/eric-kurhi/>
+
+Eric Kurhi is a reporter for the Bay Area News Group based at The
+Mercury News. He covers Santa Clara County government and general
+assignment duties. An East Bay native, he has been editing and reporting
+at local newspapers since graduating from San Francisco State University
+in 1997.
+// Follow Eric Kurhi @erickurhi <https://twitter.com/erickurhi>
+Subscribe Today! All Access Digital offer for just 99 cents!
+<https://myaccount.mercurynews.com/dsssubscribe.aspx>
+ 
+You Might Also Like
+
+  *
+    Up To 50,000 Bonus Miles: Best Travel Credit Cards Up To 50,000
+    Bonus Miles: Best Travel Credit Cards GET.com
+    <https://www.get.com/10-best-airline-credit-cards/?ad=outbrain_airline_miles&utm_medium=cpc&utm_source=outbrain_248358&utm_campaign=outbrain_airline_miles_70153484&oclid=9933ad4029e286fa60bcfaa47f5d4b36>
+
+  *
+    Get a glimpse of an amazing future enabled by the data center in
+    Servers Rock: Our Connected Earth Get a glimpse of an amazing future
+    enabled by the data… Intel Servers Rock
+    <https://ad.doubleclick.net/ddm/clk/310019250;137045041;h>
+  *
+    Tips on How To Become a Manager Tips on How To Become a Manager CAL
+    STATE MONTEREY BAY
+    <https://mba.csumb.edu/blog/tips-on-how-to-become-a-manager?utm_source=Outbrain&utm_medium=Online%20Media&utm_campaign=CSUMB_Native>
+
+
+  *
+    Why Now's The Best Time To Put Money In The Market Why Now's The
+    Best Time To Put Money In The Market The Liberty Project
+    <http://i.geistm.com/l/57c062c0257bc22d12389e08?utm_source=geist&utm_campaign=584847acdde95b75cf023ad3&bhid=57d01fc93f2a62f226e42f89&bcid=58485094dde95b75cf023b25&utm_content=70797861>
+
+  *
+    Why Apple is Killing the Swiss Watch Industry Why Apple is Killing
+    the Swiss Watch Industry Creative State
+    <https://creativestate.com/blog/Digital-Strategy-Call-with-Guest-John-Biggs>
+
+  *
+    10 Best Rewards Cards: Get $150 Bonus Cashback 10 Best Rewards
+    Cards: Get $150 Bonus Cashback GET.com
+    <https://www.get.com/credit-cards-best-bonus-offers/?ad=outbrain_bonus_150&utm_medium=cpc&utm_source=outbrain_248358&utm_campaign=outbrain_bonus_150_69875867&oclid=9933ad4029e286fa60bcfaa47f5d4b36>
+
+
+  *
+    Melania Trump’s nude photos: Who leaked them? Melania Trump’s nude
+    photos: Who leaked them? MercuryNews.com
+    <http://www.mercurynews.com/2016/08/01/melania-trumps-nude-photos-who-leaked-them/>
+
+  *
+    San Jose: Authorities identify victim of deadly Jan. 7 shooting San
+    Jose: Authorities identify victim of deadly Jan. 7… MercuryNews.com
+    <http://www.mercurynews.com/2016/01/12/san-jose-authorities-identify-victim-of-deadly-jan-7-shooting/>
+
+  *
+    Oakland warehouse fire: Who is the man behind the ‘Ghost Ship’?
+    Oakland warehouse fire: Who is the man behind the… MercuryNews.com
+    <http://www.mercurynews.com/2016/12/04/oakland-warehouse-fire-who-is-the-man-behind-the-ghost-ship/>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+Sign up for our newsletters!
+
+Subscribe <http://direct.mercurynews.com/mrc/mrcreg.action>
+Follow Us
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+
+    Most Popular
+
+ 1. Oakland fire aftermath: Evictions as artists’ worst fears come true
+
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+ 2. Kim Kardashian is plotting to divorce Kanye West, one report says
+
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+ 3. San Jose: Firefighters knock down abandoned home fire, suspect squatter
+
+    <http://www.mercurynews.com/2016/12/07/san-jose-firefighters-knock-down-abandoned-home-fire-suspect-squatter/>
+
+ 4. Oakland warehouse fire: Officials release names of 9 more victims
+
+    <http://www.mercurynews.com/2016/12/06/oakland-warehouse-fire-search-for-victims-85-percent-complete-death-toll-still-36/>
+
+ 5. Purdy: It’s now obvious the 49ers should have kept Smith, not
+    Kaepernick
+
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+ 6. Eddy Lepp free after 10-year sentence for growing marijuana
+
+    <http://www.mercurynews.com/2016/12/07/cannabis-convict-eddy-lepp-free-after-long-prison-term/>
+
+ 7. Sherri Papini ‘consultant’ asked to find another missing California mom
+
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+ 8. Oakland: Artists, restaurant at odds over Salt Lick warehouse
+    following deadly Ghost Ship blaze
+
+    <http://www.mercurynews.com/2016/12/07/oakland-artists-restaurant-at-odds-over-salt-lick-warehouse/>
+
+
+
+    More in Real Estate
+
+  *
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+    In the few days following the Ghost Ship tragedy, artists' fears of
+    a backlash against un-permitted living spaces are coming to fruition
+    with some reporting they have been served eviction notices.
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+
+
+              Oakland fire aftermath: Evictions as artists’ worst fears
+              come true
+              <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+
+    December 07, 2016, 7:33 pm
+
+    In the few days following the Ghost Ship tragedy, artists’ fears of
+    a backlash against un-permitted living spaces are coming to fruition
+    with some reporting they have been served eviction notices.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/housing-groups-sue-fannie-mae-for-failure-to-take-care-of-foreclosed-properties-in-communities-of-color/>
+
+    Foreclosed homes in majority African-American and Latino
+    neighborhoods were more likely to have untended yards, debris and
+    broken windows, which affected crime and property values in the
+    area, suit alleges.
+    <http://www.mercurynews.com/2016/12/07/housing-groups-sue-fannie-mae-for-failure-to-take-care-of-foreclosed-properties-in-communities-of-color/>
+
+
+
+              Housing groups sue Fannie Mae over foreclosed Bay Area
+              properties in communities of color
+              <http://www.mercurynews.com/2016/12/07/housing-groups-sue-fannie-mae-for-failure-to-take-care-of-foreclosed-properties-in-communities-of-color/>
+
+
+    December 07, 2016, 3:52 pm
+
+    Foreclosed homes in majority African-American and Latino
+    neighborhoods were more likely to have untended yards, debris and
+    broken windows, which affected crime and property values in the
+    area, suit alleges.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+    Close to 30 percent of the Bay Area's residents, hit by high housing
+    costs, aren't able to make ends meet, according to a study released
+    Wednesday.
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+              More Bay Area residents struggling than poverty statistics
+              indicate
+              <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+    December 07, 2016, 2:11 pm
+
+    Close to 30 percent of the Bay Area’s residents, hit by high housing
+    costs, aren’t able to make ends meet, according to a study released
+    Wednesday.
+    75
+
+    <#comments>
+
+  *
+    <http://www.mercurynews.com/2016/12/06/after-oakland-warehouse-fire-calls-come-for-more-inspectors/>
+
+    “We have a shortage of staff at the enforcement level and in the
+    fire level,” said Councilman Noel Gallo, who represents the
+    Fruitvale district where the fire happened. “We’ve been trying to
+    merge the building inspectors with the fire inspectors.”
+    <http://www.mercurynews.com/2016/12/06/after-oakland-warehouse-fire-calls-come-for-more-inspectors/>
+
+
+
+              After Oakland warehouse fire, calls come for more
+              inspectors
+              <http://www.mercurynews.com/2016/12/06/after-oakland-warehouse-fire-calls-come-for-more-inspectors/>
+
+
+    December 07, 2016, 12:49 pm
+
+    “We have a shortage of staff at the enforcement level and in the
+    fire level,” said Councilman Noel Gallo, who represents the
+    Fruitvale district where the fire happened. “We’ve been trying to
+    merge the building inspectors with the fire inspectors.”
+
+  * Member Services <https://myaccount.mercurynews.com/>
+  * News Alerts <https://digioh.com/BANG/general?source=TakeAction>
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+  * Subscribe
+
+    <https://myaccount.mercurynews.com/dssSubscribe.aspx?pid=22>
+
+    <#>
+      o Manage Your Subscription <https://myaccount.mercurynews.com/>
+      o All Access Subscriptions <http://www.bayareanewsaccess.com/>
+      o Today’s e-Edition <http://mercurynews.ca.newsmemory.com/>
+      o Newsletter Sign-Up <http://direct.mercurynews.com/mrc/mrcreg.action>
+      o Mobile Apps <http://www.mercurynews.com/mobile/>
+  * Contact Us
+
+    <http://www.mercurynews.com/contact-us/>
+
+    <#>
+      o Corrections <http://www.mercurynews.com/news/corrections/>
+      o Reprints <http://www.mercurynews.com/reprints/>
+      o Archive Search <http://www.mercurynews.com/archive-search/>
+      o Lottery <http://www.mercurynews.com/lottery/>
+  * Classifieds
+
+    <http://marketplace.bayareanewsgroup.com/marketplace/>
+
+    <#>
+      o Autos <http://www.norcaldrives.com/>
+      o Jobs <http://www.mercurynews.com/jobs/>
+      o Real Estate <http://realestate.mercurynews.com/>
+      o Place an Obituary
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+      o Place a Legal Ad
+        <http://bang.theadhawk.com/bang-adportal/legals/index.html>
+  * Advertise With Us
+
+    <http://www.mercurynews.com/advertise/>
+
+    <#>
+      o Today’s Ads <http://ads.mercurynews.com/>
+      o Weekly Ads <http://www.mercurynews.com/weekly-ads/>
+      o Local Guide <http://mylocal.mercurynews.com/>
+      o Fry’s Ad
+        <http://newspaperads.mercurynews.com/FSI/tiles.aspx?advid=200177&loc=53824>
+      o Public Notices <http://capublicnotice.com/>
+
+  * © 2016 Digital First Media <http://www.digitalfirstmedia.com/>
+  * Site Map <http://www.mercurynews.com/sitemap.xml>
+  * Copyright <http://www.mercurynews.com/copyright/>
+  * Privacy Policy <http://www.mercurynews.com/privacy-policy/>
+  * Arbitration
+    <http://local.digitalfirstmedia.com/common/dfm/arbitration.pdf>
+  * Powered by WordPress.com VIP <https://vip.wordpress.com/>
+  * Bay Area News Group
+
+    <http://www.bayareanewsgroup.com/>
+
+
+      Email This Article
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel
+
+<#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+Quantcast
+:)

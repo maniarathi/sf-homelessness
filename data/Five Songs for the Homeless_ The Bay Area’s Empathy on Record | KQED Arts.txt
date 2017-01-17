@@ -1,0 +1,698 @@
+KQED Menu
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Menu
+
+    <#>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Specials
+
+        <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED Arts <https://ww2.kqed.org/arts/>
+
+Search
+
+<#search-container>
+
+
+  KQED Arts Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Tom Waits is among many Bay Area musicians who approach homelessness
+with understanding instead of scorn.
+
+Tom Waits is among many Bay Area musicians who approach homelessness
+with understanding instead of scorn. (/Photo: Matt Mahurin/)
+
+News <https://ww2.kqed.org/arts/category/news/>
+
+
+  Five Songs for the Homeless: The Bay Area’s Empathy on Record
+
+By Gabe Meline <https://ww2.kqed.org/arts/author/gmeline/>
+<http://twitter.com/gmeline>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=email&nb=1>
+*
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+You might have seen it, tucked into the /New York Times/’ report
+<http://www.nytimes.com/2016/05/16/us/san-francisco-homelessness.html>
+about the Bay Area’s coordinated coverage of homelessness: the phrase
+“clumps of humanity,” referring to San Francisco’s homeless population.
+
+My KQED coworkers and I weren’t the only ones
+<http://www.salon.com/2016/05/16/clumps_of_humanity_this_new_york_times_article_treated_homelessness_in_just_about_the_worst_way_possible/>
+who noticed the Times’ term, a denigration to those down on their luck.
+But it was especially strange to someone who covers music. Immediately,
+I thought of the many songs from the Bay Area that treat homelessness
+not with scorn, but with understanding and empathy.
+
+Some of those songs are by musicians who’ve been homeless themselves.
+Nearly all are by artists who’ve found ways to either give back to the
+organizations that helped them, or to help others without a roof over
+their head.
+
+
+    Crimpshrine – “Sleep, What’s That?”
+
+San Francisco punk bands had sung about being homeless before — DRI’s
+“Soup Kitchen Blues <http://genius.com/Dri-soup-kitchen-lyrics>” and
+MDC’s “No Place to Piss <http://genius.com/Mdc-no-place-to-piss-lyrics>”
+were both products of band members’ experiences squatting and
+couch-surfing in mid-’80s San Francisco. But Crimpshrine’s /Sleep,
+What’s That?/ EP, released in 1988 by a fledgling new record label
+called Lookout Records, tackled the issue head-on in its title track.
+Singer/guitarist Jeff Ott was himself homeless at the time, singing:
+
+    So much food to eat, so many homes to sleep in
+    Stores so full of food, so why must I eat from a garbage bin?
+    There’s 1,600 people walking around today, thinking life’s a little
+    game to play
+    Trying to avoid police abduction, trying to avoid hunger and
+    self-destruction
+
+During a show at 924 Gilman
+<https://www.youtube.com/watch?v=adbbq2-w2WY> in 1989, Ott introduced
+the song by saying: “It’s about myself and all my friends on Telegraph
+Avenue who have no place to live, and who go without enough food every
+day. And there’s places they could be sleeping, and they get busted for it.”
+
+Lookout Records would go on to international renown with bands like
+Green Day and Operation Ivy, and when Crimpshrine’s EPs were reissued,
+the band took the opportunity to give back to the organizations that’d
+helped them when they were on the streets, donating royalties to Food
+Not Bombs <http://ebfnb.org/> and the Berkeley Free Clinic
+<http://www.berkeleyfreeclinic.org/>.
+
+
+    Tom Waits – “Cold Water”
+
+Tom Waits has long been an advocate for the homeless, whether in songs
+like “On the Nickel” — a beautiful ballad from /Heartattack and Vine/
+about Los Angeles’ Fifth Street — or in lending a song to the soundtrack
+of /Streetwise/, a 1984 documentary about homeless teenagers in Seattle.
+
+For his 1999 album /Mule Variations/, Waits penned the sympathetic ode
+“Cold Water,” a lovely and sad song in the voice of a homeless teenager:
+
+    I look 47 but I’m 24
+    Well they shooed me away from here the time before
+    Turned their backs and they locked their doors
+    I’m watchin’ TV in the window of a furniture store
+
+More recently, Waits released /Seeds on Hard Ground/, a limited-edition
+chapbook of his poetry about homelessness. All proceeds were donated to
+the Redwood Empire Food Bank <http://www.refb.org/>, Sonoma County
+Homeless Referral Services <http://sonomacountyhomeless.org/> and Family
+Support Center <http://www.srcharities.org/get-help/shelter-housing> run
+by the Catholic Charities of Santa Rosa.
+
+
+    2Pac – “Changes”
+
+Before he moved to Oakland, Tupac Shakur grew up around tough
+neighborhoods in the Bronx, Harlem and Baltimore. Oftentimes, without a
+steady income, his single mother Afeni brought Shakur to stay at
+homeless shelters. The experience helped inspire “Changes,” originally
+recorded in 1993:
+
+    And still I see no changes
+    Can’t a brother get a little peace?
+    It’s war on the streets and a war in the Middle East
+    Instead of war on poverty
+    They got a war on drugs so the police can bother me
+
+Shakur put his money where his mouth was, planning a high-profile
+benefit concert
+<http://articles.latimes.com/1996-08-30/local/me-38987_1_safe-house> for
+the brand-new community center A Place Called Home
+<http://www.apch.org/>, serving impoverished and at-risk children in
+South Central Los Angeles. Shakur was murdered just weeks before the
+concert, but he greatly raised the center’s visibility. A Place Called
+Home celebrates its 20th anniversary this year.
+
+
+    Metallica – “Low Man’s Lyric”
+
+You might assume that James Hetfield doesn’t have much exposure to
+homelessness, living as he does in one of the wealthiest per-capita
+counties in the nation. And yet a recent KQED Forum broadcast from Marin
+County
+<https://ww2.kqed.org/forum/2016/06/21/forum-on-the-road-san-rafael-s-homeless-plan-stirs-debate/>
+showed that amidst Marin’s multi-million dollar homes and shiny
+Maseratis lives a sizeable homeless population on the street. Some are
+there due to drug addiction, a group Hetfield sings for in “Low Man’s
+Lyric”:
+
+    The trash fire is warm
+    But nowhere safe from the storm
+    And I can’t bear to see
+    What I’ve let me be
+    So wicked and worn
+
+Marin is an interesting case study for homelessness in areas with a vast
+senior-citizen population; the vicious resistance to affordable housing
+in the region is leaving many of advanced age out in the cold. While
+organizations like Homeward Bound <https://hbofm.org/> and the Ritter
+Center <http://www.rittercenter.org/> provide for Marin’s homeless,
+Metallica bassist Robert Trujilo recently took part in a benefit
+<http://www.ktvu.com/news/134956135-story> for San Francisco’s St.
+Anthony’s Foundation, which provides services and meals to those in need.
+
+
+    Dead Kennedys – “Kill the Poor”
+
+It wouldn’t be the Bay Area without a heavy dose of satire, would it?
+With “Kill the Poor,” Dead Kennedys singer Jello Biafra takes intensive
+homeless eradication (like San Francisco’s recent encampment sweeps
+<http://ww2.kqed.org/news/2016/03/01/s-f-clearing-homeless-holdouts-from-division-street-neighborhood>)
+to its logical conclusion:
+
+    The sun beams down on a brand new day
+    No more welfare tax to pay
+    Unsightly slums gone up in flashing light
+    Jobless millions whisked away
+    At last we have more room to play
+    All systems go: kill the poor tonight!
+
+It couldn’t happen here, could it? And yet witnessing this year’s
+complete sweep of the homeless on Division Street
+<http://ww2.kqed.org/news/2016/03/01/s-f-clearing-homeless-holdouts-from-division-street-neighborhood>
+— complete with tents removed, personal possessions hauled away and
+barricades erected to block public land — one can’t help but wonder how
+many steps away we are, really, from Biafra’s over-the-top proposal.
+
+Explore: Music <https://ww2.kqed.org/arts/category/music/>, News
+<https://ww2.kqed.org/arts/category/news/>, guide
+<https://ww2.kqed.org/arts/tag/guide/>, news
+<https://ww2.kqed.org/arts/tag/news-2/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/?share=email&nb=1>
+  *
+
+0 Comments
+<http://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Arts
+
+SF Arts and Homeless Organizations Join Forces to Secure More City Funding
+
+<https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/>
+
+Facing Gentrification, 924 Gilman's Stability Boosted by Green Day Tribute
+
+<http://ww2.kqed.org/arts/2016/02/17/green-day-dookie-924-gilman/>
+
+Mix Tape: Highlights from Bay Area Punk, Post-Punk and Hardcore
+
+<http://ww2.kqed.org/arts/2012/10/22/mix_tape_highlights_from_bay_area_punk_post-punk_and_hardcore/>
+
+Heaviness Is Guaranteed: A Conversation with James Williamson
+
+<http://ww2.kqed.org/arts/2015/11/17/heaviness-is-guaranteed-a-conversation-with-james-williamson/>
+
+Remembering the Time Tupac Shakur Sued the Oakland Police for $10 Million
+
+<http://ww2.kqed.org/arts/2016/06/16/its-tupac-day-in-oakland-where-he-once-sued-the-police-for-10-million/>
+
+Live Review: Green Day Plays 924 Gilman, Welcomed Back After 21 Years
+
+<http://ww2.kqed.org/arts/2015/05/18/live-review-green-day-plays-924-gilman-for-the-first-time-in-21-years/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Gabe Meline
+
+Gabe Meline is KQED Arts' Online Editor. He lives with his wife, his
+daughter, a 1964 Volvo and too many records in his hometown of Santa
+Rosa, CA. Find him on Twitter at @gmeline <https://twitter.com/gmeline>.
+
+View all posts by this author <https://ww2.kqed.org/arts/author/gmeline/>
+
+
+  Post navigation
+
+Prev Scotty Moore, Elvis Presley's First Guitarist, Dies at 84
+
+<https://ww2.kqed.org/arts/2016/06/29/scotty-moore-elvis-presleys-first-guitarist-dies-at-84/>
+Next Why Art-Making is Essential to the Tenderloin’s Homeless Population
+
+<https://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/>
+
+
+
+  About KQED Arts
+
+KQED Arts provides daily arts news, reviews and profiles for the San
+Francisco Bay Area.
+
+  * Contributors <http://ww2.kqed.org/arts/contributors/>
+  * Contact Us <mailto:arts@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+Funding for KQED Arts is provided by The William and Flora Hewlett
+Foundation <http://www.hewlett.org/>.
+
+The William and Flora Hewlett Foundation <http://www.hewlett.org/>
+
+Support is also provided by the Kenneth Rainin Foundation and the
+members of KQED.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  When you need an art fix!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

@@ -1,0 +1,985 @@
+CNBC <http://www.cnbc.com/>
+// <javascript:void(0)>// <javascript:void(0)>
+
+<http://www.cnbc.com/>
+
+  * HOME U.S.//
+
+    <http://www.cnbc.com/>
+      o EDITION
+      o U.S. Edition
+      o INTL Edition
+  * News
+
+    <http://www.cnbc.com/us-news/>
+      o Economy
+
+        <http://www.cnbc.com/economy/>
+      o Finance
+
+        <http://www.cnbc.com/finance/>
+      o Health Care
+
+        <http://www.cnbc.com/health-care/>
+      o Real Estate
+
+        <http://www.cnbc.com/real-estate/>
+      o Wealth
+
+        <http://www.cnbc.com/wealth/>
+      o Autos
+
+        <http://www.cnbc.com/autos/>
+      o Earnings
+
+        <http://www.cnbc.com/earnings/>
+      o Energy
+
+        <http://www.cnbc.com/energy/>
+      o Life
+
+        <http://www.cnbc.com/life/>
+      o Media
+
+        <http://www.cnbc.com/media/>
+      o Politics
+
+        <http://www.cnbc.com/politics/>
+      o Retail
+
+        <http://www.cnbc.com/retail/>
+      o Commentary
+
+        <http://www.cnbc.com/commentary/>
+      o Special Reports
+
+        <http://www.cnbc.com/special-reports/>
+      o Asia
+
+        <http://www.cnbc.com/asia-news/>
+      o Europe
+
+        <http://www.cnbc.com/europe-news/>
+      o CFO Council
+
+        <http://www.cnbc.com/global-cfo-council/>
+  * Markets
+
+    <http://www.cnbc.com/markets/>
+      o Pre-Markets
+
+        <http://www.cnbc.com/pre-markets/>
+      o U.S.
+
+        <http://www.cnbc.com/us-markets/>
+      o Asia
+
+        <http://www.cnbc.com/markets-asia-pacific/>
+      o Europe
+
+        <http://www.cnbc.com/markets-europe/>
+      o Stocks
+
+        <http://www.cnbc.com/stocks/>
+      o Commodities
+
+        <http://www.cnbc.com/commodities/>
+      o Currencies
+
+        <http://www.cnbc.com/currencies/>
+      o Bonds
+
+        <http://www.cnbc.com/bonds/>
+      o Funds
+
+        <http://www.cnbc.com/mutual-funds/>
+      o ETFs
+
+        <http://www.cnbc.com/exchange-traded-funds/>
+  * Investing
+
+    <http://www.cnbc.com/investing/>
+      o Trading Nation
+
+        <http://www.cnbc.com/trading-nation/>
+      o Financial Advisors
+
+        <http://www.cnbc.com/financial-advisors/>
+      o Personal Finance
+
+        <http://www.cnbc.com/personal-finance/>
+      o CNBC Explains
+
+        <http://www.cnbc.com/cnbc-explains/>
+      o Portfolio
+
+        <http://portfolio.cnbc.com/>
+      o Watchlist
+
+        <http://watchlist.cnbc.com/>
+      o Stock Screener
+
+        <http://www.cnbc.com/id/15839076>
+      o Fund Screener
+
+        <http://www.cnbc.com/id/15839074>
+  * Tech
+
+    <http://www.cnbc.com/technology/>
+      o Recode
+
+        <http://recode.net/>
+      o Mobile
+
+        <http://www.cnbc.com/mobile/>
+      o Social Media
+
+        <http://www.cnbc.com/social-media/>
+      o Enterprise
+
+        <http://www.cnbc.com/enterprise/>
+      o Gaming
+
+        <http://www.cnbc.com/gaming/>
+      o Cybersecurity
+
+        <http://www.cnbc.com/cybersecurity/>
+  * Make It
+
+    <http://www.cnbc.com/make-it/>
+      o Entrepreneurs
+
+        <http://www.cnbc.com/make-it/entrepreneurs/>
+      o Leadership
+
+        <http://www.cnbc.com/make-it/leadership/>
+      o Careers
+
+        <http://www.cnbc.com/make-it/careers/>
+      o Money
+
+        <http://www.cnbc.com/make-it/money/>
+      o Specials
+
+        <http://www.cnbc.com/make-it/special-reports/>
+      o Shows
+
+        <http://www.cnbc.com/make-it/shows/>
+  * Video
+
+    <http://video.cnbc.com/>
+      o Top Video
+
+        <http://www.cnbc.com/top-video/>
+      o Latest Video
+
+        <http://www.cnbc.com/video-all/>
+      o U.S. Video
+
+        <http://www.cnbc.com/us-video/>
+      o Asia Video
+
+        <http://www.cnbc.com/asia-video/>
+      o Europe Video
+
+        <http://www.cnbc.com/europe-video/>
+      o CEO Interviews
+
+        <http://www.cnbc.com/video-ceo-interviews/>
+      o Analyst Interviews
+
+        <http://www.cnbc.com/video-analyst-interviews/>
+      o Full Episodes
+
+        <http://www.cnbc.com/live-tv/>
+  * Shows
+
+    <http://www.cnbc.com/tv-worldwide/>
+      o Watch Live
+
+        <http://www.cnbc.com/live-tv/>
+      o CNBC U.S. Business Day
+
+        <http://www.cnbc.com/tv-worldwide/>
+      o CNBC U.S. Primetime
+
+        <http://www.cnbc.com/make-it/shows/>
+      o CNBC Asia-Pacific
+
+        <http://www.cnbc.com/asia-business-day/>
+      o CNBC Europe
+
+        <http://www.cnbc.com/europe-television/>
+      o CNBC World
+
+        <http://www.cnbc.com/global-television-shows/>
+      o Full Episodes
+
+        <http://www.cnbc.com/live-tv/>
+  *
+    More
+
+    <javascript:void(0)>
+          + Log In
+
+            <http://www.cnbc.com/application/generic/?action=signin>
+          + |
+          + Register
+
+            <http://www.cnbc.com/application/generic/?action=signup>
+          + Log Out
+
+            <javascript:void(0);>
+      o News
+
+        <http://www.cnbc.com/us-news/>
+      o
+          + Economy
+
+            <http://www.cnbc.com/economy/>
+          + Finance
+
+            <http://www.cnbc.com/finance/>
+          + Health Care
+
+            <http://www.cnbc.com/health-care/>
+          + Real Estate
+
+            <http://www.cnbc.com/real-estate/>
+          + Wealth
+
+            <http://www.cnbc.com/wealth/>
+          + Autos
+
+            <http://www.cnbc.com/autos/>
+          + Consumer
+
+            <http://www.cnbc.com/consumers/>
+          + Earnings
+
+            <http://www.cnbc.com/earnings/>
+          + Energy
+
+            <http://www.cnbc.com/energy/>
+          + Life
+
+            <http://www.cnbc.com/life/>
+          + Media
+
+            <http://www.cnbc.com/media/>
+          + Politics
+
+            <http://www.cnbc.com/politics/>
+          + Retail
+
+            <http://www.cnbc.com/retail/>
+          + Commentary
+
+            <http://www.cnbc.com/commentary/>
+          + Special Reports
+
+            <http://www.cnbc.com/special-reports/>
+          + Asia
+
+            <http://www.cnbc.com/asia-news/>
+          + Europe
+
+            <http://www.cnbc.com/europe-news/>
+          + CFO Council
+
+            <http://www.cnbc.com/global-cfo-council/>
+      o Pro
+
+        <http://www.cnbc.com/pro>
+      o
+          + View All
+
+            <http://www.cnbc.com/pro>
+          + News & Analysis
+
+            <http://www.cnbc.com/pro-story>
+          + Video
+
+            <http://www.cnbc.com/pro-video>
+          + PRO Talks
+
+            <http://www.cnbc.com/protalks>
+          + PRO Uncut
+
+            <http://www.cnbc.com/pro-uncut>
+          + Kensho Stats
+
+            <http://www.cnbc.com/kensho>
+          + Halftime Portfolio
+
+            <http://www.cnbc.com/halftime-portfolio>
+          + Squawk Box Portfolio
+
+            <http://www.cnbc.com/squawk-box-portfolio>
+          + Take a Tour
+
+            <javascript:void(0)>
+          + Subscribe
+
+            <http://www.cnbc.com/application/pro>
+      o Markets
+
+        <http://www.cnbc.com/markets/>
+      o
+          + Pre-Markets
+
+            <http://www.cnbc.com/pre-markets/>
+          + U.S.
+
+            <http://www.cnbc.com/us-markets/>
+          + Asia
+
+            <http://www.cnbc.com/markets-asia-pacific/>
+          + Europe
+
+            <http://www.cnbc.com/markets-europe/>
+          + Stocks
+
+            <http://www.cnbc.com/stocks/>
+          + Commodities
+
+            <http://www.cnbc.com/commodities/>
+          + Currencies
+
+            <http://www.cnbc.com/currencies/>
+          + Bonds
+
+            <http://www.cnbc.com/bonds/>
+          + Funds
+
+            <http://www.cnbc.com/mutual-funds/>
+          + ETFs
+
+            <http://www.cnbc.com/exchange-traded-funds/>
+      o Make It
+
+        <http://www.cnbc.com/make-it/>
+      o
+          + Entrepreneurs
+
+            <http://www.cnbc.com/make-it/entrepreneurs/>
+          + Leadership
+
+            <http://www.cnbc.com/make-it/leadership/>
+          + Careers
+
+            <http://www.cnbc.com/make-it/careers/>
+          + Money
+
+            <http://www.cnbc.com/make-it/money/>
+          + Specials
+
+            <http://www.cnbc.com/make-it/special-reports/>
+          + Shows
+
+            <http://www.cnbc.com/make-it/shows/>
+      o Investing
+
+        <http://www.cnbc.com/investing/>
+      o
+          + Trading Nation
+
+            <http://www.cnbc.com/trading-nation/>
+          + Financial Advisors
+
+            <http://www.cnbc.com/financial-advisors/>
+          + Personal Finance
+
+            <http://www.cnbc.com/personal-finance/>
+          + CNBC Explains
+
+            <http://www.cnbc.com/cnbc-explains/>
+          + Portfolio
+
+            <http://portfolio.cnbc.com/>
+          + Watchlist
+
+            <http://watchlist.cnbc.com/>
+          + Stock Screener
+
+            <http://www.cnbc.com/id/15839076>
+          + Fund Screener
+
+            <http://www.cnbc.com/id/15839074>
+      o Tech
+
+        <http://www.cnbc.com/technology/>
+      o
+          + Recode
+
+            <http://recode.net/>
+          + Mobile
+
+            <http://www.cnbc.com/mobile/>
+          + Social Media
+
+            <http://www.cnbc.com/social-media/>
+          + Enterprise
+
+            <http://www.cnbc.com/enterprise/>
+          + Gaming
+
+            <http://www.cnbc.com/gaming/>
+          + Cybersecurity
+
+            <http://www.cnbc.com/cybersecurity/>
+      o Video
+
+        <http://video.cnbc.com/>
+      o
+          + Top Video
+
+            <http://www.cnbc.com/top-video/>
+          + Latest Video
+
+            <http://www.cnbc.com/video-all/>
+          + U.S. Video
+
+            <http://www.cnbc.com/us-video/>
+          + Asia Video
+
+            <http://www.cnbc.com/asia-video/>
+          + Europe Video
+
+            <http://www.cnbc.com/europe-video/>
+          + CEO Interviews
+
+            <http://www.cnbc.com/video-ceo-interviews/>
+          + Analyst Interviews
+
+            <http://www.cnbc.com/video-analyst-interviews/>
+          + Full Episodes
+
+            <http://www.cnbc.com/live-tv/>
+      o Shows
+
+        <http://www.cnbc.com/tv-worldwide/>
+      o
+          + CNBC U.S. Business Day
+
+            <http://www.cnbc.com/tv-worldwide/>
+          + CNBC U.S. Primetime
+
+            <http://www.cnbc.com/make-it/shows/>
+          + CNBC Asia-Pacific
+
+            <http://www.cnbc.com/asia-business-day/>
+          + CNBC Europe
+
+            <http://www.cnbc.com/europe-television/>
+          + CNBC World
+
+            <http://www.cnbc.com/global-television-shows/>
+      o Special Reports
+
+        <http://www.cnbc.com/special-reports/>
+      o
+          + Investor Toolkit
+
+            <http://www.cnbc.com/investor-toolkit/>
+          + Advisor Insight
+
+            <http://www.cnbc.com/advisor-insight/>
+          + ETF Strategist
+
+            <http://www.cnbc.com/etf-strategist/>
+          + Portfolio Perspective
+
+            <http://www.cnbc.com/portfolio-perspective/>
+          + Tech Drivers
+
+            <http://www.cnbc.com/tech-drivers/>
+          + CNBC IQ 100
+
+            <http://www.cnbc.com/iq100/>
+      o Original Series
+      o
+          + Executive Edge
+
+            <http://www.cnbc.com/executive-edge/>
+          + Trading Nation
+
+            <http://www.cnbc.com/trading-nation/>
+          + Futures Now
+
+            <http://www.cnbc.com/futures-now/>
+          + Retire Well
+
+            <http://www.cnbc.com/retirewell/>
+          + The Pulse @ 1 Market
+
+            <http://www.cnbc.com/the-pulse/>
+          + The Bottom Line
+
+            <http://www.cnbc.com/the-bottom-line/>
+      o CNBC Events
+      o
+          + Davos
+
+            <http://www.cnbc.com/davos-world-economic-forum/>
+          + Delivering Alpha
+
+            <http://www.cnbc.com/delivering-alpha-ii/>
+          + eMerge Americas
+
+            <http://www.cnbc.com/emerge-americas/>
+          + iCONIC Conference
+
+            <http://www.cnbc.com/iconic-conference/>
+          + Cambridge Cyber Summit
+
+            <http://www.cnbc.com/securing-our-future/>
+          + Sohn Conference
+
+            <http://www.cnbc.com/sohn/>
+      o Follow CNBC
+      o
+          + //
+
+            <https://www.facebook.com/cnbc>
+          + //
+
+            <https://twitter.com/cnbc>
+      o
+          + EDITION
+          + U.S. Edition
+          + INTL Edition
+      o //
+
+        <javascript:void(0)>
+
+  * //
+
+    <javascript:void(0)>
+      o Register
+
+        <javascript:void(0);>
+      o Log In
+
+        <javascript:void(0);>
+
+  * //
+
+    <javascript:void(0)>
+      o Profile
+
+        <http://www.cnbc.com/account#profile>
+      o Email Preferences
+
+        <http://www.cnbc.com/account#newsletter>
+      o PRO
+
+        <http://www.cnbc.com/account#pro>
+      o Sign Out
+
+        <javascript:void(0);>
+
+  * SUBSCRIBE ›
+  * Pro
+
+    <http://www.cnbc.com/pro>
+      o View All
+
+        <http://www.cnbc.com/pro>
+      o News & Analysis
+
+        <http://www.cnbc.com/pro-story>
+      o Video
+
+        <http://www.cnbc.com/pro-video>
+      o PRO Talks
+
+        <http://www.cnbc.com/protalks>
+      o PRO Uncut
+
+        <http://www.cnbc.com/pro-uncut>
+      o Kensho Stats
+
+        <http://www.cnbc.com/kensho>
+      o Halftime Portfolio
+
+        <http://www.cnbc.com/halftime-portfolio>
+      o Squawk Box Portfolio
+
+        <http://www.cnbc.com/squawk-box-portfolio>
+      o Take a Tour
+
+        <javascript:void(0)>
+      o Subscribe
+
+        <http://www.cnbc.com/application/pro>
+  * LIVE TV
+
+    <javascript:void(0)>
+      o Watch CNBC TV
+
+        <http://www.cnbc.com/live-tv/>
+      o Watch CNBC Pro
+
+        <http://www.cnbc.com/application/pro>
+  * Watchlist
+
+    <http://watchlist.cnbc.com/>
+
+    <javascript:bouncex.close_ad(342019);>
+    Powered by Bounce Exchange®
+    <https://www.bounceexchange.com/?src=bcx_pwr&cid=342019>
+
+    <javascript:bouncex.close_ad(342019);>
+
+    GET A 30-DAY FREE TRIAL
+    when you sign up for an
+    annual subscription
+    LEARN MORE
+    <https://www.cnbc.com/application/pro/?__source=BounceExchange|display|cnbc|display|BounceExchange_PRO_SubInHeader>
+
+// <http://www.cnbc.com/markets/> // <http://video.cnbc.com/> //
+<javascript:void(0),>
+
+ 
+X
+
+
+×
+
+
+×
+
+
+×
+
+
+    Technology <http://www.cnbc.com/technology/>
+
+      * Technology <http://www.cnbc.com/technology/>
+      * Recode <http://recode.net/>
+      * Mobile <http://www.cnbc.com/mobile/>
+      * Social Media <http://www.cnbc.com/social-media/>
+      * Enterprise <http://www.cnbc.com/enterprise/>
+      * Gaming <http://www.cnbc.com/gaming/>
+      * Cybersecurity <http://www.cnbc.com/cybersecurity/>
+      * The Pulse @ 1 Market <http://www.cnbc.com/the-pulse/>
+
+
+  How Silicon Valley, land of free grub, is fighting food waste
+
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>	| @laurenthomasx3
+<http://twitter.com/laurenthomasx3>
+Wednesday, 29 Jun 2016 | 7:00 AM ETCNBC.com
+SHARES
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+<#>
+show chapters//
+
+How Silicon Valley, land of free grub, fights food waste
+<javascript:void(0)> // How Silicon Valley, land of free grub, fights
+food waste   
+Wednesday, 29 Jun 2016 | 7:00 AM ET | 01:37
+
+<javascript:void(0)>
+
+Bay Area tech companies are known for their perks, especially their free
+food. That means tons — literally — of uneaten food going wasted every week.
+
+Food waste isn't just Silicon Valley's problem, either. The United
+Nations Food and Agriculture Organization determined that the world has
+870 million hungry people
+<http://www.nytimes.com/2015/02/26/us/food-waste-is-becoming-serious-economic-and-environmental-issue-report-says.html?_r=0>.
+They could benefit from wasted food, which amounts to $940 billion
+globally every year.
+
+According to a new study
+<http://www.ers.usda.gov/publications/eib-economic-information-bulletin/eib121.aspx>
+by the U.S. Department of Agriculture, 31 percent, or 133 billion
+pounds, of the 430 billion pounds of available food supply in the U.S.
+went uneaten in 2010. The estimated value of the food loss was $161.6
+billion and equates to 141 trillion calories wasted, or 1,249 calories
+wasted per person, per day.
+
+Last year the U.S. government issued a food waste reduction goal,
+calling for a 50 percent cut by 2030. "Reducing food losses by just 15
+percent would provide enough food for more than 25 million Americans
+every year, helping to sharply reduce incidences of food insecurity for
+millions," the USDA said
+<http://www.usda.gov/wps/portal/usda/usdahome?contentid=2015/09/0257.xml&navid=NEWS_RELEASE&navtype=RT&parentnav=LATEST_RELEASES&edeployment_action=retrievecontent>.
+
+This goal is easier said than done, when Americans waste up to 50
+percent more food than U.S. consumers did in the 1970s, according to the
+National Institutes of Health. Most humans are prone to dispose of
+leftovers without thinking twice, so it's taken years for activists to
+bring this issue to the table for discussion.
+
+
+        Creating solutions that work
+
+Food Runners’ truck in San Francisco, a trunk full of donated food and a
+biker (volunteer) dropping off food after a food run.
+Source: Food Runners
+Food Runners’ truck in San Francisco, a trunk full of donated food and a
+biker (volunteer) dropping off food after a food run.
+
+San Francisco-based Food Runners is one organization working to reduce
+food waste and raise awareness about the problem. The all-volunteer
+group partners with hundreds of Bay Area companies, including Google
+<http://data.cnbc.com/quotes/GOOGL>, Twitter
+<http://data.cnbc.com/quotes/TWTR> and Airbnb, where leftover food is
+picked up and delivered to those in need.
+
+"There was a period in the late '90s when there were a whole bunch of
+men who didn't care about anyone else," Mary Risley, founder of Food
+Runners, said in an interview. "Now we have millennials with start-ups,
+and they do care. ... I praise the people who are working hard at their
+computers for 12 hours a day."
+
+Food Runners was founded by Risley in 1987, and today volunteers pick up
+food from more than 500 businesses throughout San Francisco, with the
+donor list growing every week, Risley said. Her team delivers enough
+food for more than 5,000 meals a day.
+
+"We are overwhelmed to tell you the truth because there is so much food,
+and there is so much need," L'Ann Bingham, community relations
+representative at Food Runners, said in an interview. "It has gotten
+busier and busier and busier for us, and there's awareness now around
+the amount of food that is being wasted."
+
+Corporations such as Panera Bread <http://data.cnbc.com/quotes/PNRA>,
+Kroger <http://data.cnbc.com/quotes/KR> and Darden Restaurants
+<http://data.cnbc.com/quotes/DRI> have committed to donating excess food
+and raising awareness on the issue, and more organizations similar to
+Food Runners — such as Maryland-based Hungry Harvest
+<http://www.hungryharvest.net/> and Chicago-based Zero Percent
+<https://www.zeropercent.us/> — have followed Risley's lead in
+delivering corporate leftovers to those in need.
+
+
+        Challenges along the way
+
+Food Runners truck
+Source: Food Runners
+
+While it might sound painless for businesses to pare food waste and
+donate leftovers, there are many obstacles that pose roadblocks to
+progress.
+
+In a 2013 survey
+<http://www.foodwastealliance.org/wp-content/uploads/2013/06/FWRA_BSR_Tier2_FINAL.pdf>
+conducted by the Food Waste Reduction Alliance, an initiative started by
+the food sector's leading trade associations, more than three-quarters
+of respondents indicated there are barriers to donating excess food. The
+biggest challenges include transportation constraints, liability
+concerns and insufficient storage at food banks, the survey found.
+
+Big tech companies and smaller start-ups in San Francisco today have the
+unique opportunity to find innovative and cutting-edge ways to fight
+food waste, Risley said. This might involve reducing portion sizes,
+reconsidering tossing something before an expiration date and changing
+one's attitude about food overall.
+
+"At Twitter, we ensure that no food is wasted," Kevin McConvey, general
+manager of Bon Appetit at Twitter, said in a statement. "Every day we
+work with Food Runners to help those in need, and on our companywide
+days of service, Twitter employees assemble thousands of sandwiches for
+Food Runners to distribute to neighborhood food programs."
+
+With 795 million undernourished people in the world today, that means 1
+in 9 individuals don't get enough food to be considered "healthy,"
+according to the U.N.'s World Food Programme. "Wasted food represents a
+missed opportunity to improve global food security."
+
+Risley sees Food Runners reducing homelessness, supporting communities
+of retirees, assisting child after-care programs and continuing to
+partner with more tech companies in San Francisco, she said.
+
+"I believe we are moving from an incredibly wasteful society into a
+sharing society, and there is nothing more important than sharing excess
+food," Risley said. "I want everyone to know there is no reason to
+discard edible food in San Francisco."
+
+
+Share on FacebookShare on Twitter
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>Special to CNBC.com
+
+<http://twitter.com/laurenthomasx3>
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+
+    Related Securities
+
+Symbol
+	
+Price
+	  	
+Change
+	
+%Change
+PNRA <http://data.cnbc.com/quotes/PNRA> 		
+---
+		
+
+SHOW COMMENTS
+Please add a username to view or add comments
+
+Public Username for Commenting
+
+JOIN THE DISCUSSION
+To learn more about how we use your information, please read our Privacy
+Policy <http://nbcuni.com/privacy/> and Terms of Service
+<http://www.cnbc.com/id/15837353/>.
+
+
+      Most Popular: Tech
+
+  *
+    Satya Nadella and Jeff Weiner on Microsoft acquiring LinkedIn, June
+    13, 2016.
+    <http://www.cnbc.com/2016/11/15/why-microsoft-beat-salesforce-to-acquire-linkedin.html>
+
+    Why Microsoft beat Salesforce to acquire LinkedIn
+    <http://www.cnbc.com/2016/11/15/why-microsoft-beat-salesforce-to-acquire-linkedin.html>
+
+  *
+    Jeff Weiner, CEO, LinkedIn
+    <http://www.cnbc.com/2016/11/15/google-linkedin-execs-say-tech-companies-need-to-address-role-in-election-outcome.html>
+
+    Top Google, LinkedIn execs say tech companies must address role in
+    election outcome
+    <http://www.cnbc.com/2016/11/15/google-linkedin-execs-say-tech-companies-need-to-address-role-in-election-outcome.html>
+
+  *
+    <http://www.cnbc.com/2016/11/15/amazon-takes-counterfeit-sellers-to-court-for-first-time.html>
+
+    In a first, Amazon is suing companies that sell counterfeit items on
+    its site
+    <http://www.cnbc.com/2016/11/15/amazon-takes-counterfeit-sellers-to-court-for-first-time.html>
+
+  *
+    Bitcoin
+    <http://www.cnbc.com/2016/11/15/india-rupee-restriction-boost-bitcoin-digital-currency.html>
+
+    India’s rupee restrictions are boosting demand for bitcoin
+    <http://www.cnbc.com/2016/11/15/india-rupee-restriction-boost-bitcoin-digital-currency.html>
+
+  *
+    IBM Chairman, President and CEO Ginni Rometty delivers a keynote
+    address at CES 2016 at The Venetian Las Vegas on January 6, 2016 in
+    Las Vegas, Nevada.
+    <http://www.cnbc.com/2016/11/15/ibm-ceo-rometty-in-letter-to-trump-help-secure-new-collar-it-jobs.html>
+
+    IBM CEO Rometty in letter to Trump: Help secure 'new collar' IT jobs
+    <http://www.cnbc.com/2016/11/15/ibm-ceo-rometty-in-letter-to-trump-help-secure-new-collar-it-jobs.html>
+
+
+
+        Binge <http://www.cnbc.com/binge/>
+
+  *
+    Filmmaker Ken Burns is scared of what he sees in Donald Trump
+    <http://www.cnbc.com/2016/10/27/filmmaker-ken-burns-is-scared-of-what-he-sees-in-donald-trump.html>
+
+    By: Josh Ascher, CNBC producer
+  *
+    Here’s what Steve Jobs had to give Ken Burns to create the 'Ken
+    Burns' effect for iMovie
+    <http://www.cnbc.com/2016/10/27/heres-what-steve-jobs-had-to-give-ken-burns-to-create-the-ken-burns-effect-for-imovie.html>
+
+  *
+    The Ken Burns binge effect: Steve Jobs, Donald Trump and the birth
+    of binge-watching    <http://video.cnbc.com/gallery/?video=3000563031>
+  *
+    Ken Burns: The media gets Steve Jobs wrong   
+    <http://video.cnbc.com/gallery/?video=3000562731>
+  *
+    Steve Jobs once told Ken Burns he should ditch PBS because they
+    weren’t paying him enough
+    <http://www.cnbc.com/2016/10/27/steve-jobs-once-told-ken-burns-he-should-ditch-pbs-because-they-werent-paying-him-enough.html>
+
+
+  *
+  * Subscribe to CNBC PRO
+
+    <https://www.cnbc.com/application/pro/?__source=pro|display|cnbc|house|PRO_Footer_MktgPg>
+
+×
+
+Thank you!
+Your account is all set up.
+Please log in to enjoy all of the features of CNBC.
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+Something went wrong.
+Please create your account again.
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+Something went wrong. Please try to log in again.
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+Something went wrong. Please try to log in again!
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+It appears you may be logged out of Xfinity.
+Would you like to log back in?
+------------------------------------------------------------------------
+Xfinity Subscribers: Log InCancel
+x
+×

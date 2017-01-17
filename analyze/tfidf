@@ -1,0 +1,9 @@
+data_path = "../data/"
+
+def most_common_words():
+    for filename in os.listdir(data_path):
+        f = open(filename)
+	
+
+if __name__ == "__main__":
+    most_common_words()

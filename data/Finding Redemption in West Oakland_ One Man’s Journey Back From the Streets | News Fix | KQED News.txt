@@ -1,0 +1,605 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <http://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <http://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <http://ww2.kqed.org/arts/>
+      o Economy
+
+        <http://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <http://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <http://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <http://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <http://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <http://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <http://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <http://ww2.kqed.org/science/>
+      o Sports
+
+        <http://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <http://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <http://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <http://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <http://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <http://ww2.kqed.org/mindshift/>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <http://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <http://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <http://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <http://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <http://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <http://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <http://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <http://ww2.kqed.org/news/series/california-immigrants-at-work>
+  * Bay Curious
+
+    <http://ww2.kqed.org/news/series/baycurious>
+
+  *
+
+
+      KQED News
+
+    <http://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <http://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <http://ww2.kqed.org/arts/>
+      o Economy
+
+        <http://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <http://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <http://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <http://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <http://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <http://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <http://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <http://ww2.kqed.org/science/>
+      o Sports
+
+        <http://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <http://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <http://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <http://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <http://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <http://ww2.kqed.org/mindshift/>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <http://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <http://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <http://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <http://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <http://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <http://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <http://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <http://ww2.kqed.org/news/series/california-immigrants-at-work>
+  * Bay Curious
+
+    <http://ww2.kqed.org/news/series/baycurious>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  Finding Redemption in West Oakland: One Man’s Journey Back From the
+  Streets
+
+Landon Goodwin is a former minister who ends up on the streets of
+Dogtown surviving as a street recycler. (/Chihiro Wimbush/ Courtesy of
+ITVS/)
+
+By Adam Grossberg <https://ww2.kqed.org/news/author/agrossberg/>
+May 13, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=email&nb=1>
+*
+
+Every year Californians buy about 22 billion beverages in aluminum,
+glass and plastic containers. Every one of those containers can be
+redeemed for a few cents each. That means trash can be turned into cash,
+providing a lifeline for a subculture of marginalized recyclers — the
+unemployed and underemployed, the elderly, the mentally and physically
+disabled, former criminals, drug addicts and prostitutes — who, through
+recycling, earn money and reclaim the pride that comes with having a job.
+
+A new documentary, “Dogtown Redemption,”
+<http://www.pbs.org/independentlens/films/dogtown-redemption/> tells the
+stories of some of the people who make their living off our nation’s
+vast river of trash. The film focuses on three central characters living
+in Oakland, following them over seven years, to give insight into the
+lives of America’s unseen.
+
+Landon Goodwin, a former minister who ends up on the streets of Dogtown
+surviving as a street recycler.
+Landon Goodwin, a former minister who ended up on the streets of Dogtown
+surviving as a street recycler. (Chihiro Wimbush/ Courtesy of ITVS)
+
+One of those people is Landon Goodwin, a former minister who has
+struggled with his own fall from grace. He found himself living on the
+streets of West Oakland and relying on income made from recycling.
+
+Among the recyclers, Goodwin is known as “the preacher.” He’s their
+minister. A gentle, stylish man, he has a warm, generous and gracious
+smile that conceals his hard times. As he puts it, living on the streets
+is like being “in my valley of weeping.”
+
+The film, which was produced by ITVS <http://itvs.org/> and will air on
+PBS <http://www.pbs.org/independentlens/watch-video/> next week,
+chronicles Goodwin’s long climb out of that valley, which began after
+two vicious back-to-back attacks left him feeling unsafe on the streets
+and in the shack that he used to call home.
+
+Landon eventually leaves West Oakland for some tough love: his cousin’s
+drug rehabilitation center. The film tracks Landon as he leaves behind
+his friends and community — the recyclers — to return to his position as
+preacher.
+
+Can he serve as the bridge reconnecting the recyclers back to the
+worlds, the churches, the professions, families and futures they have lost?
+
+Jason Witt (right), the Olympic champion of recycling, hauls a shopping
+cart with his girlfriend, Heather Holloman (left), on top.
+Jason Witt (right), the Olympic champion of recycling, hauls a shopping
+cart with his girlfriend, Heather Holloman (left), on top. (Chihiro
+Wimbush/ Courtesy of ITVS)
+
+“Dogtown Redemption” follows Goodwin and the other recyclers through the
+prism of a single recycling center: Alliance Metals in the Dogtown
+neighborhood of West Oakland. With annual sales in the millions,
+Alliance is an anomaly in an otherwise depressed neighborhood that has
+witnessed the steady flight, erosion and collapse of American industry.
+
+Residents of new developments in West Oakland view Alliance Metals as
+noisy, smelly and dirty — a giant garbage can that attracts scavengers,
+drug dealers and criminals. The rattle of the shopping carts, missing
+garbage cans, litter on the streets, public defecation, theft, crime and
+trespassing are offered as evidence that the recyclers are a blight upon
+the neighborhood.
+
+After years of fighting, Alliance Metals is now slated to close in August.
+
+Amir Soltani, the film’s director, was recently on /KQED Forum/. The
+entire episode can be heard here
+<http://ww2.kqed.org/forum/2016/04/05/dogtown-redemption-spotlights-homeless-recyclers-of-west-oakland/>.
+
+/“Dogtown Redemption” airs nationally on PBS on May 16. The entire film
+canbe streamed online <http://www.pbs.org/independentlens/watch-video/>
+beginning May 15 through August 14. More information about the film can
+be found here
+<http://www.pbs.org/independentlens/films/dogtown-redemption/>./
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, video
+<https://ww2.kqed.org/news/tag/video/>, West Oakland
+<https://ww2.kqed.org/news/tag/west-oakland/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/?share=email&nb=1>
+  *
+
+1 Comment
+<http://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Good Read: 'Dogtown Redemption,' Saga of Oakland Recyclers, Gets
+Sundance Consideration
+
+<http://ww2.kqed.org/news/2013/12/02/dogtown-redemption-considered-for-sundance-film-festival>
+
+Advocates Raise Money to Help West Oakland Recyclers
+
+<http://ww2.kqed.org/news/2016/08/17/advocates-raise-money-to-help-west-oakland-recyclers/>
+
+What Happens to San Francisco's Recycling Once It Leaves the Curb?
+
+<http://ww2.kqed.org/news/2016/01/05/what-happens-to-san-franciscos-recycling-once-it-leaves-the-curb>
+
+Skid Row Land Rush: Now It's One of the Pricier Sections of L.A.
+
+<http://dev.kqed.org/news/2015/04/23/skid-row-land-rush-now-its-one-of-the-pricier-sections-of-l-a>
+
+Oakland Artist Crafts Homes for Those Who Have None
+
+<http://ww2.kqed.org/news/2014/02/21/oakland-artist-gregory-kloehn-builds-tiny-homes-for-homeless/>
+
+Jose and Mr. Ramos: A Top Student Faces Uncertain Future Due to
+Immigration Status
+
+<http://ww2.kqed.org/news/2015/12/20/jose-and-mr-ramos-teacher-and-student-face-uncertain-future-due-to-immigrant-status>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Adam Grossberg
+
+Adam Grossberg is a web video producer at KQED News.
+Email: agrossberg@kqed.org.
+
+View all posts by this author
+<https://ww2.kqed.org/news/author/agrossberg/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Undocumented Kids Soon Eligible for Medi-Cal
+
+<https://ww2.kqed.org/news/2016/05/13/undocumented-kids-soon-eligible-for-medi-cal/>
+Next Amid Allegations Of Bias, Facebook Explains How 'Trending Topics'
+Works
+
+<https://ww2.kqed.org/news/2016/05/13/amid-allegations-of-bias-facebook-explains-how-trending-topics-works/>
+
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+:)
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil

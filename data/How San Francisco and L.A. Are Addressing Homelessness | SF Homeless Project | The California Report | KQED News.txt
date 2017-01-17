@@ -1,0 +1,765 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Fernando Lopez carries possessions from the Los Angeles River on Nov.
+20, 2015, in Los Angeles, California. Many of the estimated 26,000
+homeless in L.A. live in riverbeds and storm drains that could quickly
+turn deadly during powerful storms.
+
+Fernando Lopez carries possessions from the Los Angeles River on Nov.
+20, 2015, in Los Angeles, California. Many of the estimated 26,000
+homeless in L.A. live in riverbeds and storm drains that could quickly
+turn deadly during powerful storms. (/David McNew/Getty Images/)
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  How San Francisco and L.A. Are Addressing Homelessness
+
+By Stephanie Martin Taylor <https://ww2.kqed.org/news/author/smartin/>
+and Steven Cuevas <https://ww2.kqed.org/news/author/scuevas/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=email&nb=1>
+*
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+After being rousted from his makeshift encampment beneath the 101
+freeway in San Francisco, Tommy Hughes moved on to another street and
+pitched camp there.
+
+“The sign says you have to move from Van Ness to 10th,” he said. “We’re
+just going to move to Ninth.”
+
+Some people did go to shelters, but many others, like Hughes, just
+relocated.
+
+Instead of hundreds of tents concentrated on and around one San
+Francisco street, they’re appearing more and more on various alleyways
+and sidewalks — to the frustration of residents and merchants. It’s the
+latest in the city’s long, frequently controversial, and always
+frustrating relationship with the homeless people living on its streets.
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*sfproject3
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+L.A.’s Skid Row, by contrast, is a roughly 50-square-block area of
+downtown that’s home to several thousand people either living on the
+streets or in one of many shelters and transitional supportive housing
+complexes.
+
+To the visitor — and even to longtime residents and advocates — the
+sight of so many people, block after block, living in the open, out in
+the street beneath tarps, tents and lean-to’s, is shocking. But it’s
+also where someone without shelter, in need of mental health services, a
+hot meal or drug rehab, is most likely to find help.
+
+The lion’s share of the city’s homeless services is concentrated in Skid
+Row. This happened decades ago by design as L.A.’s transient population
+blossomed. The homeless and the services they needed were directed to
+one part of the city that, at least at one time, was mostly a ghost town
+after government offices and garment factories shut down for the night.
+
+“While it may appear to be a convenient solution, in the end it doesn’t
+work,” says Mike Alvidrez, director of the Skid Row Housing Trust,
+“unless you address the root cause, which is homelessness. Whether you
+put them in a concentrated a place like Skid Row or scatter (them) all
+over, you’re not addressing what is the final solution — and that is to
+create more housing, in this case for a population that has other needs
+as well.”
+
+The problem in Skid Row is that bed space and services have never been
+able to keep pace with the surge in homelessness.
+
+A homeless woman waits in line to receive groceries and clothing from
+Los Angeles-based non-profit My Friend's House Foundation September 23,
+2015, in the skid row section of Los Angeles, California.
+A homeless woman waits in line to receive groceries and clothing from
+Los Angeles-based nonprofit My Friend’s House Foundation Sept. 23, 2015,
+in the skid row section of Los Angeles. (Kevork Djansezian/Getty Images)
+
+*Proposed Solutions*
+
+The city of Los Angeles is proposing a 10-year, $1.2 billion bond
+measure to help pay for an expansion of transitional housing and other
+services across the city.
+
+L.A. County also has a proposal to generate more homeless funding, with
+an emphasis on housing, by taxing its most wealthy residents. People who
+earn over $1 million a year would see their taxes rise by one-half percent.
+
+Supervisor Mike Antonovich is one of the lone voices opposing the
+so-called millionaire’s tax. He says the county already has one of the
+highest tax rates in the U.S. He doesn’t think the proposal fully
+addresses the root causes of homelessness.
+
+At a recent hearing he pointed to outreach the county did on public
+buses and metro lines, trying to steer homeless people to available
+shelters and other services.
+
+“(Most) refuse treatment and walk away. I have called in on the homeless
+I see, driving to and from work. Regardless how hot it is or how cool,
+they refuse shelter,” says Antonovich. “They are mentally ill. They need
+assistance; they need medical help. Having just another revenue source
+to build another house is not addressing the root cause of the problem
+for those people who are mentally and physically ill.”
+
+In San Francisco, a group of supervisors has introduced a November
+ballot measure designed to ban street encampments.
+
+A homeless man sleeps in front of his tent along Van Ness Avenue in
+downtown San Francisco, California on June, 27 2016.
+A homeless man sleeps in front of his tent along Van Ness Avenue in
+downtown San Francisco, California, on June, 27 2016. (Josh
+Edelson/AFP/Getty Images))
+
+If approved by voters, those living in tents and other makeshift
+shelters could be forcibly removed if they declined to move to an
+available shelter or transitional housing facility. Supporters of the
+proposed crackdown argue the tents pose health and safety risks, both
+for the people who live in them and residents who have to live and work
+around them.
+
+“As a city, we need to have a policy that we’re not enabling individuals
+or groups of people to set up tents and allow the city to be complacent
+in that issue,” says Supervisor Mark Farrell, who authored the measure.
+
+“Again, I don’t think it’s healthy for anybody,” he adds.
+
+But critics say the city doesn’t have nearly enough shelter beds to
+accommodate the number of people currently living on the street, and
+that the move is nothing more than political grandstanding.
+In Los Angeles, there is also criticism that the city is funneling the
+lion’s share of money currently budgeted for homelessness to police
+enforcement in places like Skid Row.
+
+“We’re going to go after bond measures, millionaire’s taxes, but at the
+same time we continue to create costly ordinances that are going to cost
+us in the court of law,” says Pete White, director of the Los Angeles
+Community Action Network based in Skid Row.
+
+A new ordinance approved by the L.A. City Council aims to prohibit
+homeless people from “lodging” in vehicles parked near homes and
+schools. But people will be allowed to sleep in their vehicles — sedans,
+trucks or RV’s — from 9 p.m. to 6 a.m. in commercial areas and in the
+parking lots of certain churches and nonprofits.
+
+That crackdown coincides with a seemingly contradictory move by the Los
+Angeles Police Commission, directing officers to show more “compassion
+and empathy” when it comes to day-to-day encounters with the homeless.
+
+But many officers, especially those with the challenge of patrolling
+Skid Row, argue they already show a great deal of patience and
+compassion when working a part of the city with the highest
+concentration of mental illness, street violence and drug abuse.
+
+“The enforcement costs us a lot of money. We are pursuing policies to
+criminalize people who are living in their vehicles, but we clearly
+don’t have anywhere else for people to go,” says L.A. Community Action
+Network’s White.
+
+San Francisco already spends about a quarter-billion dollars a year on
+homelessness, but services have been difficult and confusing for many
+people to access.
+
+“The resources? OK, if there’s so many resources, where are they?” asks
+Rebecca Padilla, a tent encampment resident. “You’ve got to do your
+research. You’ve got to go place to place. Not everybody can do that.”
+
+To streamline services and better track the homeless people who use
+them, the city has created a new Department of Homeless Services. It’s
+also expanding its successful homeless Navigation Center — begun as a
+pilot program in the city’s Mission District — to other locations around
+the city.
+
+*ABOUT THE SERIES:*
+/This story is part of a remarkable media collaboration highlighting the
+issue of homelessness in the Bay Area. On Wednesday, June 29, more than
+70 news organizations, including KQED, have come together to ask some
+crucial questions: Why do we seem to be seeing so many more individuals
+living in tents on our streets? What is being done to address the
+growing housing affordability and availability crisis? See all KQED’s
+coverage here <http://ww2.kqed.org/news/series/sf-homeless-project>. /
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/?share=email&nb=1>
+  *
+
+1 Comment
+<https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Tent Cities Compete With Super Bowl City for Attention
+
+<http://ww2.kqed.org/news/2016/02/02/tent-cities-compete-with-super-bowl-city-for-attention>
+
+Skid Row in Los Angeles: A City Within a City
+
+<http://ww2.kqed.org/news/2015/04/07/skid-row-in-los-angeles-a-city-within-a-city>
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+
+Efforts Continue to Clear Homeless Encampments in the Mission
+
+<http://ww2.kqed.org/news/2016/10/07/efforts-continue-to-clear-homeless-encampments-in-the-mission/>
+
+Skid Row Land Rush: Now It's One of the Pricier Sections of L.A.
+
+<http://dev.kqed.org/news/2015/04/23/skid-row-land-rush-now-its-one-of-the-pricier-sections-of-l-a>
+
+Homelessness in San Francisco's Mission: A Neighborhood View
+
+<http://ww2.kqed.org/news/2016/07/12/homelessness-in-san-franciscos-mission-a-neighborhood-view/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Stephanie Martin Taylor
+
+Stephanie Martin is a radio news reporter and anchor, and an occasional
+host of the /KQED Newsroom /television program. While she currently
+focuses on housing and development issues, she has also reported on
+topics ranging  from state and local politics to religion to arts and
+culture.
+
+Prior to joining KQED in 2005, Stephanie was an anchor and reporter for
+WFDD, the NPR affiliate in Winston-Salem, NC. She also spent several
+years as a television anchor, reporter and producer at various stations
+around the country.
+
+Stephanie has received numerous awards for her reporting, including two
+National Headliner Awards, the Religion Newswriters Association's Best
+Radio Reporting Award and honors from the Associated Press and the Radio
+and Television Digital News Association. A series she produced from Iraq
+in 2005 earned a Best of Radio Award from the Society of Professional
+Journalists.
+
+Stephanie received a graduate degree in Journalism from Columbia
+University. As an undergraduate at Colgate University, she worked and
+studied in Paris and Dijon, France, and spent a summer interning in the
+White House Press Office.
+
+Stephanie grew up in Dallas, TX, and now lives with her husband in San
+Francisco.
+
+View all posts by this author <https://ww2.kqed.org/news/author/smartin/>
+
+
+    Author
+
+
+      Steven Cuevas
+
+Steven is the California Report’s Los Angeles bureau chief.
+
+He reports on an array of issues across the Southland, from immigration
+and regional politics to religion, the performing arts and pop culture.
+
+Prior to joining KQED in 2012, Steven covered Inland southern California
+for KPCC in Pasadena. He also helped establish the first newsroom at KUT
+<http://kut.org/> in Austin, Texas where he was a general assignment
+reporter.
+
+Steven has received numerous awards for his reporting including an RTNDA
+Edward R. Murrow Award for investigative reporting in addition to awards
+from the LA Press Club, the Associated Press and the Society for
+Professional Journalists.
+
+Steven grew up in and around San Francisco and now lives in Pasadena
+just a short jog from the foot of the San Gabriel Mountains.
+
+View all posts by this author <https://ww2.kqed.org/news/author/scuevas/>
+
+
+  Post navigation
+
+Prev Searching for the Hows, Whats and Whys of Homelessness
+
+<https://ww2.kqed.org/news/2016/06/29/searching-for-the-hows-whats-and-whys-of-homelessness/>
+Next Homelessness More Complex Since San Jose Shut Down 'The Jungle'
+
+<https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/>
+
+
+
+  About The California Report
+
+The California Report provides daily coverage of news and culture
+throughout the state.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact <https://ww2.kqed.org/news/contact-the-california-report/>
+  * Tune In <https://ww2.kqed.org/news/tune-in/>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Support for The California Report is Provided By
+
+  * Eric and Wendy Schmidt <http://www.theschmidt.org/>
+  * The California Endowment <http://www.calendow.org/>
+  * California HealthCare Foundation <http://www.chcf.org/>
+  * Rowbotham <http://www.rowbotham.com/>
+  * The Westly Foundation <http://www.westly.org/> 
+
+
+
+  * The James Irvine Foundation <http://www.irvine.org/>
+  * Barracuda Networks <https://www.barracuda.com/>
+  * Blach Construction <http://www.blach.com/>
+  * Digital Foundry <http://www.digitalfoundry.com/>
+  * Wharton San Francisco <http://sf.wharton.upenn.edu/> 
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

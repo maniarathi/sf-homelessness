@@ -1,0 +1,875 @@
+  * Most Popular
+
+    <#>
+  * News <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * TheCannifornian.com
+
+    <http://thecannifornian.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+The Mercury News
+
+<http://www.mercurynews.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+  * Most Popular
+
+    <#>
+  * News
+
+    <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local
+
+    <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports
+
+    <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business
+
+    <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment
+
+    <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries
+
+    <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * TheCannifornian.com
+
+    <http://thecannifornian.com/>
+
+
+        Mercury News editorial: Homeless in Santa Clara…
+        <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/>
+
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/#print>
+*
+
+<#>
+
+Trending:
+
+  * Megyn Kelly on Trump
+    <http://www.mercurynews.com/2016/11/15/megyn-kelly-says-its-important-people-learn-of-trumps-actions/>
+
+  * Kaepernick’s bad example
+    <http://www.mercurynews.com/2016/11/15/editorial-kaepernick-sets-horrible-example-by-refusing-to-vote/>
+
+  * Sheen’s ex, children missing
+    <http://www.mercurynews.com/2016/11/16/police-searching-for-charlie-sheens-ex-and-their-children/>
+
+  * Tacolicious opens
+    <http://www.mercurynews.com/2016/11/15/tacolicious-opens-its-san-josesantana-row-outpost/>
+
+  * National monuments v. GOP
+    <http://www.mercurynews.com/2016/11/15/republicans-seek-to-rein-in-national-monuments-as-trump-takes-power/>
+
+  * Taylor Swift photo leaked
+    <http://www.mercurynews.com/2016/11/14/taylor-swift-sealed-photo-hits-the-internet/>
+
+
+
+            Opinion <http://www.mercurynews.com/opinion/>Editorials
+<http://www.mercurynews.com/opinion/editorials/>
+
+
+  Mercury News editorial: Homeless in Santa Clara County? It’s not hopeless
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/24/mercury-news-editorial-homeless-in-santa-clara-county-its-not-hopeless/#print>
+*
+
+An example of a "tiny home" for the homeless at a recent demonstration
+at San Jose City Hall.
+An example of a “tiny home” for the homeless at a recent demonstration
+at San Jose City Hall.
+
+By Mercury News Editorial
+<http://www.mercurynews.com/author/mercury-news-editorial/>	
+PUBLISHED: June 24, 2016 at 9:00 am | UPDATED: August 11, 2016 at 11:10 pm
+
+This week begins a media blitz in the Bay Area on homelessness —
+specifically how to end the social plague that afflicts the individuals
+and families on the streets as well as the communities that wish they
+could help, or at least wish the problem would go away.
+
+Go away it can. Contrary to popular (though illogical) belief, most
+homeless people would greatly prefer a roof over their heads instead of
+wintering outdoors under a tarp. Based on experience in Santa Clara
+County, 84 percent of the individuals placed in “supportive housing,”
+which includes medical, mental health and other services, stay there.
+
+And guess what — providing that housing is cheaper for county taxpayers
+than paying for emergency room visits and other high-cost services no
+longer needed when regular care and prescribed medication are available.
+
+You will find it hard to ignore homelessness on Wednesday, a media blitz
+day planned by more than 60 organizations around the Bay, from Buzzfeed
+to KQED, including The Mercury News. San Francisco Chronicle Editor
+Audrey Cooper spearheaded the idea for a solutions-focused blitz that
+became the SF Homeless Project.
+
+South Bay counties are different from SF, of course, in their balance of
+urban-suburban neighborhoods and in the way the homeless affect them. In
+San Francisco, many are concentrated downtown and are hard to miss by
+visitors. In more suburban San Jose, many gravitate toward camps in
+creekbeds and the like.
+
+But the fundamental principles of how to get people off the streets,
+keep them in housing and save taxpayers money — really — are the same.
+
+Basically, it’s Housing First, getting people into homes rather than
+temporary shelters; supportive housing facilities run by nonprofits with
+the services people need readily available; and a preventive strategy to
+help individuals and families on the verge of homelessness, perhaps
+because of losing a job, to keep their apartments. This, too, is cheaper
+in the long run.
+
+In a column below, Jennifer Loving, the tireless director of
+Destination: Home, explains the math and the research that led to these
+conclusions better than we can.
+
+This week other writers will discuss different aspects of the challenge
+to help the more than 6,000 men, women and children who are homeless in
+Santa Clara County on any given night find real homes and achieve
+stable, healthier lives. We’ll learn how public-private partnerships are
+key — particularly the sophisticated data analytics platform designed
+for the county by Palo Alto-based Palantir.
+
+Santa Clara County has something we’re told San Francisco lacks: a truly
+unified approach to homelessness, with service providers, cities and the
+county all working together. But to really make headway, residents have
+to understand it more fully. That’s how this week’s media blitz can help.
+
+  * Tags: 
+  * Editorials <http://www.mercurynews.com/tag/editorials/>
+
+
+      Mercury News Editorial
+<http://www.mercurynews.com/author/mercury-news-editorial/>
+
+Subscribe Today! All Access Digital offer for just 99 cents!
+<https://myaccount.mercurynews.com/dsssubscribe.aspx>
+ 
+You Might Also Like
+
+  *
+    15 Beers You Should Stop Drinking Immediately 15 Beers You Should
+    Stop Drinking Immediately True Activist
+    <http://www.trueactivist.com/beer-warning-15-beers-to-stop-drinking-immediately/?utm_source=OB&utm_medium=CPC&utm_campaign=BeersToStopDrinkingOBv3&utm_source=OB&utm_medium=CPC&utm_campaign=BeersToStopDrinkingOB>
+
+  *
+    Only 1 in 10 People Can Name All These Corporate Logos Only 1 in 10
+    People Can Name All These Corporate Logos Offbeat
+    <http://offbeat.topix.com/quiz/17314?utm_source=outbrain&utm_campaign=17314&tpx_term=JMCHC7FNDF1S1SIL&cvar=t3:i-square-PPVRESH856H1TS5Q&utm_medium=248358>
+
+  *
+    Don’t Buy Another Car Until You’ve Seen These. Search Luxury Sedans
+    Don’t Buy Another Car Until You’ve Seen These. Search… Check.In
+    <http://forcheck.in/step-into-the-future-top-luxury-sedans-of-2016/?utm_source=outbrain&utm_medium=cpc&utm_campaign=sedan-mob-us-1&utm_content=sedan&utm_term=sedan>
+
+  *
+    Unnerving Photos Taken One Second Before Tragedy Unnerving Photos
+    Taken One Second Before Tragedy Trend Chaser
+    <http://www.trend-chaser.com/trending/unreal-photos-tragic-moments/?utm_campaign=upt-d-us-160815-tc-ob&utm_medium=cpc&utm_term=248358-Unreal+Photos+Taken+Before+the+Most+Tragic+Moments-tiger.jpg&utm_source=ob&utm_content=27529d-64693569>
+
+
+  *
+    Strange Cat Facts: Why Does My Cat Sleep On My Head Strange Cat
+    Facts: Why Does My Cat Sleep On My Head Pet MD
+    <http://www.petmd.com/cat/care/evr_ct_why-does-my-cat-sleep-on-my-head?utm_source=outbrain&utm_medium=PaidContent&utm_campaign=Media-petMD-CatCareCenter&utm_content=Strange+Cat+Facts%3A+Why+Does+My+Cat+Sleep+On+My+H>
+
+  *
+    Missing Teens Unsolved For 15 Years, Until Police Uncover Truth...
+    Missing Teens Unsolved For 15 Years, Until Police… LifeDaily
+    <http://www.lifedaily.com/police-unearth-strange-new-evidence-in-case-of-two-missing-oklahoma-girls/source/outbrain/#utm_medium=referral&utm_source=outbrain&utm_term=248358&utm_campaign=OB-OklahomaGirls>
+
+  *
+    What Did People Eat in the 1800s? What Did People Eat in the 1800s?
+    Ancestry
+    <http://www.ancestry.com/s65604/t32825/rd.ashx?utm_source=outbrain&utm_term=248358>
+
+  *
+    28 Photos You Have To See Before Voting Republican 28 Photos You
+    Have To See Before Voting Republican Detonate
+    <http://adrzr.com/54md?utm_source=9v1-2&utm_campaign=9v1-2_US_desktop_trumpfamily_12_54md_20160811_jw_3425&utm_term=248358&utm_source=9v1&utm_campaign=9v1_US_desktop_trumpfamily_12_54md_20160811_rr_3425&utm_term=248358>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+Sign up for our newsletters!
+
+Subscribe <http://direct.mercurynews.com/mrc/mrcreg.action>
+Follow Us
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+
+    Most Popular
+
+ 1. Promising young life cut short in Saratoga crash
+
+    <http://www.mercurynews.com/2016/11/15/promising-young-life-cut-short-in-saratoga-crash/>
+
+ 2. Free admission to 116 California state parks on Friday after
+    Thanksgiving
+
+    <http://www.mercurynews.com/2016/11/16/free-admission-to-116-california-state-parks-on-friday-after-thanksgiving/>
+
+ 3. Review: Metallica roars on “Hardwired … to Self-Destruct”
+
+    <http://www.mercurynews.com/2016/11/16/review-metallica-roars-on-hardwired-to-self-destruct/>
+
+ 4. Vietnam War veterans attacked by rare cancer linked to liver flukes
+
+    <http://www.mercurynews.com/2016/11/15/vietnam-war-veterans-attacked-by-rare-cancer-linked-to-liver-flukes/>
+
+ 5. Warriors GM Bob Myers: “We’re not trading Klay (Thompson)”
+
+    <http://www.mercurynews.com/2016/11/16/warriors-gm-bob-myers-were-not-trading-klay-thompson/>
+
+ 6. Drake on Kevin Durant’s move: “I’m happy to see my friend happy”
+
+    <http://www.mercurynews.com/2016/11/16/drake-on-kevin-durants-move-im-happy-to-see-my-friend-happy/>
+
+ 7. San Jose teacher allegedly threatens student with deportation under
+    Trump
+
+    <http://www.mercurynews.com/2016/11/15/san-jose-teacher-allegedly-threatens-student-with-deportation-under-trump/>
+
+ 8. Raiders: Tommie Smith will light Al Davis torch in Mexico City
+
+    <http://www.mercurynews.com/2016/11/16/raiders-tommie-smith-will-light-al-davis-torch-in-mexico-city/>
+
+
+  *
+
+    Palo Alto: 'Grandma's' basement holds lure for new startups
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31630060&playlistId=18873>
+
+  *
+
+    Bay Area jazz icon Larry Vuckovich celebrates 80th birthday
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31634819&playlistId=18873>
+
+  *
+
+    Hands Around Lake Merritt in Oakland, California
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31631109&playlistId=18873>
+
+  *
+
+    Palo Alto: 'Grandma's' basement holds lure for new startups
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31630060&playlistId=18873>
+
+  *
+
+    Bay Area jazz icon Larry Vuckovich celebrates 80th birthday
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31634819&playlistId=18873>
+
+
+
+        More videos:
+
+  *
+    Bay Area jazz icon Larry Vuckovich celebrates 80th birthday
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31634819&playlistId=18873>
+
+  *
+    Hands Around Lake Merritt in Oakland, California
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31631109&playlistId=18873>
+
+  *
+    Palo Alto: 'Grandma's' basement holds lure for new startups
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31630060&playlistId=18873>
+
+  *
+    Bay Area jazz icon Larry Vuckovich celebrates 80th birthday
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31634819&playlistId=18873>
+
+  *
+    Hands Around Lake Merritt in Oakland, California
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31631109&playlistId=18873>
+
+  *
+    Palo Alto: 'Grandma's' basement holds lure for new startups
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31630060&playlistId=18873>
+
+  *
+    Bay Area jazz icon Larry Vuckovich celebrates 80th birthday
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31634819&playlistId=18873>
+
+  *
+    Hands Around Lake Merritt in Oakland, California
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31631109&playlistId=18873>
+
+  *
+    Palo Alto: 'Grandma's' basement holds lure for new startups
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31630060&playlistId=18873>
+
+
+
+    More in Opinion
+
+  *
+    <http://www.mercurynews.com/2016/11/16/editorial-abolish-the-electoral-college/>
+
+    Popular vote is a far more democratic method of electing the president
+    <http://www.mercurynews.com/2016/11/16/editorial-abolish-the-electoral-college/>
+
+
+
+              Editorial: Abolish the Electoral College
+              <http://www.mercurynews.com/2016/11/16/editorial-abolish-the-electoral-college/>
+
+
+    November 16, 2016, 3:20 pm
+
+    Popular vote is a far more democratic method of electing the president
+    14
+
+    <#comments>
+
+  *
+
+    <http://www.mercurynews.com/2016/11/16/cartoons-dakota-access-pipeline-protests/>
+
+    For months, activists have been protesting in North Dakota over a
+    plan to build a pipeline below the Missouri River.
+    <http://www.mercurynews.com/2016/11/16/cartoons-dakota-access-pipeline-protests/>
+
+
+
+              Cartoons: Dakota Access Pipeline protests
+              <http://www.mercurynews.com/2016/11/16/cartoons-dakota-access-pipeline-protests/>
+
+
+    November 16, 2016, 11:08 am
+
+    For months, activists have been protesting in North Dakota over a
+    plan to build a pipeline below the Missouri River.
+
+  *
+    <http://www.mercurynews.com/2016/11/16/pitts-time-to-take-back-our-country/>
+
+    It's time to take back OUR country
+    <http://www.mercurynews.com/2016/11/16/pitts-time-to-take-back-our-country/>
+
+
+
+              Pitts: Time to take back OUR country
+              <http://www.mercurynews.com/2016/11/16/pitts-time-to-take-back-our-country/>
+
+
+    November 16, 2016, 9:08 am
+
+    It’s time to take back OUR country
+    3
+
+    <#comments>
+
+  *
+    <http://www.mercurynews.com/2016/11/16/will-draw-the-curtain-on-democrats-pointless-gestures/>
+
+    Draw the curtain on Democrats' pointless gestures
+    <http://www.mercurynews.com/2016/11/16/will-draw-the-curtain-on-democrats-pointless-gestures/>
+
+
+
+              Will: Draw the curtain on Democrats’ pointless gestures
+              <http://www.mercurynews.com/2016/11/16/will-draw-the-curtain-on-democrats-pointless-gestures/>
+
+
+    November 16, 2016, 8:51 am
+
+    Draw the curtain on Democrats’ pointless gestures
+    1
+
+    <#comments>
+
+  * Member Services <https://myaccount.mercurynews.com/>
+  * News Alerts <https://digioh.com/BANG/general?source=TakeAction>
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+  * Subscribe
+
+    <https://myaccount.mercurynews.com/dssSubscribe.aspx?pid=22>
+
+    <#>
+      o Manage Your Subscription <https://myaccount.mercurynews.com/>
+      o All Access Subscriptions <http://www.bayareanewsaccess.com/>
+      o Today’s e-Edition <http://mercurynews.ca.newsmemory.com/>
+      o Newsletter Sign-Up <http://direct.mercurynews.com/mrc/mrcreg.action>
+      o Mobile Apps <http://www.mercurynews.com/mobile/>
+  * Contact Us
+
+    <http://www.mercurynews.com/contact-us/>
+
+    <#>
+      o Corrections <http://www.mercurynews.com/news/corrections/>
+      o Reprints <http://www.mercurynews.com/reprints/>
+      o Archive Search <http://www.mercurynews.com/archive-search/>
+      o Lottery <http://www.mercurynews.com/lottery/>
+  * Classifieds
+
+    <http://marketplace.bayareanewsgroup.com/marketplace/>
+
+    <#>
+      o Autos <http://www.norcaldrives.com/>
+      o Jobs <http://www.mercurynews.com/jobs/>
+      o Real Estate <http://realestate.mercurynews.com/>
+      o Place an Obituary
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+      o Place a Legal Ad
+        <http://bang.theadhawk.com/bang-adportal/legals/index.html>
+  * Advertise With Us
+
+    <http://www.mercurynews.com/advertise/>
+
+    <#>
+      o Today’s Ads <http://ads.mercurynews.com/>
+      o Weekly Ads <http://www.mercurynews.com/weekly-ads/>
+      o Local Guide <http://mylocal.mercurynews.com/>
+      o Fry’s Ad
+        <http://newspaperads.mercurynews.com/FSI/tiles.aspx?advid=200177&loc=53824>
+      o Public Notices <http://capublicnotice.com/>
+
+  * © 2016 Digital First Media <http://www.digitalfirstmedia.com/>
+  * Site Map <http://www.mercurynews.com/sitemap.xml>
+  * Copyright <http://www.mercurynews.com/copyright/>
+  * Privacy Policy <http://www.mercurynews.com/privacy-policy/>
+  * Powered by WordPress.com VIP <https://vip.wordpress.com/>
+  * Bay Area News Group
+
+    <http://www.bayareanewsgroup.com/>
+
+:)
+
+
+      Email This Article
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel
+
+<#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+Quantcast

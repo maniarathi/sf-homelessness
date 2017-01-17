@@ -1,0 +1,2315 @@
+52°F <http://www.sfgate.com/weather/> San Francisco
+
+  * <javascript:void(0)>
+  * antioch <javascript:void(0)>
+  * concord <javascript:void(0)>
+  * fairfield <javascript:void(0)>
+  * hayward <javascript:void(0)>
+  * livermore <javascript:void(0)>
+  * mill valley <javascript:void(0)>
+  * mountain view <javascript:void(0)>
+  * napa <javascript:void(0)>
+  * oakland <javascript:void(0)>
+  * palo alto <javascript:void(0)>
+  * richmond <javascript:void(0)>
+  * san carlos <javascript:void(0)>
+  * san francisco <javascript:void(0)>
+  * san jose <javascript:void(0)>
+  * santa rosa <javascript:void(0)>
+
+  *
+
+    <https://www.facebook.com/SFGate/>
+  *
+
+    <https://twitter.com/sfgate/>
+  *
+
+    <https://instagram.com/sfgate/>
+  *
+
+    <http://www.pinterest.com/sfgate/>
+  *
+
+    <http://www.sfgate.com/rss/>
+  * Subscribe
+
+    <http://www.sfgate.com/subscriptions>
+  *
+    Sign In
+
+
+     
+
+
+              Sign in using
+
+    	
+
+    	
+
+    	
+
+    	
+
+
+                or
+
+    Email Address or Password is incorrect.
+
+    Email address field is required.
+
+    Password field is required.
+    Show password
+    Forgot password? <javascript:void(0)>
+    Keep me signed in
+
+
+                Don't have a profile?
+
+
+    Don't have a subscription?
+
+    Sign up
+
+    <javascript:void(0)> Subscribe <http://www.sfgate.com/subscribe/>
+
+    By signing in, you agree to our Terms of Service
+    <http://www.sfgate.com/termsandconditions/> and Privacy Policy
+    <http://www.sfgate.com/privacy-policy/>.
+
+  * Home
+
+    <http://www.sfgate.com/>
+          + Contact SFGate
+
+            <http://www.sfgate.com/chronicle-contacts/>
+              # Contact SFGate
+
+                <http://www.sfgate.com/chronicle-contacts/>
+              # Customer Support
+
+                <http://www.sfgate.com/feedback/>
+              # Submissions & Tips
+
+                <http://www.sfgate.com/submissions/>
+          + Classifieds
+
+            <http://sfc.ipublishmarketplace.com/sf-marketplace/>
+          + About SFGate
+
+            <http://www.sfgate.com/aboutsfgate/>
+              # About SFGate
+
+                <http://www.sfgate.com/aboutsfgate/>
+              # FAQ
+
+                <http://www.sfgate.com/faq/>
+              # SFGate Newsletters
+
+                <http://www.sfgate.com/profile>
+              # SFGate Staff
+
+                <http://www.sfgate.com/staff/>
+              # Careers
+
+                <http://www.sfgate.com/chronicle/hr/>
+              # Site Index
+
+                <http://www.sfgate.com/index/>
+              # Hearst
+
+                <http://www.hearst.com/>
+          + About The Chronicle
+
+            <http://www.hearst.com/newspapers/san-francisco-chronicle>
+              # About The Chronicle
+
+                <http://www.hearst.com/newspapers/san-francisco-chronicle>
+              # The Chronicle Staff
+
+                <http://www.sfchronicle.com/newsroom_contacts/>
+              # Become a Subscriber
+
+                <http://www.sfchronicle.com/ultimate_access/?cmpid=sfg_nav>
+              # Manage Your Subscription
+
+                <http://www.sfchronicle.com/account>
+              # Customer Service
+
+                <http://www.sfchronicle.com/customer_service/>
+              # Careers
+
+                <http://www.sfgate.com/chronicle/hr/>
+              # e-edition
+
+                <http://www.sfchronicle.com/e-edition>
+              # Back Copies
+
+                <http://www.sfgate.com/faq/#faq10>
+              # Chronicle in Education
+
+                <http://nieonline.com/sfchronicle>
+              # Corrections
+
+                <http://www.sfgate.com/corrections/>
+          + Advertise with Us
+
+            <http://marketing.sfgate.com/>
+          + More on Advertising
+
+            <http://marketing.sfgate.com/>
+              # More on Advertising
+
+                <http://marketing.sfgate.com/>
+              # Place a Classified Ad
+
+                <http://sfc.ipublishmarketplace.com/sf-marketplace/>
+              # About Our Ads
+
+                <http://www.sfgate.com/privacy-policy/>
+              # Public Notices
+
+                <http://www.legalnotice.org/pl/SFGate/landing1.aspx>
+              # Local Business Directory
+
+                <http://local.sfgate.com/>
+              # Place an Obituary
+
+                <http://ezads.sfchron.com/sf-adportal/obits/index.html>
+              # Gate List
+
+                <http://local.sfgate.com/>
+          + Store
+
+            <http://sfchronicle.myshopify.com/>
+          + Privacy policy
+
+            <http://www.sfgate.com/privacy-policy/>
+              # Privacy policy
+
+                <http://www.sfgate.com/privacy-policy/>
+              # Ad Choices
+
+                <http://www.aboutads.info/choices/>
+          + Chronicle Archives
+
+            <http://www.sfchronicle.com/archive/>
+          + Terms of Use
+
+            <http://www.sfgate.com/termsandconditions/>
+          + Newsletters
+
+            <http://www.sfgate.com/profile>
+          + Get news alerts
+
+            <http://www.sfgate.com/getus/>
+        SFGate Customer support - Photo
+
+
+                SFGate Customer support
+
+        <http://www.sfgate.com/feedbackredesign/>
+        Get VIP access with SF Chronicle Membership - Photo
+
+
+                Get VIP access with SF Chronicle Membership
+
+        <http://www.sfchronicle.com/subscribe/?ipid=membership>
+        Get SFGate newsletters for the latest from the Bay - Photo
+
+
+                Get SFGate newsletters for the latest from the Bay
+
+        <http://www.sfgate.com/newsletters>
+        Check out the Top 100 Bay Area restaurants - Photo
+
+
+                Check out the Top 100 Bay Area restaurants
+
+        <http://projects.sfchronicle.com/2016/top-100-restaurants/>
+  * News
+
+    <http://www.sfgate.com/news/>
+          + Bay Area & State
+
+            <http://www.sfgate.com/bayarea/>
+          + Education
+
+            <http://sfgate.com/education/>
+          + Traffic
+
+            <http://www.sfgate.com/traffic>
+          + Nation
+
+            <http://www.sfgate.com/nation/>
+          + World
+
+            <http://www.sfgate.com/world/>
+          + Politics
+
+            <http://www.sfgate.com/politics/>
+          + Crime
+
+            <http://www.sfgate.com/crime/>
+          + Election Results
+
+            <http://www.sfgate.com/elections/>
+          + Obituaries
+
+            <http://www.legacy.com/obituaries/sfgate/>
+          + Smell the Truth
+
+            <http://blog.sfgate.com/smellthetruth/>
+        8 students file federal lawsuit against Berkeley school district
+        - Photo
+
+
+                8 students file federal lawsuit against Berkeley school
+                district
+
+        <http://www.sfgate.com/bayarea/article/8-students-file-federal-lawsuit-against-Berkeley-10619819.php>
+
+        Man, 20, shot near Dolores Park - Photo
+
+
+                Man, 20, shot near Dolores Park
+
+        <http://www.sfgate.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php>
+
+        Two shot during brawl at Berkeley’s Strawberry Creek Park - Photo
+
+
+                Two shot during brawl at Berkeley’s Strawberry Creek Park
+
+        <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+        What shook the South Bay on Tuesday? Not a sonic boom - Photo
+
+
+                What shook the South Bay on Tuesday? Not a sonic boom
+
+        <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php>
+
+  * Sports
+
+    <http://www.sfgate.com/sports/>
+          + 49ers
+
+            <http://www.sfgate.com/49ers/>
+          + Raiders
+
+            <http://www.sfgate.com/raiders/>
+          + Giants
+
+            <http://www.sfgate.com/giants/>
+          + A's
+
+            <http://www.sfgate.com/athletics/>
+          + Warriors
+
+            <http://www.sfgate.com/warriors/>
+          + Sports Blogs
+
+            <http://www.sfgate.com/sports/blogs/>
+          + Sports Calendar
+
+            <http://www.sfgate.com/sports/tv/>
+          + NFL
+
+            <http://sfgate.stats.com/fb/front.asp>
+          + MLB
+
+            <http://sfgate.stats.com/mlb/front.asp>
+          + NBA
+
+            <http://sfgate.stats.com/nba/front.asp>
+          + College
+
+            <http://www.sfgate.com/collegesports/>
+          + Preps
+
+            <http://www.sfgate.com/preps/>
+          + Golf
+
+            <http://sfgate.stats.com/golf/front.asp>
+          + Outdoors
+
+            <http://www.sfgate.com/outdoors/>
+        Raiders’ undrafted Latham proving to be a diamond in the rough -
+        Photo
+
+
+                Raiders’ undrafted Latham proving to be a diamond in the
+                rough
+
+        <http://www.sfgate.com/raiders/article/Raiders-undrafted-Latham-proving-to-be-a-10619361.php>
+
+        Draymond Green reinforces value in Warriors’ win over Raptors -
+        Photo
+
+
+                Draymond Green reinforces value in Warriors’ win over
+                Raptors
+
+        <http://www.sfgate.com/warriors/article/Draymond-Green-reinforces-his-value-in-10619696.php>
+
+        Rancho Cotate coach Ed Conroy hopes to go out with title - Photo
+
+
+                Rancho Cotate coach Ed Conroy hopes to go out with title
+
+        <http://www.sfgate.com/sports/article/Rancho-Cotate-coach-Ed-Conroy-hopes-to-go-out-10619270.php>
+
+        Texas-born Davis Webb has had eyes on Big Game - Photo
+
+
+                Texas-born Davis Webb has had eyes on Big Game
+
+        <http://www.sfgate.com/collegesports/article/Texas-born-Webb-always-had-eyes-on-Big-Game-10619539.php>
+
+  * Business
+
+    <http://www.sfgate.com/business/>
+          + Scotland Business Opportunities
+
+            <http://www.sfgate.com/scotlandbusinessopportunities/>
+          + Technology
+
+            <http://www.sfgate.com/technology/>
+          + Mortgage Rates
+
+            <http://www.sfgate.com/mortgagerates/>
+          + Home Guides
+
+            <http://homeguides.sfgate.com/>
+          + Public Notices
+
+            <http://www.legalnotice.org/pl/SFGate/landing1.aspx>
+          + Sponsored Content
+
+            <http://www.sfgate.com/sponsoredarticles/business/>
+          + The Tech Chronicles
+
+            <http://blog.sfgate.com/techchron/>
+          + VisionSF
+
+            <http://www.sfgate.com/visionsf/>
+          + Jobs
+
+            <http://www.sfgate.com/jobs/>
+        CEOs look to move forward after election - Photo
+
+
+                CEOs look to move forward after election
+
+        <http://www.sfgate.com/business/article/CEOs-look-to-move-forward-after-election-10618780.php>
+
+        4 things to know about United’s new cheaper fares - Photo
+
+
+                4 things to know about United’s new cheaper fares
+
+        <http://www.sfgate.com/business/article/4-things-to-know-about-United-s-new-cheaper-10619120.php>
+
+        Tinder adds transgender and nonconforming options - Photo
+
+
+                Tinder adds transgender and nonconforming options
+
+        <http://www.sfgate.com/business/article/Tinder-adds-transgender-and-nonconforming-options-10618678.php>
+
+        Prince’s estate sues Tidal; a toilet called Trump; itching to
+        fly - Photo
+
+
+                Prince’s estate sues Tidal; a toilet called Trump;
+                itching to
+
+        <http://www.sfgate.com/business/article/Prince-s-estate-sues-Tidal-a-toilet-called-10619090.php>
+
+  * Entertainment
+
+    <http://www.sfgate.com/entertainment/>
+          + The Daily Dish
+
+            <http://www.sfgate.com/dailydish/>
+          + Snow
+
+            <http://www.sfgate.com/snow-ski/>
+          + Movies
+
+            <http://www.sfgate.com/movies/>
+          + Music & Nightlife
+
+            <http://www.sfgate.com/music/>
+          + Performance
+
+            <http://www.sfgate.com/performance/>
+          + Art
+
+            <http://www.sfgate.com/art/>
+          + Blogs
+
+            <http://www.sfgate.com/entertainment/blogs/>
+          + Events
+
+            <http://events.sfgate.com/>
+          + Puzzles
+
+            <http://www.sfgate.com/games/>
+          + TV
+
+            <http://www.sfgate.com/tv/>
+          + Horoscope
+
+            <http://www.sfgate.com/horoscope/>
+          + Comics
+
+            <http://www.sfgate.com/comics/>
+          + Crosswords & Puzzles
+
+            <http://www.sfgate.com/games/>
+          + Things To Do
+
+            <http://www.sfgate.com/thingstodo/>
+        “Fantastic Beasts” embarks on a magical journey to the familiar
+        - Photo
+
+
+                “Fantastic Beasts” embarks on a magical journey to the
+
+        <http://www.sfgate.com/movies/article/Fantastic-Beasts-embarks-on-a-magical-10616137.php>
+
+        The latest from Dear Abby - Photo
+
+
+                The latest from Dear Abby
+
+        <http://www.sfgate.com/dearabby/>
+        “Fantastic Beasts” embarks on a magical journey to the familiar
+        - Photo
+
+
+                “Fantastic Beasts” embarks on a magical journey to the
+
+        <http://www.sfgate.com/movies/article/Fantastic-Beasts-embarks-on-a-magical-10619217.php>
+
+        Andrew & Polly give back with family benefit concert - Photo
+
+
+                Andrew & Polly give back with family benefit concert
+
+        <http://www.sfgate.com/music/article/Andrew-Polly-give-back-with-family-benefit-10617048.php>
+
+  * Food
+
+    <http://www.sfgate.com/food/>
+          + Restaurants
+
+            <http://www.sfgate.com/restaurants/>
+          + Wine
+
+            <http://www.sfgate.com/wine/>
+          + Top 100 Restaurants
+
+            <http://insidescoopsf.sfgate.com/blog/category/top-100/>
+          + Chronicle Wine Competition
+
+            <http://www.sfgate.com/wine/article/2016-San-Francisco-Chronicle-Wine-Competition-6749722.php>
+
+          + Reservations
+
+            <http://www.opentable.com/start.aspx?m=4&ref=7801>
+          + Beer News
+
+            <http://www.sfgate.com/beer/>
+          + Inside Scoop SF
+
+            <http://insidescoopsf.sfgate.com/>
+          + Healthy Eating
+
+            <http://healthyeating.sfgate.com/>
+        La Urbana closes on Divisadero - Photo
+
+
+                La Urbana closes on Divisadero
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/la-urbana-closes-possibly-for-good/>
+
+        Philadelphia star chef Marc Vetri rolls out Terrain Cafe in Palo
+        Alto’s Anthropologie - Photo
+
+
+                Philadelphia star chef Marc Vetri rolls out Terrain Cafe
+                in Palo
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/philadelphia-star-chef-marc-vetri-rolls-out-terrain-cafe-in-palo-altos-anthropologie/>
+
+        San Francisco restaurants join the mannequin challenge - Photo
+
+
+                San Francisco restaurants join the mannequin challenge
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/san-francisco-restaurants-join-the-mannequin-challenge/>
+
+        Phlox Commons to open in Saha’s old Hotel Carlton space - Photo
+
+
+                Phlox Commons to open in Saha’s old Hotel Carlton space
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/16/phlox-commons-to-open-in-sahas-old-hotel-carlton-space/>
+
+  * Living
+
+    <http://www.sfgate.com/living/>
+          + Home & Garden
+
+            <http://www.sfgate.com/homeandgarden/>
+          + Style
+
+            <http://www.sfgate.com/style/>
+          + Parties
+
+            <http://www.sfgate.com/sfsocial/>
+          + Lust
+
+            <http://www.sfgate.com/lust/>
+          + LGBT
+
+            <http://www.sfgate.com/lgbt/>
+          + Mommy Files & Parenting
+
+            <http://www.sfgate.com/mommyfiles/>
+          + Houzz
+
+            <http://remodeling.sfgate.com/>
+          + Outdoors
+
+            <http://www.sfgate.com/outdoors/>
+          + Health
+
+            <http://www.sfgate.com/health/>
+          + Blogs
+
+            <http://www.sfgate.com/living/blogs/>
+          + Education
+
+            <http://www.sfgate.com/education/>
+          + Sponsored
+
+            <http://www.sfgate.com/sponsoredarticles/lifestyle/>
+          + Schools, Camps & Activities
+
+            <http://www.sfgate.com/campguide/>
+        Fewer U.S. parents are spanking their kids - Photo
+
+
+                Fewer U.S. parents are spanking their kids
+
+        <http://blog.sfgate.com/sfmoms/2016/11/16/fewer-u-s-parents-are-spanking-their-kids/>
+
+        14 fresh ways to mix vintage style into a modern home - Photo
+
+
+                14 fresh ways to mix vintage style into a modern home
+
+        <http://www.sfgate.com/living/article/14-fresh-ways-to-mix-vintage-style-into-a-modern-10609146.php>
+
+        Read a California student's letter to Donald Trump - Photo
+
+
+                Read a California student's letter to Donald Trump
+
+        <http://www.sfgate.com/mommyfiles/article/third-grader-writes-letter-Trump-California-Donald-10608754.php>
+
+        9 of the weirdest classic Thanksgiving recipes The Chronicle has
+        ever published - Photo
+
+
+                9 of the weirdest classic Thanksgiving recipes The
+                Chronicle has
+
+        <http://www.sfgate.com/living/article/9-of-the-weirdest-classic-Thanksgiving-recipes-10592219.php>
+
+  * Travel
+
+    <http://www.sfgate.com/travel/>
+          + Destination BC
+
+            <http://www.sfgate.com/destinationbc/>
+          + Whistler
+
+            <http://www.sfgate.com/whistlertourism/>
+          + Monterey-Carmel
+
+            <http://www.sfgate.com/monterey-carmel/>
+          + Weekend Getaways
+
+            <http://www.sfgate.com/getaways/>
+          + Wine Country
+
+            <http://www.sfgate.com/winecountry/>
+          + Napa
+
+            <http://www.sfgate.com/napa/>
+          + Reno-Tahoe
+
+            <http://www.sfgate.com/renotahoe/>
+          + Hawaii
+
+            <http://www.sfgate.com/hawaii/>
+          + Mexico
+
+            <http://www.sfgate.com/mexico/>
+          + Exotic Destinations
+
+            <http://www.sfgate.com/exoticdestinations/>
+          + Snow
+
+            <http://www.sfgate.com/snow-ski/>
+        Suite Spot: Chaminade Resort & Spa, Santa Cruz - Photo
+
+
+                Suite Spot: Chaminade Resort & Spa, Santa Cruz
+
+        <http://www.sfgate.com/travel/article/Suite-Spot-Chaminade-Resort-Spa-Santa-Cruz-10609479.php>
+
+        Insider: Guidebook author’s Santa Cruz favorites - Photo
+
+
+                Insider: Guidebook author’s Santa Cruz favorites
+
+        <http://www.sfgate.com/travel/article/Insider-Guidebook-author-s-Santa-Cruz-favorites-10609485.php>
+
+        Rick Steves: Communicate even if you don’t know the lingo - Photo
+
+
+                Rick Steves: Communicate even if you don’t know the lingo
+
+        <http://www.sfgate.com/travel/article/Rick-Steves-Communicate-even-if-you-don-t-know-10593610.php>
+
+        Stargazing in Lake County - Photo
+
+
+                Stargazing in Lake County
+
+        <http://www.sfgate.com/travel/article/Stargazing-in-Lake-County-10591366.php>
+
+  * Real Estate
+
+    <http://www.sfgate.com/realestate/>
+          + New Homes
+
+            <http://www.sfgate.com/newhomes/>
+          + Open Homes
+
+            <http://www.sfgate.com/openhomes/>
+          + Luxury
+
+            <http://www.sfgate.com/luxuryhomes/>
+          + Rentals
+
+            <http://www.sfgate.com/rentals/>
+          + Mortgage Rates
+
+            <http://www.sfgate.com/mortgagerates/>
+          + Commercial
+
+            <http://www.sfgate.com/commercial/>
+          + Place an ad
+
+            <http://www.sfgate.com/realestate/advertise/>
+          + Home Guides
+
+            <http://homeguides.sfgate.com/>
+          + Home Sales
+
+            <http://www.sfgate.com/webdb/homesales>
+          + On the Block Blog
+
+            <http://blog.sfgate.com/ontheblock>
+        Hot Property: - Photo
+
+
+                Hot Property:
+
+        <http://www.sfgate.com/realestate/article/Hot-Property-10609318.php>
+
+        How Trump could affect the San Francisco real-estate market - Photo
+
+
+                How Trump could affect the San Francisco real-estate market
+
+        <http://blog.sfgate.com/ontheblock/2016/11/16/how-trump-could-affect-the-san-francisco-real-estate-market/>
+
+        Prime location, fine style await at Cow Hollow trilevel - Photo
+
+
+                Prime location, fine style await at Cow Hollow trilevel
+
+        <http://www.sfgate.com/realestate/walkthrough/article/Prime-location-fine-style-await-at-Cow-Hollow-10616575.php>
+
+        Escape reality with this hexagonal home in the La Honda woods -
+        Photo
+
+
+                Escape reality with this hexagonal home in the La Honda
+                woods
+
+        <http://blog.sfgate.com/ontheblock/2016/11/15/escape-reality-with-this-hexagonal-home-in-the-la-honda-woods/>
+
+  * Cars
+
+    <http://cars.sfgate.com/>
+          + Dealers
+
+            <http://cars.sfgate.com/Dealers?zipCode=94103&make=&maxDistance=100&sortBy=1>
+
+          + Click and Clack
+
+            <http://www.sfgate.com/columns/clickandclack/>
+          + Car Blog
+
+            <http://blog.sfgate.com/topdown/>
+          + My Ride
+
+            <http://www.sfgate.com/columns/myride/>
+          + Al's Road to the Big Game
+
+            <http://www.sfgate.com/als_road_to_big_game/>
+          + Sell Your Car
+
+            <http://ezads.sfchron.com/sf-adportal/classifieds/index.html>
+        An Artfully Performing SUV - Photo
+
+
+                An Artfully Performing SUV
+
+        <http://www.sfgate.com/cars/article/An-Artfully-Performing-SUV-10609325.php>
+
+        1955 Beardmore Taxi - Photo
+
+
+                1955 Beardmore Taxi
+
+        <http://www.sfgate.com/cars/myride/article/1955-Beardmore-Taxi-10594724.php>
+
+        A mid-size fuel saving hybrid without a plug - Photo
+
+
+                A mid-size fuel saving hybrid without a plug
+
+        <http://www.sfgate.com/cars/article/A-mid-size-fuel-saving-hybrid-without-a-plug-10420755.php>
+
+        Nurse finds adventure in ’66 Porsche - Photo
+
+
+                Nurse finds adventure in ’66 Porsche
+
+        <http://www.sfgate.com/cars/myride/article/Nurse-finds-adventure-in-66-Porsche-10079065.php>
+
+  * Jobs
+
+    <http://www.sfgate.com/jobs/>
+          + Job Events
+
+            <http://events.sfgate.com/search?acat=&new=n&sort=0&srad=50&srss=10&ssrss=5&st=event&svt=text&swhat=&swhen=&swhere=San+Francisco%2CCA&trim=1&cat=1111>
+
+          + Advertise
+
+            <http://marketing.sfgate.com/marketplaces/recruitment>
+          + Salary Wizard
+
+            <http://bayarea.salary.com/SalaryWizard/LayoutScripts/Swzl_NewSearch.aspx>
+
+          + Get To Work
+
+            <http://blog.sfgate.com/gettowork/>
+        How to Ace a 30-Minute Interview - Photo
+
+
+                How to Ace a 30-Minute Interview
+
+        <http://blog.sfgate.com/gettowork/2016/11/14/how-to-ace-a-30-minute-interview/>
+
+        Know why you need to develop self-awareness - Photo
+
+
+                Know why you need to develop self-awareness
+
+        <http://blog.sfgate.com/gettowork/2016/11/03/know-why-you-need-to-develop-self-awareness/>
+
+        Shape up your resume to open more doors of opportunity - Photo
+
+
+                Shape up your resume to open more doors of opportunity
+
+        <http://blog.sfgate.com/gettowork/2016/10/27/shape-up-your-resume-to-open-more-doors-of-opportunity/>
+
+        Know how to ace an executive interview - Photo
+
+
+                Know how to ace an executive interview
+
+        <http://blog.sfgate.com/gettowork/2016/10/21/know-how-to-ace-an-executive-interview/>
+
+  * Video
+
+    <http://www.sfgate.com/video/>
+  * Chronicle
+
+    <http://www.sfchronicle.com/>
+          + Latest columns
+
+            <http://www.sfchronicle.com/local/columnists>
+          + Michael Bauer
+
+            <http://www.sfchronicle.com/author/michael-bauer>
+          + Leah Garchik
+
+            <http://www.sfchronicle.com/author/leah-garchik/>
+          + Bruce Jenkins
+
+            <http://www.sfchronicle.com/author/bruce-jenkins/>
+          + Esther Mobley
+
+            <http://www.sfchronicle.com/author/esther-mobley/>
+          + Ann Killion
+
+            <http://www.sfchronicle.com/author/ann-killion/>
+          + Thomas Lee
+
+            <http://www.sfchronicle.com/author/thomas-lee/>
+          + Matier & Ross
+
+            <http://www.sfchronicle.com/author/matier-ross/>
+          + C.W Nevius
+
+            <http://www.sfchronicle.com/author/c-w-nevius/>
+          + Kathleen Pender
+
+            <http://www.sfchronicle.com/author/kathleen-pender/>
+          + Scott Ostler
+
+            <http://www.sfchronicle.com/author/scott-ostler/>
+        The ultimate NorCal brewery map - Photo
+
+
+                The ultimate NorCal brewery map
+
+        <http://www.sfchronicle.com/brewerymap/>
+        Top 100 Restaurants - Photo
+
+
+                Top 100 Restaurants
+
+        <http://www.sfchronicle.com/top100restaurants>
+        Warriors show their style off the court - Photo
+
+
+                Warriors show their style off the court
+
+        <http://www.sfchronicle.com/style/article/Fashion-Warriors-Golden-State-shows-its-style-7271312.php>
+
+
+<http://www.sfgate.com/>MenuSections
+
+http://www.sfgate.com/crime/article/Homeless-man-killed-in-stabbing-in-Santa-Rosa-8327078.php
+
+
+
+  Man found fatally stabbed on street in downtown Santa Rosa
+
+By Kimberly Veklerov <http://www.sfgate.com/author/kimberly-veklerov/>
+
+
+Updated 4:21 pm, Monday, June 27, 2016
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/crime/articleComments/Homeless-man-killed-in-stabbing-in-Santa-Rosa-8327078.php>
+
+    1
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+    Photo: Spencer Platt / Getty Image, Getty Image
+
+<http://www.netseer.com/netseer-inimage-ads/?utm_source=info_button&utm_medium=publisher>
+
+  *
+    <#photo-9645478>
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/crime/articleComments/Homeless-man-killed-in-stabbing-in-Santa-Rosa-8327078.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Photo: Spencer Platt / Getty Image, Getty Image
+Image 1of/1
+
+Caption
+
+Close
+
+Image 1of 1
+Photo: Spencer Platt / Getty Image, Getty Image
+Man found fatally stabbed on street in downtown Santa Rosa
+1 / 1
+Back to Gallery
+
+A man was killed early Monday in a street stabbing in downtown Santa
+Rosa, police said.
+
+
+    More Bay Area News
+
+  * Two shot during brawl at Berkeley’s Strawberry Creek Park
+    <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+  * What shook the South Bay on Tuesday? Not a sonic boom
+    <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php>
+
+  * UC Berkeley responds to student demands in harassment case
+    <http://www.sfgate.com/bayarea/article/UC-Berkeley-responds-to-student-demands-in-10619436.php>
+
+
+Officers were called to the scene on the 400 block of Riley Street,
+between Fifth and Seventh streets, just before 1 a.m. after someone
+reported a man down in front of a Sonoma County Public Health Division
+office. Paramedics pronounced him dead at the scene.
+
+The man, who had yet to be identified, was believed to be homeless,
+officials said.
+
+Anyone with information on the stabbing may contact violent crime
+investigators at (707) 543-3590.
+
+/
+
+Kimberly Veklerov is a San Francisco Chronicle
+<http://www.sfgate.com/search/?action=search&channel=crime&inlineLink=1&searchindex=gsa&query=%22San+Francisco+Chronicle%22>
+staff writer. Email: kveklerov@sfchronicle.com
+<mailto:kveklerov@sfchronicle.com> Twitter: @kveklerov
+<http://twitter.com/kveklerov>
+
+/
+
+
+      Sponsored Content
+
+The Perfect Hoodie to Get You Through This San Francisco Winter
+The Perfect Hoodie to Get You Through This San Francisco Winter
+American Giant on Business Insider
+<http://ib.adnxs.com/getuid?http://track.interstateanalytics.com/trackad?link_id=00e9fd3ff1ff877557afea795a3e2497d2&source=outbrain&campaign=0041c02595978da819571800ac3d54b689&medium=009b1f1ddd6ad9daa78ca6ead0e9f92c6b&project_key=717af0f459a791fdabbf124e204e35363da8aec0&publisher=outbrain&adnxs_uid=$UID&redirect_to=http%3A%2F%2Fwww.businessinsider.com%2Fthis-hoodie-is-so-insanely-popular-you-have-to-wait-months-to-get-it-2013-12>
+
+67-Year-Old Grandma Gets Her 35-Year-Old Face Back. See the Stunning Photos
+67-Year-Old Grandma Gets Her 35-Year-Old Face Back. See the…
+beautytrends.online
+<http://beautytrends.online/articles/7.php?utm_source=Outbrain&utm_medium=65035864&utm_content=BeautyTrends+-+Skin+Care+and+Wrinkle+Cures&utm_campaign=bt&utm_term=40820>
+
+Mazda Unveils the All-New CX-5
+Mazda Unveils the All-New CX-5
+Inside Mazda
+<https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=18522234&PluID=0&ord=&rtu=%24%24http://insidemazda.mazdausa.com/press-release/mazda-unveils-new-cx5/%24%24>
+
+Forget Someone's Name? Your Contact Lenses May Help You With Facial
+Recognition
+Forget Someone's Name? Your Contact Lenses May Help You With…
+Health Central
+<http://www.healthcentral.com/vision-care/cf/slideshows/10-ways-your-contact-lenses-will-help-you-future?ap=835>
+
+The Perfect Hoodie to Get You Through This San Francisco Winter
+The Perfect Hoodie to Get You Through This San Francisco Winter
+American Giant on Business Insider
+67-Year-Old Grandma Gets Her 35-Year-Old Face Back. See the Stunning Photos
+67-Year-Old Grandma Gets Her 35-Year-Old Face Back. See the…
+beautytrends.online
+Mazda Unveils the All-New CX-5
+Mazda Unveils the All-New CX-5
+Inside Mazda
+Forget Someone's Name? Your Contact Lenses May Help You With Facial
+Recognition
+Forget Someone's Name? Your Contact Lenses May Help You With…
+Health Central
+
+
+      Sponsored Stories
+
+  *
+    The most beautiful Ferraris Girls
+    <http://autoworldcar.com/the-most-beautiful-ferraris-girls/?utm_source=Outbrain&utm_medium=referral&utm_campaign=autoworldcar&utm_source=Outbrain&utm_medium=referral&utm_campaign=autoworldcar>
+    AutoWorldCar
+  *
+    Downsizing? Ditch These 12 Items
+    <http://www.aarp.org/money/budgeting-saving/info-2015/downsizing-items-to-ditch-photo.html?cmp=SL-DSO-OUTBRAIN-DESKTAB-MONEY-MONEYSLIDEALTHEAD-SLIDE-PV_Downsizing%3F+Ditch+These+Items_1054317241_40820>
+    AARP
+  *
+    Forget 'Googling' Names - This Site Is Addicting
+    <http://www.truthrevealed.us/7.php?utm_source=Outbrain&utm_medium=68417227&utm_content=New+Website+Reveals+Personal+Information+Even+Goog&utm_campaign=tf&utm_term=40820>
+    TruthFinder
+  *
+    Homeowners Must Claim their $4271 Before End of 2016
+    <https://www.fetcharate.com/pa/mortgage/?tg_ref=fetobran&csg_ref=tapa&keyword=ad_id&sub2=40820&camp_id=ad_title&camp_id=67898727&keyword=Homeowners+Must+Claim+Their+%244271+Rebate+Check+B&sub2=40820&camp_id=68181247&keyword=New+Illinois+Home+Refinance+Plan+Banks+Don%27t+Wan&sub2=40820>
+    FetchRate
+  *
+    Newlywed? Here's How To Start Your Financial Journey Together
+    <http://i.geistm.com/l/582260342bc945546d38d761?utm_campaign=%7Bcampaign.name)&utm_source=geistm&utm_medium=paidcontent&bcid=58263d7bcd01bc0199b05e1e&bhid=582b27408dcd7c2cb568a552&utm_campaign=OB_D_FinPlanPP_PayPath_WL&utm_source=geistm&utm_medium=paidcontent&utm_content=OB_D_FinPlanPP_PayPath_WL>
+    PayPath
+  *
+    The Faces of Clinton's Supporters Who Are Shocked Trump is President
+    <http://www.dailysportx.com/general/hillary-loses-presidency-bid?utm_medium=outbrain&utm_source=outbrain&utm_campaign=hillary_loses_presidency_bid&utm_term=40820>
+    DailySportX
+  *
+    Stop Eating These 'Digestive Destroyers'
+    <http://probioticamerica.com/cmd.php?ad=757434> Probiotic America
+
+
+      More From SFGate
+
+  *
+    It took only 36 hours for these students to solve Facebook's
+    fake-news problem
+    <http://www.sfgate.com/technology/businessinsider/article/It-only-took-36-hours-for-these-students-to-solve-10614549.php>
+    SF Gate- Business Insider
+  *
+    Dear Abby: Stepdaughter wants me to leave house during holiday
+    <http://www.sfgate.com/entertainment/article/Dear-Abby-Stepdaughter-wants-me-to-leave-house-10609277.php>
+    Entertainment
+  *
+    Donald Trump is about to face a rude awakening over Obamacare
+    <http://www.sfgate.com/news/article/Donald-Trump-is-about-to-face-a-rude-awakening-10610353.php>
+    SF Gate
+  *
+    ‘Beverly Hills 90210’ Alums Luke Perry, Jennie Garth Pay Tribute to
+    Shannen Doherty
+    <http://www.sfgate.com/entertainment/the-wrap/article/Beverly-Hills-90210-Alums-Luke-Perry-10611759.php>
+    Entertainment
+  *
+    Mark Zuckerberg and Facebook execs are speaking out about Trump's
+    victory — and they don't sound happy (FB)
+    <http://www.sfgate.com/technology/businessinsider/article/Mark-Zuckerberg-hopes-this-book-will-help-shape-4807383.php>
+    SF Gate- Business Insider
+  *
+    China says fugitive businessman returns after 15 years
+    <http://www.sfgate.com/news/crime/article/China-says-fugitive-businessman-returns-after-15-10609929.php>
+    Crime Scene
+  *
+    This $665 million skyscraper in San Francisco will be the tallest
+    residential building on the West Coast
+    <http://www.sfgate.com/technology/businessinsider/article/This-665-million-skyscraper-in-San-Francisco-10615858.php>
+    SF Gate- Business Insider
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+[X]Close
+
+<#>
+Watch: The McRib is Back With a New App to Show Where to Get One
+
+Flash plugin failed to load
+00:00
+00:00
+ 
+
+
+      Latest from the SFGATE homepage:
+
+
+          Click below for the top news from around the Bay Area and
+          beyond. Sign up for our newsletters to be the first to learn
+          about breaking news and more. Go to 'Sign In' and 'Manage
+          Profile' at the top of the page.
+
+
+    EAST BAY INCIDENT
+
+  *
+    Nicki Pancholy, a resident of Milpitas, was the target of an
+    anti-Muslim hate crime on Monday. Pancholy is not Muslim, and wears
+    a bandana around her head because she has lupus.
+
+    Woman wearing headscarf targeted in anti-Muslim hate crime
+    <http://www.sfgate.com/crime/article/Woman-wearing-headscarf-targeted-for-anti-Muslim-10619245.php?ipid=articlerecirc>
+
+  *
+
+    Suspects target Latinos for hate in Bay Area attacks
+    <http://www.sfgate.com/crime/article/Suspects-target-Latinos-for-hate-in-separate-Bay-10616807.php?ipid=articlerecirc>
+
+  *
+
+    UC Berkeley police investigate election-related hate crime
+    <http://www.sfgate.com/bayarea/article/UC-Berkeley-police-investigate-election-related-10611941.php?ipid=articlerecirc>
+
+  *
+
+    NYPD: Hate crimes up 31% since last year
+    <http://www.sfgate.com/technology/businessinsider/article/NYPD-Hate-crimes-are-up-31-since-last-year-10619323.php?ipid=articlerecirc>
+
+  *
+
+    Racial incidents following election of Donald Trump
+    <http://www.sfgate.com/news/slideshow/Racial-incidents-following-election-of-Donald-137590.php?ipid=articlerecirc>
+
+
+    Latest News
+
+  *
+
+
+              China bans 'fatty' Kim Jong Un nickname on websites
+              <http://www.sfgate.com/news/world/article/China-bans-fatty-Kim-Jong-Un-nickname-on-10617480.php?ipid=articlerecirc>
+
+  *
+
+
+              Eric Trump heckled by teens in New York City
+              <http://www.sfgate.com/entertainment/the-wrap/article/Eric-Trump-Heckled-by-Teenagers-in-New-York-City-10619775.php?ipid=articlerecirc>
+
+  *
+
+
+              Man, 20, shot near Dolores Park
+              <http://www.sfgate.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php?ipid=articlerecirc>
+
+  *
+
+
+              2 shot during brawl at Berkeley park
+              <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php?ipid=articlerecirc>
+
+  *
+
+
+              What shook the South Bay? Not a sonic boom
+              <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php?ipid=articlerecirc>
+
+  *
+
+
+              Megyn Kelly’s book trolled by Trump backers on Amazon
+              <http://www.sfgate.com/entertainment/the-wrap/article/Megyn-Kelly-s-New-Book-Gets-Trolled-by-Donald-10619580.php?ipid=articlerecirc>
+
+  *
+
+
+              Manager: Leonard Cohen died in sleep after fall
+              <http://www.sfgate.com/news/article/Leonard-Cohen-died-in-sleep-after-fall-manager-10619365.php?ipid=articlerecirc>
+
+  *
+
+
+              SF, LA police unions attack Gascón over AG speculation
+              <http://www.sfgate.com/crime/article/SF-police-union-attacks-Gasc-n-amid-speculation-10619438.php?ipid=articlerecirc>
+
+  * Hillary Clinton addresses the Children's Defense Fund's Beat the
+    Odds celebration at the Newseum in Washington, Wednesday, Nov. 16,
+    2016.
+    <http://www.sfgate.com/entertainment/the-wrap/article/Hillary-Clinton-Delivers-First-Public-Speech-10619568.php?ipid=articlerecirc>
+  * Hillary Clinton's first public speech since election loss
+    <http://www.sfgate.com/entertainment/the-wrap/article/Hillary-Clinton-Delivers-First-Public-Speech-10619568.php?ipid=articlerecirc>
+  * Clinton reflects on loss, urges backers to 'stay engaged'
+    <http://www.sfgate.com/news/politics/article/Clinton-reflects-on-loss-urges-backers-to-stay-10619609.php?ipid=articlerecirc>
+  * Mark Cuban: Decision to avoid Trump hotels made 'months ago'
+    <http://www.sfgate.com/news/texas/article/Mark-Cuban-Decision-to-avoid-Trump-hotels-made-10618872.php?ipid=articlerecirc>
+  * Report: Fake election news outperformed real news on Facebook
+    <http://www.sfgate.com/news/article/Report-Fake-election-news-outperformed-real-news-10619699.php?ipid=articlerecirc>
+
+  * <http://www.sfgate.com/entertainment/the-wrap/article/Carrie-Fisher-Denies-Calling-Harrison-Ford-Bad-10619068.php?ipid=articlerecirc>
+  * Carrie Fisher denies saying Harrison Ford was 'bad in bed'
+    <http://www.sfgate.com/entertainment/the-wrap/article/Carrie-Fisher-Denies-Calling-Harrison-Ford-Bad-10619068.php?ipid=articlerecirc>
+  * Carrie Fisher reveals affair with Harrison Ford
+    <http://www.sfgate.com/entertainment/article/Carrie-Fisher-reveals-Star-Wars-affair-with-10617646.php?ipid=articlerecirc>
+
+  * EDITORS NOTE: Graphic content / Demonstrators gesture at police at
+    Pioneer Square in Portland, Oregon on November 11, 2016, to protest
+    the election of US President-elect Donald Trump. Aanti-Trump
+    protesters spilled onto the streets for a third straight night, with
+    the Republican president-elect facing mounting calls to reassure
+    Americans who fear a xenophobic crackdown under his authority. / AFP
+    / Ankur Dholakia (Photo credit should read ANKUR DHOLAKIA/AFP/Getty
+    Images)
+    <http://www.sfgate.com/national/article/Portland-police-arrest-71-people-during-Donald-10616416.php?ipid=articlerecirc>
+  * Many arrested in Portland protests didn't actually vote
+    <http://www.sfgate.com/national/article/Portland-police-arrest-71-people-during-Donald-10616416.php?ipid=articlerecirc>
+  * Report: Colin Kaepernick has never registered to vote
+    <http://www.sfgate.com/sports/article/Report-Colin-Kaepernick-has-never-registered-to-10615716.php?ipid=articlerecirc>
+
+  * Indian man Vijay Parsana (R), 44, takes a selfie photograph with his
+    cow Poonam (L), 2, on the eve of her marriage in Ghuma village, some
+    20 km from Ahmedabad on March 23, 2016. Parsana is marrying off his
+    cow Poonam to an ox named Arjun from Bagdana village, some 250 km
+    from Ahmedabad, on March 24 in an elaborate ceremony in a bid to
+    highlight the revered status enjoyed by cows in Hindu-majority
+    India.
+    <http://www.sfgate.com/news/world/article/More-people-died-taking-selfies-in-India-than-10618368.php?ipid=articlerecirc>
+  * More died taking selfies in India than anywhere else
+    <http://www.sfgate.com/news/world/article/More-people-died-taking-selfies-in-India-than-10618368.php?ipid=articlerecirc>
+  * TripAdvisor: 22 most spectacular places in the world
+    <http://www.sfgate.com/life/travel/article/TripAdvisor-releases-its-picks-for-the-22-most-10610345.php?ipid=articlerecirc>
+
+
+    Today's Gate Features
+
+  * Hundreds of students march on Serra Street to the Main Quadrangle of
+    Stanford University in an anti-Trump protest Tuesday.
+    <http://www.sfgate.com/news/article/Hundreds-walk-out-of-Stanford-classes-demand-10617192.php?ipid=articlerecirc>
+
+
+            Stanford students walk out, demand ‘sanctuary campus’
+            <http://www.sfgate.com/news/article/Hundreds-walk-out-of-Stanford-classes-demand-10617192.php?ipid=articlerecirc>
+
+  * Winona Ryder would have been effective in “The Godfather: Part III.”
+    <http://www.sfgate.com/bayarea/article/Hometown-heroes-Famous-people-from-23-Bay-Area-10616950.php?ipid=articlerecirc>
+
+
+            What's her hometown?: Famous people from 23 Bay Area cities
+            <http://www.sfgate.com/bayarea/article/Hometown-heroes-Famous-people-from-23-Bay-Area-10616950.php?ipid=articlerecirc>
+
+  * FORT ROSS, CA - FEBRUARY 10: Heavy surf slams against the rocks
+    along the coastline near Salt Point State Park on February 10, 2016,
+    near Fort Ross, California. Much of Southern California has entered
+    a fifth year of drought, but the irrigation ponds and reservoirs in
+    Sonoma County Wine Country are filled once again and the grapevines
+    are expected to come alive this week due to recent warm weather.
+    (Photo by George Rose/Getty Images)
+    <http://www.sfgate.com/news/article/116-California-state-parks-will-be-free-to-visit-10618976.php?ipid=articlerecirc>
+
+
+            116 California state parks will be free to visit on Black
+            Friday
+            <http://www.sfgate.com/news/article/116-California-state-parks-will-be-free-to-visit-10618976.php?ipid=articlerecirc>
+
+
+      Trending Now
+
+12 movies worth seeing this holiday season, from Oscar bait to popcorn
+pleasers
+12 movies worth seeing this holiday season, from…
+(Entertainment)
+<http://www.sfgate.com/entertainment/movies/article/12-movies-worth-seeing-this-holiday-season-from-10608786.php>
+
+Watch Steph Curry and Dave Chappelle get freaked out by a David Blaine
+magic trick
+Watch Steph Curry and Dave Chappelle get freaked…
+(Entertainment)
+<http://www.sfgate.com/entertainment/article/Watch-Steph-Curry-and-Dave-Chappelle-freak-out-at-10618785.php>
+
+12 movies worth seeing this holiday season, from Oscar bait to popcorn
+pleasers
+12 movies worth seeing this holiday season, from…
+(Entertainment)
+Watch Steph Curry and Dave Chappelle get freaked out by a David Blaine
+magic trick
+Watch Steph Curry and Dave Chappelle get freaked…
+(Entertainment)
+<http://www.outbrain.com/what-is/default/en>
+
+
+      Sponsored Content
+
+How 2 Boston Grads Are Disrupting a $19 Billion Industry
+How 2 Boston Grads Are Disrupting a $19 Billion…
+EverQuote
+<http://article.everquote.com/?id=925&h1=startup&auuid=5186b4d3-55af-4eb9-8b89-ebf0313cc59e&tid=925&subid=58&is_dcpc=0&dt=dup&creativeid=69636287&utm_medium=40820&s1=How+2+Boston+Grads+Are+Disrupting+a+%2419+Billion+&promotedlink=00084f9cddd5f041f9910b7ccb32d28f02>
+
+Wall Street Poster Boy Makes Shocking Prediction
+Wall Street Poster Boy Makes Shocking Prediction
+The Sovereign Investor
+<http://thesovereigninvestor.com/exclusives/missing-wall-street-poster-boy-releases-shocking-video/?z=513569>
+
+It's Scary What This Site Knows About You - Enter Your Name
+It's Scary What This Site Knows About You - Enter…
+TruthFinder
+<http://tracking.truthfinder.com/?a=163&oc=27&c=303&dip=&s1=NovWLDesktop>
+The NR Experiment - She Is Over 50
+The NR Experiment - She Is Over 50
+Science Health News
+<http://livecellresearch.com/cmd.php?ad=815946>
+Do This Every Time You Turn On Your Computer…
+Do This Every Time You Turn On Your Computer…
+www.weblifeadvice.com
+<http://track.globaltechadvice.com/8c7d2dc1-07ab-4590-a7c3-aed08857a5f6?source=40820&ADID=33>
+
+How 2 Boston Grads Are Disrupting a $19 Billion Industry
+How 2 Boston Grads Are Disrupting a $19 Billion…
+EverQuote
+Wall Street Poster Boy Makes Shocking Prediction
+Wall Street Poster Boy Makes Shocking Prediction
+The Sovereign Investor
+It's Scary What This Site Knows About You - Enter Your Name
+It's Scary What This Site Knows About You - Enter…
+TruthFinder
+The NR Experiment - She Is Over 50
+The NR Experiment - She Is Over 50
+Science Health News
+Do This Every Time You Turn On Your Computer…
+Do This Every Time You Turn On Your Computer…
+www.weblifeadvice.com
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+
+    SFGATE'S BEST DEALS
+
+Sponsored
+
+  * <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/Amplify-your-daily-productivity-with-Pagico-8-10617167.php>
+
+
+            Amplify your daily productivity with Pagico 8 Task Manager
+            <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/Amplify-your-daily-productivity-with-Pagico-8-10617167.php>
+
+  * <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/This-magnetic-space-putty-is-the-ultmate-stress-10617168.php>
+
+
+            This magnetic space putty is the ultmate stress buster and
+            you...
+            <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/This-magnetic-space-putty-is-the-ultmate-stress-10617168.php>
+
+
+    Most Popular
+
+  * 1
+
+
+              San Jose residents report earthquake, but USGS says
+              there...
+              <http://www.sfgate.com/news/article/Mystery-shaking-in-San-Jose-10616715.php>
+
+
+  * 2
+
+
+              Hundreds walk out of Stanford classes, demand
+              ‘sanctuary...
+              <http://www.sfgate.com/news/article/Hundreds-walk-out-of-Stanford-classes-demand-10617192.php>
+
+
+  * 3
+
+
+              Woman wearing headscarf targeted for anti-Muslim hate in
+              Fremont
+              <http://www.sfgate.com/crime/article/Woman-wearing-headscarf-targeted-for-anti-Muslim-10619245.php>
+
+
+  * 4
+
+
+              Alexandria Vera, teacher impregnated by 13-year-old
+              student,...
+              <http://www.sfgate.com/news/houston-texas/article/Teacher-allegedly-impregnated-by-13-year-old-10618200.php>
+
+
+  * 5
+
+
+              Starvation killed 80,000 reindeer after unusual Arctic
+              rains...
+              <http://www.sfgate.com/news/science/article/Starvation-killed-80-000-reindeer-after-unusual-10618343.php>
+
+
+  * 6
+
+
+              Watch Steph Curry and Dave Chappelle get freaked out by
+              a...
+              <http://www.sfgate.com/entertainment/article/Watch-Steph-Curry-and-Dave-Chappelle-freak-out-at-10618785.php>
+
+
+  * 7
+
+
+              United Airlines flight from SFO makes emergency landing in
+              Utah
+              <http://www.sfgate.com/bayarea/article/United-Airlines-flight-from-SFO-makes-emergency-10618600.php>
+
+
+  * 8
+
+
+              It took only 36 hours for these students to solve
+              Facebook's...
+              <http://www.sfgate.com/technology/businessinsider/article/It-only-took-36-hours-for-these-students-to-solve-10614549.php>
+
+
+  * 9
+
+
+              Laid-off UCSF tech workers allege discrimination in suit
+              <http://www.sfgate.com/bayarea/article/Laid-off-UCSF-tech-workers-allege-discrimination-10619188.php>
+
+
+  * 10
+
+
+              SF tenants take landlady to trial over evictions
+              <http://www.sfgate.com/bayarea/article/S-F-tenants-take-landlady-to-trial-over-evictions-10616690.php>
+
+
+
+    Latest News
+
+  *
+
+
+              China bans 'fatty' Kim Jong Un nickname on websites
+              <http://www.sfgate.com/news/world/article/China-bans-fatty-Kim-Jong-Un-nickname-on-10617480.php>
+
+  *
+
+
+              Eric Trump heckled by teens in New York City
+              <http://www.sfgate.com/entertainment/the-wrap/article/Eric-Trump-Heckled-by-Teenagers-in-New-York-City-10619775.php>
+
+  *
+
+
+              Man, 20, shot near Dolores Park
+              <http://www.sfgate.com/news/article/Man-20-shot-near-Dolores-Park-10619654.php>
+
+  *
+
+
+              2 shot during brawl at Berkeley park
+              <http://www.sfgate.com/bayarea/article/Two-shot-during-brawl-at-Berkeley-s-Strawberry-10619624.php>
+
+  *
+
+
+              What shook the South Bay? Not a sonic boom
+              <http://www.sfgate.com/bayarea/article/Mysterious-San-Jose-earthquake-phantom-sonic-boom-10619512.php>
+
+  *
+
+
+              Megyn Kelly’s book trolled by Trump backers on Amazon
+              <http://www.sfgate.com/entertainment/the-wrap/article/Megyn-Kelly-s-New-Book-Gets-Trolled-by-Donald-10619580.php>
+
+  *
+
+
+              Manager: Leonard Cohen died in sleep after fall
+              <http://www.sfgate.com/news/article/Leonard-Cohen-died-in-sleep-after-fall-manager-10619365.php>
+
+  *
+
+
+              SF, LA police unions attack Gascón over AG speculation
+              <http://www.sfgate.com/crime/article/SF-police-union-attacks-Gasc-n-amid-speculation-10619438.php>
+
+View Comments
+
+<http://www.sfgate.com/crime/articleComments/Homeless-man-killed-in-stabbing-in-Santa-Rosa-8327078.php>
+
+© 2016 Hearst Communications, Inc.
+
+Logo Return to Top <#>
+
+
+      About
+
+  * Our Company <http://www.sfgate.com/aboutsfgate/>
+  * Careers <http://www.sfgate.com/chronicle/hr/>
+  * Advertising <http://marketing.sfgate.com/>
+  * Ad Choices <http://www.aboutads.info/choices/>
+  * Terms & Conditions <http://www.sfgate.com/termsandconditions/>
+  * Privacy Policy <http://www.sfgate.com/privacy-policy/>
+  * Your California Privacy Rights
+    <http://www.sfgate.com/privacy-policy/#caprivacyrights>
+
+
+      Contact
+
+  * Customer Service <http://www.sfgate.com/feedback/>
+  * Newsroom Contacts <http://www.sfgate.com/chronicle-contacts/>
+
+
+      Connect
+
+  * Sign up for Email Alerts <http://www.sfgate.com/profile/>
+  * Facebook <https://www.facebook.com/SFGate/>
+  * Twitter <https://twitter.com/sfgate/>
+  * Pinterest <http://www.pinterest.com/sfgate/>
+  * Google <https://plus.google.com/118071641239908367285/posts/>
+  * Instagram <https://instagram.com/sfgate/>
+
+
+      Subscribe
+
+  * SFChronicle.com <http://www.sfchronicle.com/>
+  * App <http://www.sfgate.com/app/>
+  * e-edition <http://www.sfgate.com/e-edition/>
+  * The Chronicle Archives <http://www.sfgate.com/archive>
+  * Subscription Offers <http://www.sfgate.com/subscribe/?ipid=sfg_foot>
+  * Member Services <http://www.sfgate.com/account>
+
+Hearst Newspapers © Copyright 2016 Hearst Communications, Inc.
+<http://www.sfgate.com/copyright-notice/>
+
+
+    The sign in service is not functioning right now.
+
+
+    Please try again in a few minutes
+
+If the issues continue, please contact our customer service at
+
+Phone:
+
+Email:
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password? <javascript:void(0)>
+Keep me signed in
+
+
+            Don't have a profile?
+
+
+Don't have a subscription?
+
+Sign up
+
+<javascript:void(0)> Subscribe <http://www.sfgate.com/subscribe/>
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>.
+
+
+          Create a profile using
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+Send me email offers
+
+Already have a profile? Sign In <javascript:void(0)>
+
+By clicking "Next" or signing in you confirm that you accept our Terms
+and Conditions <http://www.sfchronicle.com/terms_of_use/> and have read
+and understood our Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel <javascript:void(0)>
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+<javascript:void(0)>
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+
+<javascript:void(0)>
+
+
+          Hi,
+
+
+          You are signed in
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfgate.com/profile/>
+
+Maintain your delivery address, payment details and place a vacation
+hold in Subscriber Portal.
+
+MANAGE SUBSCRIPTION
+
+<http://www.sfgate.com/account/>
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfgate.com/profile/>
+SUBSCRIBE
+
+<http://www.sfgate.com/subscribe/>
+SIGN OUT
+
+<javascript:void(0)>
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot password?
+Keep me signed in
+
+By signing in, you agree to our
+Terms of Service <http://www.sfgate.com/termsandconditions/> and Privacy
+Policy <http://www.sfgate.com/privacy-policy/>
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign In
+
+Keep me signed in
+Show password Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Keep me signed in
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>
+
+
+          Paid Subscription Access Only
+
+You are now signed in but you must have a San Francisco Chronicle
+subscription to access any content.
+
+Already have a subscription?
+
+ACTIVATE
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfgate.com%2Fcrime%2Farticle%2FHomeless-man-killed-in-stabbing-in-Santa-Rosa-8327078.php>
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          About Me
+
+DISPLAY NAMEDisplay names must begin with an alpha-numeric character.
+They can not contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor
+may they contain obscenities.
+
+This display name is already in use. Please enter a different display name.
+
+You must enter a display name.
+
+Display names must begin with an alpha-numeric character. They can not
+contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor may they
+contain obscenities.
+
+EMAIL ADDRESSChanging this email address will also change the email
+address associated with your subscription
+
+You must enter an email address.
+
+GENDERThis optional field is required to enter contests and promotions
+
+BIRTH YEARThis optional field is required to enter contests and promotions
+
+* are required fields
+
+
+          SF Chronicle Subscription
+
+You can manage your delivery address, payment details, delete your
+account and more subscription details in the subscriber portal.
+
+Manage Subscription
+
+<http://www.sfgate.com/account/>
+
+
+            Get it on all your devices
+
+
+    Unlimited digital access with every subscription
+
+SFChronicle.com | App for iPhone and iPad
+e-edition (daily print replica) | Exclusive member experiences and discounts
+
+SUBSCRIBE NOW AND SAVE!
+
+<http://www.sfgate.com/subscribe/> I have a subscription
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfgate.com%2Fcrime%2Farticle%2FHomeless-man-killed-in-stabbing-in-Santa-Rosa-8327078.php>
+
+
+          Password
+
+EDIT
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+
+          Password
+
+CANCEL
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+CURRENT PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Current password is incorrect
+
+Current password field is required
+
+NEW PASSWORD Passwords must be at least 8 characters and contain both
+upper and lowercase letters and at least one number.
+
+New password field is required
+
+CONFIRM PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Confirm password field is required
+
+Show password
+
+
+    Welcome, !
+
+Your profile, subscription, linked accounts, and newsletter selections
+are not viewable by other readers on our sites. Your profile can only be
+seen by you. Any comments you post to articles on our sites can be seen
+by all readers and moderators.
+
+
+          Newsletter Preferences
+
+You are subscribed to the following:
+
+  * Top O’ the Bay
+
+    The latest stories from across the San Francisco Bay Area
+
+  * Notes & Errata
+
+    Mark Morford's irreverent and highly satiric weekly column
+
+  * Breaking News
+
+    Be notified when when big stories break or critical warnings are
+    issued for the Bay Area
+
+  * Sports
+
+    Coverage of all your Bay Area teams
+
+  * Inside Scoop
+
+    Insider knowledge for Bay Area foodies
+
+  * New Flicks
+
+    The latest movie reviews
+
+  * Business & Technology
+
+    The latest in business, finance, and tech news
+
+  * 5 Things To Do
+
+    Great events across the Bay Area selected just for you
+
+
+          San Francisco Chronicle Newsletters
+
+  * Chronicle Commuter
+
+    A curated selection of stories just in time for your afternoon commute
+
+  * Membership Updates
+
+    The latest from our membership benefits program (subscribers only)
+
+  * e-edition Reminder
+
+    Reminder of your daily e-edition, a replica of the print newspaper
+    (subscribers only)
+
+  * Subscription Reminders
+
+    Notices and reminders about your subscription (subscribers only)
+
+
+          Email Notifications and Offers
+
+  * Feature Updates
+
+    Special features, new site sections and more from The Chronicle and
+    SFGATE
+
+  * Promotions & Sales
+
+    Subscription offers from the San Francisco Chronicle and other
+    special promotions
+
+  * Surveys
+
+    Surveys about your Chronicle print edition, websites and other
+    digital products
+
+  * Advertiser Special Offers
+
+    Receive special offers sent by us on behalf of select advertisers
+    and partners
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in Forgot Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+You must be a subscriber to access this content.
+
+If you are a subscriber, Sign in!
+
+Stay signed in
+Forgot Your Password?
+
+
+          Sign In
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Back to Sign In
+
+Email address field is required.
+
+Email address is incorrect.
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+You must be a subscriber to access this content.
+
+
+          Link Profiles
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Keep me signed in
+Show password
+Forgot Your Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Forgot Your Password?
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Link Profiles
+
+Stay signed in
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Forgot Your Password?
+
+
+          SIGN IN
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot Your Password?
+Keep me signed in
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Sign In With Your Existing San Francisco Chronicle Account
+Sign In
+OR
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Keep me signed in
+Forgot Your Password?
+
+By signing in, you agree to our terms of use
+<http://www.sfgate.com/termsandconditions/>.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password?
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+Show password
+Forgot password?
+Keep me signed in
+Keep me signed in
+Show password
+Forgot password?
+
+Create an account
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>.
+
+
+          Create a sign-in for your subscription account
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+
+Have a profile on SFGate or San Francisco Chronicle already?
+
+Sign In
+
+Contact Customer Service at 800-310-2455 or email us at
+homedelivery@sfchronicle.com <mailto:homedelivery@sfchronicle.com>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+

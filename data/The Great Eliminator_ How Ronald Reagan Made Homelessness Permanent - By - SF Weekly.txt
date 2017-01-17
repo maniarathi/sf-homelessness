@@ -1,0 +1,808 @@
+  * //Search
+
+    <http://www.sfweekly.com/search/>
+  * Home
+
+    <http://www.sfweekly.com/>
+  * News
+
+    <http://www.sfweekly.com/news/>
+      o The Snitch
+
+        <http://www.sfweekly.com/snitch/>
+      o Chem Tales
+
+        <http://www.sfweekly.com/chemtales/>
+      o Sucka Free City
+
+        <http://www.sfweekly.com/suckafreecity/>
+  * Music
+
+    <http://www.sfweekly.com/category/music/>
+      o All Shook Down
+
+        <http://www.sfweekly.com/allshookdown/>
+      o Hear This
+
+        <http://www.sfweekly.com/hearthis/>
+      o Some Thoughts Of A Certain Sound
+
+        <http://www.sfweekly.com/somethoughtsofacertainsound/>
+  * Dining
+
+    <http://www.sfweekly.com/dining/>
+      o SFoodie
+
+        <http://www.sfweekly.com/sfoodie/>
+  * Calendar
+
+    <http://archives.sfweekly.com/sanfrancisco/EventSearch?narrowByDate=Today>
+
+      o Night&Day
+
+        <http://www.sfweekly.com/category/calendar/nightday/>
+  * Culture
+
+    <http://www.sfweekly.com/culture/>
+      o The Exhibitionist
+
+        <http://www.sfweekly.com/theexhibitionist/>
+      o Know Your Street Art
+
+        <http://www.sfweekly.com/knowyourstreetart/>
+      o The Whore Next Door
+
+        <http://www.sfweekly.com/thewhorenextdoor/>
+  * Slideshows
+
+    <http://www.sfweekly.com/category/slideshows/>
+  * Best of San Francisco
+
+    <http://www.sfweekly.com/category/best-of-san-francisco/>
+  * Email Newsletters
+
+    <http://www.sfweekly.com/newsletters/>
+  * Free Stuff
+
+    <http://www.sfweekly.com/category/freestuff/>
+  * Privacy Policy
+
+    <http://www.sfweekly.com/privacy-policy/>
+  * SF Weekly Terms of Use
+
+    <http://www.sfweekly.com/sf-weekly-terms-use/>
+  * Archives
+
+    <http://archives.sfweekly.com/>
+  * Search
+
+    <http://www.sfweekly.com/search/>
+
+  * //Menu
+
+    <#>
+      o //Search
+
+        <http://www.sfweekly.com/search/>
+      o Home
+
+        <http://www.sfweekly.com/>
+      o News
+
+        <http://www.sfweekly.com/news/>
+          + The Snitch
+
+            <http://www.sfweekly.com/snitch/>
+          + Chem Tales
+
+            <http://www.sfweekly.com/chemtales/>
+          + Sucka Free City
+
+            <http://www.sfweekly.com/suckafreecity/>
+      o Music
+
+        <http://www.sfweekly.com/category/music/>
+          + All Shook Down
+
+            <http://www.sfweekly.com/allshookdown/>
+          + Hear This
+
+            <http://www.sfweekly.com/hearthis/>
+          + Some Thoughts Of A Certain Sound
+
+            <http://www.sfweekly.com/somethoughtsofacertainsound/>
+      o Dining
+
+        <http://www.sfweekly.com/dining/>
+          + SFoodie
+
+            <http://www.sfweekly.com/sfoodie/>
+      o Calendar
+
+        <http://archives.sfweekly.com/sanfrancisco/EventSearch?narrowByDate=Today>
+
+          + Night&Day
+
+            <http://www.sfweekly.com/category/calendar/nightday/>
+      o Culture
+
+        <http://www.sfweekly.com/culture/>
+          + The Exhibitionist
+
+            <http://www.sfweekly.com/theexhibitionist/>
+          + Know Your Street Art
+
+            <http://www.sfweekly.com/knowyourstreetart/>
+          + The Whore Next Door
+
+            <http://www.sfweekly.com/thewhorenextdoor/>
+      o Slideshows
+
+        <http://www.sfweekly.com/category/slideshows/>
+      o Best of San Francisco
+
+        <http://www.sfweekly.com/category/best-of-san-francisco/>
+      o Email Newsletters
+
+        <http://www.sfweekly.com/newsletters/>
+      o Free Stuff
+
+        <http://www.sfweekly.com/category/freestuff/>
+      o Privacy Policy
+
+        <http://www.sfweekly.com/privacy-policy/>
+      o SF Weekly Terms of Use
+
+        <http://www.sfweekly.com/sf-weekly-terms-use/>
+      o Archives
+
+        <http://archives.sfweekly.com/>
+      o Search
+
+        <http://www.sfweekly.com/search/>
+
+<http://www.sfweekly.com/>
+
+  *
+
+    <https://www.facebook.com/sfweekly/>
+  *
+
+    <https://twitter.com/sfweekly/>
+  *
+
+    <https://www.instagram.com/sfweekly/>
+
+<http://www.sfweekly.com/>
+
+  * SF Weekly
+
+    <http://www.sfweekly.com/>
+
+
+  The Great Eliminator: How Ronald Reagan Made Homelessness Permanent
+
+  * By Chris Roberts
+  * Wed Jun 29th, 2016 6:00pm
+  * Feature <http://www.sfweekly.com/feature/>News
+    <http://www.sfweekly.com/news/>
+
+  *
+
+    <http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F>
+  *
+
+    <http://twitter.com/home?status=The+Great+Eliminator%3A+How+Ronald+Reagan+Made+Homelessness+Permanent+-+http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F>
+  *
+
+    <http://reddit.com/submit?url=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F&title=The+Great+Eliminator%3A+How+Ronald+Reagan+Made+Homelessness+Permanent>
+  *
+
+    <mailto:?subject=The%20Great%20Eliminator%3A%20How%20Ronald%20Reagan%20Made%20Homelessness%20Permanent&ampsubject=The%20Great%20Eliminator%3A%20How%20Ronald%20Reagan%20Made%20Homelessness%20Permanent&body=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F>
+  *
+
+    <javascript:window.print();>
+  *
+
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/comments/>
+  *
+
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/#gallery>
+
+Ronald Reagan used a recession as an excuse to cut spending on social
+services –– like the safety net that existed since the Great
+Depression.Ronald Reagan used a recession as an excuse to cut spending
+on social services –– like the safety net that existed since the Great
+Depression.
+
+*At Christmastime 1982*, fed-up religious leaders called a press conference.
+
+The Rev. Paul Moore, New York City's Episcopal bishop, was furious.
+Standing next to Methodist and Catholic bishops, a rabbi and a Muslim,
+Moore laid into the source of his ire: President Ronald Reagan.
+
+At the time, there were 36,000 homeless people on New York's streets, a
+scene repeated in cities across the country, including San Francisco.
+But this new wave of needy was different. Instead of the single men with
+drinking problems who'd populated the hotels and alleys of South of
+Market after World War II, there were factory and office workers who had
+lost their jobs in the recent global recession slumped in doorways next
+to Vietnam War veterans. There were women, children, families.
+
+During a speech at the Waldorf-Astoria Hotel in 1981, his first year in
+office, the new president — who would use the recession as an excuse to
+cut taxes and slash government spending to spark growth, the infamous
+“Reaganomics” — presented a solution to homelessness, an issue seen at
+the time as a temporary problem that would soon cycle itself away, just
+as it had several times before.
+
+In classic small-government fashion, Reagan's fix did not involve
+government. If only “every church and synagogue would take in 10 welfare
+families” each, the president said, the problem could be weathered until
+it passed. It was a truly conservative approach, reminiscent of how
+homelessness was addressed in the 19th century.
+
+And it was “absolute balderdash,” said the Rev. Moore, according to a
+Dec. 25, 1982 United Press International wire story picked up by the
+/San Francisco Chronicle/. The responsibility for dealing with
+homelessness wasn't the church's — it was the state's, the bishop said,
+just as it had been since the Great Depression.
+
+“Housing the homeless and feeding the hungry is the responsibility of
+the public sector,” he said. “They should have a permanent policy
+whereby homeless persons would have a place to live.”
+
+People like then-New York City Mayor Ed Koch needed to stand up to
+people like Reagan and demand more help. After all, cities received the
+bulk of the money used for social programs like housing and welfare from
+the federal government.
+
+“Don't shirk your responsibility,” said Moore, addressing both the
+president and mayor.
+
+*Faced with a glut of poor people* huddled on the streets with nowhere
+to live and nowhere to go — many of them war veterans, others unemployed
+workers struggling to adapt to a changing labor market that no longer
+needed their skills — city leaders in Chicago decided to take action.
+
+They would keep a “large building heated through the night to house the
+homeless poor,” according to headlines printed in newspapers across the
+country, including the /San Francisco Chronicle/, whose readers were
+also living in one of the great waves of homelessness in American history.
+
+That was in 1869.
+
+To better understand why people are experiencing homelessness today and
+why solutions have been so hard to come by, it's worthwhile to look at
+what put them there — and why other periods of homelessness in America
+eventually ended.
+
+Tramps, vagabonds, hobos: whatever you call them, people without stable
+living situations have appeared in waves several times in American history.
+
+During the Revolutionary War, it was itinerant workers, the “wandering
+poor” of an agricultural society reliant on worker mobility. Before the
+Civil War, it was unemployed mill workers, dockworkers, and miners,
+displaced by business cycles or changes in society caused by the
+introduction of a rail line or telegraph station.
+
+After the Civil War, when a credit-fueled railroad boom went bust,
+breaking banks and killing jobs — the “Panic of 1873,” capitalism's
+first major worldwide economic downturn, known as the “Great Depression”
+until the bigger Great Depression in the 1930s — it was freed slaves and
+veterans, whose wartime habits of foraging (or sometimes pillaging) the
+countryside for food and provisions introduced the words “tramp” and
+“bum” to the lexicon.
+
+During the Great Depression, with unemployment at 25 percent and large
+swaths of agricultural land turned to literal dust by a combination of
+drought and over-farming, as many as 5 percent of Americans were homeless.
+
+Almost always, it was temporary. As soon as the economy recovered,
+homeless people recovered, too. They went back inside and resumed normal
+lives. In the meantime, there was a safety net.
+
+For colonial Americans living under English tradition, the community or
+local parish was responsible for poor residents. In the 19th century,
+religious and other charitable organizations offered almshouses where
+lodging and food were available in return for work. During the Great
+Depression, with one-quarter of cities offering no homeless services,
+responsibility shifted to the federal government, which provided job
+training, education, food, and housing.
+
+Thirty-six years after the Rev. Moore called out President Reagan at
+Christmastime in 1982, there are now more than 60,000 homeless people in
+New York City.
+
+That's more per capita than any other city in America except San
+Francisco, according to the U.S. Department of Housing and Urban
+Development.
+
+By the time Reagan took office, HUD was the main federal agency that
+offered housing and other programs aimed at helping poor and
+working-class people.
+
+And beginning under Reagan but continuing with the next three
+presidents, HUD would see its funding reduced. By the time George W.
+Bush took office, it had been slashed almost 60 percent.
+
+Reagan — who famously could not recognize Samuel Pierce, his own HUD
+secretary, and failed to recognize and halt a scandal in which HUD money
+was funneled to Republican consultants rather than building and
+repairing low-income-housing — didn't shirk his responsibility.
+
+Ads by ZINC
+3
+
+He abdicated it, a wholesale abandonment that signaled the near-end of
+the federal government's role in managing homelessness and housing
+policies, a legacy carried on by every American president since.
+
+“Homelessness has been a persistent and enduring feature in American
+history,” wrote retired HUD researcher Walter Leginski in 2007. “While
+there have been temporary lulls, from colonial times forward there has
+been no period of American history free of homelessness.”
+
+[page]
+
+But unlike in other eras, “the contemporary wave of homelessness has not
+subsided during good economic times.”
+
+In San Francisco, unemployment stands at a near-record low of 3.1
+percent, yet there are officially more than 3,505 people living on the
+street — more than at any other time over the past 10 years, including
+during the height of the Great Recession. (Prior to the subprime crisis,
+when 20 percent of properties in foreclosure were rental properties,
+more than 1 million of the country's 2.5 million to 3.5 million homeless
+were employed.
+
+(There are almost certainly many more. Homeless counts are notoriously
+inaccurate. The city's “official” count of 7,539 homeless people in
+2015, for example, counted only 853 youths at a time when San Francisco
+public schools reported over 2,300 homeless children in school. This is
+because the federal definition of homeless does not include people
+living in hotel rooms or doubling up with friends or family. Nationally,
+in 2015, homeless counts found 222,197 homeless households with at least
+one child, while the Department of Education reported 1.2 million
+homeless children in schools. )
+
+The divestment that began under Reagan can help explain why what was
+once a cyclical phenomenon, in tune with the boom-and-bust of the
+nation's economy, is now a permanent urban fixture — which, in the years
+since the subprime meltdown turned swaths of suburbia into ghost towns,
+has spread out of cities.
+
+Under Reagan, federal spending on subsidized housing — including
+state-owned public housing, in which the poor and working class can live
+for a set percentage of what income they have; and housing vouchers, in
+which the government helps close the gap between the cost of housing and
+a person's ability to pay — dropped from $26 billion to $8 billion,
+barely enough to maintain the government's existing stock of public units.
+
+As much a champion of conservatives as he is nemesis and near-Antichrist
+for liberals, Reagan's influence is seen in every tent encampment in San
+Francisco.
+
+“Every park bench in America — everywhere a homeless person sleeps —
+should have Ronald Reagan's name on it,” says Peter Dreier, an urban
+policy analyst and the director of the Urban and Environmental Policy
+Department at Occidental College in Los Angeles.
+
+But Reagan is not solely to blame. Other American presidents are at
+fault — in fact, everyone who has come since.
+
+As with reducing greenhouse gas emissions, other nations around the
+world have signed onto international treaties that declare housing a
+basic human right.
+
+And as with widely agreed upon commitments to cut pollution like the
+Kyoto Protocol, the United States has never ratified the international
+treaties guaranteeing its citizens a right to housing, which is still in
+most places in America a barely regulated commodity. It's also in short
+supply, making low-income residents' hold on it even more tenuous.
+
+*Bevan Dufty was San Francisco* Mayor Ed Lee's first homeless czar, a
+post he held from January 2012 until late last year. At first, most of
+the homeless people Dufty met were the “chronically homeless” — the kind
+of people who had been on the streets for years.
+
+Toward the end, “you saw everything,” he said. “I met people who had
+lost their apartment within the last two to three months.”
+
+The one factor in common, however, was a traumatic event: a bad illness,
+a relationship ending, loss of a job, an eviction, or being the victim
+of a violent crime (domestic violence survivors, for example, suffer
+higher rates of homelessness).
+
+“Something happened, and there wasn't a safety net,” Dufty said.
+
+Beginning in the Great Depression, Americans looked to the federal
+government for that safety net. And for most of the 20th century,
+federal assistance wasn't only for poor people; it created wealth and
+gave a foundation for a middle class.
+
+After World War II, eight out of 10 American men were eligible for
+no-money-down home loans from the Federal Housing Administration under
+the G.I. Bill.
+
+Forty percent of all mortgages issued in 1946 and 1947 went to veterans.
+There was clear racial discrimination — white veterans received more
+housing mortgages than black veterans, who were subjected to racially
+motivated tactics such as redlining. But if the lasting legacy for
+veterans of the War on Terror is PTSD, for their grandfathers coming
+home victorious from Europe and the Pacific, it was a house.
+
+Those unable to purchase their own home could still rely on the
+government to help house them. Construction of public housing boomed in
+America following World War II, and was used by working-class
+individuals and families on their way to the middle class. (Mayor Lee
+lived in public housing in Seattle; as one of six children raised by a
+single mother, it's not inconceivable for someone in that situation
+today to end up homeless.)
+
+Never perfect, public housing has been all but orphaned by the
+government. Today, there are about 1.2 million units of public housing
+in the United States, far less than the U.K. and France, where the state
+owns 11 percent and 16 percent of the total housing stock, respectively.
+
+In 1976, the year Reagan first ran for president, the outgoing
+administration of President Gerald Ford asked Congress to fund 506,000
+new low-income housing units, including 400,000 rent vouchers to pay for
+privately owned housing in the Section 8 program. That was the
+high-water mark for federal assistance. Under Reagan, funding for new
+subsidies dipped below 100,000 units per year.
+
+By the time President Bill Clinton signed the Welfare Reform Act in
+1996, fewer than 9,000 units were funded. Federal funding has since
+recovered, but the timing of the cuts coming during the current homeless
+crisis's beginnings could not have been worse.
+
+“If we had provided 500,000 additional low-income units every year since
+1976, we would now have about 14 million families living in federally
+assisted low-income housing,” the National Low Income Housing Coalition
+wrote in 2002. “But we moved in the opposite direction, and so now there
+are still more very-low-income renter households with 'worst case'
+housing needs than there are families living in federally subsidized,
+low-income housing.”
+
+[page]
+
+This is strongly felt in San Francisco, where local government has
+adapted to the Reagan-inspired federal exit from housing by handing over
+operation of public housing to nonprofit housing providers. (In the past
+few years, nonprofits like John Stewart Company, which manages the
+former military housing in the Presidio, has taken over management of
+once-notorious housing projects like the rebuilt Hunters View; other
+dilapidated public housing projects, like Sunnydale in Visitacion
+Valley, are still waiting for private investors to fund a rebuild before
+nonprofits take over.)
+
+The demand is clearly here — and it will never be met. In early 2015,
+homeless families were given the opportunity to sign up for the chance
+at a public housing unit, the first time in six years the wait list for
+public housing in San Francisco was opened up. More than 10,000 families
+signed up for a chance at one of fewer than 200 units.
+
+The wait list for a Section 8 voucher, which a low-income tenant can use
+to cover the growing difference between his or her means and market rate
+rents, is even longer.
+
+“We had 9,000 Section 8 vouchers,” Dufty says. “That's the same number
+we had 15 to 20 years ago. There's been no expansion of it.”
+
+With the federal government's safety net disappearing, local governments
+are tasked with filling in the gaps with far fewer resources — and not
+just for housing. With Reagan-admiring Republicans in Congress, federal
+money for other infrastructure like transportation has vanished, forcing
+vital regional resources like BART to turn to local voters to ask for
+tax increases to fund routine maintenance.
+
+To his credit, Mayor Lee announced a plan to build or fix up 10,000
+affordable housing units by 2020. That's something. But more than half
+of those are the old public housing units virtually abandoned by the
+federal government — nearly all of which already have tenants.
+
+*During his State of the Union* address in 1944, President Franklin D.
+Roosevelt announced a “Second Bill of Rights,” which included the “right
+of every American to a decent home.”
+
+Roosevelt died in office the following year, but in the post-World War
+II era of unity that saw the formation of the United Nations, his widow,
+Eleanor Roosevelt, saw housing included as a basic human right alongside
+food, clothing, and medical care in the Universal Declaration of Human
+Rights.
+
+America's recognition of that right appears to have died along with FDR
+— a true example of American exceptionalism in a world that has
+repeatedly affirmed housing as a basic right alongside food and medical
+care.
+
+A later UN declaration in 1966, the International Covenant on Economic,
+Social and Cultural Rights, codified this. The UN's member nations —
+including the U.S., a permanent member of the UN Security Council and
+the UN's host nation — signed an agreement that “recognize[d] the right
+of everyone to an adequate standard of living for himself and his
+family,” including housing. Though the U.S. signed the treaty, the
+Senate never ratified it, making America one of only two UN member
+states to fail to ratify, along with Thailand.
+
+The U.S. has either failed to sign or failed to ratify at least six
+other international treaties in which housing was declared a human right.
+
+Other nations have taken notice and tried to get our attention. In 2006,
+the government's response to the housing disaster in New Orleans
+following Hurricane Katrina elicited comparisons to apartheid South Africa.
+
+When given the opportunity in 2009, Shaun Donovan, President Barack
+Obama's former HUD secretary, shied away from declaring housing a human
+right.
+
+In 2010, the UN Human Rights Council subjected the U.S. government to a
+first-ever review. UN envoys heard testimony across the country, and
+housing was the “No. 1 human rights issue” mentioned, according to the
+State Department.
+
+Despite the testimony and the obvious gap between housing stock and
+population in the country, the U.S.'s official report to the Human
+Rights Council “carefully sidestep[ped] naming housing and other
+economic and social rights as rights,” the National Law Center on
+Housing and Poverty found. Roosevelt's speech was cited, but the housing
+element was ignored.
+
+That same year, Obama released the first-ever federal “Strategic Plan to
+End Homelessness” — which contained no action plan and no funding. The
+safety net was gone, and with a modest tweak to health care barely
+surviving a Republican-controlled Congress, it is never coming back.
+
+*Reagan's reputation as the Great Communicator* extended beyond his
+telegenic speeches and movie star good looks. His team was responsible
+for the “Morning in America” political ad campaign, possibly the most
+famous re-election spots in the country's history.
+
+The commercials depicted an idealized America full of flag-raising
+workers with nothing but opportunity in front of them. The first scene
+in the commercial is of a fishing boat bobbing in San Francisco Bay at dawn.
+
+In reality at the time, then-Mayor Dianne Feinstein was a harsh critic
+of Reagan. She laid the blame for the Bay Area's growing homeless
+population — 20,000 people across five counties at that time — squarely
+at his feet.
+
+“When it started, it was looked at as an emergency phenomena, something
+that was going to pass … a phenomenon of high unemployment and families
+that weren't able to maintain a house and a car payment,” Feinstein told
+the /Chronicle/ in 1987. “It's emerged into a whole subculture. A
+potpourri of many different things. Everything from frail elderly to
+drug abusers to alcoholics to women with children to single men to AIDS
+victims to the mentally ill … and that's a direct result of Ronald
+Reagan's policies.”
+
+If the federal government had responded to the most-recent homeless
+crisis with more housing or more funding rather than less, San Francisco
+might look more like Utah. That state cut its population of “chronically
+homeless” — someone without a home for lengthy periods of time — by more
+than half simply by giving them housing.
+
+[page]
+
+Instead, Reagan took it away — and then engaged in character assassination.
+
+In early 1984, the year he was re-elected in a landslide, Reagan
+appeared on /Good Morning America/ to defend his record. The “people who
+are sleeping on the grates … the homeless … are homeless, you might say,
+by choice,” Reagan said. They — not him — were to blame for their own
+situation.
+
+This was Reagan's other lasting legacy. While continuing his budget
+policies, other politicians also followed his formula of blaming and
+demonizing the homeless for their situation, even in San Francisco.
+
+In 1991, when Mayor Art Agnos was unseated by former police Chief Frank
+Jordan, Agnos' “main criticism … is that he has been too kind to the
+homeless, not forcing them from parks as other cities have done and
+urging restraint on the police department,” /The/ /New York Times/
+reported that year.
+
+Jordan was elected, and police started cracking down on the homeless,
+driving them from the temporary encampment Agnos allowed in front of
+City Hall. Other quality-of-life laws targeting homeless behavior
+followed. In 2010, midway through Mayor Gavin Newsom's vaunted 10-year
+plan to end chronic homelessness, voters approved a new law outlawing
+lying or sitting on sidewalks.
+
+San Francisco police now spend $18.5 million a year responding to over
+50,000 911 calls and other demands for service from the public directly
+related to homelessness. This fall, local politicians — including
+Supervisor Mark Farrell, a 2019 mayoral hopeful, and state Senate
+hopeful Supervisor Scott Wiener — will ask voters to approve a law
+giving police the ability to clear a tent encampment within 24 hours.
+
+Reagan, were he alive, would surely approve. He would definitely
+recognize the landscape. It's just as he left it.
+
+
+
+ 
+
+  *
+
+    <http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F>
+  *
+
+    <http://twitter.com/home?status=The+Great+Eliminator%3A+How+Ronald+Reagan+Made+Homelessness+Permanent+-+http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F>
+  *
+
+    <http://reddit.com/submit?url=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F&title=The+Great+Eliminator%3A+How+Ronald+Reagan+Made+Homelessness+Permanent>
+  *
+
+    <mailto:?subject=The%20Great%20Eliminator%3A%20How%20Ronald%20Reagan%20Made%20Homelessness%20Permanent&ampsubject=The%20Great%20Eliminator%3A%20How%20Ronald%20Reagan%20Made%20Homelessness%20Permanent&body=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fthe-great-eliminator-how-ronald-reagan-made-homelessness-permanent%2F>
+  *
+
+    <javascript:window.print();>
+  *
+
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/comments/>
+  *
+
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/#gallery>
+
+Our Content Recommended For You
+<http://www.sfexaminer.com/among-major-cities-sf-highest-percentage-unsheltered-homeless-youth/>
+Among major cities, SF has highest percentage of unsheltered homeless
+youth
+<http://www.sfexaminer.com/among-major-cities-sf-highest-percentage-unsheltered-homeless-youth/>
+Dec 7, 2016
+<http://www.sfweekly.com/news/amplified-feels/how-i-became-a-trimmigrant/>
+How I Became a Trimmigrant
+<http://www.sfweekly.com/news/amplified-feels/how-i-became-a-trimmigrant/>
+Nov 30, 2016
+<http://www.sfexaminer.com/school-arts-community-seeks-healing-ghost-ship-fire-claims-two/>
+School of the Arts community seeks healing after ‘Ghost Ship’ fire
+claims two of its own
+<http://www.sfexaminer.com/school-arts-community-seeks-healing-ghost-ship-fire-claims-two/>
+Dec 7, 2016
+<http://www.sfexaminer.com/hacked-appears-muni-stations-fare-payment-system-crashes/>
+‘You Hacked’ appears at Muni stations as fare payment system crashes
+<http://www.sfexaminer.com/hacked-appears-muni-stations-fare-payment-system-crashes/>
+Nov 28, 2016
+<http://www.sfexaminer.com/sf-nonprofit-hopes-house-800-homeless-families-2018/>
+SF nonprofit hopes to house 800 homeless families by 2018
+<http://www.sfexaminer.com/sf-nonprofit-hopes-house-800-homeless-families-2018/>
+Dec 7, 2016
+<http://www.sfexaminer.com/student-segregation-issue-reappears-sf-school-board/>
+Student segregation issue reappears at SF school board
+<http://www.sfexaminer.com/student-segregation-issue-reappears-sf-school-board/>
+Nov 30, 2016
+View Comments //
+
+<http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/comments/>
+
+
+
+      Most Read
+
+  *
+    (SHN SF)
+    <http://www.sfweekly.com/news/s-f-gets-see-hamilton-l-tickets-sale-soon/>
+
+
+
+            S.F. Gets to See ‘Hamilton’ Before L.A. Does! (Tickets on
+            Sale Soon)
+            <http://www.sfweekly.com/news/s-f-gets-see-hamilton-l-tickets-sale-soon/>
+
+    San Francisco’s wait for the revolutionary, Tony-winning musical
+    Hamilton is finally over.…
+
+        Wed Jun 29th, 2016 6:00pm By Chris Roberts	
+    Ronald Reagan used a recession as an excuse to cut spending on
+    social services –– like the safety net that existed since the Great
+    Depression.
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/>
+
+  *
+    (Photo courtesy Hamilton)
+    <http://www.sfweekly.com/culture/90000-queue-online-hamilton-tickets/>
+
+
+            More than 90,000 queue up online for Hamilton tickets
+            <http://www.sfweekly.com/culture/90000-queue-online-hamilton-tickets/>
+
+    UPDATE, 2:30 p.m.: SHN reported at 1:45 p.m. Monday that presale
+    tickets were sold…
+
+        Wed Jun 29th, 2016 6:00pm By Chris Roberts	
+    Ronald Reagan used a recession as an excuse to cut spending on
+    social services –– like the safety net that existed since the Great
+    Depression.
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/>
+
+  *
+    (Courtesy of Shutterstock)
+    <http://www.sfweekly.com/news/snitch/mayor-butt-makes-ass-city-richmond/>
+
+
+
+            Mayor Butt Makes an Ass of the City of Richmond
+            <http://www.sfweekly.com/news/snitch/mayor-butt-makes-ass-city-richmond/>
+
+    Richmond Mayor Tom Butt made a faux pas recently, after sending a…
+
+        Wed Jun 29th, 2016 6:00pm By Chris Roberts	
+    Ronald Reagan used a recession as an excuse to cut spending on
+    social services –– like the safety net that existed since the Great
+    Depression.
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/>
+
+  *
+    salesforce1
+    <http://www.sfweekly.com/culture/awesome-alert-salesforce-tower-construction-aerial-images/>
+
+
+
+            Awesome Alert: Salesforce Tower Construction in Aerial
+            Images
+            <http://www.sfweekly.com/culture/awesome-alert-salesforce-tower-construction-aerial-images/>
+
+    (Photo: Salesforce Tower Facebook) The Salesforce Tower isn’t set to
+    be completed…
+
+        Wed Jun 29th, 2016 6:00pm By Chris Roberts	
+    Ronald Reagan used a recession as an excuse to cut spending on
+    social services –– like the safety net that existed since the Great
+    Depression.
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/>
+
+  *
+    A ramaria in Mendocino. (Mycology Society of San Francisco)
+    <http://www.sfweekly.com/dining/fungus-fair-sunday/>
+
+
+            The Fungus Fair Is This Sunday
+            <http://www.sfweekly.com/dining/fungus-fair-sunday/>
+
+    Mycologists, fungi-philes, and asexually reproducing spore-people,
+    take note! This Sunday, Dec. 4,…
+
+        Wed Jun 29th, 2016 6:00pm By Chris Roberts	
+    Ronald Reagan used a recession as an excuse to cut spending on
+    social services –– like the safety net that existed since the Great
+    Depression.
+    <http://www.sfweekly.com/news/the-great-eliminator-how-ronald-reagan-made-homelessness-permanent/>
+
+
+<http://www.sfweekly.com/>
+
+  *
+
+    <https://www.facebook.com/SFWeekly/>
+  *
+
+    <https://twitter.com/sfweekly/>
+  *
+
+    <https://www.instagram.com/sfweekly/>
+
+© 2016, SF Weekly <http://www.sfweekly.com/> and SFMC
+<http://sfmediaco.com/>
+
+  * Subscribe to Our Email Newsletters
+    <http://www.sfweekly.com/newsletters/>
+  * SF Weekly Terms of Use <http://www.sfweekly.com/sf-weekly-terms-use/>
+  * Privacy Policy <http://www.sfweekly.com/privacy-policy/>
+  * Archives <http://archives.sfweekly.com/>
+
+Post to Facebook
+Post to Twitter
+Post to Reddit
+Email story
+Print story
+Jump to comments
+View 1 additional image
+Post to Facebook
+Post to Twitter
+Post to Reddit
+Email story
+Print story
+Jump to comments
+View 1 additional image

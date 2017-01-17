@@ -1,0 +1,460 @@
+KQED Menu
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <https://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <https://ww2.kqed.org/perspectives/>
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <https://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <https://ww2.kqed.org/perspectives/>
+  * Schedules
+
+    <#>
+      o Daily Schedule
+
+        <http://www.kqed.org/radio/schedules/daily>
+      o Weekly Schedule
+
+        <http://www.kqed.org/radio/schedules/weekly.jsp>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  Forum <https://ww2.kqed.org/forum/>
+
+Search
+
+<#search-container>
+
+
+  Forum Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+Search for:
+
+Forum <https://ww2.kqed.org/forum>
+
+
+  In My Experience: Homeless in the Bay Area
+
+Audio Player
+http://www.podtrac.com/pts/redirect.mp3/www.kqed.org/.stream/mp3splice/radio/forum/2016/06/Forum20160629B.mp3
+
+00:00
+00:00
+00:00
+Use Up/Down Arrow keys to increase or decrease volume.
+
+<javascript:void(0);>
+Host: Michael Krasny <https://ww2.kqed.org/forum/author/mkrasny/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=email&nb=1>
+*
+
+A homeless encampment in San Francisco's Mission District.	
+
+Over 6,600 people are homeless in San Francisco, according to a 2015
+count by the city. That includes not just people living on the streets,
+but those residing in shelters, cars, and other temporary locations. As
+part of Forum’s “In My Experience” series, and as part of the SF
+Homeless Project media collaboration, homeless Bay Area residents take
+us inside their day-to-day lives and share some of the personal stories
+behind the statistics.
+
+Left to right: Jackie Juarez, Pastor Elaine Amos, Harmonie Taylor, and
+Mark
+<http://ww2.kqed.org/forum/wp-content/uploads/sites/43/2016/06/use-group.jpg>
+Left to right: Jackie Juarez, Pastor Elaine Amos, Harmonie Taylor, and
+Mark (Amanda Stupi/KQED)
+
+
+      Interview Highlights
+
+*On Moving Somewhere More Affordable*
+
+“We tried to get out of San Francisco. I would love to get out of San
+Francisco. But outside of San Francisco, the places are starting to get
+expensive too. Because they know people are trying to leave San
+Francisco to find affordable housing, so for them to make money they’re
+raising their prices.” — Pastor Elaine Amos
+
+*On the Stress of Being Homeless*
+
+“Are we going to wake up in the morning? Are we going to get shot
+through our tent for being homeless? Are we going to wake up in the
+morning and have to move our stuff? It’s very, very stressful every
+single day, every minute being out there.” — Jackie Juarez
+
+“I cry every night. It stresses me. I deal with a lot of pregnant girls
+and I cry to see them out there and to see people getting killed, the
+homeless dying. I talk with them constantly and it’s overwhelming. I cry
+myself to sleep wishing there was just something that would fall out of
+the sky where I could just help everyone.” — Pastor Elaine Amos
+
+*On What Services Should be Provided*
+
+“Psychological services and the opportunity to be able to make money,
+and if they could somehow lend money to get a deposit down on an
+apartment.” — Mark
+
+“They definitely need more transitional housing, for youth, coming
+basically out of the system or foster care or whatever the situation is.
+They hit 18 and basically the only option they have is homelessness.” —
+Harmonie Taylor
+
+“When they come out and try to get you to move, have a solution, a place
+for you to go.” — Jackie Juarez
+
+*On Police and City Officials*
+
+“Being homeless with the police was horrible, it was very, very
+horrible. I would have nightmares worrying about the police, about
+taking my things. They would come hit on your tent.” — Pastor Elaine Amos
+
+“It was DPW. Them and the San Francisco Police Department had taken
+everything we own… from our medications to our clothes to our cooking,
+our food. Everything. We were left with nothing. … An officer the next
+morning, after they came and realized we had slept on the street, with
+no covers, no blanket, nothing, an officer did give us $20 and told us
+to get something to eat.” — Jackie Juarez
+
+Harmonie Taylor
+<http://ww2.kqed.org/forum/wp-content/uploads/sites/43/2016/06/IMG_0563.jpg>
+Harmonie Taylor (Amanda Stupi/KQED)
+
+*On Talking to Kids About Homelessness:*
+
+“Yesterday, there were five little boys and they were staring at us and
+their mom told them, ‘Don’t look at them, they’re homeless; don’t talk
+to them.’ And I spoke up and told them, ‘Yes, I am homeless, but we will
+not hurt you.’ And the little boy started talking to me, asking me how I
+ate and how I did it, and I started showing them my stove, little things
+that I do.” — Jackie Juarez
+
+“Let them know we’re people too. We have children too.” — Pastor Elaine Amos
+
+*On What People Should Know About Homelessness*
+
+“You don’t have to look a certain way or be a certain age or be on drugs
+to be homeless. Homelessness can happen to anyone.” — Harmonie Taylor
+
+“They need to come out and see what’s really going on, instead of
+sitting in their big glass houses and labeling us all as drug addicts.
+Come out there and spend time with us, really talk to us, see what’s
+going on, see the kind of hardship we’re having. Stop trying to put us
+down, because you never know. You can have all this one day and anything
+can happen where you can lose it all. It will be gone and you will be
+right down there with us and we will be the people who are going to help
+you.” — Pastor Elaine Amos
+
+*Related Coverage*
+
+  * SF Homeless Project
+    <http://ww2.kqed.org/news/series/sf-homeless-project>
+  * San Francisco Creates New Department to Address Homelessness
+    <http://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/>
+  * Forum on the Road: San Rafael’s Homeless Plan Stirs Debate
+    <http://ww2.kqed.org/forum/2016/06/21/forum-on-the-road-san-rafael-s-homeless-plan-stirs-debate/> (Forum
+    archives)
+
+Guests:
+Mark, has been homeless for about a year; currently lives in his car
+Jackie Juarez, homeless; currently lives in a tent
+Pastor Elaine Amos, homeless; currently lives in the San Francisco's
+Navigation Center
+Harmonie Taylor, homeless student; currently sleeps on friends' and
+acquaintances' couches
+
+Explore: Forum <https://ww2.kqed.org/forum/category/forum/>,
+homelessness <https://ww2.kqed.org/forum/tag/homelessness/>, housing
+<https://ww2.kqed.org/forum/tag/housing/>, In My Experience
+<https://ww2.kqed.org/forum/tag/in-my-experience/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/?share=email&nb=1>
+  *
+
+8 Comments
+<https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Artist Zio Ziegler on Murals, Sculptures and the Changing Nature of Art
+
+<http://ww2.kqed.org/forum/2016/07/15/artist-zio-ziegler-on-murals-sculptures-the-changing-nature-of-art/>
+
+Pastor of San Francisco's Oldest Black Church Reflects on Religion and Race
+
+<http://ww2.kqed.org/forum/2015/08/06/pastor-of-san-franciscos-oldest-black-church-reflects-on-religion-and-race/>
+
+Author of 'Fear and Clothing' on What Our Clothes Say About Us
+
+<https://ww2.kqed.org/forum/2016/05/03/author-of-fear-and-clothing-on-what-our-clothes-say-about-us/>
+
+Healing Oakland
+
+<http://ww2.kqed.org/forum/2009/03/31/healing-oakland/>
+
+Spare the Air and Winter Weather
+
+<http://ww2.kqed.org/forum/2013/12/30/spare-the-air-and-winter-weather/>
+
+The Many Faces of Anna Deavere Smith
+
+<http://ww2.kqed.org/forum/2013/07/23/the-many-faces-of-anna-deavere-smith/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Host
+
+
+      Michael Krasny
+
+Michael Krasny, PhD, has been in broadcast journalism since 1983. He was
+with ABC in both radio and television and migrated to public
+broadcasting in 1993. He has been Professor of English at San Francisco
+State University and also taught at Stanford, the University of San
+Francisco and the University of California, as well as in the Fulbright
+International Institutes. A veteran interviewer for the nationally
+broadcast City Arts and Lectures, he is the author of a number of books,
+including “Off Mike: A Memoir of Talk Radio and Literary Life” (Stanford
+University Press) “Spiritual Envy” (New World); “Sound Ideas” (with M.E.
+Sokolik/ McGraw-Hill); “Let There Be Laughter” (Harper-Collins) as well
+as the twenty-four lecture series in DVD, audio and book, “Short Story
+Masterpieces” (The Teaching Company). He has interviewed many of the
+world’s leading political, cultural, literary, science and technology
+figures, as well as major figures from the world of entertainment. He is
+the recipient of many awards and honors including the S.Y. Agnon Medal
+for Intellectual Achievement; The Eugene Block Award for Human Rights
+Journalism; the James Madison Freedom of Information Award; the
+Excellence in Journalism Award from the National Lesbian and Gay
+Journalists Association; Career Achievement Award from the Society of
+Professional Journalists and an award from the Radio and Television News
+Directors Association. He holds a B.A. (cum laude) and M.A. from Ohio
+University and a PhD from the University of Wisconsin.
+
+View all posts by this host <https://ww2.kqed.org/forum/author/mkrasny/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Searching for the Hows, Whats and Whys of Homelessness
+
+<https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/>
+Next Turkey Observes National Day of Mourning After Airport Attack Kills 42
+
+<https://ww2.kqed.org/forum/2016/06/29/turkey-observes-national-day-of-mourning-after-airport-attack-kills-42/>
+
+
+
+  About Forum
+
+KQED's live call-in program presents balanced discussions of local,
+state, national, and world issues as well as in-depth interviews with
+leading figures in politics, science, entertainment, and the arts.
+
+  * Forum Staff <https://ww2.kqed.org/forum/contributors>
+  * Contact Forum <mailto:forum@kqed.org>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow Forum
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDForum/>
+  * Follow Us on Twitter <https://twitter.com/search/@kqedforum>
+  * Connect on Instagram <https://www.instagram.com/kqed_forum/>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

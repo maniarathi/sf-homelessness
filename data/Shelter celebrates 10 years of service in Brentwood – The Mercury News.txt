@@ -1,0 +1,969 @@
+  * Most Popular
+
+    <#>
+  * News <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+The Mercury News
+
+<http://www.mercurynews.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+  * Most Popular
+
+    <#>
+  * News
+
+    <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local
+
+    <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports
+
+    <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business
+
+    <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment
+
+    <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries
+
+    <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+
+        Shelter celebrates 10 years of service in…
+        <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/>
+
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/#print>
+*
+
+<#>
+
+Trending:
+
+  * Sherri Papini case
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+  * 49ers should’ve kept Smith
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+  * Kim K. to divorce?
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+  * Pitt vs. Jolie
+    <http://www.mercurynews.com/2016/12/07/brad-pitt-moves-to-seal-documents-in-angelina-jolie-custody-dispute/>
+
+  * After cold snap, rain
+    <http://www.mercurynews.com/2016/12/06/bay-area-weather-after-cold-snap-rain-on-the-way/>
+
+  * Bay Area poverty
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+News <http://www.mercurynews.com/news/>
+
+
+  Shelter celebrates 10 years of service in Brentwood
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/shelter-celebrates-10-years-of-service-in-brentwood/#print>
+*
+
+By Tammy Hansen <http://www.mercurynews.com/author/tammy-hansen/>	
+June 28, 2016 at 7:26 am
+
+BRENTWOOD — Climbing out of the hole of addiction means accepting
+structure, building a strong work ethic, and finding faith, according to
+one of the first graduates of the Brentwood Shepard’s Gate shelter in
+Brentwood.
+
+For Andrea Hiatt, who spoke at the center’s 10th anniversary celebration
+on June 23, the home at the end of Sycamore Avenue allowed her to make a
+deep commitment to recovery that lasted a year as resident and continues
+to this day. Hiatt shared her story during the evening dinner and tour
+that drew approximately 100 guests.
+
+The Brentwood facility is the second of two Christian shelters and
+recovery homes that help women and children break free from the cycle of
+homelessness, addiction and abuse. Women who live at the home agree to a
+yearlong structured life that includes everything from Bible study to
+budgeting help to job training. They give up their cell phones and
+follow a strict lifestyle designed to reset their approach to living.
+
+Hiatt said she was the last of nine children in a family drenched with
+alcoholism, addiction and abuse who started drinking at 12 years old.
+She underwent therapy for years to quell a “desperate need for
+connection” and got clean for about five years in her late twenties and
+early thirties. It didn’t last.
+
+When her sister was diagnosed with cancer she relapsed, losing her job
+and home. She didn’t even make it to her sister’s funeral. Eventually
+she became homeless and ended up at the doorstep of the newly opened
+Shepherd’s Gate in Brentwood on July 17, 2006.
+
+She read the scripture that hangs over the door: “Come to me all you who
+are weary and burdened, and I will give you rest.”
+
+“I was so tired,” Hiatt said. At 41, “I was tired of the life I was living.”
+
+Hiatt dotted her tear-jerker testimony with a bit of humor, comparing
+her downfall to a country song and teasing the facility for its
+housework policies of “cleaning, cleaning, cleaning.” The story overall
+story was a somber one, but had a happy ending. She was able to visit a
+dying best friend, handling the event with love and grace a few months
+after moving into the house. A decade later, she is still clean, works
+at a house manager at the facility, and holds a part-time job.
+
+“I learned that my feelings won’t kill me and that I can get through the
+storm with help from God,” she said.
+
+Helping others is part of her daily life now, she said. She is an active
+member of Narcotics Anonymous and a frequent mentor for several chapters.
+
+“I get to show that a first class life is possible,” she said.
+
+Recently hired Director Mary Norcross said the Brentwood home has housed
+800 women and children in its decade of existence. Women who come to the
+home go through a 45-day evaluation and then three, 90-day sessions in
+which they learn skills to help them lead better lives when they leave.
+Shepherd’s Gate keeps in contact with graduates. For example, one
+speaker said the facility still provides her children with new backpacks
+for each school year.
+
+Norcross said women who come to the shelter must be willing to work for
+their recovery. “We are not a Band-Aid.” Still, 89 percent of the
+graduates remain on the straight path.
+
+For Shepherd’s Gate donor Jerry Stone, the long-term program of recovery
+at the shelter is one of its appeals.
+
+“I like the idea that they’re here for a whole year. It’s not a
+quick-fix problem,” said the owner of Jack Stone Insurance Agency Inc.,
+Brentwood.
+
+He added that Hiatt’s story was sobering, given her rapid fall from a
+seeming life of successful rehabilitation before she came to Shepherd’s
+Gate.
+
+“It tells you it could happen to anybody,” he said.
+
+It takes a lot of donations, big and little, to keep the facility
+running, said Development Officer Stephanie Fischer. The facility just
+recently got a sign out front to identify it, and many East County
+residents are unaware of the program.
+
+The nonprofit facility is seeking help in many forms. Residents can
+donate goods, their time or money. The home announced a monthly giving
+program at the anniversary celebration.
+
+Perhaps more important, Fischer wants to be sure women like Hiatt can
+find their way to the house on Sycamore Avenue.
+
+“We need people to know we are here,” she said.
+
+For more information on Shepherd’s Gate, go to http://shepherdsgate.org
+<http://shepherdsgate.org/>.
+
+         
+
+         
+
+—
+
+Review: Samsung Fixes the TV Remote
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Sponsored Content
+
+
+        Review: Samsung Fixes the TV Remote
+        <http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+
+By Samsung
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Geoffrey A. Fowler tests Samsung’s 2016 TVs, which have one smart
+clicker to control all our cable boxes, disc players, video streamers
+and apps
+
+
+Tammy Hansen <http://www.mercurynews.com/author/tammy-hansen/>
+
+Subscribe Today! All Access Digital offer for just 99 cents!
+<https://myaccount.mercurynews.com/dsssubscribe.aspx>
+ 
+You Might Also Like
+
+  *
+    Get a glimpse of an amazing future enabled by the data center in
+    Servers Rock: Our Connected Earth Get a glimpse of an amazing future
+    enabled by the data… Intel Servers Rock
+    <https://ad.doubleclick.net/ddm/clk/310019250;137045041;h>
+  *
+    How Do Your Sales Strategies Rate Worldwide? Get This Report How Do
+    Your Sales Strategies Rate Worldwide? Get This… Salesforce
+    <https://ad.doubleclick.net/ddm/clk/314701008;142500863;o>
+  *
+    Discover the future of buying power as you explore new server
+    solutions from Intel and Microsoft Discover the future of buying
+    power as you explore new… Intel Servers Rock
+    <https://ad.doubleclick.net/ddm/clk/310638932;138208410;x> 
+
+  *
+    10 Best Rewards Cards: Get $150 Bonus Cashback 10 Best Rewards
+    Cards: Get $150 Bonus Cashback GET.com
+    <https://www.get.com/credit-cards-best-bonus-offers/?ad=outbrain_bonus_150&utm_medium=cpc&utm_source=outbrain_248358&utm_campaign=outbrain_bonus_150_69875867&oclid=ff7705590ad38c351d9c4c7d15a4ed81>
+
+  *
+    How I Finally Understood My 401(k)… in 10 minutes How I Finally
+    Understood My 401(k)… in 10 minutes Mint.com
+    <https://ad.doubleclick.net/ddm/trackclk/N9515.186294OUTBRAININC0/B8198435.127074735;dc_trk_aid=300209997;dc_trk_cid=58834128;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=>
+
+  *
+    Tips on How To Become a Manager Tips on How To Become a Manager CAL
+    STATE MONTEREY BAY
+    <https://mba.csumb.edu/blog/tips-on-how-to-become-a-manager?utm_source=Outbrain&utm_medium=Online%20Media&utm_campaign=CSUMB_Native>
+
+
+  *
+    Melania Trump’s nude photos: Who leaked them? Melania Trump’s nude
+    photos: Who leaked them? MercuryNews.com
+    <http://www.mercurynews.com/2016/08/01/melania-trumps-nude-photos-who-leaked-them/>
+
+  *
+    Two San Jose men receive maximum sentences in street racing death
+    Two San Jose men receive maximum sentences in street…
+    MercuryNews.com
+    <http://www.mercurynews.com/2010/08/20/two-san-jose-men-receive-maximum-sentences-in-street-racing-death/>
+
+  *
+    Ask Amy: My husband won’t have sex with me, but my ex will Ask Amy:
+    My husband won’t have sex with me, but my ex… MercuryNews.com
+    <http://www.mercurynews.com/2016/10/22/ask-amy-wife-gets-back-in-bed-with-ex/>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+Sign up for our newsletters!
+
+Subscribe <http://direct.mercurynews.com/mrc/mrcreg.action>
+Follow Us
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+
+    Most Popular
+
+ 1. Oakland fire aftermath: Evictions as artists’ worst fears come true
+
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+ 2. Kim Kardashian is plotting to divorce Kanye West, one report says
+
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+ 3. San Jose: Firefighters knock down abandoned home fire, suspect squatter
+
+    <http://www.mercurynews.com/2016/12/07/san-jose-firefighters-knock-down-abandoned-home-fire-suspect-squatter/>
+
+ 4. Oakland warehouse fire: Officials release names of 9 more victims
+
+    <http://www.mercurynews.com/2016/12/06/oakland-warehouse-fire-search-for-victims-85-percent-complete-death-toll-still-36/>
+
+ 5. Purdy: It’s now obvious the 49ers should have kept Smith, not
+    Kaepernick
+
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+ 6. Eddy Lepp free after 10-year sentence for growing marijuana
+
+    <http://www.mercurynews.com/2016/12/07/cannabis-convict-eddy-lepp-free-after-long-prison-term/>
+
+ 7. Sherri Papini ‘consultant’ asked to find another missing California mom
+
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+ 8. Oakland: Artists, restaurant at odds over Salt Lick warehouse
+    following deadly Ghost Ship blaze
+
+    <http://www.mercurynews.com/2016/12/07/oakland-artists-restaurant-at-odds-over-salt-lick-warehouse/>
+
+
+OFF
+ON
+
+Aa
+Aa
+Aa
+Aa
+
+02:0202:02
+
+  *
+
+    Oakland warehouse fire: Officials show photos, give update
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news...
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+
+    Responders talk about Oakland warehouse fire
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+
+    Oakland warehouse fire: Officials show photos, give update
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news...
+
+    Bay Area News Group
+
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+
+
+        More videos:
+
+  *
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news conference
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+    Responders talk about Oakland warehouse fire
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Officials show photos, give update
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news conference
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+    Responders talk about Oakland warehouse fire
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Officials show photos, give update
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Emotions run high at Everett & Jones
+    Barbeque news conference
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31716540&playlistId=18873>
+
+  *
+    Responders talk about Oakland warehouse fire
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31711792&playlistId=18873>
+
+  *
+    Oakland warehouse fire: Officials show photos, give update
+    <http://launch.newsinc.com/embed.html?type=VideoPlayer/16x9&trackingGroup=90757&widgetId=1&videoId=31706128&playlistId=18873>
+
+
+
+    More in News
+
+  *
+    <http://www.mercurynews.com/2016/12/07/judge-to-weigh-in-on-buena-vista-closure/>
+
+    Whether Palo Alto city leaders will re-evaluate their 2015 decision
+    to allow property owners to close Buena Vista Mobile Home Park will
+    be up to Santa Clara County Superior Court Judge Brian Walsh, who
+    took the case under submission on Wednesday after hearing oral
+    arguments from attorneys representing mobile home park residents,
+    the city of Palo Alto and property owners. He's expected to make a
+    decision within 90 days.
+    <http://www.mercurynews.com/2016/12/07/judge-to-weigh-in-on-buena-vista-closure/>
+
+
+
+              Buena Vista residents say city should reverse closure
+              decision
+              <http://www.mercurynews.com/2016/12/07/judge-to-weigh-in-on-buena-vista-closure/>
+
+
+    December 07, 2016, 10:55 pm
+
+    Whether Palo Alto city leaders will re-evaluate their 2015 decision
+    to allow property owners to close Buena Vista Mobile Home Park will
+    be up to Santa Clara County Superior Court Judge Brian Walsh, who
+    took the case under submission on Wednesday after hearing oral
+    arguments from attorneys representing mobile home park residents,
+    the city of Palo Alto and property owners....
+
+  *
+    <http://www.mercurynews.com/2016/12/07/flashing-crosswalks-bright-led-lights-being-installed-to-make-streets-safer/>
+
+    Flashing crosswalks, bright LED lights being installed to make
+    streets safer
+    <http://www.mercurynews.com/2016/12/07/flashing-crosswalks-bright-led-lights-being-installed-to-make-streets-safer/>
+
+
+
+              Flashing crosswalks, bright LED lights being installed to
+              make streets safer
+              <http://www.mercurynews.com/2016/12/07/flashing-crosswalks-bright-led-lights-being-installed-to-make-streets-safer/>
+
+
+    December 07, 2016, 10:07 pm
+
+    The streets in District 6 are becoming safer for bicyclists and
+    pedestrians; Lincoln Avenue in Willow Glen is getting new LED street
+    lights and several other areas are getting pedestrian-activated
+    crosswalk lights. New decorative bike racks are also being added in
+    Willow Glen and on The Alameda.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/oakland-fire-search-completed-while-cause-remains-a-mystery/>
+
+    Five days after the most deadly fire in Oakland history ravaged an
+    artists' labyrinthine lair in the Fruitvale District, killing 36
+    people trapped in the smoke and flames as the top floor and roof
+    gave way, firefighters wrapped up their search Wednesday, leaving
+    federal and local investigators on scene to figure out what caused
+    the so-called Ghost Ship to suddenly go up in flames.
+    <http://www.mercurynews.com/2016/12/07/oakland-fire-search-completed-while-cause-remains-a-mystery/>
+
+
+
+              Oakland fire search completed while cause remains a
+              mystery
+              <http://www.mercurynews.com/2016/12/07/oakland-fire-search-completed-while-cause-remains-a-mystery/>
+
+
+    December 07, 2016, 9:33 pm
+
+    Five days after the most deadly fire in Oakland history ravaged an
+    artists’ labyrinthine lair in the Fruitvale District, killing 36
+    people trapped in the smoke and flames as the top floor and roof
+    gave way, firefighters wrapped up their search Wednesday, leaving
+    federal and local investigators on scene to figure out what caused
+    the so-called Ghost Ship to suddenly...
+
+  *
+    <http://www.mercurynews.com/2016/12/07/san-mateo-fatal-fire-ruled-arson/>
+
+    A three-alarm fire at a house where a woman was found dead last
+    month was intentionally set, police said Wednesday.
+    <http://www.mercurynews.com/2016/12/07/san-mateo-fatal-fire-ruled-arson/>
+
+
+
+              San Mateo: Fatal fire ruled arson
+              <http://www.mercurynews.com/2016/12/07/san-mateo-fatal-fire-ruled-arson/>
+
+
+    December 07, 2016, 7:04 pm
+
+    A three-alarm fire at a house where a woman was found dead last
+    month was intentionally set, police said Wednesday.
+
+  * Member Services <https://myaccount.mercurynews.com/>
+  * News Alerts <https://digioh.com/BANG/general?source=TakeAction>
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+  * Subscribe
+
+    <https://myaccount.mercurynews.com/dssSubscribe.aspx?pid=22>
+
+    <#>
+      o Manage Your Subscription <https://myaccount.mercurynews.com/>
+      o All Access Subscriptions <http://www.bayareanewsaccess.com/>
+      o Today’s e-Edition <http://mercurynews.ca.newsmemory.com/>
+      o Newsletter Sign-Up <http://direct.mercurynews.com/mrc/mrcreg.action>
+      o Mobile Apps <http://www.mercurynews.com/mobile/>
+  * Contact Us
+
+    <http://www.mercurynews.com/contact-us/>
+
+    <#>
+      o Corrections <http://www.mercurynews.com/news/corrections/>
+      o Reprints <http://www.mercurynews.com/reprints/>
+      o Archive Search <http://www.mercurynews.com/archive-search/>
+      o Lottery <http://www.mercurynews.com/lottery/>
+  * Classifieds
+
+    <http://marketplace.bayareanewsgroup.com/marketplace/>
+
+    <#>
+      o Autos <http://www.norcaldrives.com/>
+      o Jobs <http://www.mercurynews.com/jobs/>
+      o Real Estate <http://realestate.mercurynews.com/>
+      o Place an Obituary
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+      o Place a Legal Ad
+        <http://bang.theadhawk.com/bang-adportal/legals/index.html>
+  * Advertise With Us
+
+    <http://www.mercurynews.com/advertise/>
+
+    <#>
+      o Today’s Ads <http://ads.mercurynews.com/>
+      o Weekly Ads <http://www.mercurynews.com/weekly-ads/>
+      o Local Guide <http://mylocal.mercurynews.com/>
+      o Fry’s Ad
+        <http://newspaperads.mercurynews.com/FSI/tiles.aspx?advid=200177&loc=53824>
+      o Public Notices <http://capublicnotice.com/>
+
+  * © 2016 Digital First Media <http://www.digitalfirstmedia.com/>
+  * Site Map <http://www.mercurynews.com/sitemap.xml>
+  * Copyright <http://www.mercurynews.com/copyright/>
+  * Privacy Policy <http://www.mercurynews.com/privacy-policy/>
+  * Arbitration
+    <http://local.digitalfirstmedia.com/common/dfm/arbitration.pdf>
+  * Powered by WordPress.com VIP <https://vip.wordpress.com/>
+  * Bay Area News Group
+
+    <http://www.bayareanewsgroup.com/>
+
+:)
+
+
+      Email This Article
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel
+
+<#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+Quantcast
+Quantcast

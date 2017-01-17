@@ -1,0 +1,644 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <http://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <http://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <http://ww2.kqed.org/arts/>
+      o Economy
+
+        <http://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <http://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <http://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <http://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <http://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <http://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <http://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <http://ww2.kqed.org/science/>
+      o Sports
+
+        <http://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <http://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <http://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <http://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <http://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <http://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <http://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <http://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <http://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <http://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <http://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <http://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <http://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <http://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <http://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <http://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <http://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <http://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <http://ww2.kqed.org/arts/>
+      o Economy
+
+        <http://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <http://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <http://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <http://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <http://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <http://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <http://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <http://ww2.kqed.org/science/>
+      o Sports
+
+        <http://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <http://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <http://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <http://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <http://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <http://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <http://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <http://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <http://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <http://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <http://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <http://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <http://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <http://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <http://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <http://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <http://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+
+  State of Health Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  * Living Healthy
+
+    <https://ww2.kqed.org/stateofhealth/category/living-healthy/>
+  * Community Health
+
+    <https://ww2.kqed.org/stateofhealth/category/place-matters/>
+  * Tests+Treatments
+
+    <https://ww2.kqed.org/stateofhealth/category/tests-treatments/>
+  * Policy
+
+    <https://ww2.kqed.org/stateofhealth/category/policy/>
+  * Obamacare
+
+    <https://ww2.kqed.org/stateofhealth/category/reform/>
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+<https://ww2.kqed.org/stateofhealth/>
+
+
+  State of Health <https://ww2.kqed.org/stateofhealth/>
+
+Search
+
+<#search-container>
+Skip to content
+
+<#content>
+
+  * Living Healthy
+
+    <https://ww2.kqed.org/stateofhealth/category/living-healthy/>
+  * Community Health
+
+    <https://ww2.kqed.org/stateofhealth/category/place-matters/>
+  * Tests+Treatments
+
+    <https://ww2.kqed.org/stateofhealth/category/tests-treatments/>
+  * Policy
+
+    <https://ww2.kqed.org/stateofhealth/category/policy/>
+  * Obamacare
+
+    <https://ww2.kqed.org/stateofhealth/category/reform/>
+
+Search for:
+
+Community Health
+<https://ww2.kqed.org/stateofhealth/category/place-matters/>
+
+
+  Turning Motel Rooms into a Recovery Ward for the Homeless
+
+Roberto Arce, 47, at the men’s dorm at the Illumination Foundation
+Recuperative Care iin Santa Fe Springs, Calif., on Friday, February 12,
+2016. Arce, a Mexican native, will be at the dorm for 2 weeks after
+suffering from heart failure.
+
+Roberto Arce, 47, at the men’s dorm at the Illumination Foundation
+Recuperative Care iin Santa Fe Springs, Calif., on Friday, February 12,
+2016. Arce, a Mexican native, will be at the dorm for 2 weeks after
+suffering from heart failure. (/Heidi de Marco/KHN/)
+
+By David Gorn
+Kaiser Health News <http://khn.org/>
+June 27, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=email&nb=1>
+*
+
+After someone has a health crisis and gets emergency medical care, the
+patient is sent home to recover. But what if that person has no home?
+The homeless can’t get well when they go back to the street, and they
+end up cycling back into expensive hospitals and emergency rooms.
+
+Now one program in Southern California has tackled that dilemma by
+giving people just out of the hospital a place to heal – by turning
+cheap motels into triage and recovery wards.
+
+Just up the freeway from Disneyland, in the city of Buena Park in Orange
+County, Paul Leon stands outside the beat-up remnant of a seedy motel.
+Above him, a faded pink sign advertises the Coral Motel – whose rooms
+back in its prime cost 35 bucks a night.
+
+“This particular motel was going to be taken back by the city of Buena
+Park,” Leon says, “because of the drugs, alcohol, prostitution at the
+motel.”
+
+The Coral Motel in Buena Park, Calif., used by the Illumination
+Foundation Recuperative Care, serves as a respite for people needing a
+place to recover after being discharged from the hospital.
+The Coral Motel in Buena Park, Calif., used by the Illumination
+Foundation Recuperative Care, serves as a respite for people needing a
+place to recover after being discharged from the hospital. (Heidi de
+Marco/KHN)
+
+Leon had another idea. As a public health nurse in Orange County, he
+proposed turning the motel lobby into a triage center and converting the
+rooms into clean recovery facilities for homeless people recently
+released from local hospitals.
+
+Usually recuperative care centers are pricey to set up — but this, Leon
+says, was just the opposite.
+
+“The beauty of this, it’s the poor man’s recuperative,” Leon says.
+“They’re not the Hyatt or the Hilton, but they do serve a purpose for
+us. The costs to run it are much less.”
+
+The motel recovery room costs about half as much as a hospital would,
+that’s about $2,000 less per person for each day. In some ways, it’s
+better than being at home, because it has a nurse on staff to help
+supervise care and handle complications.
+
+Elvin Quiñones is one of the patients staying at the Coral Motel. He
+walks me across the motel parking lot so he can show off his previous
+home -– a small white Datsun B210 sedan.
+
+“I’ll show you my house,” he says, “it’s not very big.”* *
+
+After Elvin Quiñones had gallbladder surgery, he didn’t have anywhere to
+recover. He ended up at the motel used by the Illumination Foundation
+Recuperative Care.
+After Elvin Quiñones had gallbladder surgery, he didn’t have anywhere to
+recover. He ended up at the motel used by the Illumination Foundation
+Recuperative Care. (Heidi de Marco/KHN)
+
+Quiñones is a solid guy, and it’s hard to picture him crammed in the car
+along with his two dogs. In the days right after his gall bladder
+operation, he had a bunch of medical gear, too.
+
+“I’ll be honest, I was sleeping in front of Walmart, the 24-hour
+Walmart, because they had a bathroom,” Quiñones says. “I still had a
+tube stuck inside me that was draining, so I needed someplace where I
+could empty out the drain.”
+
+*/ /*Being homeless and helpless, he says, is “surreal.”
+
+*/ /*“You think you’re going to wake up, and it’ll all be a nightmare.
+And you wake up and it’s not,” he says. “It’s just the next day.”
+
+A week after his medical release, the hospital called and helped place
+him in the motel. Ginny Ripslinger is a nurse administrator at St.
+Joseph’s Hospital in the city of Orange.
+
+“This is a new model of care for Orange County,” she says.
+
+Over and above any state payments from Medi-Cal, California’s health
+care program for the poor, hospitals and health insurers are happy to
+pony up some cash, she says. They save money by stabilizing these patients.
+
+More than that, Ripslinger says, it’s just the right thing to do.
+
+“We don’t want to discharge them to the street,” she says. “And there’s
+an obligation on the hospitals to provide continuity of care and safe
+discharges.”
+
+While those homeless patients are recovering in the motel room over two
+or three weeks, there’s a hidden benefit, Ripslinger says.
+
+“You might say they’re a captured audience. We can then provide the
+social services and the linkages to the community for stable housing and
+get them in a protected environment,” she says.
+
+Victor Ramirez, 61, uses his ventilator at the men’s dorm at the
+Illumination Foundation Recuperative Care in Santa Fe Springs, Calif.
+Victor Ramirez, 61, uses his ventilator at the men’s dorm at the
+Illumination Foundation Recuperative Care in Santa Fe Springs, Calif.
+(Heidi de Marco/KHN)
+
+Leon launched the homeless services nonprofit called the Illumination
+Foundation to help provide those community links and health services.
+
+The foundation now has expanded the motel model of care to six sites in
+four counties –- Orange, Los Angeles, Riverside, San Bernardino — and
+Leon says he has been working with dozens of cities across the country
+to establish similar models elsewhere.
+
+“If you’re just starting and you don’t have a recuperative care
+program,” Leon says, “one easy quick method is to use motels. They could
+basically start within days to house some of the patients that are the
+most vulnerable.”
+
+Every city has a homeless problem, he adds, and every city has its own
+version of the beat-up Coral Motel. It’s a rare opportunity, Leon says,
+to turn two big problems into one solution.
+
+Explore: Community Health
+<https://ww2.kqed.org/stateofhealth/category/place-matters/>,
+Homelessness <https://ww2.kqed.org/stateofhealth/tag/homelessness/>,
+News <https://ww2.kqed.org/stateofhealth/tag/news/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/?share=email&nb=1>
+  *
+
+1 Comment
+<http://ww2.kqed.org/stateofhealth/2016/06/27/turning-motel-rooms-into-a-recovery-ward-for-the-homeless/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Targeting and Healing Medi-Cal's Most Expensive Patients -- And Saving Money
+
+<http://ww2.kqed.org/stateofhealth/2016/06/21/targeting-and-healing-medi-cals-most-expensive-patients-and-saving-money/>
+
+Depressed Teen's Struggle to Find Mental Health Care in Rural California
+
+<http://ww2.kqed.org/stateofhealth/2016/06/01/depressed-teens-struggle-to-find-mental-health-care-in-rural-california/>
+
+Berkeley Physician Opens Practice Focusing on Aid-in-Dying
+
+<http://ww2.kqed.org/stateofhealth/2016/06/02/berkeley-physician-opens-practice-focusing-on-aid-in-dying/>
+
+San Diego's Methamphetamine Problem Strains Criminal Justice System
+
+<http://ww2.kqed.org/stateofhealth/2016/07/12/san-diegos-methamphetamine-problem-strains-criminal-justice-system/>
+
+California's Last Institutions for Developmentally Disabled to be Closed
+
+<http://ww2.kqed.org/stateofhealth/2016/03/08/californias-last-institutions-for-developmentally-disabled-to-be-closed/>
+
+How California's Mentally Ill Children Suffer -- Few Hospital Beds Statewide
+
+<http://blogs.kqed.org/stateofhealth/2013/12/17/how-californias-mentally-ill-children-suffer-few-hospital-beds-statewide/>
+Powered by
+
+<https://contextly.com/>
+
+
+  State of Health Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Are Your Pipes Made Of Lead? Here's A Quick Way To Find Out
+
+<https://ww2.kqed.org/stateofhealth/2016/06/24/are-your-pipes-made-of-lead-heres-a-quick-way-to-find-out/>
+Next California Surpasses National HIV Target -- 6 Years Early
+
+<https://ww2.kqed.org/stateofhealth/2016/06/27/california-surpasses-national-hiv-target-6-years-early/>
+
+
+
+  About State of Health
+
+California faces health care challenges seen across the country. At a
+time of intense focus on reform, "State of Health" explores these issues
+and more, bringing you stories of challenge and change in the Golden
+State. The blog is edited by Lisa Aliferis
+<http://ww2.kqed.org/stateofhealth/author/lisaaliferis/>.
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow State of Health
+
+  * Follow Us on Facebook <http://facebook.com/KQEDhealth>
+  * Follow Us on Twitter <http://twitter.com/KQEDhealth>
+  * Subscribe via RSS Feed <http://ww2.kqed.org/stateofhealth/feed/>
+
+Support for community health reporting, including Vital Signs, is
+provided by The California Endowment <http://www.calendow.org/>.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

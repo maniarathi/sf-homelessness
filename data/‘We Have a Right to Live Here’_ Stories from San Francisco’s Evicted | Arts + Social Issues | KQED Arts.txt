@@ -1,0 +1,823 @@
+KQED Menu
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Menu
+
+    <#>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Specials
+
+        <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED Arts <https://ww2.kqed.org/arts/>
+
+Search
+
+<#search-container>
+
+
+  KQED Arts Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Detail from the Narratives of Displacement and Resistance Map
+
+Detail from the Narratives of Displacement and Resistance Map (/Courtesy
+of the Anti-Eviction Mapping Project/)
+
+Arts + Social Issues
+<https://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+
+
+  ‘We Have a Right to Live Here’: Stories from San Francisco’s Evicted
+
+By Sarah Hotchkiss <https://ww2.kqed.org/arts/author/shotchkiss/>
+<http://twitter.com/sahotchkiss>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=email&nb=1>
+*
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+Maps, whether printed or pixelated, are purely utilitarian for most
+people. But to the Anti-Eviction Mapping Project
+<http://antievictionmappingproject.net/>, maps are a powerful, immediate
+way to measure change.
+
+The collective’s animated map of Ellis Act evictions
+<http://www.antievictionmappingproject.net/ellis.html> in San Francisco
+between 1994 and 2014 looks like a time lapse of a city-wide military
+proving grounds, evictions blooming outward in circular explosions from
+SOMA, the Mission and — really — everywhere within San Francisco’s 49
+square miles. The data-visualization depicts evictions as sites of
+violence, with rippling aftereffects.
+
+Ellis Act Evictions map
+Ellis Act Evictions map (Courtesy of Anti-Eviction Mapping Project)
+
+As effective as this type of mapping is in providing a sense of history,
+scale and geographic trends, the data remain abstract: number of tenants
+evicted, addresses and dates. But the A(E)MP collective, a shifting
+group of mostly volunteer housing rights activists, community organizers
+and artists, doesn’t stop with numbers. Alongside number crunching and
+data-visualization, they operate a storytelling and qualitative side of
+their work, collecting narratives of displacement and resistance
+<http://www.antievictionmappingproject.net/narratives.html>.
+
+Allowing people to tell their own stories — of changing neighborhoods,
+fights against eviction, and experiences of homelessness — in their own
+words, the A(E)MP profiles the differences and similarities between
+lived experiences in the current Bay Area housing crisis. Close to 100
+oral histories, most around 1 hour in length, dot A(E)MP’s narrative
+map. I dove in for some deep listening with suggestions from Erin
+McElroy, one of A(E)MP’s founding members.
+
+Tiye Silon Shepard, interviewed by Caleb Smith
+Tiye Silon Shepard, interviewed by Caleb Smith (Courtesy of the
+Anti-Eviction Mapping Project)
+
+
+      ‘This is next-level’
+
+In Caleb Smith’s interview of Tiye Silon Shepard
+<https://soundcloud.com/anti-evictionmappingproject/sets/tiye-silon-shepard>,
+the native San Franciscan compares her childhood in the Mission with her
+relationship to the swiftly changing neighborhood today. Semi-seriously,
+Shepard, who is Black, points to the appearance of white joggers near
+her apartment as “the end.”
+
+Her outlook on the neighborhood’s future is bleak. “The second they
+started building condos on Mission Street, we just all need to find a
+new place to go,” she says.
+
+“I like not hearing gunshots outside my window at night,” she says, but
+change is not categorically good. “Of course neighborhoods change over
+time, but this is next-level, this is organized, this is purposeful,”
+she says of the displacement she sees around her.
+
+For her, gentrification is a new form of colonization. Instead of
+violence, she sees the effects as emotional distress. “The folks who for
+the last 20 years have lived in that neighborhood all come from a
+colonized background,” she says. “So to have that trauma again hurts on
+an even deeper level because you always feel like you’re being pushed
+out of what you’ve tried to make your own.”
+
+“People feel politically disenfranchised.”
+Caleb Smith
+
+Asked about the social and political effects of gentrification on San
+Francisco, Shepard predicts, “I just think it’s going to turn into a
+place where it’s gonna be a bunch of people who have no real emotional
+investment in the city.”
+
+Shepard’s interviewer wasn’t surprised by her outlook. Smith just
+graduated with a degree in politics from University of San Francisco and
+is spending the summer on a public policy fellowship in Sacramento.
+“People feel politically disenfranchised,” he says. “There are measures
+to try and slow gentrification and they don’t even pass. It’s hard to
+identify anything that could potentially stop it.”
+
+Mira Ingram, interviewed by Zeph Fishlyn
+Mira Ingram, interviewed by Zeph Fishlyn (Courtesy of the Anti-Eviction
+Mapping Project)
+
+
+      ‘This is my family and my home and everything’
+
+For Mira Ingram
+<https://soundcloud.com/anti-evictionmappingproject/sets/mira-ingram>,
+who moved to San Francisco when she was 25, the city was always a safe
+haven, where she could be queer and punk and politically active without
+fear of retribution. “I’m grateful every day that I’m here,” she says to
+her interviewer Zeph Fishlyn <http://zephrocious.com/filter/highlights>.
+“I always have some bit of gratitude that I’m at a place where people
+understand me.”
+
+In 1997 Ingram suffered an injury that ultimately caused her to become
+disabled; she now uses a wheelchair. At almost the same time, she was
+evicted from her Mission district apartment during the Bay Area’s first
+tech boom. “It wasn’t a big deal then,” she says of the eviction in
+retrospect. “It was more of a rare occurrence.” Today? “I would say
+probably half or more of my close friends have been Ellis Acted out of
+the city,” she says.
+
+The tech buses that transport employees to and from Silicon Valley are
+more than just symbols of a changing economy and population for Ingram —
+they’re physical obstacles she can’t surmount in her wheelchair.
+
+“It’s a loss of consciousness and awareness.”
+Mira Ingram
+
+“The city just lets the tech buses operate here, but they don’t pay any
+attention to how it violates the rights of people with disabilities like
+me,” she says. When tech buses pull up to curbs, Ingram explains, MUNI
+buses are often forced to stop in the middle of the street, making it
+impossible for them to lower their wheelchair ramps.
+
+“I can’t tell you how many doctor’s appointments I’ve missed because the
+tech buses are there,” she says. Beyond this serious inconvenience, she
+see the buses as emblematic of an even larger problem: “It’s a loss of
+consciousness and awareness that’s missing too. And that’s really sad.”
+
+For now, Ingram’s living situation is stable, but she worries about what
+might happen if she lost her place in public housing. “I don’t have
+anywhere else to go,” she says. “This is my family and my home and
+everything. I’ve got tons of medical problems and this is where I’ve got
+it all set up.
+
+“I would be here, and homeless,” she says, “before I would go somewhere
+else.”
+
+Zeph Fishlyn, 'Fabric: Raveling/Unraveling,' 2014. A participatory
+visual arts project exploring LGBTQI experiences of home.
+Zeph Fishlyn, ‘Fabric: Raveling/Unraveling,’ 2014.
+A participatory visual arts project exploring LGBTQI experiences of
+home. (Courtesy of the artist)
+
+For Ingram’s interviewer, Ingram’s story hit very close to home. Fishlyn
+has been evicted three times in the last four years, helping 35 people
+move out of their homes in 2012 alone. In addition to Ingram, Fishlyn
+interviewed about a dozen other subjects as part of /Fabric:
+Raveling/Unraveling/, a visual art project for the 2014 National Queer
+Arts Festival.
+
+“The process of doing the interviews in some ways felt like one of the
+most powerful pieces of it,” Fishlyn says of their artwork, which
+brought together multiple stories of displacement to connect those
+experiences of isolation. “It felt like therapy.”
+
+Claudia Tirado, interviewed by Manissa Maharawal
+Claudia Tirado, interviewed by Manissa Maharawal (Courtesy of the
+Anti-Eviction Mapping Project)
+
+
+      ‘I shouldn’t be doing this’
+
+Claudia Tirado
+<https://soundcloud.com/anti-evictionmappingproject/sets/claudia-tirado>
+was busy fighting an eviction notice from her landlord (the late Google
+attorney Jack Halprin
+<http://valleywag.gawker.com/protestors-target-home-of-google-exec-accused-of-evicti-1562273315>)
+when Manissa Maharawal interviewed her for A(E)MP. A mother and veteran
+third-grade teacher, Tirado, like Ingram, points to a growing empathy
+gap in the city.
+
+“People don’t understand the difficulty of eviction if they have money,”
+she says of those who can rely on financial support from family and
+friends. “I don’t have funds. I’m a self-raised person.”
+
+Tirado wants San Francisco to retain its spirit of acceptance and
+celebration of diversity. “We all have to respect each other and our
+differences. That’s what makes San Francisco awesome,” she says.
+Different worlds — and different classes — can and should coexist in the
+city.
+
+“We have a right to live here /and/ to work here,” she adds. “There’s
+nothing wrong with being a janitor, a teacher, a bus driver, a taxi
+driver or a maid. What’s wrong is the lack of humanity and respect that
+we get.”
+
+“I just feel like a mother protecting her baby.”
+Claudia Tirado
+
+The eviction was a threat not just to Tirado’s home, but to her
+relationship with her son’s father and to her own emotional well-being.
+When Maharawal asks if the community organizing around Tirado’s eviction
+is empowering, she says, “I don’t feel empowered at all. I still feel
+like it’s a stronger force than I can rally up energy to fight sometimes.”
+
+“I feel like…” she says before she trails off. Her voice breaks with
+emotion. “I just feel like a mother protecting her baby.
+
+“All this energy that I should be putting into my child and my
+classroom, I have to put into fighting [Halprin]. I shouldn’t be doing
+this.”
+
+Maharawal, who has an oral history of her own
+<https://soundcloud.com/anti-evictionmappingproject/manissa-clip> on the
+A(E)MP page, says their two-hour interview was “a deeply personal and
+intense experience.”
+
+“Claudia told me that the interview was cathartic for her,” she says,
+citing the oral history project’s overarching goals. “Eviction is a
+destabilizing and alienating process. The interviews aim to create space
+for solidarity, support and reflection.”
+
+Michael Rouppet, interviewed by Manon Vergerio
+Michael Rouppet, interviewed by Manon Vergerio (Courtesy of the
+Anti-Eviction Mapping Project)
+
+
+      ‘That was me’
+
+Michael Rouppet
+<https://soundcloud.com/anti-evictionmappingproject/sets/michael-rouppet>,
+an HIV positive man who was homeless for nearly a year after being
+evicted from his Alamo Square apartment, now volunteers with the San
+Francisco AIDS Foundation <http://www.sfaf.org/>, providing services and
+resources to the city’s most disenfranchised people.
+
+Locked out of his apartment with just his dog, one satchel and the
+clothes on his back, Rouppet is still trying to find out what happened
+to all of his possessions. “I’d like to know and I’ve been asking the
+court for two years, where are my things?” he says. “My wedding ring, my
+family photos, my mother’s recipes, not just my clothes and my underwear
+and my medication. My grandmother’s silver set. I’d like to know where
+these things are.”
+
+On the street, Rouppet suffered debilitating cellulitis. It was other
+homeless people who took care of him. “The humanity that homeless people
+show each other, they taught me so much,” he says.
+
+“He’s setting the example we should all live by.”
+Vince Crisostomo
+
+Rouppet says volunteering with the SF AIDS Foundation helped him find
+his bearings. Vince Crisostomo, manager of the foundation’s 50-Plus
+Network
+<http://sfaf.org/client-services/50-plus/?referrer=http://sfaf.org/hiv-info/hot-topics/from-the-experts/whats-new-with-50-plus.html>,
+interjects in the recording. “When Michael talks about volunteering, it
+goes so far beyond that,” he says. “It just makes me cry thinking about
+it.”
+
+When out in the field working with the city’s homeless population,
+Crisostomo explains, Rouppet always reaches out to even the most
+isolated individuals, saying, “That was me.”
+
+“He’s setting the example we should all live by,” Crisostomo says. “We
+should remember that that could be us.”
+
+Narratives of Displacement and Resistance map. Red dots mark no-fault
+evictions in San Francisco 1997-2015 and foreclosures in Alameda
+2005-2015; blue dots mark oral histories.
+Narratives of Displacement and Resistance map. Red dots mark no-fault
+evictions in San Francisco 1997-2015 and foreclosures in Alameda
+2005-2015; blue dots mark oral histories. (Courtesy of the Anti-Eviction
+Mapping Project)
+
+While A(E)MP’s maps, murals and community events make visible the
+connections between global capital, real estate, high tech and the local
+political economy, what emerges from the oral history project are the
+effects of these entanglements on the city’s most vulnerable
+individuals. To listen to someone’s story, told plainly and honestly, is
+to momentarily inhabit their world, their struggles and goals. Empathy,
+a quality so many of the oral history interviewees wish to see more of
+in San Francisco, is the inevitable result.
+
+When Rouppet’s interviewer Manon Vergerio asks what newcomers to the Bay
+Area could do to better understand each other, and the homeless
+population more specifically, he says, “Talk to them. Rather than
+speaking for a population that doesn’t have representation, talk to them.”
+
+Explore: Digital Arts <https://ww2.kqed.org/arts/category/digitalarts/>,
+News <https://ww2.kqed.org/arts/category/news/>, feature
+<https://ww2.kqed.org/arts/tag/feature/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/?share=email&nb=1>
+  *
+
+1 Comment
+<http://ww2.kqed.org/arts/2016/06/29/we-have-a-right-to-live-here-personal-stories-from-san-franciscos-evicted/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Arts
+
+Notes from Yolanda M. López’s 'Accessories to an Eviction'
+
+<http://ww2.kqed.org/arts/2014/07/01/notes-from-yolanda-m-lopezs-accessories-to-an-eviction/>
+
+Priced Out: New Tech Wealth and San Francisco's Receding Art Scene
+
+<http://ww2.kqed.org/arts/2014/02/07/priced-out-new-tech-wealth-and-san-franciscos-receding-art-scene/>
+
+In Oakland, Art Digs Residents Deeper into Place
+
+<http://ww2.kqed.org/arts/2014/10/22/in-oakland-art-digs-residents-deeper-into-place/>
+
+Mission Local Announces Tech Bus Design Contest Winner
+
+<http://ww2.kqed.org/arts/2014/02/07/mission-local-announces-tech-bus-design-contest-winner/>
+
+New Dogpatch Arts Complex Fuels Hope Amid Evictions and Closures
+
+<http://ww2.kqed.org/arts/2016/03/17/new-dogpatch-arts-complex-fuels-hope-amid-evictions-and-closures/>
+
+Coltrane Church Told By San Francisco Sheriff It Has a Week To Relocate
+
+<http://ww2.kqed.org/arts/2016/02/24/coltrane-church-told-by-san-francisco-sheriff-it-has-a-week-to-relocate/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Sarah Hotchkiss
+
+Sarah Hotchkiss is KQED Arts’ Visual Arts Editor, an artist
+<http://www.sarahhotchkiss.com/> and half of Stairwell’s
+<http://www.stairwells.org/>. Follow her at @sahotchkiss
+<https://twitter.com/sahotchkiss>.
+
+View all posts by this author
+<https://ww2.kqed.org/arts/author/shotchkiss/>
+
+
+  Post navigation
+
+Prev Rob Wasserman, Masterful Upright Bassist, Dies After Brief
+Hospitalization
+
+<https://ww2.kqed.org/arts/2016/06/29/rob-wasserman-masterful-upright-bassist-dies-after-brief-hospitalization/>
+Next UC Davis Receives 4 More Thiebaud Paintings from a Former Professor
+
+<https://ww2.kqed.org/arts/2016/06/29/uc-davis-receives-4-more-thiebaud-paintings-for-its-new-museum/>
+
+
+
+  About KQED Arts
+
+KQED Arts provides daily arts news, reviews and profiles for the San
+Francisco Bay Area.
+
+  * Contributors <http://ww2.kqed.org/arts/contributors/>
+  * Contact Us <mailto:arts@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+Funding for KQED Arts is provided by The William and Flora Hewlett
+Foundation <http://www.hewlett.org/>.
+
+The William and Flora Hewlett Foundation <http://www.hewlett.org/>
+
+Support is also provided by the Kenneth Rainin Foundation and the
+members of KQED.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  When you need an art fix!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

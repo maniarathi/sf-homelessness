@@ -1,0 +1,436 @@
+  * //Search
+
+    <http://www.sfweekly.com/search/>
+  * Home
+
+    <http://www.sfweekly.com/>
+  * News
+
+    <http://www.sfweekly.com/news/>
+      o The Snitch
+
+        <http://www.sfweekly.com/snitch/>
+      o Chem Tales
+
+        <http://www.sfweekly.com/chemtales/>
+      o Sucka Free City
+
+        <http://www.sfweekly.com/suckafreecity/>
+  * Music
+
+    <http://www.sfweekly.com/category/music/>
+      o All Shook Down
+
+        <http://www.sfweekly.com/allshookdown/>
+      o Hear This
+
+        <http://www.sfweekly.com/hearthis/>
+      o Some Thoughts Of A Certain Sound
+
+        <http://www.sfweekly.com/somethoughtsofacertainsound/>
+  * Dining
+
+    <http://www.sfweekly.com/dining/>
+      o SFoodie
+
+        <http://www.sfweekly.com/sfoodie/>
+  * Calendar
+
+    <http://archives.sfweekly.com/sanfrancisco/EventSearch?narrowByDate=Today>
+
+      o Night&Day
+
+        <http://www.sfweekly.com/category/calendar/nightday/>
+  * Culture
+
+    <http://www.sfweekly.com/culture/>
+      o The Exhibitionist
+
+        <http://www.sfweekly.com/theexhibitionist/>
+      o Know Your Street Art
+
+        <http://www.sfweekly.com/knowyourstreetart/>
+      o The Whore Next Door
+
+        <http://www.sfweekly.com/thewhorenextdoor/>
+  * Slideshows
+
+    <http://www.sfweekly.com/category/slideshows/>
+  * Best of San Francisco
+
+    <http://www.sfweekly.com/category/best-of-san-francisco/>
+  * Email Newsletters
+
+    <http://www.sfweekly.com/newsletters/>
+  * Free Stuff
+
+    <http://www.sfweekly.com/category/freestuff/>
+  * Privacy Policy
+
+    <http://www.sfweekly.com/privacy-policy/>
+  * SF Weekly Terms of Use
+
+    <http://www.sfweekly.com/sf-weekly-terms-use/>
+  * Archives
+
+    <http://archives.sfweekly.com/>
+  * Search
+
+    <http://www.sfweekly.com/search/>
+
+  * //Menu
+
+    <#>
+      o //Search
+
+        <http://www.sfweekly.com/search/>
+      o Home
+
+        <http://www.sfweekly.com/>
+      o News
+
+        <http://www.sfweekly.com/news/>
+          + The Snitch
+
+            <http://www.sfweekly.com/snitch/>
+          + Chem Tales
+
+            <http://www.sfweekly.com/chemtales/>
+          + Sucka Free City
+
+            <http://www.sfweekly.com/suckafreecity/>
+      o Music
+
+        <http://www.sfweekly.com/category/music/>
+          + All Shook Down
+
+            <http://www.sfweekly.com/allshookdown/>
+          + Hear This
+
+            <http://www.sfweekly.com/hearthis/>
+          + Some Thoughts Of A Certain Sound
+
+            <http://www.sfweekly.com/somethoughtsofacertainsound/>
+      o Dining
+
+        <http://www.sfweekly.com/dining/>
+          + SFoodie
+
+            <http://www.sfweekly.com/sfoodie/>
+      o Calendar
+
+        <http://archives.sfweekly.com/sanfrancisco/EventSearch?narrowByDate=Today>
+
+          + Night&Day
+
+            <http://www.sfweekly.com/category/calendar/nightday/>
+      o Culture
+
+        <http://www.sfweekly.com/culture/>
+          + The Exhibitionist
+
+            <http://www.sfweekly.com/theexhibitionist/>
+          + Know Your Street Art
+
+            <http://www.sfweekly.com/knowyourstreetart/>
+          + The Whore Next Door
+
+            <http://www.sfweekly.com/thewhorenextdoor/>
+      o Slideshows
+
+        <http://www.sfweekly.com/category/slideshows/>
+      o Best of San Francisco
+
+        <http://www.sfweekly.com/category/best-of-san-francisco/>
+      o Email Newsletters
+
+        <http://www.sfweekly.com/newsletters/>
+      o Free Stuff
+
+        <http://www.sfweekly.com/category/freestuff/>
+      o Privacy Policy
+
+        <http://www.sfweekly.com/privacy-policy/>
+      o SF Weekly Terms of Use
+
+        <http://www.sfweekly.com/sf-weekly-terms-use/>
+      o Archives
+
+        <http://archives.sfweekly.com/>
+      o Search
+
+        <http://www.sfweekly.com/search/>
+
+<http://www.sfweekly.com/>
+
+  *
+
+    <https://www.facebook.com/sfweekly/>
+  *
+
+    <https://twitter.com/sfweekly/>
+  *
+
+    <https://www.instagram.com/sfweekly/>
+
+<http://www.sfweekly.com/>
+
+  * SF Weekly
+
+    <http://www.sfweekly.com/>
+
+
+  Millennial Problems: Solutions to Homelessness
+
+  * By Max DeNike
+  * Thu Jun 30th, 2016 12:45pm
+  * News <http://www.sfweekly.com/news/>The Snitch
+    <http://www.sfweekly.com/snitch/>
+
+  *
+
+    <http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F>
+  *
+
+    <http://twitter.com/home?status=Millennial+Problems%3A+Solutions+to+Homelessness+-+http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F>
+  *
+
+    <http://reddit.com/submit?url=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F&title=Millennial+Problems%3A+Solutions+to+Homelessness>
+  *
+
+    <mailto:?subject=Millennial%20Problems%3A%20Solutions%20to%20Homelessness&ampsubject=Millennial%20Problems%3A%20Solutions%20to%20Homelessness&body=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F>
+  *
+
+    <javascript:window.print();>
+  *
+
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/comments/>
+
+homelessandcart
+
+Wednesday marked a big day for local media. In a coordinated effort,
+nearly every organization that covers San Francisco in some form
+dedicated a lot to a little coverage of what it’s like to experience
+homelessness and what can be done about something that almost everyone,
+*including Bernie Sanders <http://bit.ly/297YZo8>*, says is a problem here.
+
+The results were mixed, and Gizmodo — which produces content that’s
+fairly easy for millennials to digest — compiled a *greatest-hits list
+of the coverage <http://bit.ly/293aM0N>* so we didn’t have to. Going
+forward, people are still homeless and the solutions still range from
+obvious (build homes!) to complicated (addiction treatment) to insane
+(an algorithm for determining degrees of desperation).
+
+One thing we didn’t see — admittedly, we did not look very hard — were
+millennials and their feelings on the matter. No one asked millennials
+what should be done, and that was really silly. Millennials are the now
+and the future, and their opinions are super-important. After all, they
+have college degrees.
+
+Ads by ZINC
+3
+
+Lucky for us, the good folks over at the Yik Yak app — you know, that
+gossip platform that was once big with college kids and is *less big now
+<http://bit.ly/296iMzl>* — sent us some recent exchanges between Bay
+Area millennials on the very topic of homelessness. And while we here at
+Millennial Problems like to make jokes about young people, we are happy
+to report that they displayed a lot of empathy for those among us who
+struggle to survive. Sadly, their ideas feel very Gen X or baby boomer.
+
+-A user named “imsoy” said companies should give homeless people jobs
+that involve menial tasks such as sorting recyclables or washing windows
+(the Hollywood version of being homeless) in exchange for lunch.
+
+-An user in San Francisco suggested that the shower-bathroom trucks one
+can find at festivals would be useful to someone living on the streets.
+Not a bad idea, except not at all a new one. In fact, a little local
+outfit called *Lava Mae <http://bit.ly/1SkJhRt>* has been doing that for
+a couple years now — using refurbished Muni buses to boot.
+
+-A user named “markohyeah” offered the idea of the “Leftover Walk.” This
+would involve packing up the food you don’t want to eat, since you’re
+just drowning in food as a non-homeless person, and pass it around for
+whomever wants it. “Don’t like what I have? Maybe try what another
+person brought.” Good idea, ohyeah. I think this kinda thing happens
+already, and there are those soup kitchens and stuff.
+
+-And another user, this one from Berkeley, pointed out that “the
+homeless population in SF is more sick mentally than those elsewhere,”
+and presumably something should be done about it. What exactly, this
+millennial did not say.
+
+Homelessness is the last thing to laugh at of make light of, and it’s
+clear no one wants to do that. It’s just that no matter how clever or
+creative an idea you might have, there’s really only one proven way to
+get someone out of the homelessness experience: give them a home. The
+government used to do it, *then it stopped <http://bit.ly/29380J9>*.
+Maybe we should start by changing that.
+
+
+
+  *
+
+    <http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F>
+  *
+
+    <http://twitter.com/home?status=Millennial+Problems%3A+Solutions+to+Homelessness+-+http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F>
+  *
+
+    <http://reddit.com/submit?url=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F&title=Millennial+Problems%3A+Solutions+to+Homelessness>
+  *
+
+    <mailto:?subject=Millennial%20Problems%3A%20Solutions%20to%20Homelessness&ampsubject=Millennial%20Problems%3A%20Solutions%20to%20Homelessness&body=http%3A%2F%2Fwww.sfweekly.com%2Fnews%2Fmillennial-problems-solutions-to-homelessness%2F>
+  *
+
+    <javascript:window.print();>
+  *
+
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/comments/>
+
+Our Content Recommended For You
+<http://www.sfweekly.com/dining/five-must-eat-dishes-teleferic-barcelona/>
+Five Must-Eat Dishes at Telefèric Barcelona
+<http://www.sfweekly.com/dining/five-must-eat-dishes-teleferic-barcelona/>
+Nov 30, 2016
+<http://www.sfweekly.com/music/allshookdown/is-this-the-end-of-the-underground/>
+“Is This the End of the Underground?”
+<http://www.sfweekly.com/music/allshookdown/is-this-the-end-of-the-underground/>
+Dec 7, 2016
+<http://www.sfexaminer.com/son-cirque-du-soliel-co-founder-killed-accident-sf-show/>
+Son of Cirque du Soleil co-founder killed in accident before SF show
+<http://www.sfexaminer.com/son-cirque-du-soliel-co-founder-killed-accident-sf-show/>
+Nov 30, 2016
+<http://www.sfweekly.com/dining/feature-dining/animal-style-impossible-burger/>
+Animal Style
+<http://www.sfweekly.com/dining/feature-dining/animal-style-impossible-burger/>
+Dec 7, 2016
+<http://www.sfexaminer.com/five-arrested-allegedly-stealing-30k-cellphones-electronics/>
+Five arrested for allegedly stealing $30K in cellphones, electronics
+<http://www.sfexaminer.com/five-arrested-allegedly-stealing-30k-cellphones-electronics/>
+Dec 2, 2016
+<http://www.sfexaminer.com/xs-exene-cervenka-words-holidays/>
+X’s Exene Cervenka has a few words about the holidays
+<http://www.sfexaminer.com/xs-exene-cervenka-words-holidays/>
+Dec 5, 2016
+View Comments //
+
+<http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/comments/>
+
+
+
+      Most Read
+
+  *
+    (SHN SF)
+    <http://www.sfweekly.com/news/s-f-gets-see-hamilton-l-tickets-sale-soon/>
+
+
+
+            S.F. Gets to See ‘Hamilton’ Before L.A. Does! (Tickets on
+            Sale Soon)
+            <http://www.sfweekly.com/news/s-f-gets-see-hamilton-l-tickets-sale-soon/>
+
+    San Francisco’s wait for the revolutionary, Tony-winning musical
+    Hamilton is finally over.…
+
+        Thu Jun 30th, 2016 12:45pm By Max DeNike	
+    homelessandcart
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/>
+
+  *
+    (Photo courtesy Hamilton)
+    <http://www.sfweekly.com/culture/90000-queue-online-hamilton-tickets/>
+
+
+            More than 90,000 queue up online for Hamilton tickets
+            <http://www.sfweekly.com/culture/90000-queue-online-hamilton-tickets/>
+
+    UPDATE, 2:30 p.m.: SHN reported at 1:45 p.m. Monday that presale
+    tickets were sold…
+
+        Thu Jun 30th, 2016 12:45pm By Max DeNike	
+    homelessandcart
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/>
+
+  *
+    (Courtesy of Shutterstock)
+    <http://www.sfweekly.com/news/snitch/mayor-butt-makes-ass-city-richmond/>
+
+
+
+            Mayor Butt Makes an Ass of the City of Richmond
+            <http://www.sfweekly.com/news/snitch/mayor-butt-makes-ass-city-richmond/>
+
+    Richmond Mayor Tom Butt made a faux pas recently, after sending a…
+
+        Thu Jun 30th, 2016 12:45pm By Max DeNike	
+    homelessandcart
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/>
+
+  *
+    salesforce1
+    <http://www.sfweekly.com/culture/awesome-alert-salesforce-tower-construction-aerial-images/>
+
+
+
+            Awesome Alert: Salesforce Tower Construction in Aerial
+            Images
+            <http://www.sfweekly.com/culture/awesome-alert-salesforce-tower-construction-aerial-images/>
+
+    (Photo: Salesforce Tower Facebook) The Salesforce Tower isn’t set to
+    be completed…
+
+        Thu Jun 30th, 2016 12:45pm By Max DeNike	
+    homelessandcart
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/>
+
+  *
+    A ramaria in Mendocino. (Mycology Society of San Francisco)
+    <http://www.sfweekly.com/dining/fungus-fair-sunday/>
+
+
+            The Fungus Fair Is This Sunday
+            <http://www.sfweekly.com/dining/fungus-fair-sunday/>
+
+    Mycologists, fungi-philes, and asexually reproducing spore-people,
+    take note! This Sunday, Dec. 4,…
+
+        Thu Jun 30th, 2016 12:45pm By Max DeNike	
+    homelessandcart
+    <http://www.sfweekly.com/news/millennial-problems-solutions-to-homelessness/>
+
+
+<http://www.sfweekly.com/>
+
+  *
+
+    <https://www.facebook.com/SFWeekly/>
+  *
+
+    <https://twitter.com/sfweekly/>
+  *
+
+    <https://www.instagram.com/sfweekly/>
+
+© 2016, SF Weekly <http://www.sfweekly.com/> and SFMC
+<http://sfmediaco.com/>
+
+  * Subscribe to Our Email Newsletters
+    <http://www.sfweekly.com/newsletters/>
+  * SF Weekly Terms of Use <http://www.sfweekly.com/sf-weekly-terms-use/>
+  * Privacy Policy <http://www.sfweekly.com/privacy-policy/>
+  * Archives <http://archives.sfweekly.com/>
+
+Post to Facebook
+Post to Twitter
+Post to Reddit
+Email story
+Print story
+Jump to comments
+Post to Facebook
+Post to Twitter
+Post to Reddit
+Email story
+Print story
+Jump to comments

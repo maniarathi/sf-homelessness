@@ -1,0 +1,441 @@
+KQED Menu
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <https://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <https://ww2.kqed.org/perspectives/>
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <https://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <https://ww2.kqed.org/perspectives/>
+  * Schedules
+
+    <#>
+      o Daily Schedule
+
+        <http://www.kqed.org/radio/schedules/daily>
+      o Weekly Schedule
+
+        <http://www.kqed.org/radio/schedules/weekly.jsp>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  Forum <https://ww2.kqed.org/forum/>
+
+Search
+
+<#search-container>
+
+
+  Forum Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+Search for:
+
+Forum <https://ww2.kqed.org/forum>
+
+
+  Searching for the Hows, Whats and Whys of Homelessness
+
+Audio Player
+http://www.podtrac.com/pts/redirect.mp3/www.kqed.org/.stream/mp3splice/radio/forum/2016/06/Forum20160629A.mp3
+<https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?a=commentsATag>
+Comments
+ <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?a=commentsATag>
+Download
+ <http://www.podtrac.com/pts/redirect.mp3/www.kqed.org/.stream/mp3splice/radio/forum/2016/06/Forum20160629A.mp3?_=1>
+<https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness>
+
+
+
+    Forum
+
+
+      Searching for the Hows, Whats and Whys of Homelessness
+      <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/>Jun
+      29, 2016 09:00 AM
+
+00:00
+00:00
+00:00
+Use Up/Down Arrow keys to increase or decrease volume.
+
+<javascript:void(0);>
+Host: Michael Krasny <https://ww2.kqed.org/forum/author/mkrasny/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=email&nb=1>
+*
+
+A homeless man begs for change on December 10, 2012 in San Francisco,
+California.	
+
+As part of SF Project Homeless, a week of coordinated media coverage on
+homelessness in the Bay Area, KQED asked our listeners what questions
+they have about homelessness. We received more than 1,200 responses,
+with questions ranging from what are the root causes of homelessness to
+how to respond when someone is passed out on the sidewalk. In this hour,
+we’ve gathered a group of people who work with the homeless across a
+variety of disciplines to answer those questions.
+
+
+      Interview Highlights
+
+*On What Causes Homelessness*
+
+“We have a poverty problem in this country. Thirty percent of Americans
+are at or near the poverty level. When you have that level of poverty,
+you’re not going to eliminate homelessness; you’re fixing homelessness
+on the other end. If we had the kind of affordable housing funding we
+had way back, decades ago, it’d be a different picture. If the minimum
+wage paid what it paid decades ago, instead of half what it did in 1980
+in terms of buying power, we’d have a different picture. So we’re
+essentially bailing the tide out.” – Kevin Fagan
+
+*On Other Cities Sending Homeless People to the Bay Area*
+
+“Through my years of coverage, I’ve visited homeless enclaves all over
+the country. Every city says that people are sending their homeless
+people to them, even cold cities. The weather’s good out here, so you
+get a few more. But I don’t think there’s a giant influx of people
+coming out here … I just don’t buy the idea that if you do better,
+you’re going to become the Disneyland of Homelessness.” -Kevin Fagan
+
+*On Why San Francisco’s Homeless Problem Seems So Bad*
+
+“It is very visible here, I think in part because we’re in such a small
+confined space. The more we develop the city, the more people will come
+out of the shadows and become more visible.” -Scott Prentice
+
+“We have the most visible homeless problem in the country, because it’s
+right downtown.” -Kevin Fagane
+
+*On Whether to Call 9-1-1 or 3-1-1*
+
+“If [the person] appears to be in any type of distress whatsoever or you
+have any doubts whatsoever, just call 9-1-1. An ambulance can respond
+much faster than the homeless outreach team. If the person’s okay, the
+ambulance or police responder may just call us afterwards.
+
+Personally, I’m more interested in connecting people to services. I
+encourage people to call 3-1-1 and get in touch with the [Homeless
+Outreach Team] if they’re concerned about someone on the street.” -Scott
+Prentice
+
+*On How SF’s Homeless Outreach Team Responds to Calls*
+
+“We’ll send somebody out, hopefully that day, to check on them. We’ll
+come back in, we’ll discuss them, we’ll reengage them time and time
+again until we’ve built a relationship with that person, and then we’ll
+try our best to either get them into a shelter or medical care.” -Scott
+Prentice
+
+*Resources and Related Links*
+
+  * 311
+  * San Francisco Homeless Outreach Team: 415-734-4233
+  * When Do You Call for Help for the Homeless?
+    <http://ww2.kqed.org/news/2014/07/help-homeless-san-francisco/>
+    (KQED News)
+  * S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+    <http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results> (San
+    Francisco Chronicle)
+
+Guests:
+Kevin Fagan, reporter, San Francisco Chronicle
+Scott Prentice, program coordinator, SF Homeless Outreach Team
+Ken Reggio, executive director, Episcopal Community Services
+Dr. Pamela Swedlow , director of behavioral health, Tom Waddell Urban
+Health Clinic
+
+Explore: Forum <https://ww2.kqed.org/forum/category/forum/>, housing
+<https://ww2.kqed.org/forum/tag/housing/>, SF Homeless Project
+<https://ww2.kqed.org/forum/tag/sf-homeless-project/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/?share=email&nb=1>
+  *
+
+38 Comments
+<https://ww2.kqed.org/forum/2016/06/28/searching-for-the-hows-whats-and-whys-of-homelessness/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+SF Homeless Project
+
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+Homelessness: You've Got Questions, We've Got Answers
+
+<http://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers>
+
+How Many Are Homeless? A Question With Many Answers
+
+<http://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers>
+
+When Do You Call for Help for the Homeless?
+
+<http://ww2.kqed.org/news/2014/07/help-homeless-san-francisco/>
+
+International Adoption
+
+<http://ww2.kqed.org/forum/2010/07/12/international-adoption/>
+
+Former State Legislator Tom Ammiano Blends Politics, Humor in One-Man Show
+
+<https://ww2.kqed.org/forum/2016/10/03/former-state-legislator-tom-ammiano-blends-politics-humor-in-one-man-show/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Host
+
+
+      Michael Krasny
+
+Michael Krasny, PhD, has been in broadcast journalism since 1983. He was
+with ABC in both radio and television and migrated to public
+broadcasting in 1993. He has been Professor of English at San Francisco
+State University and also taught at Stanford, the University of San
+Francisco and the University of California, as well as in the Fulbright
+International Institutes. A veteran interviewer for the nationally
+broadcast City Arts and Lectures, he is the author of a number of books,
+including “Off Mike: A Memoir of Talk Radio and Literary Life” (Stanford
+University Press) “Spiritual Envy” (New World); “Sound Ideas” (with M.E.
+Sokolik/ McGraw-Hill); “Let There Be Laughter” (Harper-Collins) as well
+as the twenty-four lecture series in DVD, audio and book, “Short Story
+Masterpieces” (The Teaching Company). He has interviewed many of the
+world’s leading political, cultural, literary, science and technology
+figures, as well as major figures from the world of entertainment. He is
+the recipient of many awards and honors including the S.Y. Agnon Medal
+for Intellectual Achievement; The Eugene Block Award for Human Rights
+Journalism; the James Madison Freedom of Information Award; the
+Excellence in Journalism Award from the National Lesbian and Gay
+Journalists Association; Career Achievement Award from the Society of
+Professional Journalists and an award from the Radio and Television News
+Directors Association. He holds a B.A. (cum laude) and M.A. from Ohio
+University and a PhD from the University of Wisconsin.
+
+View all posts by this host <https://ww2.kqed.org/forum/author/mkrasny/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Mother Jones' Shane Bauer Goes Undercover as a Private Prison Guard
+
+<https://ww2.kqed.org/forum/2016/06/27/2010101855406/> Next In My
+Experience: Homeless in the Bay Area
+
+<https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/>
+
+
+
+  About Forum
+
+KQED's live call-in program presents balanced discussions of local,
+state, national, and world issues as well as in-depth interviews with
+leading figures in politics, science, entertainment, and the arts.
+
+  * Forum Staff <https://ww2.kqed.org/forum/contributors>
+  * Contact Forum <mailto:forum@kqed.org>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow Forum
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDForum/>
+  * Follow Us on Twitter <https://twitter.com/search/@kqedforum>
+  * Connect on Instagram <https://www.instagram.com/kqed_forum/>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

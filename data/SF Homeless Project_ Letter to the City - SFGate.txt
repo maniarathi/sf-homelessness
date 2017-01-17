@@ -1,0 +1,3382 @@
+57°F <http://www.sfgate.com/weather/> San Francisco
+
+  * <javascript:void(0)>
+  * antioch <javascript:void(0)>
+  * concord <javascript:void(0)>
+  * fairfield <javascript:void(0)>
+  * hayward <javascript:void(0)>
+  * livermore <javascript:void(0)>
+  * mill valley <javascript:void(0)>
+  * mountain view <javascript:void(0)>
+  * napa <javascript:void(0)>
+  * oakland <javascript:void(0)>
+  * palo alto <javascript:void(0)>
+  * richmond <javascript:void(0)>
+  * san carlos <javascript:void(0)>
+  * san francisco <javascript:void(0)>
+  * san jose <javascript:void(0)>
+  * santa rosa <javascript:void(0)>
+
+  *
+
+    <https://www.facebook.com/SFGate/>
+  *
+
+    <https://twitter.com/sfgate/>
+  *
+
+    <https://instagram.com/sfgate/>
+  *
+
+    <http://www.pinterest.com/sfgate/>
+  *
+
+    <http://www.sfgate.com/rss/>
+  * Subscribe
+
+    <http://www.sfgate.com/subscriptions>
+  *
+    Sign In
+
+  * Home
+
+    <http://www.sfgate.com/>
+          + Contact SFGate
+
+            <http://www.sfgate.com/chronicle-contacts/>
+              # Contact SFGate
+
+                <http://www.sfgate.com/chronicle-contacts/>
+              # Customer Support
+
+                <http://www.sfgate.com/feedback/>
+              # Submissions & Tips
+
+                <http://www.sfgate.com/submissions/>
+          + Classifieds
+
+            <http://sfc.ipublishmarketplace.com/sf-marketplace/>
+          + About SFGate
+
+            <http://www.sfgate.com/aboutsfgate/>
+              # About SFGate
+
+                <http://www.sfgate.com/aboutsfgate/>
+              # FAQ
+
+                <http://www.sfgate.com/faq/>
+              # SFGate Newsletters
+
+                <http://www.sfgate.com/profile>
+              # SFGate Staff
+
+                <http://www.sfgate.com/staff/>
+              # Careers
+
+                <http://www.sfgate.com/chronicle/hr/>
+              # Site Index
+
+                <http://www.sfgate.com/index/>
+              # Hearst
+
+                <http://www.hearst.com/>
+          + About The Chronicle
+
+            <http://www.hearst.com/newspapers/san-francisco-chronicle>
+              # About The Chronicle
+
+                <http://www.hearst.com/newspapers/san-francisco-chronicle>
+              # The Chronicle Staff
+
+                <http://www.sfchronicle.com/newsroom_contacts/>
+              # Become a Subscriber
+
+                <http://www.sfchronicle.com/ultimate_access/?cmpid=sfg_nav>
+              # Manage Your Subscription
+
+                <http://www.sfchronicle.com/account>
+              # Customer Service
+
+                <http://www.sfchronicle.com/customer_service/>
+              # Careers
+
+                <http://www.sfgate.com/chronicle/hr/>
+              # e-edition
+
+                <http://www.sfchronicle.com/e-edition>
+              # Back Copies
+
+                <http://www.sfgate.com/faq/#faq10>
+              # Chronicle in Education
+
+                <http://nieonline.com/sfchronicle>
+              # Corrections
+
+                <http://www.sfgate.com/corrections/>
+          + Advertise with Us
+
+            <http://marketing.sfgate.com/>
+          + More on Advertising
+
+            <http://marketing.sfgate.com/>
+              # More on Advertising
+
+                <http://marketing.sfgate.com/>
+              # Place a Classified Ad
+
+                <http://sfc.ipublishmarketplace.com/sf-marketplace/>
+              # About Our Ads
+
+                <http://www.sfgate.com/privacy-policy/>
+              # Public Notices
+
+                <http://www.legalnotice.org/pl/SFGate/landing1.aspx>
+              # Local Business Directory
+
+                <http://local.sfgate.com/>
+              # Place an Obituary
+
+                <http://ezads.sfchron.com/sf-adportal/obits/index.html>
+              # Gate List
+
+                <http://local.sfgate.com/>
+          + Store
+
+            <http://sfchronicle.myshopify.com/>
+          + Privacy policy
+
+            <http://www.sfgate.com/privacy-policy/>
+              # Privacy policy
+
+                <http://www.sfgate.com/privacy-policy/>
+              # Ad Choices
+
+                <http://www.aboutads.info/choices/>
+          + Chronicle Archives
+
+            <http://www.sfchronicle.com/archive/>
+          + Terms of Use
+
+            <http://www.sfgate.com/termsandconditions/>
+          + Newsletters
+
+            <http://www.sfgate.com/profile>
+          + Get news alerts
+
+            <http://www.sfgate.com/getus/>
+        SFGate Customer support - Photo
+
+
+                SFGate Customer support
+
+        <http://www.sfgate.com/feedbackredesign/>
+        Get VIP access with SF Chronicle Membership - Photo
+
+
+                Get VIP access with SF Chronicle Membership
+
+        <http://www.sfchronicle.com/subscribe/?ipid=membership>
+        Get SFGate newsletters for the latest from the Bay - Photo
+
+
+                Get SFGate newsletters for the latest from the Bay
+
+        <http://www.sfgate.com/newsletters>
+        Check out the Top 100 Bay Area restaurants - Photo
+
+
+                Check out the Top 100 Bay Area restaurants
+
+        <http://projects.sfchronicle.com/2016/top-100-restaurants/>
+  * News
+
+    <http://www.sfgate.com/news/>
+          + Bay Area & State
+
+            <http://www.sfgate.com/bayarea/>
+          + Education
+
+            <http://sfgate.com/education/>
+          + Traffic
+
+            <http://www.sfgate.com/traffic>
+          + Nation
+
+            <http://www.sfgate.com/nation/>
+          + World
+
+            <http://www.sfgate.com/world/>
+          + Politics
+
+            <http://www.sfgate.com/politics/>
+          + Crime
+
+            <http://www.sfgate.com/crime/>
+          + Election Results
+
+            <http://www.sfgate.com/elections/>
+          + Obituaries
+
+            <http://www.legacy.com/obituaries/sfgate/>
+          + Smell the Truth
+
+            <http://blog.sfgate.com/smellthetruth/>
+        Mountain View teacher who compared Trump to Hitler back to work
+        - Photo
+
+
+                Mountain View teacher who compared Trump to Hitler back
+                to work
+
+        <http://www.sfgate.com/bayarea/article/Mountain-View-teacher-who-compared-Trump-to-10614663.php>
+
+        UC Berkeley students demand professor’s suspension - Photo
+
+
+                UC Berkeley students demand professor’s suspension
+
+        <http://www.sfgate.com/bayarea/article/UC-Berkeley-students-demand-professor-s-10614425.php>
+
+        $50,000 reward offered in slaying of SF attorney - Photo
+
+
+                $50,000 reward offered in slaying of SF attorney
+
+        <http://www.sfgate.com/crime/article/50-000-reward-offered-in-slaying-of-SF-attorney-10614552.php>
+
+        Giuliani emerges as top choice for secretary of state - Photo
+
+
+                Giuliani emerges as top choice for secretary of state
+
+        <http://www.sfgate.com/nation/article/Trump-considers-gay-man-woman-for-top-posts-10614130.php>
+
+  * Sports
+
+    <http://www.sfgate.com/sports/>
+          + 49ers
+
+            <http://www.sfgate.com/49ers/>
+          + Raiders
+
+            <http://www.sfgate.com/raiders/>
+          + Giants
+
+            <http://www.sfgate.com/giants/>
+          + A's
+
+            <http://www.sfgate.com/athletics/>
+          + Warriors
+
+            <http://www.sfgate.com/warriors/>
+          + Sports Blogs
+
+            <http://www.sfgate.com/sports/blogs/>
+          + Sports Calendar
+
+            <http://www.sfgate.com/sports/tv/>
+          + NFL
+
+            <http://sfgate.stats.com/fb/front.asp>
+          + MLB
+
+            <http://sfgate.stats.com/mlb/front.asp>
+          + NBA
+
+            <http://sfgate.stats.com/nba/front.asp>
+          + College
+
+            <http://www.sfgate.com/collegesports/>
+          + Preps
+
+            <http://www.sfgate.com/preps/>
+          + Golf
+
+            <http://sfgate.stats.com/golf/front.asp>
+          + Outdoors
+
+            <http://www.sfgate.com/outdoors/>
+        Raiders’ offense humming under Bill Musgrave’s guidance - Photo
+
+
+                Raiders’ offense humming under Bill Musgrave’s guidance
+
+        <http://www.sfgate.com/raiders/article/Raiders-offense-humming-under-Bill-10614350.php>
+
+        Steve Kerr debunks Klay Thompson trade rumor - Photo
+
+
+                Steve Kerr debunks Klay Thompson trade rumor
+
+        <http://www.sfgate.com/warriors/article/Steve-Kerr-debunks-Klay-Thompson-trade-rumor-10614271.php>
+
+        49ers’ Chip Kelly stays hopeful with Pats coming to town - Photo
+
+
+                49ers’ Chip Kelly stays hopeful with Pats coming to town
+
+        <http://www.sfgate.com/49ers/article/49ers-turn-attention-to-big-challenge-in-Brady-10613655.php>
+
+        Warriors’ Kerr: No Klay Thompson trade - Photo
+
+
+                Warriors’ Kerr: No Klay Thompson trade
+
+        <http://www.sfgate.com/warriors/article/Warriors-Kerr-No-Klay-Thompson-trade-10613804.php>
+
+  * Business
+
+    <http://www.sfgate.com/business/>
+          + Scotland Business Opportunities
+
+            <http://www.sfgate.com/scotlandbusinessopportunities/>
+          + Technology
+
+            <http://www.sfgate.com/technology/>
+          + Mortgage Rates
+
+            <http://www.sfgate.com/mortgagerates/>
+          + Home Guides
+
+            <http://homeguides.sfgate.com/>
+          + Public Notices
+
+            <http://www.legalnotice.org/pl/SFGate/landing1.aspx>
+          + Sponsored Content
+
+            <http://www.sfgate.com/sponsoredarticles/business/>
+          + The Tech Chronicles
+
+            <http://blog.sfgate.com/techchron/>
+          + VisionSF
+
+            <http://www.sfgate.com/visionsf/>
+          + Jobs
+
+            <http://www.sfgate.com/jobs/>
+        PG&E plugs fast-rising executive Geisha Williams into CEO role -
+        Photo
+
+
+                PG&E plugs fast-rising executive Geisha Williams into
+                CEO role
+
+        <http://www.sfgate.com/business/article/PG-E-shakes-up-leadership-with-new-CEO-Geisha-10613878.php>
+
+        Fake news hurts Google, Facebook; PayPal boycott woes - Photo
+
+
+                Fake news hurts Google, Facebook; PayPal boycott woes
+
+        <http://www.sfgate.com/business/article/Fake-news-hurts-Google-Facebook-PayPal-boycott-10613983.php>
+
+        Where finance and technology come together - Photo
+
+
+                Where finance and technology come together
+
+        <http://www.sfgate.com/business/article/Where-finance-and-technology-come-together-10614038.php>
+
+        Samsung to buy Harman International in an $8 billion bet on cars
+        - Photo
+
+
+                Samsung to buy Harman International in an $8 billion bet
+                on cars
+
+        <http://www.sfgate.com/business/article/Samsung-to-buy-Harman-International-in-an-8-10613974.php>
+
+  * Entertainment
+
+    <http://www.sfgate.com/entertainment/>
+          + The Daily Dish
+
+            <http://www.sfgate.com/dailydish/>
+          + Snow
+
+            <http://www.sfgate.com/snow-ski/>
+          + Movies
+
+            <http://www.sfgate.com/movies/>
+          + Music & Nightlife
+
+            <http://www.sfgate.com/music/>
+          + Performance
+
+            <http://www.sfgate.com/performance/>
+          + Art
+
+            <http://www.sfgate.com/art/>
+          + Blogs
+
+            <http://www.sfgate.com/entertainment/blogs/>
+          + Events
+
+            <http://events.sfgate.com/>
+          + Puzzles
+
+            <http://www.sfgate.com/games/>
+          + TV
+
+            <http://www.sfgate.com/tv/>
+          + Horoscope
+
+            <http://www.sfgate.com/horoscope/>
+          + Comics
+
+            <http://www.sfgate.com/comics/>
+          + Crosswords & Puzzles
+
+            <http://www.sfgate.com/games/>
+          + Things To Do
+
+            <http://www.sfgate.com/thingstodo/>
+        After years building trust, Sleigh Bells explore new sounds - Photo
+
+
+                After years building trust, Sleigh Bells explore new sounds
+
+        <http://www.sfgate.com/music/article/After-years-building-trust-Sleigh-Bells-explore-10610579.php>
+
+        The latest from Dear Abby - Photo
+
+
+                The latest from Dear Abby
+
+        <http://www.sfgate.com/dearabby/>
+        ‘Loving’ a strong drama about a landmark case - Photo
+
+
+                ‘Loving’ a strong drama about a landmark case
+
+        <http://www.sfgate.com/movies/askmicklasalle/article/Loving-a-strong-drama-about-a-landmark-case-10604803.php>
+
+        Women a focus of 14th SF South Asian Film Festival - Photo
+
+
+                Women a focus of 14th SF South Asian Film Festival
+
+        <http://www.sfgate.com/movies/article/Women-a-focus-of-14th-SF-South-Asian-Film-Festival-10604544.php>
+
+  * Food
+
+    <http://www.sfgate.com/food/>
+          + Restaurants
+
+            <http://www.sfgate.com/restaurants/>
+          + Wine
+
+            <http://www.sfgate.com/wine/>
+          + Top 100 Restaurants
+
+            <http://insidescoopsf.sfgate.com/blog/category/top-100/>
+          + Chronicle Wine Competition
+
+            <http://www.sfgate.com/wine/article/2016-San-Francisco-Chronicle-Wine-Competition-6749722.php>
+
+          + Reservations
+
+            <http://www.opentable.com/start.aspx?m=4&ref=7801>
+          + Beer News
+
+            <http://www.sfgate.com/beer/>
+          + Inside Scoop SF
+
+            <http://insidescoopsf.sfgate.com/>
+          + Healthy Eating
+
+            <http://healthyeating.sfgate.com/>
+        Oakland’s Ozumo to close Nov. 20 - Photo
+
+
+                Oakland’s Ozumo to close Nov. 20
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/14/oaklands-ozumo-to-close/>
+
+        The Saratoga opens in the Tenderloin - Photo
+
+
+                The Saratoga opens in the Tenderloin
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/11/the-saratoga-opens-in-the-tenderloin/>
+
+        The Mission’s La Victoria plots a bar: Santo - Photo
+
+
+                The Mission’s La Victoria plots a bar: Santo
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/11/the-missions-la-victoria-plots-a-bar-santo/>
+
+        Kenzo opens in Napa, with menu that starts at $225 - Photo
+
+
+                Kenzo opens in Napa, with menu that starts at $225
+
+        <http://insidescoopsf.sfgate.com/blog/2016/11/11/kenzo-opens-next-week-in-napa-with-225-menu/>
+
+  * Living
+
+    <http://www.sfgate.com/living/>
+          + Home & Garden
+
+            <http://www.sfgate.com/homeandgarden/>
+          + Style
+
+            <http://www.sfgate.com/style/>
+          + Parties
+
+            <http://www.sfgate.com/sfsocial/>
+          + Lust
+
+            <http://www.sfgate.com/lust/>
+          + LGBT
+
+            <http://www.sfgate.com/lgbt/>
+          + Mommy Files & Parenting
+
+            <http://www.sfgate.com/mommyfiles/>
+          + Houzz
+
+            <http://remodeling.sfgate.com/>
+          + Outdoors
+
+            <http://www.sfgate.com/outdoors/>
+          + Health
+
+            <http://www.sfgate.com/health/>
+          + Blogs
+
+            <http://www.sfgate.com/living/blogs/>
+          + Education
+
+            <http://www.sfgate.com/education/>
+          + Sponsored
+
+            <http://www.sfgate.com/sponsoredarticles/lifestyle/>
+          + Schools, Camps & Activities
+
+            <http://www.sfgate.com/campguide/>
+        14 fresh ways to mix vintage style into a modern home - Photo
+
+
+                14 fresh ways to mix vintage style into a modern home
+
+        <http://www.sfgate.com/living/article/14-fresh-ways-to-mix-vintage-style-into-a-modern-10609146.php>
+
+        Read a California student's letter to Donald Trump - Photo
+
+
+                Read a California student's letter to Donald Trump
+
+        <http://www.sfgate.com/mommyfiles/article/third-grader-writes-letter-Trump-California-Donald-10608754.php>
+
+        9 of the weirdest classic Thanksgiving recipes The Chronicle has
+        ever published - Photo
+
+
+                9 of the weirdest classic Thanksgiving recipes The
+                Chronicle has
+
+        <http://www.sfgate.com/living/article/9-of-the-weirdest-classic-Thanksgiving-recipes-10592219.php>
+
+        Baby animals are here to soothe your troubled mind - Photo
+
+
+                Baby animals are here to soothe your troubled mind
+
+        <http://www.sfgate.com/living/article/Baby-animals-cute-zoo-animals-photos-10604535.php>
+
+  * Travel
+
+    <http://www.sfgate.com/travel/>
+          + Destination BC
+
+            <http://www.sfgate.com/destinationbc/>
+          + Whistler
+
+            <http://www.sfgate.com/whistlertourism/>
+          + Monterey-Carmel
+
+            <http://www.sfgate.com/monterey-carmel/>
+          + Weekend Getaways
+
+            <http://www.sfgate.com/getaways/>
+          + Wine Country
+
+            <http://www.sfgate.com/winecountry/>
+          + Napa
+
+            <http://www.sfgate.com/napa/>
+          + Reno-Tahoe
+
+            <http://www.sfgate.com/renotahoe/>
+          + Hawaii
+
+            <http://www.sfgate.com/hawaii/>
+          + Mexico
+
+            <http://www.sfgate.com/mexico/>
+          + Exotic Destinations
+
+            <http://www.sfgate.com/exoticdestinations/>
+          + Snow
+
+            <http://www.sfgate.com/snow-ski/>
+        Suite Spot: Chaminade Resort & Spa, Santa Cruz - Photo
+
+
+                Suite Spot: Chaminade Resort & Spa, Santa Cruz
+
+        <http://www.sfgate.com/travel/article/Suite-Spot-Chaminade-Resort-Spa-Santa-Cruz-10609479.php>
+
+        Insider: Guidebook author’s Santa Cruz favorites - Photo
+
+
+                Insider: Guidebook author’s Santa Cruz favorites
+
+        <http://www.sfgate.com/travel/article/Insider-Guidebook-author-s-Santa-Cruz-favorites-10609485.php>
+
+        Rick Steves: Communicate even if you don’t know the lingo - Photo
+
+
+                Rick Steves: Communicate even if you don’t know the lingo
+
+        <http://www.sfgate.com/travel/article/Rick-Steves-Communicate-even-if-you-don-t-know-10593610.php>
+
+        Stargazing in Lake County - Photo
+
+
+                Stargazing in Lake County
+
+        <http://www.sfgate.com/travel/article/Stargazing-in-Lake-County-10591366.php>
+
+  * Real Estate
+
+    <http://www.sfgate.com/realestate/>
+          + New Homes
+
+            <http://www.sfgate.com/newhomes/>
+          + Open Homes
+
+            <http://www.sfgate.com/openhomes/>
+          + Luxury
+
+            <http://www.sfgate.com/luxuryhomes/>
+          + Rentals
+
+            <http://www.sfgate.com/rentals/>
+          + Mortgage Rates
+
+            <http://www.sfgate.com/mortgagerates/>
+          + Commercial
+
+            <http://www.sfgate.com/commercial/>
+          + Place an ad
+
+            <http://www.sfgate.com/realestate/advertise/>
+          + Home Guides
+
+            <http://homeguides.sfgate.com/>
+          + Home Sales
+
+            <http://www.sfgate.com/webdb/homesales>
+          + On the Block Blog
+
+            <http://blog.sfgate.com/ontheblock>
+        Hillsborough estate sees a $70 million cut from original listing
+        price - Photo
+
+
+                Hillsborough estate sees a $70 million cut from original
+                listing
+
+        <http://blog.sfgate.com/ontheblock/2016/11/14/hillsborough-estate-sees-a-70-million-cut-from-original-listing-price/>
+
+        Grand 1928 Tudor with solarium and bridge views asks $14 million
+        - Photo
+
+
+                Grand 1928 Tudor with solarium and bridge views asks $14
+                million
+
+        <http://blog.sfgate.com/ontheblock/2016/11/14/grand-1928-tudor-with-solarium-and-bridge-views-asks-14-million/>
+
+        Hot Property: Remodeled home offers smart and stylish additions
+        - Photo
+
+
+                Hot Property: Remodeled home offers smart and stylish
+                additions
+
+        <http://www.sfgate.com/realestate/article/Hot-Property-10609318.php>
+
+        There are more rich renters in SF than homeowners - Photo
+
+
+                There are more rich renters in SF than homeowners
+
+        <http://blog.sfgate.com/ontheblock/2016/11/11/there-are-more-rich-renters-in-sf-than-homeowners/>
+
+  * Cars
+
+    <http://cars.sfgate.com/>
+          + Dealers
+
+            <http://cars.sfgate.com/Dealers?zipCode=94103&make=&maxDistance=100&sortBy=1>
+
+          + Click and Clack
+
+            <http://www.sfgate.com/columns/clickandclack/>
+          + Car Blog
+
+            <http://blog.sfgate.com/topdown/>
+          + My Ride
+
+            <http://www.sfgate.com/columns/myride/>
+          + Al's Road to the Big Game
+
+            <http://www.sfgate.com/als_road_to_big_game/>
+          + Sell Your Car
+
+            <http://ezads.sfchron.com/sf-adportal/classifieds/index.html>
+        An Artfully Performing SUV - Photo
+
+
+                An Artfully Performing SUV
+
+        <http://www.sfgate.com/cars/article/An-Artfully-Performing-SUV-10609325.php>
+
+        1955 Beardmore Taxi - Photo
+
+
+                1955 Beardmore Taxi
+
+        <http://www.sfgate.com/cars/myride/article/1955-Beardmore-Taxi-10594724.php>
+
+        A mid-size fuel saving hybrid without a plug - Photo
+
+
+                A mid-size fuel saving hybrid without a plug
+
+        <http://www.sfgate.com/cars/article/A-mid-size-fuel-saving-hybrid-without-a-plug-10420755.php>
+
+        Nurse finds adventure in ’66 Porsche - Photo
+
+
+                Nurse finds adventure in ’66 Porsche
+
+        <http://www.sfgate.com/cars/myride/article/Nurse-finds-adventure-in-66-Porsche-10079065.php>
+
+  * Jobs
+
+    <http://www.sfgate.com/jobs/>
+          + Job Events
+
+            <http://events.sfgate.com/search?acat=&new=n&sort=0&srad=50&srss=10&ssrss=5&st=event&svt=text&swhat=&swhen=&swhere=San+Francisco%2CCA&trim=1&cat=1111>
+
+          + Advertise
+
+            <http://marketing.sfgate.com/marketplaces/recruitment>
+          + Salary Wizard
+
+            <http://bayarea.salary.com/SalaryWizard/LayoutScripts/Swzl_NewSearch.aspx>
+
+          + Get To Work
+
+            <http://blog.sfgate.com/gettowork/>
+        How to Ace a 30-Minute Interview - Photo
+
+
+                How to Ace a 30-Minute Interview
+
+        <http://blog.sfgate.com/gettowork/2016/11/14/how-to-ace-a-30-minute-interview/>
+
+        Know why you need to develop self-awareness - Photo
+
+
+                Know why you need to develop self-awareness
+
+        <http://blog.sfgate.com/gettowork/2016/11/03/know-why-you-need-to-develop-self-awareness/>
+
+        Shape up your resume to open more doors of opportunity - Photo
+
+
+                Shape up your resume to open more doors of opportunity
+
+        <http://blog.sfgate.com/gettowork/2016/10/27/shape-up-your-resume-to-open-more-doors-of-opportunity/>
+
+        Know how to ace an executive interview - Photo
+
+
+                Know how to ace an executive interview
+
+        <http://blog.sfgate.com/gettowork/2016/10/21/know-how-to-ace-an-executive-interview/>
+
+  * Video
+
+    <http://www.sfgate.com/video/>
+  * Chronicle
+
+    <http://www.sfchronicle.com/>
+          + Latest columns
+
+            <http://www.sfchronicle.com/local/columnists>
+          + Michael Bauer
+
+            <http://www.sfchronicle.com/author/michael-bauer>
+          + Leah Garchik
+
+            <http://www.sfchronicle.com/author/leah-garchik/>
+          + Bruce Jenkins
+
+            <http://www.sfchronicle.com/author/bruce-jenkins/>
+          + Esther Mobley
+
+            <http://www.sfchronicle.com/author/esther-mobley/>
+          + Ann Killion
+
+            <http://www.sfchronicle.com/author/ann-killion/>
+          + Thomas Lee
+
+            <http://www.sfchronicle.com/author/thomas-lee/>
+          + Matier & Ross
+
+            <http://www.sfchronicle.com/author/matier-ross/>
+          + C.W Nevius
+
+            <http://www.sfchronicle.com/author/c-w-nevius/>
+          + Kathleen Pender
+
+            <http://www.sfchronicle.com/author/kathleen-pender/>
+          + Scott Ostler
+
+            <http://www.sfchronicle.com/author/scott-ostler/>
+        The ultimate NorCal brewery map - Photo
+
+
+                The ultimate NorCal brewery map
+
+        <http://www.sfchronicle.com/brewerymap/>
+        Top 100 Restaurants - Photo
+
+
+                Top 100 Restaurants
+
+        <http://www.sfchronicle.com/top100restaurants>
+        Warriors show their style off the court - Photo
+
+
+                Warriors show their style off the court
+
+        <http://www.sfchronicle.com/style/article/Fashion-Warriors-Golden-State-shows-its-style-7271312.php>
+
+
+<http://www.sfgate.com/>MenuSections
+
+http://www.sfgate.com/homeless/article/SF-Homeless-Project-Letter-to-the-City-8326254.php
+
+
+
+  SF Homeless Project: Letter to the City
+
+SF Homeless Project
+
+
+Updated 7:33 am, Wednesday, June 29, 2016
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+    311
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+* *
+
+*To the city and people of San Francisco:*
+
+Like you, we are frustrated, confused and dismayed by the seemingly
+intractable problem of homelessness in our city. Like you, we want
+answers — and change.
+
+We see the misery around us – the 6,600 or more people who live on the
+streets of San Francisco – and we sense it is worsening. We feel for the
+people who live in doorways and under freeways, and for the countless
+others who teeter on the edge of eviction. We empathize with the EMTs,
+the nurses and doctors, the social workers and the police. They are on
+the front lines of this ongoing human catastrophe.
+
+  *
+
+    <#prev>
+
+    <#next>
+    Homeless in San Francisco: SF Homeless ProjectJerome, a homeless
+    man, uses a pew to catch up on sleep at St. Boniface Catholic Church
+    in San Francisco's Tenderloin neighborhood in this 2006 photo.
+    Photo: Brant Ward, SAN FRANCISCO CHRONICLE
+  *
+
+    <#prev>
+
+    <#next>
+    With new construction looming in the background, residents of the
+    encampment near the 5th Street Bay Bridge onramp sat outside their
+    tents Tuesday March 3, 2015. Photo: Brant Ward, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Longtime homeless woman Patti Mendez is very bruised, she says, from
+    taking a bad fall the night before. Patti is an alcoholic who lives
+    with her boyfriend and two dogs on Market Street much of the time. 
+    Photo: BRANT WARD, SFC
+  *
+
+    <#prev>
+
+    <#next>
+    A homeless woman from the encampment on 5th Street near the Bay
+    Bridge entrance laid in the sidewalk and street Tuesday March 3,
+    2015. Homeless encampments are still prevalent in San Francisco,
+    Calif. and their locations are becoming more apparent. Photo: Brant
+    Ward, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Christine Boyer holds a sign as she panhandles at the corner of
+    Market and Second Street on Friday, May, 27, 2016 in San Francisco,
+    California. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    San Francisco Police officers Suhrke (left) and Gerrans tell Mele
+    (center) and Junior, a homeless couple, to move their encampment
+    from the sidewalk near Division and Bryant streets in San Francisco,
+    California, on Wednesday, Aug. 12, 2015. Photo: Connor Radnovich,
+    The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Deborah, a homeless woman, sits in her tent at the near the corner
+    of Fifth and Bryant Streets where she was nearly run over by a car
+    recently.  Photo: Brant Ward, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Zoila Soriano, 71, sits on her bed at Next Door homeless shelter
+    June 1, 2016 in San Francisco, Calif. Soriano, who lived for 51
+    years in Bay Area and 27 years in Daly City, says she lost
+    everything when her husband died and she sold her house to pay for
+    her son's burial after he died. Photo: Leah Millis, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Staff member Tiffany Tate, right, and volunteer Susan Geraghty serve
+    breakfast to clients at Next Door homeless shelter June 1, 2016 in
+    San Francisco, Calif. Photo: Leah Millis, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A client feeds his dog R.J. while making himself a sandwich at the
+    Navigation Center homeless shelter June 3, 2016 in San Francisco,
+    Calif. Photo: Leah Millis, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A man and woman push a cart and carry suitcases as the homeless
+    encampment along 13th Street is cleared out on Tuesday, March 1,
+    2016 in San Francisco. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A homeless man walks along the Embarcadero with a rolling suitcase
+    on Thursday, January 21, 2016 in San Francisco. Photo: Lea Suzuki,
+    The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A woman stands alongside a cart of belongings as the homeless
+    encampment along 13th Street is cleared out on Tuesday, March 1,
+    2016 in San Francisco. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Pete Kautzmann, 48, checks the lingering stains on his pants while
+    doing laundry with his wife at the Navigation Center homeless
+    shelter June 3, 2016 in San Francisco, Calif. Kautzmann and his wife
+    are considered residents though they obtained an RV right before
+    being admitted into the shelter and have been allowed to sleep in it
+    and use the shelter's services. "They've been bending over backwards
+    for us." said Rosie Sullivan, Kautzmann's wife. Photo: Leah Millis,
+    The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Enrique Chunpitaz, 74, listens to a radio as he hangs out in the
+    courtyard at the Navigation Center homeless shelter, where he is
+    staying, June 3, 2016 in San Francisco, Calif. Photo: Leah Millis,
+    The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Kathleen Ferrie, 61, and Jack Olson, 59, take a smoke break outside
+    of Next Door homeless shelter June 1, 2016 in San Francisco, Calif.
+    Olson, who is a Navy Veteran with a VASH voucher, has been
+    struggling to find a place to stay that is affordable and will take
+    approve his application. "Seniors with problems should not be thrown
+    out on the street," Ferrie said. Photo: Leah Millis, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Daniel Pledger places linens on the one night bed at Next Door
+    Shelter on Tuesday, May 24 , 2016 in San Francisco, California.
+    Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Daniel Pledger rests against a building on Florida Street as he sits
+    under blankets covering him on Friday, April 29, 2016 in San
+    Francisco, California. Pledger says he's been homeless since last
+    August. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Daniel Pledger carries his belongings after receiving a spot on the
+    shelter list as he walks past a truck clearing a tent encampment on
+    Tuesday, May 24 , 2016 in San Francisco, California. Photo: Lea
+    Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A man pushes a grocery cart across Second Street while Christine
+    Boyer (right) panhandles on the corner of Mission and Second Street
+    on Friday, May, 27, 2016 in San Francisco, California. Photo: Lea
+    Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Daniel Pledger kicks at an item on the street to see what it is as
+    he walks through the Tenderloin district on Friday, May 20 , 2016 in
+    San Francisco, California. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Daniel Pledger rests against a building on Florida Street as he sits
+    under blankets covering him on Friday, April 29, 2016 in San
+    Francisco, California. Pledger says he's been homeless since last
+    August. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A man's feet stick out of a sleeping bag as he lays on Utah Street
+    on Friday, May, 27, 2016 in San Francisco, California. Photo: Lea
+    Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Shelia Ollison, 51, of San Francisco, maneuvers her electric
+    wheelchair through UN Plaza with her grandchildren Joseph Elliot III
+    (left) and Levi Jovan (right), 1, on Friday, May, 27, 2016 in San
+    Francisco, California. Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Latanya Drisdale checks up on her friends at the homeless encampment
+    under Highway 101, near the Cesar Chavez Street exit on Tuesday, May
+    10, 2016 in San Francisco, Calif. City officials cleaned up the
+    sidewalks next to the encampment. Drisdale said she lives nearby.
+    Photo: Santiago Mejia, Special To The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    A San Francisco Recreation & Parks official, left, speaks with a man
+    about the homeless encampment on Tuesday, May 10, 2016 in San
+    Francisco, Calif. City officials cleaned up the sidewalks from the
+    homeless encampment. Photo: Santiago Mejia, Special To The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    City crews and police cleared out a large homeless camp Tuesday on
+    Cesar Chavez Street around Highway 101. Photo: Steve Rubenstein /
+    The Chronicle / Steve Rubenstein / The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+    Vivian Cook of San Francisco walks past tents pitched along Florida
+    Street at 16th Street on Friday, April 29, 2016 in San Francisco,
+    California.  Photo: Lea Suzuki, The Chronicle
+  *
+
+    <#prev>
+
+    <#next>
+
+  *
+    Homeless in San Francisco: SF Homeless ProjectJerome, a homeless
+    man, uses a pew to catch up on sleep at St. Boniface Catholic Church
+    in San Francisco's Tenderloin neighborhood in this 2006 photo.
+    <#photo-10207273>
+  *
+    With new construction looming in the background, residents of the
+    encampment near the 5th Street Bay Bridge onramp sat outside their
+    tents Tuesday March 3, 2015. <#photo-10423955>
+  *
+    Longtime homeless woman Patti Mendez is very bruised, she says, from
+    taking a bad fall the night before. Patti is an alcoholic who lives
+    with her boyfriend and two dogs on Market Street much of the time. 
+    <#photo-10207281>
+  *
+    A homeless woman from the encampment on 5th Street near the Bay
+    Bridge entrance laid in the sidewalk and street Tuesday March 3,
+    2015. Homeless encampments are still prevalent in San Francisco,
+    Calif. and their locations are becoming more apparent.
+    <#photo-10207265>
+  *
+    Christine Boyer holds a sign as she panhandles at the corner of
+    Market and Second Street on Friday, May, 27, 2016 in San Francisco,
+    California. <#photo-10199028>
+  *
+    San Francisco Police officers Suhrke (left) and Gerrans tell Mele
+    (center) and Junior, a homeless couple, to move their encampment
+    from the sidewalk near Division and Bryant streets in San Francisco,
+    California, on Wednesday, Aug. 12, 2015. <#photo-10423969>
+  *
+    Deborah, a homeless woman, sits in her tent at the near the corner
+    of Fifth and Bryant Streets where she was nearly run over by a car
+    recently.  <#photo-10423893>
+  *
+    Zoila Soriano, 71, sits on her bed at Next Door homeless shelter
+    June 1, 2016 in San Francisco, Calif. Soriano, who lived for 51
+    years in Bay Area and 27 years in Daly City, says she lost
+    everything when her husband died and she sold her house to pay for
+    her son's burial after he died. <#photo-10211866>
+  *
+    Staff member Tiffany Tate, right, and volunteer Susan Geraghty serve
+    breakfast to clients at Next Door homeless shelter June 1, 2016 in
+    San Francisco, Calif. <#photo-10211903>
+  *
+    A client feeds his dog R.J. while making himself a sandwich at the
+    Navigation Center homeless shelter June 3, 2016 in San Francisco,
+    Calif. <#photo-10211901>
+  *
+    A man and woman push a cart and carry suitcases as the homeless
+    encampment along 13th Street is cleared out on Tuesday, March 1,
+    2016 in San Francisco. <#photo-10210431>
+  *
+    A homeless man walks along the Embarcadero with a rolling suitcase
+    on Thursday, January 21, 2016 in San Francisco. <#photo-10210429>
+  *
+    A woman stands alongside a cart of belongings as the homeless
+    encampment along 13th Street is cleared out on Tuesday, March 1,
+    2016 in San Francisco. <#photo-10210428>
+  *
+    Pete Kautzmann, 48, checks the lingering stains on his pants while
+    doing laundry with his wife at the Navigation Center homeless
+    shelter June 3, 2016 in San Francisco, Calif. Kautzmann and his wife
+    are considered residents though they obtained an RV right before
+    being admitted into the shelter and have been allowed to sleep in it
+    and use the shelter's services. "They've been bending over backwards
+    for us." said Rosie Sullivan, Kautzmann's wife. <#photo-10209157>
+  *
+    Enrique Chunpitaz, 74, listens to a radio as he hangs out in the
+    courtyard at the Navigation Center homeless shelter, where he is
+    staying, June 3, 2016 in San Francisco, Calif. <#photo-10209156>
+  *
+    Kathleen Ferrie, 61, and Jack Olson, 59, take a smoke break outside
+    of Next Door homeless shelter June 1, 2016 in San Francisco, Calif.
+    Olson, who is a Navy Veteran with a VASH voucher, has been
+    struggling to find a place to stay that is affordable and will take
+    approve his application. "Seniors with problems should not be thrown
+    out on the street," Ferrie said. <#photo-10209085>
+  *
+    Daniel Pledger places linens on the one night bed at Next Door
+    Shelter on Tuesday, May 24 , 2016 in San Francisco, California.
+    <#photo-10207340>
+  *
+    Daniel Pledger rests against a building on Florida Street as he sits
+    under blankets covering him on Friday, April 29, 2016 in San
+    Francisco, California. Pledger says he's been homeless since last
+    August. <#photo-10207339>
+  *
+    Daniel Pledger carries his belongings after receiving a spot on the
+    shelter list as he walks past a truck clearing a tent encampment on
+    Tuesday, May 24 , 2016 in San Francisco, California. <#photo-10207348>
+  *
+    A man pushes a grocery cart across Second Street while Christine
+    Boyer (right) panhandles on the corner of Mission and Second Street
+    on Friday, May, 27, 2016 in San Francisco, California.
+    <#photo-10207266>
+  *
+    Daniel Pledger kicks at an item on the street to see what it is as
+    he walks through the Tenderloin district on Friday, May 20 , 2016 in
+    San Francisco, California. <#photo-10201919>
+  *
+    Daniel Pledger rests against a building on Florida Street as he sits
+    under blankets covering him on Friday, April 29, 2016 in San
+    Francisco, California. Pledger says he's been homeless since last
+    August. <#photo-10201906>
+  *
+    A man's feet stick out of a sleeping bag as he lays on Utah Street
+    on Friday, May, 27, 2016 in San Francisco, California.
+    <#photo-10199035>
+  *
+    Shelia Ollison, 51, of San Francisco, maneuvers her electric
+    wheelchair through UN Plaza with her grandchildren Joseph Elliot III
+    (left) and Levi Jovan (right), 1, on Friday, May, 27, 2016 in San
+    Francisco, California. <#photo-10199931>
+  *
+    Latanya Drisdale checks up on her friends at the homeless encampment
+    under Highway 101, near the Cesar Chavez Street exit on Tuesday, May
+    10, 2016 in San Francisco, Calif. City officials cleaned up the
+    sidewalks next to the encampment. Drisdale said she lives nearby.
+    <#photo-10023641>
+  *
+    A San Francisco Recreation & Parks official, left, speaks with a man
+    about the homeless encampment on Tuesday, May 10, 2016 in San
+    Francisco, Calif. City officials cleaned up the sidewalks from the
+    homeless encampment. <#photo-10023589>
+  *
+    City crews and police cleared out a large homeless camp Tuesday on
+    Cesar Chavez Street around Highway 101. <#photo-10021282>
+  *
+    Vivian Cook of San Francisco walks past tents pitched along Florida
+    Street at 16th Street on Friday, April 29, 2016 in San Francisco,
+    California.  <#photo-9919330>
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+    <javascript:hst_print();>
+  *
+
+    <http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Photo: Brant Ward, SAN FRANCISCO CHRONICLE
+Image 1of/29
+
+Caption
+
+Close
+
+Image 1of 29
+*Homeless in San Francisco: SF Homeless Project
+<https://sfhomelessproject.com/>*
+
+Jerome, a homeless man, uses a pew to catch up on sleep at St. Boniface
+Catholic Church in San Francisco's Tenderloin neighborhood in this 2006
+photo.
+*Homeless in San Francisco: SF Homeless Project
+<https://sfhomelessproject.com/>*
+
+Jerome, a homeless man, uses a pew to catch up on sleep at St. Boniface
+Catholic Church in San Francisco's Tenderloin neighborhood in this 2006
+photo.
+Photo: Brant Ward, SAN FRANCISCO CHRONICLE
+Image 2of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/47/60/72/10423955/3/628x471.jpg>
+With new construction looming in the background, residents of the
+encampment near the 5th Street Bay Bridge onramp sat outside their tents
+Tuesday March 3, 2015.
+With new construction looming in the background, residents of the
+encampment near the 5th Street Bay Bridge onramp sat outside their tents
+Tuesday March 3, 2015.
+Photo: Brant Ward, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/47/60/72/10423955/3/628x471.jpg>
+Image 3of 29
+Longtime homeless woman Patti Mendez is very bruised, she says, from
+taking a bad fall the night before. Patti is an alcoholic who lives with
+her boyfriend and two dogs on Market Street much of the time. 
+Longtime homeless woman Patti Mendez is very bruised, she says, from
+taking a bad fall the night before. Patti is an alcoholic who lives with
+her boyfriend and two dogs on Market Street much of the time. 
+Photo: BRANT WARD, SFC
+Image 4of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/00/10207265/3/628x471.jpg>
+A homeless woman from the encampment on 5th Street near the Bay Bridge
+entrance laid in the sidewalk and street Tuesday March 3, 2015. Homeless
+encampments are still prevalent in San Francisco, Calif. and their
+locations are becoming more apparent.less
+A homeless woman from the encampment on 5th Street near the Bay Bridge
+entrance laid in the sidewalk and street Tuesday March 3, 2015. Homeless
+encampments are still prevalent in San Francisco, Calif. and their... more
+Photo: Brant Ward, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/00/10207265/3/628x471.jpg>
+Image 5of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/46/71/77/10199028/3/628x471.jpg>
+Christine Boyer holds a sign as she panhandles at the corner of Market
+and Second Street on Friday, May, 27, 2016 in San Francisco, California.
+Christine Boyer holds a sign as she panhandles at the corner of Market
+and Second Street on Friday, May, 27, 2016 in San Francisco, California.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/46/71/77/10199028/3/628x471.jpg>
+Image 6of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/47/60/72/10423969/3/628x471.jpg>
+San Francisco Police officers Suhrke (left) and Gerrans tell Mele
+(center) and Junior, a homeless couple, to move their encampment from
+the sidewalk near Division and Bryant streets in San Francisco,
+California, on Wednesday, Aug. 12, 2015.less
+San Francisco Police officers Suhrke (left) and Gerrans tell Mele
+(center) and Junior, a homeless couple, to move their encampment from
+the sidewalk near Division and Bryant streets in San Francisco,... more
+Photo: Connor Radnovich, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/47/60/72/10423969/3/628x471.jpg>
+Image 7of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/47/60/71/10423893/5/628x471.jpg>
+Deborah, a homeless woman, sits in her tent at the near the corner of
+Fifth and Bryant Streets where she was nearly run over by a car recently. 
+Deborah, a homeless woman, sits in her tent at the near the corner of
+Fifth and Bryant Streets where she was nearly run over by a car recently. 
+Photo: Brant Ward, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/47/60/71/10423893/5/628x471.jpg>
+Image 8of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/46/75/10/10211866/3/628x471.jpg>
+Zoila Soriano, 71, sits on her bed at Next Door homeless shelter June 1,
+2016 in San Francisco, Calif. Soriano, who lived for 51 years in Bay
+Area and 27 years in Daly City, says she lost everything when her
+husband died and she sold her house to pay for her son's burial after he
+died.less
+Zoila Soriano, 71, sits on her bed at Next Door homeless shelter June 1,
+2016 in San Francisco, Calif. Soriano, who lived for 51 years in Bay
+Area and 27 years in Daly City, says she lost everything when her... more
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/46/75/10/10211866/3/628x471.jpg>
+Image 9of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/75/10/10211903/5/628x471.jpg>
+Staff member Tiffany Tate, right, and volunteer Susan Geraghty serve
+breakfast to clients at Next Door homeless shelter June 1, 2016 in San
+Francisco, Calif.
+Staff member Tiffany Tate, right, and volunteer Susan Geraghty serve
+breakfast to clients at Next Door homeless shelter June 1, 2016 in San
+Francisco, Calif.
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/75/10/10211903/5/628x471.jpg>
+Image 10of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/75/10/10211901/5/628x471.jpg>
+A client feeds his dog R.J. while making himself a sandwich at the
+Navigation Center homeless shelter June 3, 2016 in San Francisco, Calif.
+A client feeds his dog R.J. while making himself a sandwich at the
+Navigation Center homeless shelter June 3, 2016 in San Francisco, Calif.
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/75/10/10211901/5/628x471.jpg>
+Image 11of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/74/61/10210431/3/628x471.jpg>
+A man and woman push a cart and carry suitcases as the homeless
+encampment along 13th Street is cleared out on Tuesday, March 1, 2016 in
+San Francisco.
+A man and woman push a cart and carry suitcases as the homeless
+encampment along 13th Street is cleared out on Tuesday, March 1, 2016 in
+San Francisco.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/74/61/10210431/3/628x471.jpg>
+Image 12of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/61/10210429/5/628x471.jpg>
+A homeless man walks along the Embarcadero with a rolling suitcase on
+Thursday, January 21, 2016 in San Francisco.
+A homeless man walks along the Embarcadero with a rolling suitcase on
+Thursday, January 21, 2016 in San Francisco.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/61/10210429/5/628x471.jpg>
+Image 13of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/46/74/61/10210428/3/628x471.jpg>
+A woman stands alongside a cart of belongings as the homeless encampment
+along 13th Street is cleared out on Tuesday, March 1, 2016 in San Francisco.
+A woman stands alongside a cart of belongings as the homeless encampment
+along 13th Street is cleared out on Tuesday, March 1, 2016 in San Francisco.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/46/74/61/10210428/3/628x471.jpg>
+Image 14of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/36/10209157/3/628x471.jpg>
+Pete Kautzmann, 48, checks the lingering stains on his pants while doing
+laundry with his wife at the Navigation Center homeless shelter June 3,
+2016 in San Francisco, Calif. Kautzmann and his wife are considered
+residents though they obtained an RV right before being admitted into
+the shelter and have been allowed to sleep in it and use the shelter's
+services. "They've been bending over backwards for us." said Rosie
+Sullivan, Kautzmann's wife.less
+Pete Kautzmann, 48, checks the lingering stains on his pants while doing
+laundry with his wife at the Navigation Center homeless shelter June 3,
+2016 in San Francisco, Calif. Kautzmann and his wife are... more
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/36/10209157/3/628x471.jpg>
+Image 15of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/46/74/36/10209156/3/628x471.jpg>
+Enrique Chunpitaz, 74, listens to a radio as he hangs out in the
+courtyard at the Navigation Center homeless shelter, where he is
+staying, June 3, 2016 in San Francisco, Calif.
+Enrique Chunpitaz, 74, listens to a radio as he hangs out in the
+courtyard at the Navigation Center homeless shelter, where he is
+staying, June 3, 2016 in San Francisco, Calif.
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww1.hdnux.com/photos/46/74/36/10209156/3/628x471.jpg>
+Image 16of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/34/10209085/3/628x471.jpg>
+Kathleen Ferrie, 61, and Jack Olson, 59, take a smoke break outside of
+Next Door homeless shelter June 1, 2016 in San Francisco, Calif. Olson,
+who is a Navy Veteran with a VASH voucher, has been struggling to find a
+place to stay that is affordable and will take approve his application.
+"Seniors with problems should not be thrown out on the street," Ferrie
+said.less
+Kathleen Ferrie, 61, and Jack Olson, 59, take a smoke break outside of
+Next Door homeless shelter June 1, 2016 in San Francisco, Calif. Olson,
+who is a Navy Veteran with a VASH voucher, has been struggling to... more
+Photo: Leah Millis, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/74/34/10209085/3/628x471.jpg>
+Image 17of 29
+Daniel Pledger places linens on the one night bed at Next Door Shelter
+on Tuesday, May 24 , 2016 in San Francisco, California.
+Daniel Pledger places linens on the one night bed at Next Door Shelter
+on Tuesday, May 24 , 2016 in San Francisco, California.
+Photo: Lea Suzuki, The Chronicle
+Image 18of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/74/01/10207339/3/628x471.jpg>
+Daniel Pledger rests against a building on Florida Street as he sits
+under blankets covering him on Friday, April 29, 2016 in San Francisco,
+California. Pledger says he's been homeless since last August.
+Daniel Pledger rests against a building on Florida Street as he sits
+under blankets covering him on Friday, April 29, 2016 in San Francisco,
+California. Pledger says he's been homeless since last August.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/74/01/10207339/3/628x471.jpg>
+Image 19of 29
+Daniel Pledger carries his belongings after receiving a spot on the
+shelter list as he walks past a truck clearing a tent encampment on
+Tuesday, May 24 , 2016 in San Francisco, California.
+Daniel Pledger carries his belongings after receiving a spot on the
+shelter list as he walks past a truck clearing a tent encampment on
+Tuesday, May 24 , 2016 in San Francisco, California.
+Photo: Lea Suzuki, The Chronicle
+Image 20of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/46/74/00/10207266/5/628x471.jpg>
+A man pushes a grocery cart across Second Street while Christine Boyer
+(right) panhandles on the corner of Mission and Second Street on Friday,
+May, 27, 2016 in San Francisco, California.
+A man pushes a grocery cart across Second Street while Christine Boyer
+(right) panhandles on the corner of Mission and Second Street on Friday,
+May, 27, 2016 in San Francisco, California.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/46/74/00/10207266/5/628x471.jpg>
+Image 21of 29
+Daniel Pledger kicks at an item on the street to see what it is as he
+walks through the Tenderloin district on Friday, May 20 , 2016 in San
+Francisco, California.
+Daniel Pledger kicks at an item on the street to see what it is as he
+walks through the Tenderloin district on Friday, May 20 , 2016 in San
+Francisco, California.
+Photo: Lea Suzuki, The Chronicle
+Image 22of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/46/72/54/10201906/3/628x471.jpg>
+Daniel Pledger rests against a building on Florida Street as he sits
+under blankets covering him on Friday, April 29, 2016 in San Francisco,
+California. Pledger says he's been homeless since last August.
+Daniel Pledger rests against a building on Florida Street as he sits
+under blankets covering him on Friday, April 29, 2016 in San Francisco,
+California. Pledger says he's been homeless since last August.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/46/72/54/10201906/3/628x471.jpg>
+Image 23of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/71/77/10199035/3/628x471.jpg>
+A man's feet stick out of a sleeping bag as he lays on Utah Street on
+Friday, May, 27, 2016 in San Francisco, California.
+A man's feet stick out of a sleeping bag as he lays on Utah Street on
+Friday, May, 27, 2016 in San Francisco, California.
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/71/77/10199035/3/628x471.jpg>
+Image 24of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/72/15/10199931/3/628x471.jpg>
+Shelia Ollison, 51, of San Francisco, maneuvers her electric wheelchair
+through UN Plaza with her grandchildren Joseph Elliot III (left) and
+Levi Jovan (right), 1, on Friday, May, 27, 2016 in San Francisco,
+California.less
+Shelia Ollison, 51, of San Francisco, maneuvers her electric wheelchair
+through UN Plaza with her grandchildren Joseph Elliot III (left) and
+Levi Jovan (right), 1, on Friday, May, 27, 2016 in San Francisco,... more
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww4.hdnux.com/photos/46/72/15/10199931/3/628x471.jpg>
+Image 25of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/17/13/10023641/3/628x471.jpg>
+Latanya Drisdale checks up on her friends at the homeless encampment
+under Highway 101, near the Cesar Chavez Street exit on Tuesday, May 10,
+2016 in San Francisco, Calif. City officials cleaned up the sidewalks
+next to the encampment. Drisdale said she lives nearby.less
+Latanya Drisdale checks up on her friends at the homeless encampment
+under Highway 101, near the Cesar Chavez Street exit on Tuesday, May 10,
+2016 in San Francisco, Calif. City officials cleaned up the... more
+Photo: Santiago Mejia, Special To The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/17/13/10023641/3/628x471.jpg>
+Image 26of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/17/12/10023589/5/628x471.jpg>
+A San Francisco Recreation & Parks official, left, speaks with a man
+about the homeless encampment on Tuesday, May 10, 2016 in San Francisco,
+Calif. City officials cleaned up the sidewalks from the homeless
+encampment.less
+A San Francisco Recreation & Parks official, left, speaks with a man
+about the homeless encampment on Tuesday, May 10, 2016 in San Francisco,
+Calif. City officials cleaned up the sidewalks from the homeless... more
+Photo: Santiago Mejia, Special To The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww2.hdnux.com/photos/46/17/12/10023589/5/628x471.jpg>
+Image 27of 29
+City crews and police cleared out a large homeless camp Tuesday on Cesar
+Chavez Street around Highway 101.
+City crews and police cleared out a large homeless camp Tuesday on Cesar
+Chavez Street around Highway 101.
+Photo: Steve Rubenstein / The Chronicle / Steve Rubenstein / The Chronicle
+Image 28of 29
+Buy photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/45/65/55/9919330/5/628x471.jpg>
+Vivian Cook of San Francisco walks past tents pitched along Florida
+Street at 16th Street on Friday, April 29, 2016 in San Francisco,
+California. 
+Vivian Cook of San Francisco walks past tents pitched along Florida
+Street at 16th Street on Friday, April 29, 2016 in San Francisco,
+California. 
+Photo: Lea Suzuki, The Chronicle Buy this photo
+<http://sfgate.mycapture.com/mycapture/remoteimage.asp?backtext=Back%20to%20San%20Francisco%20Chronicle&image=http://ww3.hdnux.com/photos/45/65/55/9919330/5/628x471.jpg>
+Image 29of 29
+SF Homeless Project: Letter to the City
+1 / 29
+Back to Gallery
+
+Numerous noble, well-intentioned efforts by both public and private
+entities have surfaced over the decades, yet the problem persists. It is
+a situation that would disgrace the government of any city. But in the
+technological and progressive capital of the nation, it is unconscionable.
+
+
+    SF HOMELESS PROJECT
+
+  * Why we want change: Letter to the city of San Francisco
+    <http://www.sfgate.com/homeless/article/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+  * SF Homeless Project: Complete coverage
+    <http://www.sfgate.com/homeless/>
+  * How to help: Season of Sharing
+    <http://seasonofsharing.org/?cmpid=712016>
+
+So beginning today, more than 70 media organizations are taking the
+unprecedented step of working together to focus attention on this
+crucial issue.
+
+We will pool our resources – reporting, data analysis, photojournalism,
+video, websites – and starting Wednesday, June 29, will publish,
+broadcast and share a series of stories across all of our outlets. We
+intend to explore possible solutions, their costs and viability.
+
+Though this is a united effort, we do not claim to speak with one voice.
+There are many lenses through which the issue of homelessness can be
+viewed. However, we do not intend to let a desire for the perfect
+solution become the enemy of the good. We want to inspire and incite
+each other as much as we want to prod city and civic leaders.
+
+Fundamentally, we are driven by the desire to stop calling what we see
+on our streets the new normal. Frustration and resignation are not a
+healthy psyche for a city.
+
+Our aim is to provide you with the necessary information and potential
+options to put San Francisco on a better path. Then it will be up to all
+of us – citizens, activists, public and private agencies, politicians –
+to work together to get there.
+
+Signed,
+
+The SF Homeless Project
+@bayareahomeless
+facebook.com/sfhomelessproject
+
+*Participants:*
+San Francisco Chronicle
+SFGATE
+KQED
+The California Sunday Magazine
+Pop-Up Magazine
+KRON4-TV
+The Potrero View
+San Francisco Examiner
+San Francisco Public Press
+Renaissance Journalism
+Hoodline
+San Francisco Business Times
+Sing Tao Daily
+Medium
+Marina Times
+The Castro Courier
+Mid-Market News
+KALW
+Mission Local
+KGO-TV/ABC7
+Bay Area Reporter
+KTVU-TV
+San Francisco magazine
+BuzzFeed News
+Mother Jones
+Timeline
+CityLab
+KKSF Talk 910
+SFist
+Mashable
+World Journal
+Central City Extra
+Golden Gate Xpress
+KPIX-TV
+The Mercury News
+East Bay Times
+48 Hills
+New America Media
+El Tecolote
+Wear Your Voice
+Castro Valley Matters
+Youth Radio
+Fortune
+AJ+
+Ingleside-Excelsior Light
+Commonwealth Club
+CALmatters
+Laney Tower
+Inc.
+Richmond Review
+Sunset Beacon
+Univision 14 KDTV
+West Portal Monthly
+HATCH Beat
+AlterNet.org
+ITVS/OVEE
+Ripple News
+KNTV
+Telemundo 48 KSTS
+KGO 810
+Business Insider
+TechCrunch
+Fusion
+San Francisco Neighborhood Newspaper Association
+Google News Lab
+Cor Media
+Stories Behind the Fog
+Micro-documentaries
+SF Weekly
+Berkeleyside
+The Noe Valley Voice
+
+
+      Latest from the SFGATE homepage:
+
+
+          Click below for the top news from around the Bay Area and
+          beyond. Sign up for our newsletters to be the first to learn
+          about breaking news and more. Go to 'Sign In' and 'Manage
+          Profile' at the top of the page.
+
+
+    Latest News
+
+  *
+
+
+              Driver runs down woman in SF, causing life-threatening
+              injuries
+              <http://www.sfgate.com/crime/article/Driver-runs-down-woman-in-SF-causing-10614290.php?ipid=articlerecirc>
+
+  *
+
+
+              Police look for suspects in shootout at illegal pot grow
+              <http://www.sfgate.com/news/bayarea/article/Police-Searching-For-Suspects-In-Shootout-At-10614297.php?ipid=articlerecirc>
+
+  *
+
+
+              $50,000 reward offered in slaying of SF attorney
+              <http://www.sfgate.com/crime/article/50-000-reward-offered-in-slaying-of-SF-attorney-10614552.php?ipid=articlerecirc>
+
+  *
+
+
+              UC Berkeley students demand professor’s suspension
+              <http://www.sfgate.com/bayarea/article/UC-Berkeley-students-demand-professor-s-10614425.php?ipid=articlerecirc>
+
+  *
+
+
+              68th homicide of 2016 reported in Oakland
+              <http://www.sfgate.com/crime/article/68th-homicide-of-2016-reported-in-Oakland-10614397.php?ipid=articlerecirc>
+
+  *
+
+
+              Trump foes hope to build on initial flurry of protests
+              <http://www.sfgate.com/bayarea/article/Trump-foes-hope-to-build-on-initial-flurry-of-10614371.php?ipid=articlerecirc>
+
+  *
+
+
+              Racist graffiti met by mass ‘greeting’ events
+              <http://www.sfgate.com/education/article/At-Alameda-schools-racist-graffiti-met-by-mass-10613465.php?ipid=articlerecirc>
+
+  *
+
+
+              Almost impossible to turn left on Van Ness Ave. now
+              <http://www.sfgate.com/bayarea/article/Left-turns-whittled-down-on-SF-s-Van-Ness-Avenue-10613651.php?ipid=articlerecirc>
+
+  * WASHINGTON, D.C. - NOVEMBER 09: President-elect Donald Trump meets
+    with House Speaker Paul Ryan (R-WI) at the U.S. Capitol for a
+    meeting November 10, 2016 in Washington, DC. Earlier in the day
+    president-elect Trump met with U.S. President Barack Obama at the
+    White House. (Photo by Zach Gibson/Getty Images)
+    <http://www.sfgate.com/politics/article/Ryan-now-has-the-muscle-to-phase-out-Medicare-10613139.php?ipid=articlerecirc>
+  * Ryan now has the muscle to phase out Medicare — within months
+    <http://www.sfgate.com/politics/article/Ryan-now-has-the-muscle-to-phase-out-Medicare-10613139.php?ipid=articlerecirc>
+  * Giuliani emerges as favorite for Trump's secretary of state
+    <http://www.sfgate.com/news/politics/article/Trump-names-new-senior-aides-who-are-a-sharp-10612401.php?ipid=articlerecirc>
+  * A look at Steve Bannon's controversial history
+    <http://www.sfgate.com/news/article/Steve-Bannon-s-controversial-history-10614287.php?ipid=articlerecirc>
+  * The 6 most surprising things from Trump's '60 Minutes' interview
+    <http://www.sfgate.com/news/article/http-www-chron-com-news-politics-article-The-5-m-10612250.php?ipid=articlerecirc>
+  * Report: In Obama chat, Trump unfamiliar with president's duties
+    <http://www.sfgate.com/technology/businessinsider/article/Report-Trump-was-unfamiliar-with-the-scope-of-10612193.php?ipid=articlerecirc>
+
+  * Author Joan Ryan hugs her son Ryan in the courtyard of their Marin
+    County home. Ryan's new book deals with her son's skateboard
+    accident and long recovery after a head injury that he continues to
+    struggle with, as he makes plans to attend college in the fall on
+    the east Coast. Aug 21, 2009
+    <http://www.sfgate.com/bayarea/article/Uber-user-s-customer-service-nightmare-10612080.php?ipid=articlerecirc>
+  * Bay Area mom describes Uber customer service nightmare
+    <http://www.sfgate.com/bayarea/article/Uber-user-s-customer-service-nightmare-10612080.php?ipid=articlerecirc>
+  * An Uber driver asked to take woman home takes her to motel
+    <http://www.sfgate.com/news/article/Uber-driver-police-kidnap-of-woman-10423239.php?ipid=articlerecirc>
+
+  * Ernest Walker posted a video to Facebook on Friday, Nov. 11, 2016,
+    of a manager taking away his meal at a Chili's in the Dallas suburb
+    of Cedar Hill.
+    <http://www.sfgate.com/news/article/Chili-s-manager-takes-away-vet-s-free-meal-on-10614370.php?ipid=articlerecirc>
+  * Chili's removes manager who took away vet's meal
+    <http://www.sfgate.com/news/article/Chili-s-manager-takes-away-vet-s-free-meal-on-10614370.php?ipid=articlerecirc>
+  * Veterans Day Parade at Fisherman’s Wharf draws thousands
+    <http://www.sfgate.com/bayarea/article/Veterans-Day-Parade-at-Fisherman-s-Wharf-draws-10611869.php?ipid=articlerecirc>
+
+  * Looking up Powell Street, cable car turnaround being removed for
+    repair, San Francisco, May 1, 1950.
+    <http://www.sfgate.com/bayarea/article/Post-war-San-Francisco-under-contruction-from-10604808.php?ipid=articlerecirc>
+  * Post-war San Francisco under construction
+    <http://www.sfgate.com/bayarea/article/Post-war-San-Francisco-under-contruction-from-10604808.php?ipid=articlerecirc>
+  * Drugs and 'unspeakable dance halls': Tenderloin history
+    <http://www.sfgate.com/bayarea/article/San-Francisco-s-skid-row-the-Tenderloin-rich-in-9182414.php?ipid=articlerecirc>
+
+
+    Today's Gate Features
+
+  * Golden State Warriors guard Klay Thompson (11) in the second half of
+    an NBA basketball game Thursday, Nov. 10, 2016, in Denver. The
+    Warriors won 125-101. (AP Photo/David Zalubowski)
+    <http://www.sfgate.com/warriors/article/Warriors-Kerr-No-Klay-Thompson-trade-10613804.php?ipid=articlerecirc>
+
+
+            Warriors’ Kerr: No Klay Thompson trade
+            <http://www.sfgate.com/warriors/article/Warriors-Kerr-No-Klay-Thompson-trade-10613804.php?ipid=articlerecirc>
+
+  * <http://www.sfgate.com/entertainment/the-wrap/article/Gwen-Ifill-PBS-NewsHour-Host-Dies-at-61-10613439.php?ipid=articlerecirc>
+
+
+            PBS journalist Gwen Ifill dies of cancer
+            <http://www.sfgate.com/entertainment/the-wrap/article/Gwen-Ifill-PBS-NewsHour-Host-Dies-at-61-10613439.php?ipid=articlerecirc>
+
+  * <http://www.sfgate.com/entertainment/graphiq/article/Ranking-Every-Clint-Eastwood-Film-from-Worst-to-10605513.php?ipid=articlerecirc>
+
+
+            Ranking every Clint Eastwood film from worst to first
+            <http://www.sfgate.com/entertainment/graphiq/article/Ranking-Every-Clint-Eastwood-Film-from-Worst-to-10605513.php?ipid=articlerecirc>
+
+
+    SFGATE'S BEST DEALS
+
+Sponsored
+
+  * <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/Kiss-rolling-papers-goodbye-with-this-refillable-10613656.php>
+
+
+            Kiss rolling papers goodbye with this refillable,
+            reusable...
+            <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/Kiss-rolling-papers-goodbye-with-this-refillable-10613656.php>
+
+  * <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/This-powerful-VPN-offers-online-protection-for-10612806.php>
+
+
+            This powerful VPN offers online protection for life — and...
+            <http://www.sfgate.com/sponsoredarticles/stackcommerce/article/This-powerful-VPN-offers-online-protection-for-10612806.php>
+
+
+    Most Popular
+
+  * 1
+
+
+              Report: Trump was unfamiliar with the scope of the
+              president's...
+              <http://www.sfgate.com/technology/businessinsider/article/Report-Trump-was-unfamiliar-with-the-scope-of-10612193.php>
+
+
+  * 2
+
+
+              Joe Biden memes are giving America a much needed laugh
+              <http://www.sfgate.com/entertainment/article/VP-Joe-Biden-and-his-memes-help-America-with-a-10611857.php>
+
+
+  * 3
+
+
+              Ryan now has the muscle to phase out Medicare — within
+              months
+              <http://www.sfgate.com/politics/article/Ryan-now-has-the-muscle-to-phase-out-Medicare-10613139.php>
+
+
+  * 4
+
+
+              The 6 most surprising things from Donald Trump's '60
+              Minutes'...
+              <http://www.sfgate.com/news/article/http-www-chron-com-news-politics-article-The-5-m-10612250.php>
+
+
+  * 5
+
+
+              Bay Area mom describes days-long Uber customer service
+              nightmare
+              <http://www.sfgate.com/bayarea/article/Uber-user-s-customer-service-nightmare-10612080.php>
+
+
+  * 6
+
+
+              Hillary Clinton's lead in popular vote could grow to more
+              than...
+              <http://www.sfgate.com/politics/article/Hillary-Clinton-popular-vote-lead-2-million-10611489.php>
+
+
+  * 7
+
+
+              Pregnancy photoshoot at Baker Beach crashed by nude
+              sunbather
+              <http://www.sfgate.com/news/article/Pregnancy-photoshoot-at-Baker-Beach-crashed-by-10613448.php>
+
+
+  * 8
+
+
+              Giuliani emerges as favorite for Trump's secretary of
+              state
+              <http://www.sfgate.com/news/politics/article/Trump-names-new-senior-aides-who-are-a-sharp-10612401.php>
+
+
+  * 9
+
+
+              Driver runs down woman in SF, causing life-threatening
+              injuries
+              <http://www.sfgate.com/crime/article/Driver-runs-down-woman-in-SF-causing-10614290.php>
+
+
+  * 10
+
+
+              Woman arrested in New York in death of twin in cliff crash
+              <http://www.sfgate.com/news/crime/article/Sister-accused-of-killing-twin-in-Hawaii-jailed-10612489.php>
+
+
+
+    Latest News
+
+  *
+
+
+              Driver runs down woman in SF, causing life-threatening
+              injuries
+              <http://www.sfgate.com/crime/article/Driver-runs-down-woman-in-SF-causing-10614290.php>
+
+  *
+
+
+              Police look for suspects in shootout at illegal pot grow
+              <http://www.sfgate.com/news/bayarea/article/Police-Searching-For-Suspects-In-Shootout-At-10614297.php>
+
+  *
+
+
+              $50,000 reward offered in slaying of SF attorney
+              <http://www.sfgate.com/crime/article/50-000-reward-offered-in-slaying-of-SF-attorney-10614552.php>
+
+  *
+
+
+              UC Berkeley students demand professor’s suspension
+              <http://www.sfgate.com/bayarea/article/UC-Berkeley-students-demand-professor-s-10614425.php>
+
+  *
+
+
+              68th homicide of 2016 reported in Oakland
+              <http://www.sfgate.com/crime/article/68th-homicide-of-2016-reported-in-Oakland-10614397.php>
+
+  *
+
+
+              Trump foes hope to build on initial flurry of protests
+              <http://www.sfgate.com/bayarea/article/Trump-foes-hope-to-build-on-initial-flurry-of-10614371.php>
+
+  *
+
+
+              Racist graffiti met by mass ‘greeting’ events
+              <http://www.sfgate.com/education/article/At-Alameda-schools-racist-graffiti-met-by-mass-10613465.php>
+
+  *
+
+
+              Almost impossible to turn left on Van Ness Ave. now
+              <http://www.sfgate.com/bayarea/article/Left-turns-whittled-down-on-SF-s-Van-Ness-Avenue-10613651.php>
+
+View Comments
+
+<http://www.sfgate.com/homeless/articleComments/SF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+© 2016 Hearst Communications, Inc.
+
+Logo Return to Top <#>
+
+
+      About
+
+  * Our Company <http://www.sfgate.com/aboutsfgate/>
+  * Careers <http://www.sfgate.com/chronicle/hr/>
+  * Advertising <http://marketing.sfgate.com/>
+  * Ad Choices <http://www.aboutads.info/choices/>
+  * Terms & Conditions <http://www.sfgate.com/termsandconditions/>
+  * Privacy Policy <http://www.sfgate.com/privacy-policy/>
+  * Your California Privacy Rights
+    <http://www.sfgate.com/privacy-policy/#caprivacyrights>
+
+
+      Contact
+
+  * Customer Service <http://www.sfgate.com/feedback/>
+  * Newsroom Contacts <http://www.sfgate.com/chronicle-contacts/>
+
+
+      Connect
+
+  * Sign up for Email Alerts <http://www.sfgate.com/profile/>
+  * Facebook <https://www.facebook.com/SFGate/>
+  * Twitter <https://twitter.com/sfgate/>
+  * Pinterest <http://www.pinterest.com/sfgate/>
+  * Google <https://plus.google.com/118071641239908367285/posts/>
+  * Instagram <https://instagram.com/sfgate/>
+
+
+      Subscribe
+
+  * SFChronicle.com <http://www.sfchronicle.com/>
+  * App <http://www.sfgate.com/app/>
+  * e-edition <http://www.sfgate.com/e-edition/>
+  * The Chronicle Archives <http://www.sfgate.com/archive>
+  * Subscription Offers <http://www.sfgate.com/subscribe/?ipid=sfg_foot>
+  * Member Services <http://www.sfgate.com/account>
+
+Hearst Newspapers © Copyright 2016 Hearst Communications, Inc.
+<http://www.sfgate.com/copyright-notice/>
+
+
+    The sign in service is not functioning right now.
+
+
+    Please try again in a few minutes
+
+If the issues continue, please contact our customer service at
+
+Phone:
+
+Email:
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Forgot password?
+Keep me signed in
+
+
+            Don't have a profile?
+
+
+Don't have a subscription?
+
+Sign up
+
+Subscribe <http://www.sfgate.com/subscribe/>
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>.
+
+
+          Create a profile using
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+Send me email offers
+
+Already have a profile? Sign In
+
+By clicking "Next" or signing in you confirm that you accept our Terms
+and Conditions <http://www.sfchronicle.com/terms_of_use/> and have read
+and understood our Privacy Policy
+<http://www.sfchronicle.com/privacy_policy/>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+
+
+          Hi,
+
+
+          You are signed in
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfgate.com/profile/>
+
+Maintain your delivery address, payment details and place a vacation
+hold in Subscriber Portal.
+
+MANAGE SUBSCRIPTION
+
+<http://www.sfgate.com/account/>
+
+Maintain your display name, email address, password and newsletters in
+Profile.
+
+MANAGE PROFILE
+
+<http://www.sfgate.com/profile/>
+SUBSCRIBE
+
+<http://www.sfgate.com/subscribe/>
+SIGN OUT
+
+<javascript:void(0)>
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot password?
+Keep me signed in
+
+By signing in, you agree to our
+Terms of Service <http://www.sfgate.com/termsandconditions/> and Privacy
+Policy <http://www.sfgate.com/privacy-policy/>
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign In
+
+Keep me signed in
+Show password Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Forgot password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Keep me signed in
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>
+
+
+          Paid Subscription Access Only
+
+You are now signed in but you must have a San Francisco Chronicle
+subscription to access any content.
+
+Already have a subscription?
+
+ACTIVATE
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfgate.com%2Fhomeless%2Farticle%2FSF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          About Me
+
+DISPLAY NAMEDisplay names must begin with an alpha-numeric character.
+They can not contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor
+may they contain obscenities.
+
+This display name is already in use. Please enter a different display name.
+
+You must enter a display name.
+
+Display names must begin with an alpha-numeric character. They can not
+contain the following: ! # $ % ^ & * ( ) | \ / ? {} [ ] nor may they
+contain obscenities.
+
+EMAIL ADDRESSChanging this email address will also change the email
+address associated with your subscription
+
+You must enter an email address.
+
+GENDERThis optional field is required to enter contests and promotions
+
+BIRTH YEARThis optional field is required to enter contests and promotions
+
+* are required fields
+
+
+          SF Chronicle Subscription
+
+You can manage your delivery address, payment details, delete your
+account and more subscription details in the subscriber portal.
+
+Manage Subscription
+
+<http://www.sfgate.com/account/>
+
+
+            Get it on all your devices
+
+
+    Unlimited digital access with every subscription
+
+SFChronicle.com | App for iPhone and iPad
+e-edition (daily print replica) | Exclusive member experiences and discounts
+
+SUBSCRIBE NOW AND SAVE!
+
+<http://www.sfgate.com/subscribe/> I have a subscription
+
+<https://syncaccess-hst-sfc.syncronex.com/portal/#/activation?return=http%3A%2F%2Fwww.sfgate.com%2Fhomeless%2Farticle%2FSF-Homeless-Project-Letter-to-the-City-8326254.php>
+
+
+          Password
+
+EDIT
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+
+          Password
+
+CANCEL
+
+This password applies to SFGate and San Francisco Chronicle including
+the San Francisco Chronicle subscription and account management page.
+
+CURRENT PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Current password is incorrect
+
+Current password field is required
+
+NEW PASSWORD Passwords must be at least 8 characters and contain both
+upper and lowercase letters and at least one number.
+
+New password field is required
+
+CONFIRM PASSWORD Passwords must be at least 8 characters and contain
+both upper and lowercase letters and at least one number.
+
+Confirm password field is required
+
+Show password
+
+
+    Welcome, !
+
+Your profile, subscription, linked accounts, and newsletter selections
+are not viewable by other readers on our sites. Your profile can only be
+seen by you. Any comments you post to articles on our sites can be seen
+by all readers and moderators.
+
+
+          Newsletter Preferences
+
+You are subscribed to the following:
+
+  * Top O’ the Bay
+
+    The latest stories from across the San Francisco Bay Area
+
+  * Notes & Errata
+
+    Mark Morford's irreverent and highly satiric weekly column
+
+  * Breaking News
+
+    Be notified when when big stories break or critical warnings are
+    issued for the Bay Area
+
+  * Sports
+
+    Coverage of all your Bay Area teams
+
+  * Inside Scoop
+
+    Insider knowledge for Bay Area foodies
+
+  * New Flicks
+
+    The latest movie reviews
+
+  * Business & Technology
+
+    The latest in business, finance, and tech news
+
+  * 5 Things To Do
+
+    Great events across the Bay Area selected just for you
+
+
+          San Francisco Chronicle Newsletters
+
+  * Chronicle Commuter
+
+    A curated selection of stories just in time for your afternoon commute
+
+  * Membership Updates
+
+    The latest from our membership benefits program (subscribers only)
+
+  * e-edition Reminder
+
+    Reminder of your daily e-edition, a replica of the print newspaper
+    (subscribers only)
+
+  * Subscription Reminders
+
+    Notices and reminders about your subscription (subscribers only)
+
+
+          Email Notifications and Offers
+
+  * Feature Updates
+
+    Special features, new site sections and more from The Chronicle and
+    SFGATE
+
+  * Promotions & Sales
+
+    Subscription offers from the San Francisco Chronicle and other
+    special promotions
+
+  * Surveys
+
+    Surveys about your Chronicle print edition, websites and other
+    digital products
+
+  * Advertiser Special Offers
+
+    Receive special offers sent by us on behalf of select advertisers
+    and partners
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in Forgot Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+You must be a subscriber to access this content.
+
+If you are a subscriber, Sign in!
+
+Stay signed in
+Forgot Your Password?
+
+
+          Sign In
+
+If you are a subscriber, Sign in!
+
+You must be a subscriber to access this content.
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Stay signed in
+Forgot Password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+Back to Sign In
+
+Email address field is required.
+
+Email address is incorrect.
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+You must be a subscriber to access this content.
+
+
+          Link Profiles
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Keep me signed in
+Show password
+Forgot Your Password?
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Forgot Your Password?
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Link Profiles
+
+Stay signed in
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+You must link your profile in order to continue. Please provide your
+password or select a social network to connect your existing profile
+with your social network.
+
+Forgot Your Password?
+
+
+          SIGN IN
+
+
+          This is the first time you have logged in with a social network.
+
+
+          You have previously logged in with a different social network.
+
+Connect with an existing social network account:
+
+To connect with your existing account, click below:
+
+Please provide your password to connect your existing profile:
+
+Show password
+Forgot Your Password?
+Keep me signed in
+
+
+          Accounts Linked
+
+You have linked your accounts, tap below to log in:
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+Sign In With Your Existing San Francisco Chronicle Account
+Sign In
+OR
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Keep me signed in
+Forgot Your Password?
+
+By signing in, you agree to our terms of use
+<http://www.sfgate.com/termsandconditions/>.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password?
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Sign in using
+
+
+            or
+
+Email Address or Password is incorrect.
+
+Email address field is required.
+
+Password field is required.
+
+Show password
+Forgot password?
+Keep me signed in
+Keep me signed in
+Show password
+Forgot password?
+
+Create an account
+
+By signing in, you agree to our Terms of Service
+<http://www.sfgate.com/termsandconditions/> and Privacy Policy
+<http://www.sfgate.com/privacy-policy/>.
+
+
+          Create a sign-in for your subscription account
+
+
+            or
+
+Passwords must be at least 8 characters, contain upper and lowercase
+letters and at least one number.
+
+Show password
+
+Have a profile on SFGate or San Francisco Chronicle already?
+
+Sign In
+
+Contact Customer Service at 800-310-2455 or email us at
+homedelivery@sfchronicle.com <mailto:homedelivery@sfchronicle.com>.
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Reset your password?
+
+Provide your email address to receive a password reset link.
+
+Cancel
+
+
+          Reset your password
+
+An email regarding your password change has been sent to your email address.
+
+Return to Sign In
+
+
+          Complete Sign Up!
+
+*You're almost there!*
+
+Please verify your email in order to complete your profile. Check your
+email for a profile verification link.
+
+You will not have access to writing comments, managing newsletters or
+alerts, and updating your profile until you verify your account with the
+link provided.
+
+The verification link in the email will expire in 24 hours.
+
+To resend the verification email, please enter your email address below.
+The email address submitted will be sent a profile verification link.
+
+
+          Complete Sign Up!
+
+A verification email with a link to verify your account has been sent to
+you.
+
+Return to sign in
+

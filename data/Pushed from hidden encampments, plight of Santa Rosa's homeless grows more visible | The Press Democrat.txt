@@ -1,0 +1,996 @@
+Next Article
+//
+Just an advertisement
+
+s
+/
+
+/
+
+  * Sign In
+    <https://dpw1.pressdemocrat.com/Login.aspx?SentFromUrl=http%3A%2F%2Fwww.pressdemocrat.com%2F>
+  * e-Edition
+    <https://dpw1.pressdemocrat.com/Login.aspx?SentFromUrl=eEdition>
+  * Subscribe <https://dpw1.pressdemocrat.com/Subscribe.aspx>
+
+s
+Sections
+/
+
+/
+
+  * Home
+
+    <http://www.pressdemocrat.com/>
+  * News
+
+    <http://www.pressdemocrat.com/news/>
+    /
+
+    /
+      o Local News
+
+        <http://www.pressdemocrat.com/news/local/>
+      o Arrest Logs
+
+        <http://www.pressdemocrat.com/arrest/>
+      o Towns
+
+        <http://www.pressdemocrat.com/towns>
+      o Obituaries
+
+        <http://www.pressdemocrat.com/news/obits/>
+      o Weather
+
+        <http://www.pressdemocrat.com/weather/>
+      o Videos
+
+        <http://www.pressdemocrat.com/video/>
+      o Archives
+
+        <http://www.pressdemocrat.com/archives/>
+      o Gallery
+
+        <http://www.pressdemocrat.com/gallery/>
+      o Datacenter
+
+        <http://www.pressdemocrat.com/datacenter/>
+  * Opinion
+
+    <http://pressdemocrat.com/opinion>
+    /
+
+    /
+      o Editorials
+
+        <http://www.pressdemocrat.com/opinion/editorials/>
+      o Close to Home
+
+        <http://www.pressdemocrat.com/opinion/closetohome/>
+      o Letters
+
+        <http://www.pressdemocrat.com/opinion/letters/>
+      o Paul Gullixson
+
+        <http://www.pressdemocrat.com/category/?t=paulgullixson>
+      o Pete Golis
+
+        <http://www.pressdemocrat.com/category/?t=petegolis>
+  * Sports
+
+    <http://pressdemocrat.com/sports>
+    /
+
+    /
+      o PD Preps
+
+        <http://www.pdpreps.com/>
+      o NFL
+
+        <http://www.pressdemocrat.com/sports/nfl/>
+      o NBA
+
+        <http://www.pressdemocrat.com/sports/nba/>
+      o MLB
+
+        <http://www.pressdemocrat.com/sports/mlb/>
+      o College
+
+        <http://www.pressdemocrat.com/sports/college/>
+      o Kerry Benefield
+
+        <http://www.pressdemocrat.com/category/?t=kerrybenefield>
+      o 49ers Blog
+
+        <http://49ers.pressdemocrat.com/>
+      o Bob Padecky
+
+        <http://www.pressdemocrat.com/category/?t=bobpadecky>
+      o Lowell Cohn
+
+        <http://www.pressdemocrat.com/category/?t=lowellcohn>
+      o Grant Cohn
+
+        <http://www.pressdemocrat.com/category/?t=grantcohn>
+  * Business
+
+    <http://pressdemocrat.com/business>
+    /
+
+    /
+      o Real Estate
+
+        <http://www.pressdemocrat.com/business/realestate/>
+      o Business Journal
+
+        <http://www.northbaybusinessjournal.com/>
+      o People & Business
+
+        <http://www.pressdemocrat.com/peopleinbusiness>
+      o Book of Lists
+
+        <http://lists.northbaybusinessjournal.com/index.htm>
+      o Wine Business
+
+        <http://www.pressdemocrat.com/category/?t=winebusiness>
+  * Food & Wine
+
+    <http://pressdemocrat.com/lifestyle/food>
+    /
+
+    /
+      o Bite Club
+
+        <http://www.biteclubeats.com/>
+      o Wine
+
+        <http://www.pressdemocrat.com/lifestyle/wine>
+      o Beer
+
+        <http://www.pressdemocrat.com/topics/?t=pd-beer>
+  * Lifestyle
+
+    <http://pressdemocrat.com/lifestyle>
+    /
+
+    /
+      o Home and Garden
+
+        <http://www.pressdemocrat.com/category/?t=homeandgarden>
+      o Unions
+
+        <http://www.pressdemocrat.com/unions>
+      o Outdoors
+
+        <http://www.pressdemocrat.com/category/?t=outdoors>
+      o Biteclub
+
+        <http://www.biteclubeats.com/>
+      o Beer
+
+        <http://www.pressdemocrat.com/topics/?t=pd-beer>
+      o Pets
+
+        <http://www.pressdemocrat.com/lifestyle/pets/>
+      o Celebrate Community
+
+        <http://www.celebratecommunity.org/>
+  * A & E
+
+    <http://pressdemocrat.com/entertainment>
+    /
+
+    /
+      o Games
+
+        <http://www.pressdemocrat.com/games/>
+      o Calendar
+
+        <http://events.pressdemocrat.com/>
+      o Movie Listings
+
+        <http://movies.pressdemocrat.com/>
+      o TV Blog + Listings
+
+        <http://tv.blogs.pressdemocrat.com/>
+      o Sudoku
+
+        <http://www.pressdemocrat.com/sudoku/>
+      o Comics
+
+        <http://www.pressdemocrat.com/comics/>
+      o Horoscopes
+
+        <http://www.pressdemocrat.com/horoscopes/>
+  * Cars
+
+    <http://www.northbaycarsearch.com/>
+  * Blogs
+
+    <http://www.pressdemocrat.com/blogs/>
+
+/
+
+/
+
+/
+
+/
+Sections
+<http://www.pressdemocrat.com/>
+
+<http://www.pressdemocrat.com/> News
+<http://www.pressdemocrat.com/news/> Obits
+<http://www.pressdemocrat.com/news/obits/> Sports
+<http://www.pressdemocrat.com/sports/> Business
+<http://www.pressdemocrat.com/business/> Opinion
+<http://www.pressdemocrat.com/opinion/> Food & Wine
+<http://www.pressdemocrat.com/lifestyle/food/> Lifestyle
+<http://www.pressdemocrat.com/lifestyle/> A&E
+<http://www.pressdemocrat.com/entertainment/> Events
+<http://www.pressdemocrat.com/events> Blogs
+<http://www.pressdemocrat.com/blogs/>
+Subscribe
+
+<https://dpw1.pressdemocrat.com/Subscribe.aspx>
+//
+
+You've read 5 of 15 free articles this month.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=A1>
+
+CLOSE X
+<#>
+You've read 10 of 15 free articles this month.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=A2>
+
+CLOSE X
+<#>
+You've read all of your free articles this month.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=A3>
+
+CLOSE X
+<#>
+We've got a special deal for readers like you.
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=B1>
+
+CLOSE X
+<#>
+Thanks for reading! Why not subscribe?
+Support local journalism and get unlimited access to PressDemocrat.com,
+the eEdition and our mobile app, all starting at 99 cents per month.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=B2>
+
+CLOSE X
+<#>
+Want to keep reading? Subscribe today!
+Ooops! You're out of free articles. Starting at just 99 cents per month,
+you can keep reading all of our products and support local journalism.
+Already a subscriber?Sign In <https://dpw1.pressdemocrat.com/Login.aspx>
+Click Here to Subscribe
+<https://dpw1.pressdemocrat.com/Subscribe.aspx?SentFromUrl=http://www.pressdemocrat.com&type=Speedbump&bump=B3>
+
+CLOSE X
+<#>
+<http://www.pressdemocrat.com/news/6317684-181/anchored-sailboat-burns>
+Sailboat anchored in Bodega Harbor burns
+<http://www.pressdemocrat.com/news/6317684-181/anchored-sailboat-burns?ref=TSM>
+
+<http://www.pressdemocrat.com/news/6315200-181/brandon-maxfield-child-shooting-victim>
+
+Willits man paralyzed by bullet as child dies at 29
+<http://www.pressdemocrat.com/news/6315200-181/brandon-maxfield-child-shooting-victim?ref=TSM>
+
+<http://www.pressdemocrat.com/news/6315335-181/smith-late-nights-are-little>
+
+Smith: Late nights are little trouble for this ‘Music Man’ duo
+<http://www.pressdemocrat.com/news/6315335-181/smith-late-nights-are-little?ref=TSM>
+
+<http://www.pressdemocrat.com/news/6316374-181/patchy-frost-expected-for-north>
+
+Patchy frost expected early Thursday
+<http://www.pressdemocrat.com/news/6316374-181/patchy-frost-expected-for-north?ref=TSM>
+
+<http://www.pressdemocrat.com/news/6297387-181/sonoma-county-seeks-ways-to>
+Housing shortage in spotlight
+<http://www.pressdemocrat.com/news/6297387-181/sonoma-county-seeks-ways-to?ref=TSM>
+
+<http://www.pressdemocrat.com/news/6315535-181/witness-testify-against-santa-rosa>
+
+Witness testify against woman who drove into night club crowd
+<http://www.pressdemocrat.com/news/6315535-181/witness-testify-against-santa-rosa?ref=TSM>
+
+
+
+          *(17 of 18)* Morning light spreads under the Highway 101 over
+          crossing on Sixth Street in Santa Rosa as a homeless man
+          sleeps. (KENT PORTER / The Press Democrat)
+
+
+          *(18 of 18)* Sherry Lindsley embraces a friend beneath the
+          Highway 101 overcrossing on Sixth Street in Santa Rosa after
+          the two slept there overnight. (KENT PORTER / Press Democrat)
+
+
+          *(1 of 18)* Homeless and mentally disabled, Sherry Lindsley
+          embraces a friend at the Highway 101 overcrossing on Sixth
+          Street in Santa Rosa after the two slept there overnight,
+          Tuesday June 21, 2016. (Kent Porter / Press Democrat) 2016
+
+
+          *(2 of 18)* After grabbing a free meal at the St. Vincent
+          DePaul food kitchen, homeless men pedal through the Cleveland
+          and College Avenue intersection, Tuesday June 21, 2016 in
+          Santa Rosa. (Kent Porter / Press Democrat) 2016
+
+
+          *(3 of 18)* A homeless man sleeps beneath the Highway 101
+          overcrossing at Ninth Street in Santa Rosa, Tuesday June 21,
+          2016. (Kent Porter / Press Democrat) 2016
+
+
+          *(4 of 18)* Debris litters Homeless Hill off Farmers Lane in
+          Santa Rosa, Tuesday June 21, 2016. (Kent Porter / Press
+          Democrat) 2016
+
+
+          *(5 of 18)* Debris litters Homeless Hill off of Farmers Lane
+          in Santa Rosa, Tuesday June 21, 2016. (Kent Porter / Press
+          Democrat) 2016
+
+
+          *(6 of 18)* Katie Bateman wipes the sleep from her face on
+          Homeless Hill in Santa Rosa, Tuesday June 21, 2016. (Kent
+          Porter / Press Democrat) 2016
+
+
+          *(7 of 18)* Capricia Moore cleans up her campsite on Homeless
+          Hill off of Farmers Lane and Bennett Valley Road in Santa
+          Rosa, Tuesday June 21, 2016 in Santa Rosa. (Kent Porter /
+          Press Democrat) 2016
+
+
+          *(8 of 18)* Bike parts are strewn about on Homeless Hill off
+          Farmers Lane in Santa Rosa, Tuesday June 21, 2016. (Kent
+          Porter / Press Democrat) 2016
+
+
+          *(9 of 18)* Sam Jones Hall is run by Catholic Charities and
+          provides homeless individuals with temporary shelter,
+          Wednesday June 22, 2016. (Kent Porter / Press Democrat) 2016
+
+
+          *(10 of 18)* Bud Tricker lives at Catholic Charities' Sam
+          Jones Hall in Santa Rosa and helps cook meals for his fellow
+          homeless residents, Tuesday June 21, 2016. (Kent Porter /
+          Press Democrat) 2016
+
+
+          *(11 of 18)* Daniel Maldonado reclines on a bed inside
+          Catholic Charities' Sam Jones Hall on Wednesday June 22, 2016
+          (Kent Porter / Press Democrat) 2016
+
+
+          *(12 of 18)* Nicole Sweeney and her son, Chays, share a meal
+          at the St. Vincent de Paul dining room Tuesday June 21, 2016
+          (Kent Porter / Press Democrat) 2016
+
+
+          *(13 of 18)* Daybreak under the Highway 101 overcrossing at
+          Sixth Street in Santa Rosa, where s a homeless man sleeps,
+          Tuesday June 21, 2016. (Kent Porter / Press Democrat) 2016
+
+
+          *(14 of 18)* Santa Rosa firefighters assist homeless resident
+          Teddy Lamantia on College Avenue near Santa Rosa Junior
+          College, Tuesday June 21, 2016. (Kent Porter / Press Democrat)
+          2016
+
+
+          *(15 of 18)* (Kent Porter / Press Democrat) 2016
+
+
+          *(16 of 18)* (Kent Porter / Press Democrat) 2016
+
+
+          *(17 of 18)* Morning light spreads under the Highway 101 over
+          crossing on Sixth Street in Santa Rosa as a homeless man
+          sleeps. (KENT PORTER / The Press Democrat)
+
+
+          *(18 of 18)* Sherry Lindsley embraces a friend beneath the
+          Highway 101 overcrossing on Sixth Street in Santa Rosa after
+          the two slept there overnight. (KENT PORTER / Press Democrat)
+
+
+          *(1 of 18)* Homeless and mentally disabled, Sherry Lindsley
+          embraces a friend at the Highway 101 overcrossing on Sixth
+          Street in Santa Rosa after the two slept there overnight,
+          Tuesday June 21, 2016. (Kent Porter / Press Democrat) 2016
+
+
+          *(2 of 18)* After grabbing a free meal at the St. Vincent
+          DePaul food kitchen, homeless men pedal through the Cleveland
+          and College Avenue intersection, Tuesday June 21, 2016 in
+          Santa Rosa. (Kent Porter / Press Democrat) 2016
+
+//
+//
+//
+ <javascript:prevSlidePlease();>
+//
+ <javascript:nextSlidePlease();>
+
+
+  Pushed from hidden encampments, plight of Santa Rosa's homeless grows
+  more visible
+
+PAUL PAYNE
+
+THE PRESS DEMOCRAT | June 24, 2016
+
+<#>
+
+<#>
+
+<#>
+
+Jennifer Badolato’s banged-up red Nissan is more than just a car. It’s
+her home.
+
+The Santa Rosa woman doesn’t make enough money in her job at Walmart to
+afford an apartment in Sonoma County, where rents have skyrocketed over
+the past four years to an average of $1,700 a month.
+
+So Badolato, who became homeless in November, lives on the road, driving
+from spot to spot, spending her paycheck on gas, food and the occasional
+hotel room, “just to stay sane.”
+
+“It’s been hard,” said the 44-year-old woman as she waited with a dozen
+others outside a downtown Santa Rosa nonprofit offering free breakfast
+bars and hot showers. “But it’s better to live in a car than on these
+streets.”
+
+Santa Rosa is swarming with homeless people who have been pushed from
+hidden encampments into startling public view. With affordable housing
+scarce and shelters at maximum capacity, many are turning up at
+storefronts and on median strips, in city parks and under freeway
+overpasses.
+
+Police are flooded with complaints about public drunkenness, aggressive
+panhandling and loud fights at all hours. In May, a homeless man was
+killed in an attack at Rae Park across the street from City Hall that
+police said was fueled by a dispute over cigarettes or pot.
+
+The problem has become so bad that next month, the Santa Rosa City
+Council will consider declaring a homeless emergency as part of a slate
+of measures intended to get people off the streets.
+
+“The indisputable fact is we have a serious issue with homelessness, not
+just downtown but citywide,” said Santa Rosa police Lt. John Cregan, the
+department’s point man on the topic. “And we’re going to have to do
+something about it.”
+
+Officials estimate 2,000 people are living without permanent shelter in
+Sonoma County as a whole, a homelessness rate higher than San Francisco
+and three times the national average of about 18 homeless people per
+10,000 people in the general population.
+
+Although overall numbers are down from the previous year, visibility has
+increased and there’s a perception among residents and downtown
+merchants that homelessness is actually on the rise.
+
+Homeless people who once lived in hidden encampments along creeks and
+rail lines have been forced out by waterway cleanups and the arrival of
+a new regional commuter train.
+
+Others believe homeless people are coming from outside the area to take
+advantage of better transient services. But according to an official
+estimate, about 85 percent of the county’s homeless population were last
+housed locally and 55 percent have lived in the county 10 years or more.
+
+*What’s being done*
+
+In response, city and county officials have teamed up with nonprofits
+such as Catholic Charities to tackle the problem head-on.
+
+They opened a Santa Rosa Avenue hotel to homeless veterans earlier this
+year, adding about 100 beds to existing shelters housing about 1,000 people.
+
+Teams of social workers have fanned out, offering services and putting
+people on waiting lists for temporary housing. Santa Rosa this year
+doubled its annual spending on homelessness programs to $1.6 million and
+is planning construction of thousands of affordable housing units in the
+next five years.
+
+At its July 19 meeting, the council will vote on emergency provisions
+that could loosen camping restrictions in cars and on private and public
+lands, including some city parks. Also on the agenda, council members
+will discuss placing a bond on the November ballot that could raise up
+to $100 million to be spent on housing the homeless.
+
+Most Popular Stories
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors>
+
+Santa Rosa teen, tribal youth program honored at White House
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors?ref=most>
+
+<http://www.pressdemocrat.com/news/6310562-181/cotati-mother-talks-about-her>
+
+Slain Cotati man's family seeks answers
+<http://www.pressdemocrat.com/news/6310562-181/cotati-mother-talks-about-her?ref=most>
+
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing>
+
+1 jailed in pot farmer's killing
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing?ref=most>
+
+<http://www.pressdemocrat.com/news/6310530-181/father-of-slain-laytonville-pot>
+
+Father of slain Laytonville pot grower said son was ‘peaceful, kind man’
+<http://www.pressdemocrat.com/news/6310530-181/father-of-slain-laytonville-pot?ref=most>
+
+<http://www.pressdemocrat.com/news/6311476-181/get-into-116-california-state>
+
+Get into California state parks for free on 'Green Friday'
+<http://www.pressdemocrat.com/news/6311476-181/get-into-116-california-state?ref=most>
+
+
+A poll conducted earlier this year showed strong support for such a
+measure, City Councilwoman Julie Combs said.
+
+“The city has a lot of needs and not enough money for them all,” said
+Combs, a member of the council’s subcommittee on homelessness. “We’re
+aware this is a need, and we’ve made it a priority.”
+
+Sonoma County isn’t alone in grappling with the problem. More than
+116,000 people statewide are said to be homeless, with about 60 percent
+living outdoors. Officials in urban areas such as Los Angeles are
+reporting double-digit increases in homelessness with an expectation the
+worst is yet to come.
+
+Lawmakers this month came up with a sweeping proposal to spend $2
+billion for construction of permanent housing for the state’s poorest
+residents. Another $200 million may be allocated for housing subsidies.
+
+In Sonoma County, the problem comes amid a housing shortage that is
+driving up rents and creating waiting lists to get into temporary
+housing. At Catholic Charities’ Samuel L. Jones Hall, the county’s
+largest adult shelter, the wait is almost a month as people stay longer
+to look for permanent dwellings.
+
+“We didn’t have waiting lists four years ago,” said Jennielynn Holmes,
+Catholic Charities’ director of shelter and housing. “We can’t get
+people into housing like we used to.”
+
+Related Stories
+<http://www.pressdemocrat.com/news/5772604-181/santa-rosas-thousands-of-homeless>
+
+Homeless camp life in Santa Rosa: free and filthy
+<http://www.pressdemocrat.com/news/5772604-181/santa-rosas-thousands-of-homeless?ref=related>
+
+<http://www.pressdemocrat.com/news/5707806-181/homeless-camps-cleared-along-petaluma>
+
+8 homeless camps cleared along Petaluma River
+<http://www.pressdemocrat.com/news/5707806-181/homeless-camps-cleared-along-petaluma?ref=related>
+
+<http://www.pressdemocrat.com/news/5759345-181/california-nears-2-billion-plan>
+
+California nears $2 billion plan to house its homeless
+<http://www.pressdemocrat.com/news/5759345-181/california-nears-2-billion-plan?ref=related>
+
+
+Advocates pin their hopes in part on increased rental subsidies allowing
+homeless people to move into regular housing. Last year, nearly 600
+people in the county got off the streets that way, Holmes said.
+
+“That’s how we’re going to loosen up this bottleneck,” Holmes said.
+
+But it’s unclear if that will work with vacancy rates around 1 percent.
+
+*Daily needs met*
+
+Many homeless are drawn to downtown Santa Rosa for free meals and other
+services from nonprofits near the freeway.
+
+Catholic Charities’ Morgan Street drop-in center is a hub of early
+morning activity as people line up for breakfast snacks, showers or to
+check mail. They roll up on bicycles, lugging clothes in plastic garbage
+bags, and chat on cellphones or bum cigarettes as they wait their turns.
+
+Badolato, who arrived late in her Nissan, sat at a table out front,
+smoking a small cigar, when her name was called to take a shower.
+
+“Can I have two towels?” she asked a volunteer, who also provided soap
+and shampoo. “I waited so long.”
+
+At 11:30 a.m., a crowd grows a few blocks away in front of St. Vincent
+de Paul’s Wilson Street kitchen where up to 200 free lunches are served,
+seven days a week. The menu varies from Chinese food to spaghetti, and
+people are allowed seconds or thirds if it is available.
+
+It’s a noisy scene that moves into the West Seventh Street neighborhood,
+where people smoke or talk about job prospects before disbanding after
+the kitchen closes at 12:30 p.m.
+
+“It’s always a good spread here,” said John “Jeff” Rountree, 62, after
+chowing down on the Monday special — burritos. “The price is right.”
+
+Dinners are available from 7 to 7:30 p.m. a block away at the Redwood
+Gospel Mission, which also has a temporary shelter.
+
+On weekends, two churches on Mendocino Avenue serve breakfast on
+alternate days and other meals can be had at the Living Room women’s
+facility on Cleveland Avenue.
+
+Recent Columns
+<http://www.pressdemocrat.com/category/?t=chrissmith>
+<http://www.pressdemocrat.com/news/6315335-181/smith-late-nights-are-little>
+*Smith:* Late nights are little trouble for this ‘Music Man’ duo
+<http://www.pressdemocrat.com/news/6315335-181/smith-late-nights-are-little>
+
+<http://www.pressdemocrat.com/category/?t=kerrybenefield>
+<http://www.pressdemocrat.com/sports/6311047-181/benefield-santa-rosa-windsor-prepare>
+*Benefield:* Santa Rosa, Windsor prepare for NCS rematch
+<http://www.pressdemocrat.com/sports/6311047-181/benefield-santa-rosa-windsor-prepare>
+
+<http://www.pressdemocrat.com/category/?t=lowellcohn>
+<http://www.pressdemocrat.com/sports/lowellcohn/6306081-181/lowell-cohn-its-fantastic-49ers>
+*Lowell Cohn:* It's fantastic: 49ers have hope vs. Patriots
+<http://www.pressdemocrat.com/sports/6306081-181/lowell-cohn-its-fantastic-49ers>
+
+<http://www.pressdemocrat.com/category/?t=petegolis>
+<http://www.pressdemocrat.com/opinion/6292785-181/golis-making-good-on-the>
+*Golis:* Making good on the promise of more housing
+<http://www.pressdemocrat.com/opinion/6292785-181/golis-making-good-on-the>
+<http://www.pressdemocrat.com/category/?t=paulgullixson>
+<http://www.pressdemocrat.com/opinion/6270626-181/gullixson-dont-be-too-surprised>
+*Gullixson:* Don’t be too surprised if … Trump wins
+<http://www.pressdemocrat.com/opinion/6270626-181/gullixson-dont-be-too-surprised>
+
+
+“There’s no reason for anyone to go hungry,” said a gap-toothed homeless
+woman at the Morgan Street center who identified herself as Needa
+Nickel, 62. “If you have to be homeless, this is the place.”
+
+Between meals, many kick back in parks or along creek beds strewn with
+cardboard. Others beg for loose change outside stores on bustling Fourth
+Street.
+
+Thomas Kirkpatrick, just in from San Francisco, plopped down in front of
+Treehorn Books to try a gimmick he said served him well in the big city.
+
+He placed five plastic cups on the sidewalk, each labeled with items he
+wanted — food, beer, LSD, THC and sex. In theory, generous passers-by
+will be tickled by the shtick and give more.
+
+“LSD makes the most,” said the 48-year-old man, squinting into the
+morning sun. “Food makes the least.”
+
+But the cups remained empty by midmorning as pedestrians filed by,
+mostly trying to avoid eye contact.
+
+Kirkpatrick said he was on his way to his native Oregon when he stopped
+in Santa Rosa for the night. He was surprised to get into the Redwood
+Gospel Mission shelter so fast and took advantage of a free breakfast
+the next morning.
+
+“San Francisco is too crowded. I needed to get out of that place,” he
+said. “It’s less congested here. You actually feel you’re going to get
+the things you need.”
+
+A few doors down, bar owner John Ryan was shaking his head at the
+proliferation of transients he said has “overrun” downtown. They dump
+his trash cans into the street searching for returnable bottles,
+defecate in doorways and yell at him when he won’t give them money.
+
+Ryan, the owner of Sweet Spot Pub and Grill, said it’s the worst he has
+seen in his 12 years in business. He called on police to step up bike
+and foot patrols in the downtown area and reopen a substation a block away.
+
+“Life is tough. I don’t know what the answers are,” Ryan said. “Maybe
+build a camp outside of town.”
+
+*Homeless after dark*
+
+Police say things can get dicey after dark. Those who can’t get into
+shelters or don’t want to stay up late, congregate on sidewalks or walk
+all night to stay warm. Many are secretive about where they lay their
+heads while others flop down beneath overpasses, their bundled bodies
+lying in plain view.
+
+Drinking or mental illness fuel frequent fights. Disturbances keep other
+homeless people awake.
+
+After a restless few hours under the Sixth Street overpass, a homeless
+woman who gave only her first name, Julie, crawled out of the dust and
+dirt, packed her belongings onto her bicycle trailer and headed to
+Morgan Street to get a bite to eat.
+
+She said neighbors bickered all night, their deranged shouts mingling
+with the din of freeway traffic.
+
+“The crazies started fighting with each other about midnight,” said the
+40-year-old Santa Rosa native, who recently lost her job at Taco Bell.
+“It wouldn’t have been so bad if they would just shut up.”
+
+Another homeless man, Tony Oerding-Pierce, 36, said he felt lucky to
+finally be in Catholic Charities’ family shelter on A Street.
+
+He and his wife, Nicole Sweeney, along with their 16-month-old son,
+Chays, couch-surfed for more than a month while waiting for an opening.
+They were on the verge of sleeping in a rented storage facility when
+they got the call.
+
+Over a free chicken and rice lunch at the nearby St. Vincent de Paul
+kitchen, the former Montgomery High School student talked about applying
+for cooking jobs in the hopes of someday being able to afford his own
+apartment.
+
+“This is a minor hiccup,” he said as Sweeney fed their son a piece of
+chicken. “Once we get on our feet, we’ll get going. We are highly
+motivated.”
+
+But breaking the cycle is difficult. About 10 percent of the homeless
+population are not ready for services, advocates said.
+
+Daniel Maldonado, 56, who is disabled, simply can’t afford to stay in a
+home. Maldonado, on his second, six-month stay at Sam Jones Hall, said
+he would return to the downtown streets when his time was up this week.
+
+“I’m dreading it,” he said as he lay on a bed in the air-conditioned
+dormitory. “It’s all right here.”
+
+For Badolato, her 17-year-old Nissan is everything. After a string of
+bad luck, her dad kicked her out of his house after Thanksgiving and she
+can’t make enough in her $11.85-an-hour job to afford her own place.
+
+So she lives with her adult son, Shebry Franklin III, in their red
+sedan, parking mostly outside a Starbucks to take advantage of free
+Wi-Fi and to use the bathroom, she said.
+
+“He does all the driving,” Badolato said. “I sleep in the passenger
+seat. The trunk is filled with our clothes.”
+
+You can reach Staff Writer Paul Payne at 568-5312 or
+paul.payne@pressdemocrat.com. On Twitter @ppayne.
+
+Sponsored Contenton Press Democrat
+Providing veterans with a powerful path to a promising career
+<http://www.pressdemocrat.com/sponsored2?prx_t=MnICA0WQKArbcMA&ntv_fr>
+Providing veterans with a powerful path to a promising career
+<http://www.pressdemocrat.com/sponsored2?prx_t=MnICA0WQKArbcMA&ntv_fr>
+By Tony Earley, Chairman & CEO, PG&E Corporation
+<http://www.pressdemocrat.com/sponsored2?prx_t=MnICA0WQKArbcMA&ntv_fr>
+
+When heavy equipment operator Erick Varela answered his country’s call
+to serve with the U.S. Army’s 82 nd Airborne Division in Iraq, he had
+ample reason to think he was risking his life – but not...
+
+Most Popular Stories
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors>
+
+Santa Rosa teen, tribal youth program honored at White House
+<http://www.pressdemocrat.com/news/6310477-181/first-lady-michelle-obama-honors?ref=most>
+
+<http://www.pressdemocrat.com/news/6310562-181/cotati-mother-talks-about-her>
+
+Slain Cotati man's family seeks answers
+<http://www.pressdemocrat.com/news/6310562-181/cotati-mother-talks-about-her?ref=most>
+
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing>
+
+1 jailed in pot farmer's killing
+<http://www.pressdemocrat.com/news/6315150-181/one-suspect-jailed-in-killing?ref=most>
+
+<http://www.pressdemocrat.com/news/6310530-181/father-of-slain-laytonville-pot>
+
+Father of slain Laytonville pot grower said son was ‘peaceful, kind man’
+<http://www.pressdemocrat.com/news/6310530-181/father-of-slain-laytonville-pot?ref=most>
+
+
+<http://www.pressdemocrat.com/news/6315086-181/two-teens-arrested-in-santa>
+2 arrested in SRHS theater vandalism
+<http://www.pressdemocrat.com/news/6315086-181/two-teens-arrested-in-santa?ref=most>
+
+<http://www.pressdemocrat.com/news/6311476-181/get-into-116-california-state>
+
+Get into California state parks for free on 'Green Friday'
+<http://www.pressdemocrat.com/news/6311476-181/get-into-116-california-state?ref=most>
+
+<http://www.pressdemocrat.com/news/6114766-181/sonoma-county-schools-dodge-nationwide>
+
+Teacher shortage? Not in Sonoma County
+<http://www.pressdemocrat.com/news/6114766-181/sonoma-county-schools-dodge-nationwide?ref=most>
+
+<http://www.pressdemocrat.com/news/6297398-181/sonoma-county-supervisors-ok-controversial>
+
+Supervisors OK controversial Bennett Valley winery
+<http://www.pressdemocrat.com/news/6297398-181/sonoma-county-supervisors-ok-controversial?ref=most>
+
+
+<javascript:showDisqus2016()>
+  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+by Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>by
+Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+Sponsored Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>Sponsored
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+Promoted Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>Promoted
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=thumbnails-a:Below%20Article%20Thumbnails:>
+You May Like
+ZM
+<http://www.zimbio.com/Perfectly+Timed+Photos+Taken+Just+Before+Disaster+Strikes?utm_source=tabo&utm_medium=cpc&utm_campaign=Tabo-ZM-US-Desktop-Specials-Photos-Before-Disasters&utm_content=nytrng-pressdemocrat&utm_term=http%3A%2F%2Fwww4.pictures.zimbio.com%2Fmp%2FGQvX4wIolilx.jpg}&utm_term=http%3A%2F%2Fwww4.pictures.zimbio.com%2Fmp%2FGQvX4wIolilx.jpg_Perfectly+Timed+Photos+Taken+Just+Before+Disaster+Strikes>Perfectly
+Timed Photos Taken Just Before Disaster StrikesZM
+<http://www.zimbio.com/Perfectly+Timed+Photos+Taken+Just+Before+Disaster+Strikes?utm_source=tabo&utm_medium=cpc&utm_campaign=Tabo-ZM-US-Desktop-Specials-Photos-Before-Disasters&utm_content=nytrng-pressdemocrat&utm_term=http%3A%2F%2Fwww4.pictures.zimbio.com%2Fmp%2FGQvX4wIolilx.jpg}&utm_term=http%3A%2F%2Fwww4.pictures.zimbio.com%2Fmp%2FGQvX4wIolilx.jpg_Perfectly+Timed+Photos+Taken+Just+Before+Disaster+Strikes>
+Undo
+Soldiers: Free Online Game
+<https://plarium.com/play/en/soldiers/top_g?adCampaign=90163&adPixel=taboola_fr&publisherID=nytrng-pressdemocrat>Join
+Over 14 Million Players and Become a Master of StrategySoldiers: Free
+Online Game
+<https://plarium.com/play/en/soldiers/top_g?adCampaign=90163&adPixel=taboola_fr&publisherID=nytrng-pressdemocrat>
+Undo
+Lower My Bills
+<https://www.lowermybills.com/lending/home-refinance/index.loan?sourceid=lmb-43857-83105&moid=147627&providerId=9628390&pkey1=nytrng-pressdemocrat&pkey2=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2127352fefaa745fce6c5d115cef92eb.jpg&pkey3=Congress+Gives+Homeowners+Who+Owe+Less+Than+%24625k+A+Once-In-A-Lifetime+Mortgage+Bailout>Congress
+Gives Homeowners Who Owe Less Than $625k A Once-In-A-Li…Lower My Bills
+<https://www.lowermybills.com/lending/home-refinance/index.loan?sourceid=lmb-43857-83105&moid=147627&providerId=9628390&pkey1=nytrng-pressdemocrat&pkey2=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F2127352fefaa745fce6c5d115cef92eb.jpg&pkey3=Congress+Gives+Homeowners+Who+Owe+Less+Than+%24625k+A+Once-In-A-Lifetime+Mortgage+Bailout>
+Undo
+Cyber-Breeze
+<http://cyber-breeze.com/this-1000-year-old-myth-turned-out-to-be-more-than-a-legend/?utm_adid=2f67c5&utm_source=Taboola&utm_medium=referral&utm_campaign=Tab-1000-Year-Myth&utm_term=nytrng-pressdemocrat>Ancient
+Mystery Pulled From Ocean, But When They Look InsideCyber-Breeze
+<http://cyber-breeze.com/this-1000-year-old-myth-turned-out-to-be-more-than-a-legend/?utm_adid=2f67c5&utm_source=Taboola&utm_medium=referral&utm_campaign=Tab-1000-Year-Myth&utm_term=nytrng-pressdemocrat>
+Undo
+StartClass.com
+<http://colleges.startclass.com/stories/5256/colleges-biggest-decrease-applications?utm_source=taboola&utm_medium=content.rec&utm_campaign=ao.cr.tb.dt.5256>Nobody
+Wants to Go to These 21 Colleges AnymoreStartClass.com
+<http://colleges.startclass.com/stories/5256/colleges-biggest-decrease-applications?utm_source=taboola&utm_medium=content.rec&utm_campaign=ao.cr.tb.dt.5256>
+Undo
+Vital Reds Supplement
+<http://gundrymd.com/cmd.php?ad=801094&utm_source=taboola&utm_medium=referral>How
+To Fix Your Fatigue (Do This Every Day)Vital Reds Supplement
+<http://gundrymd.com/cmd.php?ad=801094&utm_source=taboola&utm_medium=referral>
+Undo
+LendingTree Mortgage Quotes
+<https://www.lendingtree.com/info/federal-va-benefits-save-veterans-thousands-a-year-on-mortgages?esourceid=6208386&cchannel=content&csource=taboola&ccontent=VARefiDesktop2&cname=The+amazing+VA+benefits+not+enough+vets+are+claiming&siteid=https%3A%2F%2Fconsole.brax-cdn.com%2Fcreatives%2Ff25520c4-b711-4f56-a1a9-22b945a61464%2Fvaapplication_a056c96f61a2c076c1b3f36105333321.jpg&cterm=nytrng-pressdemocrat>The
+amazing VA benefits not enough vets are claimingLendingTree Mortgage
+Quotes
+<https://www.lendingtree.com/info/federal-va-benefits-save-veterans-thousands-a-year-on-mortgages?esourceid=6208386&cchannel=content&csource=taboola&ccontent=VARefiDesktop2&cname=The+amazing+VA+benefits+not+enough+vets+are+claiming&siteid=https%3A%2F%2Fconsole.brax-cdn.com%2Fcreatives%2Ff25520c4-b711-4f56-a1a9-22b945a61464%2Fvaapplication_a056c96f61a2c076c1b3f36105333321.jpg&cterm=nytrng-pressdemocrat>
+Undo
+Worldlifestyle
+<http://www.worldlifestyle.com/trending/things-you-dont-know-about-donald-trumps-kids-2dv?utm_source=Taboola&utm_medium=cpc&utm_campaign=DV_TrumpKids_DT&utm_content=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F53b810f61a68fca6bd43dd0d0ddbc953.jpg&utm_term=nytrng-pressdemocrat>Ever
+Wonder Why Donald Trump Never Talks About His Daughter Tiffany?
+Her…Worldlifestyle
+<http://www.worldlifestyle.com/trending/things-you-dont-know-about-donald-trumps-kids-2dv?utm_source=Taboola&utm_medium=cpc&utm_campaign=DV_TrumpKids_DT&utm_content=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F53b810f61a68fca6bd43dd0d0ddbc953.jpg&utm_term=nytrng-pressdemocrat>
+Undo
+Sponsored Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>Sponsored
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+Promoted Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>Promoted
+Links 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+From The WebYou May Also Like
+Donald Trump's wealth will make your knees buckle (33 photos) (Filthy Rich Stars)(Filthy Rich Stars)
+
+<http://filthyrichstar.com/2016/03/donald-trump-the-filthiest-and-richest-star-so-far/?utm_source=Taboola&utm_medium=nytrng-pressdemocrat&utm_content=http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F5d1bf560b4460aff0f76bf34f138642b.jpg&utm_term=Donald+Trump%27s+wealth+will+make+your+knees+buckle+%2833+photos%29>
+When You Realize What These Holes Are For? Wow (Head Cramp)(Head Cramp)
+
+<http://headcramp.com/pool-diy-deck/?as=2020010101099&utm_source=taboola&utm_medium=referral&utm_term=nytrng-pressdemocrat>
+20 Smartest Celebrities In Hollywood (Coupon Connections)(Coupon Connections)
+
+<http://couponconnections.com/celebs-with-high-iq/?utm_source=taboola&utm_medium=referral&utm_campaign=celebIQ>
+Watch: The New Grocery Store Alternative is Here! (Home Chef)(Home Chef)
+
+<https://www.homechef.com/skip-the-store?utm_source=taboola&utm_medium=cpc_clicks&utm_campaign=tab.30.1&voucher=TB30FREE&utm_content=Watch%3A+The+New+Grocery+Store+Alternative+is+Here%21-http%3A%2F%2Fcdn.taboolasyndication.com%2Flibtrc%2Fstatic%2Fthumbnails%2F8bd9b7be180182b935c248ce3804af5c.png&utm_term=nytrng-pressdemocrat>
+You might have mono if you suffer from these symptoms (Healthypanda.net)(Healthypanda.net)
+
+<http://healthypanda.net/mono-10-signs-symptoms-know/?utm_source=taboola&utm_medium=referral&utm_term=nytrng-pressdemocrat&utm_campaign=mono&utm_content=You+might+have+mono+if+you+suffer+from+these+symptoms>
+Here Are The Only Credit Cards You Need To Have (YourCreditCardsMatters.com)(YourCreditCardsMatters.com)
+
+<http://comparecreditcards.online/news/?utm_campaign=us-ccc-bp-web&utm_source=taboola&utm_content=baseline2&adgroup=native&utm_term=nytrng-pressdemocrat>
+Pt. 1 Woolsey debates opponents Judd and Ruyle
+
+<http://video.pressdemocrat.com/video/614691610001>
+  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>  
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+by Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>by
+Taboola 
+<http://popup.taboola.com/en/?template=colorbox&utm_source=nytrng-pressdemocrat&utm_medium=referral&utm_content=hybrid-text-links-b:Below%20Article%20Text%20Links:>
+
+  * News <http://www.pressdemocrat.com/news/>
+  * Opinion <http://www.pressdemocrat.com/opinion/>
+  * Sports <http://www.pressdemocrat.com/sports/>
+  * Entertainment <http://www.pressdemocrat.com/entertainment/>
+  * Wine Country Life <http://www.pressdemocrat.com/lifestyle/>
+  * Business <http://www.pressdemocrat.com/business/>
+  * Find Events <http://events.pressdemocrat.com/>
+  * Archives <http://www.pressdemocrat.com/archives>
+
+Find it Fast
+
+  * Obituaries <http://www.pressdemocrat.com/news/obits/>
+  * Columnists <http://www.pressdemocrat.com/opinion/columnists/>
+  * Dining Out <http://www.pressdemocrat.com/lifestyle/dining/>
+  * Events Calendar <http://events.pressdemocrat.com/>
+  * Real Estate <http://www.pressdemocrat.com/business/realestate/>
+  * Cars <http://www.pressdemocrat.com/business/cars/>
+  * Unions <http://www.pressdemocrat.com/topics/?t=pd-unions>
+  * Food & Recipes <http://www.pressdemocrat.com/lifestyle/food/>
+  * Local Headlines <http://www.pressdemocrat.com/news/>
+  * Santa Rosa News <http://www.pressdemocrat.com/news/>
+  * Towns <http://towns.pressdemocrat.com/>
+
+Other Sections
+
+  * Letters to the Editor <http://www.pressdemocrat.com/opinion/letters/>
+  * Public/Legal Notices <http://www.capublicnotice.com/>
+  * Weather <http://www.pressdemocrat.com/weather/>
+  * Arrest Reports <http://www.pressdemocrat.com/arrest/>
+  * This Week's Headlines <http://www.pressdemocrat.com/news/>
+  * Editorials <http://www.pressdemocrat.com/opinion/editorials/>
+  * BiteClub <http://www.biteclubeats.com/>
+  * High School Sports <http://www.pdpreps.com/>
+  * Scores <http://pressdemocrat.stats.com/>
+  * Blogs <http://www.pressdemocrat.com/news/blogs/>
+
+Contact + Help
+
+  * Contact Us <http://www.pressdemocrat.com/contactus>
+  * Advertising <http://www.pdmediasource.com/>
+  * Corrections <http://www.pressdemocrat.com/corrections>
+  * Letters to the Editor <http://www.pressdemocrat.com/opinion/letters/>
+  * About Us <http://www.pressdemocrat.com/about>
+  * Special Sections/Magazines
+    <http://santarosapressdemocrat.ca.newsmemory.com/ssindex.php>
+  * Staff Directory <http://www.pressdemocrat.com/staff-directory/>
+  * Data Center <http://www.pressdemocrat.com/datacenter/>
+  * Purchase Photos
+    <https://store.pressdemocrat.com/pages/press-democrat-reprints>
+  * FAQ <http://www.pressdemocrat.com/faq>
+  * Classified Ads <http://classifieds.pressdemocrat.com/>
+
+Subscribers
+
+  * Manage Home Delivery <https://dpw1.pressdemocrat.com/Login.aspx>
+  * Subscribe <https://dpw1.pressdemocrat.com/Subscribe.aspx>
+  * e-Edition
+    <https://dpw1.pressdemocrat.com/Login.aspx?SentFromUrl=eEdition>
+  * RSS Feeds
+    <http://www.pressdemocrat.com/multimedia/2013908-181/rss-feeds>
+  * News in Education <http://www.pressdemocrat.com/news-in-education>
+
+<https://dpw1.pressdemocrat.com/Login.aspx>
+<https://dpw1.pressdemocrat.com/LinkAnExistingSubscription.aspx>
+<https://dpw1.pressdemocrat.com/Subscribe.aspx>
+<javascript:showArticle();>
+<https://dpw1.pressdemocrat.com/Login.aspx>
+<https://dpw1.pressdemocrat.com/LinkAnExistingSubscription.aspx>
+<https://dpw1.pressdemocrat.com/Subscribe.aspx>
+<javascript:showArticle();>

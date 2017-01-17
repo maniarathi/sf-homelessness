@@ -1,0 +1,689 @@
+KQED Menu
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Menu
+
+    <#>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Specials
+
+        <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED Arts <https://ww2.kqed.org/arts/>
+
+Search
+
+<#search-container>
+
+
+  KQED Arts Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Art Wire <https://ww2.kqed.org/arts/programs/art-wire/>
+
+
+  SF Arts and Homeless Organizations Join Forces to Secure More City Funding
+
+San Francisco arts and homeless services organizations are banding
+together to propose a ballot measure that would earmark city funding
+from the Hotel Tax for both arts and homeless services
+
+San Francisco arts and homeless services organizations are banding
+together to propose a ballot measure that would earmark city funding
+from the Hotel Tax for both arts and homeless services (/Photo: Darshan
+Simha/)
+
+By Chloe Veltman <https://ww2.kqed.org/arts/author/cveltman/>, KQED
+May 27, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=email&nb=1>
+*
+
+Dozens of arts and homelessness advocacy organizations in San Francisco
+are joining forces to file a ballot measure to restore funding from the
+city’s Hotel Room Tax
+<http://sfcontroller.org/sites/default/files/FileCenter/Documents/242-06_Hotel_Room_Tax_October_2013.pdf>
+(a tax of 14 percent levied on hotel stays, more simply known as the
+Hotel Tax.) The “San Francisco Arts and Families Funding Ordinance” aims
+to benefit both cultural activities and families living on the streets —
+without raising taxes for voters.
+
+Supporters of the measure, which was filed at City Hall on Friday, are
+calling the move an “unprecedented unified coalition” between the city’s
+cultural and homeless services communities.
+
+More than 30 organizations, large and small, ranging from the San
+Francisco Opera <http://sfopera.com/> and the Coalition on Homelessness
+<http://www.cohsf.org/> to Root Division <https://www.rootdivision.org/>
+and the Hamilton Family Center <https://hamiltonfamilycenter.org/> have
+signed on to push the measure through. Although the city’s arts and
+homeless communities intersect frequently in the present tough economic
+climate — with increasing numbers of artists and arts organizations
+being displaced from their homes and workplaces, artists creating art
+about living on the streets, and homeless services organizations
+offering arts activities to people in shelters — the collaboration is
+certainly unusual.
+
+Sponsored By
+
+“As far as we’re aware, never before has this type of coalition between
+the arts and homeless communities come together,” says Shwetika
+Baijal, a strategist with 50+1 Strategies <http://www.50p1.com/>, a San
+Francisco-based political consulting firm that’s working with the
+coalition on building support for the measure. “This pushes us to think
+of a broader vision for San Francisco.”
+
+*A long legacy*
+
+San Francisco’s Hotel Tax was originally created in 1961 to support the
+city’s arts industries, and the construction and operation of convention
+facilities. Starting in the 1970s, funds from the Hotel Tax were
+allocated to fund low-income housing. In early 2000s, the city amended
+the allocations for the arts as part of the annual budget process,
+reducing funding gradually, and ultimately repealing specific
+allocations altogether. Money that went towards low-income housing from
+the fund was eliminated. (The city offers funding for people in need of
+food and shelter through other channels, such as the Mayor’s Fund for
+the Homeless <http://www.sfmayor.org/index.aspx?page=1030>.)
+
+Meanwhile, San Francisco hotel revenues have increased by 135 percent
+over the past decade. These days, most of the Hotel Tax money ends up in
+the city’s General Fund. The fund is sizable and has grown enormously
+over the past decade: at the end of 2014-2015 fiscal year, the total
+Hotel Tax revenue was close to $400 million, up from just over $150
+million ten years previously.
+
+“The Hotel Tax is a massive source of revenue in San Francisco, yet the
+arts and homeless services in San Francisco have been severely
+underfunded,” says Nicole Derse, principal at 50+1. “It makes sense that
+we should direct funding back towards the Hotel Tax’s original intent.”
+
+*How the money will be used*
+
+If the measure passes in November, it will use funds from the Hotel Tax
+kitty in an effort to end homelessness for families living in San
+Francisco. A 2015 report by the Coalition on Homelessness estimates that
+there are nearly 2,000 homeless families in the city, including more
+than 3,200 minors. Funds will specifically be used for rapid re-housing,
+prevention and diversion, capital and operating costs for the
+development, rehabilitation and acquisition of new housing for homeless
+families, and the administration of these programs.
+
+“I couldn’t imagine a San Francisco that doesn’t support its homeless
+families and its arts and culture,” says Martha Ryan, executive director
+of the Homeless Prenatal Program <http://www.homelessprenatal.org/>
+(HPP), a local support center for impoverished and homeless families,
+and a member of the coalition. “Seeing the women who come to the
+Homeless Prenatal Program for vital services, I think there is nothing
+more important than making sure family homelessness services are funded.
+The beautiful arts in our communities and our city’s vibrant cultural
+institutions makes us who we are, and we have to financially support
+them to keep San Francisco’s spirit intact.”
+
+The measure also calls for a portion of the Hotel Tax fund to be
+earmarked for the cultural industries, including general operational
+support for San Francisco arts and cultural organizations, arts service
+organizations, capital investments and regranting programs, arts tourism
+initiatives and neighborhood arts collaborative programs with the San
+Francisco Arts Commission.
+
+“The Hotel Tax was originally created to support arts industries, but
+has been experiencing gradual reductions since the early 2000s,” says
+Jon Moscone, chief engagement officer at Yerba Buena Center for the Arts
+<http://www.ybca.org/> (YBCA), a visual and performing cultural venue,
+producer and presenter in downtown San Francisco. YBCA is a member of
+the coalition. “Speaking as a native San Franciscan and an artist, this
+measure not only addresses the critical issues facing arts funding, but
+also steps up and addresses funding needs for family homelessness.”
+
+The measure is intended to have a wide-reaching impact on the city’s
+arts and culture offerings. However, it is not comprehensive in terms of
+its scope: “Our measure funds primarily the Grants for the Arts (GFTA),
+Arts Commission, War Memorial, convention facilities, Cultural Equity
+Endowment Fund and creates a new Neighborhood Arts Fund,” Baijal says.
+
+*Stronger together*
+
+Derse says a number of San Francisco’s arts organizations started
+working together to strengthen the local cultural ecosystem over a year
+ago, by advocating for more cultural equity in the last budget cycle.
+Derse says that homelessness service providers were having similar
+discussions at that time, specifically around family homelessness. “Both
+groups were looking to the Hotel Tax,” Derse says. “We realized there
+was lots of common ground, so in the last three months we’ve been
+combining efforts.”
+
+Instead of filing separate ballot measures — “we thought it would be
+confusing to voters to see multiple hotel tax measures on the ballot,”
+Derse says — the two communities decided to move forwards with a single
+proposal. “We realized we’re stronger together,” Derse says.
+
+In order to get the measure on the November ballot, the coalition
+members have about a month starting in early June to collect
+9,485 signatures on their petition, once the Department of Elections
+issues the coalition with a title and summary. (If the measure were
+brand new charter amendment rather than an amendment to an existing
+ordinance, the requirement would be 43,280 signatures.) If the requisite
+number of signatures is collected and the measure gets through, it will
+need approval from at least two-thirds of San Francisco’s voters to pass.
+
+Derse says the arts and homeless organizations are now working to raise
+public awareness about the measure in order to get the necessary
+signatures on the petition, and then inspiring additional arts and
+homeless advocacy groups and leaders to join the cause. “We are
+organizing groups and supporters to start collecting petitions,”
+Baijal says. “It’s a great opportunity for supporters to get involved
+from the get-go.”
+
+A spokesperson from City Hall couldn’t be reached for comment on Friday.
+We will update this story as it unfolds.
+
+Explore: Culture <https://ww2.kqed.org/arts/category/culture/>, News
+<https://ww2.kqed.org/arts/category/news/>, Election 2016
+<https://ww2.kqed.org/arts/tag/election-2016/>, news
+<https://ww2.kqed.org/arts/tag/news-2/>, taxes
+<https://ww2.kqed.org/arts/tag/taxes/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/?share=email&nb=1>
+  *
+
+1 Comment
+<http://ww2.kqed.org/arts/2016/05/27/sf-arts-and-homeless-organizations-join-forces-to-secure-more-city-funding/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Arts
+
+Homeless & Arts Org-Backed Measure Earns Place on Nov. Ballot
+
+<http://ww2.kqed.org/arts/2016/07/21/homeless-arts-org-backed-measure-earns-place-on-nov-ballot/>
+
+Arts and Homeless Groups Unite Behind Ballot Measure for More Funds
+
+<http://ww2.kqed.org/arts/2016/07/11/arts-and-homeless-groups-unite-behind-balllot-measure-for-more-funds/>
+
+California Arts Council in the Money With New State Budget
+
+<https://ww2.kqed.org/arts/2016/06/28/california-arts-council-in-the-money-with-new-state-budget/>
+
+Five Songs for the Homeless: The Bay Area's Empathy on Record
+
+<https://ww2.kqed.org/arts/2016/06/29/five-songs-for-the-homeless-the-bay-areas-empathy-on-record/>
+
+Prisoner's Scarlett Johansson Portrait Provides Path Towards Redemption
+
+<http://ww2.kqed.org/arts/2016/06/21/prisoners-scarlett-johannson-portrait-provides-path-towards-redemption/>
+
+San Francisco’s Intersection for the Arts Suspends Programs, Lays Off
+Curators
+
+<http://ww2.kqed.org/arts/2014/05/22/san-franciscos-intersection-for-the-arts-suspends-programs-lays-off-curators/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Chloe Veltman
+
+Chloe Veltman is senior arts editor at KQED.
+
+ 
+
+View all posts by this author <https://ww2.kqed.org/arts/author/cveltman/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Why So Few Ballet Dancers Become Choreographers
+
+<https://ww2.kqed.org/arts/2016/05/27/why-so-few-ballet-dancers-become-choreographers/>
+Next Ex-'Glee' Star Mark Salling Indicted on Child-Porn Charges
+
+<https://ww2.kqed.org/arts/2016/05/27/ex-glee-star-mark-salling-indicted-on-child-porn-charges/>
+
+
+
+  About KQED Arts
+
+KQED Arts provides daily arts news, reviews and profiles for the San
+Francisco Bay Area.
+
+  * Contributors <http://ww2.kqed.org/arts/contributors/>
+  * Contact Us <mailto:arts@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+Funding for KQED Arts is provided by The William and Flora Hewlett
+Foundation <http://www.hewlett.org/>.
+
+The William and Flora Hewlett Foundation <http://www.hewlett.org/>
+
+Support is also provided by the Kenneth Rainin Foundation and the
+members of KQED.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+:)
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  When you need an art fix!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil

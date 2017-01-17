@@ -1,0 +1,453 @@
+<#>
+
+      o Home <http://www.sfexaminer.com/>
+      o Breaking News <http://www.sfexaminer.com/category/breaking-news/>
+      o The City <http://www.sfexaminer.com/category/the-city/>
+          + Bay Area
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/bay-area/>
+          + City Planning
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/city-planning/>
+          + Crime
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/crime/>
+          + Education
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/education/>
+          + News Columnists
+            <http://www.sfexaminer.com/category/the-city/sf-news-columns/>
+          + Peninsula
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/peninsula/>
+          + Politics
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/politics/>
+          + Transit
+            <http://www.sfexaminer.com/category/the-city/san-francisco-news/transit/>
+      o Election
+        <http://www.sfexaminer.com/category/the-city/san-francisco-news/election/>
+      o Photo Galleries
+        <http://www.sfexaminer.com/category/photo-galleries/>
+      o Sports <http://www.sfexaminer.com/category/sports/>
+          + MLB
+            <http://www.sfexaminer.com/category/sports/sports-stories/mlb/>
+          + NBA
+            <http://www.sfexaminer.com/category/sports/sports-stories/nba/>
+          + NFL
+            <http://www.sfexaminer.com/category/sports/sports-stories/nfl/>
+          + NHL
+            <http://www.sfexaminer.com/category/sports/sports-stories/nhl/>
+          + Other
+            <http://www.sfexaminer.com/category/sports/sports-stories/other-sports/>
+          + Sports Columnists
+            <http://www.sfexaminer.com/category/sports/sports-columnists/>
+      o Arts <http://www.sfexaminer.com/category/arts/>
+          + Movies and TV
+            <http://www.sfexaminer.com/category/arts/movies-and-tv/>
+          + Performing Arts
+            <http://www.sfexaminer.com/category/arts/performing-arts/>
+          + Visual Arts
+            <http://www.sfexaminer.com/category/arts/visual-arts/>
+      o Features <http://www.sfexaminer.com/category/features/>
+          + Food & Dining
+            <http://www.sfexaminer.com/category/features/food-and-dining/>
+          + Gossip <http://www.sfexaminer.com/category/features/gossip/>
+          + Health <http://www.sfexaminer.com/category/features/health/>
+          + Law <http://www.sfexaminer.com/category/features/law/>
+          + Other <http://www.sfexaminer.com/category/features/other/>
+      o Nation & World <http://www.sfexaminer.com/category/nation-world/>
+          + California News
+            <http://www.sfexaminer.com/category/nation-world/california-news/>
+          + US News
+            <http://www.sfexaminer.com/category/nation-world/us-news/>
+          + World News
+            <http://www.sfexaminer.com/category/nation-world/world-news/>
+      o Opinion <http://www.sfexaminer.com/category/opinion/>
+          + Editorials
+            <http://www.sfexaminer.com/category/opinion/editorials/>
+          + Letters
+            <http://www.sfexaminer.com/category/opinion/letters-to-the-editor/>
+          + Op-Ed <http://www.sfexaminer.com/category/opinion/op-ed/>
+      o Real Estate <http://www.sfexaminer.com/san-francisco-real-estate/>
+          + San Francisco
+            <http://www.sfexaminer.com/category/real-estate/san-francisco/>
+          + Peninsula
+            <http://www.sfexaminer.com/category/real-estate/peninsula-real-estate/>
+      o Contact Us <http://www.sfexaminer.com/contact-us/>
+      o Customer Service
+        <http://www.sfexaminer.com/circulation-customer-service/>
+      o Archives <http://www.sfexaminer.com/archive/>
+
+<javascript:void(0)>
+<http://afterdarksf.com/?src=examiner>
+<http://www.sfexaminer.com/index.php>
+
+  * Sign up for our e-edition
+    <http://www.sfexaminer.com/sign-up-for-our-newsletter/>
+  * |
+  * <https://www.facebook.com/sfexaminer>
+  * <https://twitter.com/sfexaminer>
+
+<https://www.sterlingbank.com/personal-online-banking.html>
+
+<http://www.sfexaminer.com/index.php> Sunday December 04, 2016
+ 
+The City <http://www.sfexaminer.com/category/the-city/> > San Francisco
+News <http://www.sfexaminer.com/category/the-city/san-francisco-news/> >
+Bay Area
+<http://www.sfexaminer.com/category/the-city/san-francisco-news/bay-area/>
+> Breaking News <http://www.sfexaminer.com/category/breaking-news/> >
+Editor's Picks <http://www.sfexaminer.com/category/editors-picks/> > The
+City <http://www.sfexaminer.com/category/the-city/> > Featured The City
+<http://www.sfexaminer.com/category/the-city/featured-city/>
+
+
+  Navigating homelessness with children
+
+
+      Trending Articles
+
+  * Stopping San Francisco’s biggest land grab
+    <http://www.sfexaminer.com/stopping-san-franciscos-biggest-land-grab/>
+  * 37,000 San Franciscans voted for Trump, mostly in The City’s
+    southwest
+    <http://www.sfexaminer.com/37000-san-franciscans-voted-trump-mostly-citys-southwest/>
+
+  * Neighbors split on protected bike lanes in SF’s Panhandle
+    <http://www.sfexaminer.com/neighbors-split-protected-bike-lanes-sfs-panhandle/>
+
+  * Investigation continues, community grieves following Oakland fire
+    <http://www.sfexaminer.com/investigation-continues-community-grieves-following-oakland-fire/>
+
+  * UPDATE: Cirque du Soleil cancels more SF shows after death of
+    co-founder’s son
+    <http://www.sfexaminer.com/cirque-du-soleil-cancels-sf-shows-death-co-founders-son/>
+
+
+Related Articles
+<http://www.sfexaminer.com/sfs-top-health-homeless-officials-endorse-wet-housing-safe-drug-injection-sites/>
+SF’s top health, homeless officials endorse wet housing, safe drug
+injection sites
+<http://www.sfexaminer.com/sfs-top-health-homeless-officials-endorse-wet-housing-safe-drug-injection-sites/>
+<http://www.sfweekly.com/news/news-news/reaching-homeless-clearing-camps/>
+Reaching Out to the Homeless Before Clearing Their Camps
+<http://www.sfweekly.com/news/news-news/reaching-homeless-clearing-camps/>
+<http://www.sfexaminer.com/families-saw-loved-ones-die-traffic-collisions-form-new-advocacy-group/>
+Families who saw loved ones die in traffic collisions form new advocacy
+group
+<http://www.sfexaminer.com/families-saw-loved-ones-die-traffic-collisions-form-new-advocacy-group/>
+<http://www.sfexaminer.com/nationwide-homeless-population-drops-sf-sees-increase/>
+Nationwide homeless population drops, while SF sees increase
+<http://www.sfexaminer.com/nationwide-homeless-population-drops-sf-sees-increase/>
+<http://www.sfexaminer.com/sfs-new-60m-animal-shelter-way/>
+SF’s new $60M animal shelter on the way
+<http://www.sfexaminer.com/sfs-new-60m-animal-shelter-way/>
+
+    The San Francisco Examiner <https://www.facebook.com/sfexaminer/>
+
+
+    San Francisco Yellow Pages
+
+Apartments
+<http://yellowpages.sfexaminer.com/san+francisco/apartments.zq.html>
+Attorneys
+<http://yellowpages.sfexaminer.com/san+francisco/attorneys.zq.html>
+Auto Dealers
+<http://yellowpages.sfexaminer.com/san+francisco/auto+dealers.zq.html>
+Auto Parts
+<http://yellowpages.sfexaminer.com/san+francisco/auto+parts.zq.html>
+Auto Repair
+<http://yellowpages.sfexaminer.com/san+francisco/auto+repair.zq.html>
+Beauty Salons
+<http://yellowpages.sfexaminer.com/san+francisco/beauty+salons.zq.html>
+Car Rental
+<http://yellowpages.sfexaminer.com/search.pg?q=car%20rental&z=san+francisco>
+Dentists <http://yellowpages.sfexaminer.com/san+francisco/dentists.zq.html>
+Doctors <http://yellowpages.sfexaminer.com/san+francisco/doctors.zq.html>
+Flowers <http://yellowpages.sfexaminer.com/san+francisco/flowers.zq.html>
+Hotels <http://yellowpages.sfexaminer.com/san+francisco/hotels.zq.html>
+Insurance
+<http://yellowpages.sfexaminer.com/san+francisco/insurance.zq.html>
+Loans <http://yellowpages.sfexaminer.com/san+francisco/loans.zq.html>
+Mortgages
+<http://yellowpages.sfexaminer.com/san+francisco/mortgages.zq.html>
+Movers
+<http://yellowpages.sfexaminer.com/search.pg?q=movers&z=san+francisco>
+Pizza <http://yellowpages.sfexaminer.com/san+francisco/pizza.zq.html>
+Realtors <http://yellowpages.sfexaminer.com/san+francisco/realtors.zq.html>
+Restaurants
+<http://yellowpages.sfexaminer.com/san+francisco/restaurants.zq.html>
+Storage <http://yellowpages.sfexaminer.com/san+francisco/storage.zq.html>
+Tax Preparation
+<http://yellowpages.sfexaminer.com/search.pg?q=tax%20preparation&z=san+francisco>
+Travel <http://yellowpages.sfexaminer.com/san+francisco/travel.zq.html>
+More... <http://yellowpages.sfexaminer.com/san+francisco.z.html>
+homelessness
+Willie Iribarren, right, speaks with an attendee at an open house for
+family homelessness held by Compass Family Services. (Ryan
+McNulty/Special to S.F. Examiner)
+By Michaela Payne <http://www.sfexaminer.com/author/michaela_payne/> on
+June 30, 2016 1:00 am
+Facebook
+<http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521&t=Navigating%20homelessness%20with%20children&s=100&p[url]=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521&p[images][0]=http%3A%2F%2Fwww.sfexaminer.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsf.familyhomeles.0630.jpg&p[title]=Navigating%20homelessness%20with%20children>twitter
+<http://twitter.com/share?url=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521&text=Navigating%20homelessness%20with%20children>google_plus
+<https://plus.google.com/share?url=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521>mail
+<mailto:?subject=Navigating%20homelessness%20with%20children&body=Hey%20check%20this%20out:%20http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521>Facebook
+<http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521&t=Navigating%20homelessness%20with%20children&s=100&p[url]=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521&p[images][0]=http%3A%2F%2Fwww.sfexaminer.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsf.familyhomeles.0630.jpg&p[title]=Navigating%20homelessness%20with%20children>twitter
+<http://twitter.com/share?url=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521&text=Navigating%20homelessness%20with%20children>google_plus
+<https://plus.google.com/share?url=http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521>mail
+<mailto:?subject=Navigating%20homelessness%20with%20children&body=Hey%20check%20this%20out:%20http%3A%2F%2Fwww.sfexaminer.com%2F%3Fp%3D147521>
+
+San Francisco
+<http://www.sfexaminer.com/related-entities/?eid=48265&ename=San%20Francisco&lang=en>
+resident Willie Iribarren
+<http://www.sfexaminer.com/related-entities/?eid=3950440758&ename=Willie%20Iribarren&lang=en>
+grew up experiencing homelessness. As a single mother, she found herself
+staying in shelters once again.
+
+“It’s harder,” Iribarren, 26, said. “You put up with more because
+you need a place for your baby to sleep.”
+
+Iribarren has learned to navigate the system after staying in various
+shelters with her two young daughters before landing at Clara House, an
+18-month transitional housing program in San Francisco under the
+umbrella of Compass Family Services
+<http://www.sfexaminer.com/related-entities/?eid=2823346771&ename=Compass%20Family%20Services&lang=en>.
+Her mom found help through Compass when Iribarren was young and led her
+adult daughter to the same resource.
+
+When she first sought help, Iribarren was placed in housing with her
+young daughter and then-partner, where the family’s portion of the rent
+was $300 and the rest was subsidized. Then, the rent went up and the
+subsidy expired, skyrocketing their portion to $1,300.
+
+“It wasn’t doable at all,” Iribarren said. She then moved back to
+Hamilton Family Emergency Center shelter, where families can stay for 60
+days in the dorm-style rooms, before moving to Antioch. The commute was
+long and expensive.
+
+↓ *Continue Reading Below*
+
+[advertisement]
+[advertisement]
+
+Families experiencing homelessness face unique challenges. Ninety
+percent are in shelters, although they must wait six months to a year to
+find those temporary beds and often stressful conditions.
+
+Ads by ZINC
+3
+
+“That’s just to solve their sleeping problem, not their living problem,”
+Colm Hegarty said. He’s the director of donor relations at Compass
+Family Services, a 101-year-old organization that held an open house
+Wednesday.
+
+It’s estimated there are more than 3,000 children experiencing
+homelessness in San Francisco, according to Compass. Homelessness can
+cause students to miss school days, lack the food their brains need for
+schoolwork and development, and experience exhaustion from stress and
+sleep loss.
+
+More than 7,500 people were homeless on the streets and in shelters of
+San Francisco last January, but that number is considered an undercount
+by most local homeless advocacy groups. Homeless people in families
+numbered 630 in 2015, down from 679 two years before. More than 40
+percent have experienced domestic violence.
+
+Most homeless families are a single mom with one or two kids, Hegarty
+said. Those families face the highest risk of finding themselves
+homeless, especially those with children under age six, according to San
+Francisco’s homeless count last year.
+
+Families from San Francisco who are placed in housing by Compass have
+moved as far away as Fresno and around the Bay Area.
+
+But finding any shelter is considered a stroke of luck when waiting for
+subsidized housing can take up to 20 years and Compass has 232 families
+on its waitlist.
+
+Before they’re placed in housing, families must navigate systems and
+rules at shelters, where it’s easy to get kicked out.
+
+San Francisco native Regina Bates
+<http://www.sfexaminer.com/related-entities/?eid=2569552063&ename=Regina%20Bates&lang=en>
+moved into a one-bedroom with subsidized rent in Vallejo last August.
+
+She worked as a corporate receptionist for 25 years until she injured
+her foot. When she returned from disability, she’d been fired. Job loss
+plummeted her into homelessness, like 25 percent of San Francisco’s
+homeless population has reported. Every chance she could, Bates dropped
+her kids off at school and then used San Francisco public libraries as
+her office. “I researched my way out of homelessness,” she said. She got
+hired as a receptionist at Raphael House, San Francisco’s only private
+shelter for families, and took a second job at the Coalition on
+Homelessness last November.
+
+“‘If I don’t do double-duty, then I’m going to be homeless again.’ You
+get post-traumatic stress when you’re homeless because it’s
+‘do-or-die,’” Bates said.
+
+When Bates’ family was homeless, she said, “Your kids didn’t ask to be
+homeless. Your kids, they’re stressed out too. They need therapy. They
+need safety, stability.”
+
+Bates felt the constant gaze of Child Protective Services, checking out
+the kids and the parenting all the time. She was always worried that
+they wouldn’t be allowed to stay together.
+
+She wonders why so many people are homeless today, seemingly more than
+ever, she said.
+
+“We are the third largest economic city in all of the nation. There’s no
+reason why there’s a lot of homeless people out there. This day and age,
+2016, y’all can put drones in the air, self-driving cars. What the hell
+are you doing?”
+
+San Francisco
+<http://www.sfexaminer.com/related-entities/?eid=48265&ename=San%20Francisco&lang=en>,
+Willie Iribarren
+<http://www.sfexaminer.com/related-entities/?eid=3950440758&ename=Willie%20Iribarren&lang=en>,
+Compass Family Services
+<http://www.sfexaminer.com/related-entities/?eid=2823346771&ename=Compass%20Family%20Services&lang=en>,
+Regina Bates
+<http://www.sfexaminer.com/related-entities/?eid=2569552063&ename=Regina%20Bates&lang=en>,
+Hamilton Family Emergency Center
+<http://www.sfexaminer.com/related-entities/?eid=2585136711&ename=Hamilton%20Family%20Emergency%20Center&lang=en>,
+Raphael House
+<http://www.sfexaminer.com/related-entities/?eid=2805125279&ename=Raphael%20House&lang=en>,
+Clara House
+<http://www.sfexaminer.com/related-entities/?eid=1083267317&ename=Clara%20House&lang=en>,
+Child Protective Services
+<http://www.sfexaminer.com/related-entities/?eid=2466869064&ename=Child%20Protective%20Services&lang=en>,
+Bay area
+<http://www.sfexaminer.com/related-entities/?eid=807020598&ename=Bay%20area&lang=en>
+
+
+    Click here <#disqus_comments> or scroll down to comment
+
+Our Content Recommended For You
+<http://www.sfexaminer.com/37000-san-franciscans-voted-trump-mostly-citys-southwest/>
+37,000 San Franciscans voted for Trump, mostly in The City’s southwest
+<http://www.sfexaminer.com/37000-san-franciscans-voted-trump-mostly-citys-southwest/>
+Dec 1, 2016
+<http://www.sfexaminer.com/suspected-fecal-matter-debris-dumped-sfs-assessor-recorder-office/>
+Suspected fecal matter, debris dumped in SF’s Assessor-Recorder office
+<http://www.sfexaminer.com/suspected-fecal-matter-debris-dumped-sfs-assessor-recorder-office/>
+Nov 22, 2016
+<http://www.sfexaminer.com/sf-wants-less-car-friendly-development-amid-population-construction-boom/>
+SF wants less car-friendly development amid population, construction
+boom
+<http://www.sfexaminer.com/sf-wants-less-car-friendly-development-amid-population-construction-boom/>
+Nov 29, 2016
+<http://www.sfexaminer.com/richmond-district-looks-engage-residents-neighborhood-planning/>
+Richmond District looks to engage residents in neighborhood planning
+<http://www.sfexaminer.com/richmond-district-looks-engage-residents-neighborhood-planning/>
+Dec 2, 2016
+<http://www.sfexaminer.com/muni-transit-hack-bears-striking-resemblance-sf-hacking-game-watch-dogs-2/>
+Muni transit ‘hack’ bears striking resemblance to SF-hacking game ‘Watch
+Dogs 2’
+<http://www.sfexaminer.com/muni-transit-hack-bears-striking-resemblance-sf-hacking-game-watch-dogs-2/>
+Nov 27, 2016
+<http://www.sfexaminer.com/black-friday-shoppers-descend-sfs-union-square/>
+Black Friday shoppers descend on SF’s Union Square
+<http://www.sfexaminer.com/black-friday-shoppers-descend-sfs-union-square/>
+Nov 25, 2016
+
+
+    In Other News
+
+
+      Trending Articles
+
+  * Stopping San Francisco’s biggest land grab
+    <http://www.sfexaminer.com/stopping-san-franciscos-biggest-land-grab/>
+  * 37,000 San Franciscans voted for Trump, mostly in The City’s
+    southwest
+    <http://www.sfexaminer.com/37000-san-franciscans-voted-trump-mostly-citys-southwest/>
+
+  * Neighbors split on protected bike lanes in SF’s Panhandle
+    <http://www.sfexaminer.com/neighbors-split-protected-bike-lanes-sfs-panhandle/>
+
+  * Investigation continues, community grieves following Oakland fire
+    <http://www.sfexaminer.com/investigation-continues-community-grieves-following-oakland-fire/>
+
+  * UPDATE: Cirque du Soleil cancels more SF shows after death of
+    co-founder’s son
+    <http://www.sfexaminer.com/cirque-du-soleil-cancels-sf-shows-death-co-founders-son/>
+
+
+  * Breaking News <http://www.sfexaminer.com/category/breaking-news/>
+
+  * The City <http://www.sfexaminer.com/category/the-city/>
+  * Crime
+    <http://www.sfexaminer.com/category/the-city/san-francisco-news/crime/>
+  * Politics
+    <http://www.sfexaminer.com/category/the-city/san-francisco-news/politics/>
+  * Education
+    <http://www.sfexaminer.com/category/the-city/san-francisco-news/education/>
+  * City Planning
+    <http://www.sfexaminer.com/category/the-city/san-francisco-news/city-planning/>
+  * Transit
+    <http://www.sfexaminer.com/category/the-city/san-francisco-news/transit/>
+  * Columnists
+    <http://www.sfexaminer.com/category/the-city/sf-news-columns/>
+
+  * Sports <http://www.sfexaminer.com/category/sports/>
+  * NFL <http://www.sfexaminer.com/category/sports/sports-stories/nfl/>
+  * NBA <http://www.sfexaminer.com/category/sports/sports-stories/nba/>
+  * MLB <http://www.sfexaminer.com/category/sports/sports-stories/mlb/>
+  * NHL <http://www.sfexaminer.com/category/sports/sports-stories/nhl/>
+  * Columnists
+    <http://www.sfexaminer.com/category/sports/sports-columnists/>
+  * Other
+    <http://www.sfexaminer.com/category/sports/sports-stories/other-sports/>
+
+  * Photo Galleries <http://www.sfexaminer.com/category/photo-galleries/>
+
+  * Opinion <http://www.sfexaminer.com/category/opinion/>
+  * Letters
+    <http://www.sfexaminer.com/category/opinion/letters-to-the-editor/>
+  * Op-eds <http://www.sfexaminer.com/category/opinion/op-ed/>
+  * Editorials <http://www.sfexaminer.com/category/opinion/editorials/>
+
+  * Features <http://www.sfexaminer.com/category/features/>
+  * Food <http://www.sfexaminer.com/category/features/food-and-dining/>
+  * Health <http://www.sfexaminer.com/category/features/health/>
+  * Law <http://www.sfexaminer.com/category/features/law/>
+  * Other <http://www.sfexaminer.com/category/features/other/>
+
+  * Arts <http://www.sfexaminer.com/category/arts/>
+  * Calendar <http://www.sfexaminer.com/category/arts/calendar/>
+  * Comedy <http://www.sfexaminer.com/category/arts/comedy/>
+  * Community <http://www.sfexaminer.com/category/arts/community/>
+  * Dance <http://www.sfexaminer.com/category/arts/Dance/>
+  * Literature <http://www.sfexaminer.com/category/arts/Literature/>
+  * Movies and TV <http://www.sfexaminer.com/category/arts/movies-and-tv/>
+  * Music <http://www.sfexaminer.com/category/arts/music/>
+  * Performing Arts
+    <http://www.sfexaminer.com/category/arts/performing-arts/>
+  * Theater <http://www.sfexaminer.com/category/arts/Theater/>
+  * Visual Arts <http://www.sfexaminer.com/category/arts/visual-arts/>
+
+  * Nation and World <http://www.sfexaminer.com/category/nation-world/>
+  * California News
+    <http://www.sfexaminer.com/category/nation-world/california-news/>
+  * US News <http://www.sfexaminer.com/category/nation-world/us-news/>
+  * World News <http://www.sfexaminer.com/category/nation-world/world-news/>
+
+  * Sponsored <http://www.sfexaminer.com/category/sponsored/>
+  * Readers’ Choice 2016
+    <http://www.sfexaminer.com/events/2016/ReadersChoice/>
+
+  * Connect
+  * Facebook <https://www.facebook.com/sfexaminer>
+  * Twitter <https://twitter.com/sfexaminer>
+
+  * Contact
+  * Contact us <http://www.sfexaminer.com/contact-us/>
+  * Employment <http://www.sfexaminer.com/sf-examiner-jobs/>
+  * Subscription <http://www.sfexaminer.com/circulation-customer-service/>
+  * E-Edition Signup <http://www.sfexaminer.com/sign-up-for-our-newsletter/>
+
+  * Real Estate <http://www.sfexaminer.com/san-francisco-real-estate/>
+
+©2016 The San Francisco Examiner
+Terms of Use <http://www.sfexaminer.com/terms-of-use/> | Privacy Policy
+<http://www.sfexaminer.com/privacy-policy/>
+

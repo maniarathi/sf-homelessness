@@ -1,0 +1,714 @@
+KQED Menu
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Menu
+
+    <#>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Specials
+
+        <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  *
+
+
+      KQED Arts
+
+    <http://ww2.kqed.org/arts/>
+
+  * KQED Arts Home
+
+    <http://ww2.kqed.org/arts/>
+  * Topics
+
+    <#>
+      o Books
+
+        <http://ww2.kqed.org/arts/category/literature/>
+      o Comedy
+
+        <http://ww2.kqed.org/arts/category/comedy/>
+      o Culture
+
+        <http://ww2.kqed.org/arts/category/culture/>
+      o Dance
+
+        <http://ww2.kqed.org/arts/category/dance/>
+      o Digital Arts
+
+        <http://ww2.kqed.org/arts/category/digitalarts/>
+      o Fashion/Design
+
+        <http://ww2.kqed.org/arts/category/design/>
+      o Movies
+
+        <http://ww2.kqed.org/arts/category/movies/>
+      o Music
+
+        <http://ww2.kqed.org/arts/category/music/>
+      o News
+
+        <http://ww2.kqed.org/arts/category/news/>
+      o Performance Art
+
+        <http://ww2.kqed.org/arts/category/performance/>
+      o Pop Culture
+
+        <http://ww2.kqed.org/arts/category/popculture/>
+      o Theater
+
+        <http://ww2.kqed.org/arts/category/theater/>
+      o TV
+
+        <http://ww2.kqed.org/arts/category/tv/>
+      o Visual Arts
+
+        <http://ww2.kqed.org/arts/category/visualarts/>
+  * Programs
+
+    <#>
+      o Art School
+
+        <http://ww2.kqed.org/artschool/>
+      o The Bay Bridged
+
+        <http://ww2.kqed.org/arts/affiliates/the-bay-bridged/>
+      o Culture Cue
+
+        <http://ww2.kqed.org/arts/programs/culture-cue/>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o Earful
+
+        <http://ww2.kqed.org/arts/series/earful/>
+      o Film School Shorts
+
+        <http://blogs.kqed.org/filmschoolshorts/>
+      o ImageMakers
+
+        <http://ww2.kqed.org/imagemakers/>
+      o Into the Mix
+
+        <http://ww2.kqed.org/arts/programs/into-the-mix/>
+      o KQED Pop
+
+        <http://ww2.kqed.org/pop/>
+      o Spark
+
+        <http://ww2.kqed.org/spark/>
+      o Truly CA
+
+        <http://ww2.kqed.org/trulyca/>
+  * Specials
+
+    <#>
+      o Arts Education
+
+        <http://ww2.kqed.org/arts/series/arts-in-education/>
+      o Arts + Social Issues
+
+        <http://ww2.kqed.org/arts/series/arts-plus-social-issues/>
+      o pARTicipate
+
+        <http://ww2.kqed.org/arts/series/participate/>
+      o Priced Out
+
+        <http://ww2.kqed.org/arts/series/pricedout/>
+      o Our Creative Nature
+
+        <http://ww2.kqed.org/arts/series/our-creative-nature/>
+      o Fall Arts Guide
+
+        <http://ww2.kqed.org/arts/series/fall-arts-guide-2016/>
+  * The Do List
+
+    <http://ww2.kqed.org/arts/programs/the-do-list/>
+  * Videos
+
+    <http://ww2.kqed.org/arts/videos/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED Arts <https://ww2.kqed.org/arts/>
+
+Search
+
+<#search-container>
+
+
+  KQED Arts Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Priced Out <https://ww2.kqed.org/arts/series/pricedout/>
+
+
+  Stanford’s Virtual Reality Lab Cultivates Empathy for the Homeless
+
+In the study "Empathy at Scale," participants get on a virtual reality
+bus, where they can click on a mouse to hear the stories of homeless
+people. The computer simulation doesn't feel "real," but it does feel
+intimate, as if we're overhearing the thoughts of fellow passengers.
+
+In the study "Empathy at Scale," participants get on a virtual reality
+bus, where they can click on a mouse to hear the stories of homeless
+people. The computer simulation doesn't feel "real," but it does feel
+intimate, as if we're overhearing the thoughts of fellow passengers.
+(/Photo: Courtesy Stanford’s Virtual Human Interaction Lab/)
+
+By Rachael Myrow <https://ww2.kqed.org/arts/author/rachael-myrow/>
+<http://twitter.com/rachelmyrow>
+June 27, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=twitter&nb=1>
+  * 5Click to share on Pinterest (Opens in new window)5
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=email&nb=1>
+*
+
+The burgeoning field of Virtual Reality — or VR as it is commonly known
+— is a vehicle for telling stories through 360-degree visuals and sound
+that put you right in the middle of the action, be it at a
+crowded Syrian refugee camp
+<https://www.youtube.com/watch?v=iXHil1TPxvA&feature=youtu.be&t=6m30s>,
+or inside the body of an 85-year-old with a bad hip and cataracts
+<https://www.genworth.com/lets-talk/r70i-aging-experience.html>.
+ Because of VR’s immersive properties, some people describe the
+medium as “the ultimate empathy machine.” But can it make people care
+about something as fraught and multi-faceted as homelessness?
+
+A study in progress at Stanford’s Virtual Human Interaction Lab
+<https://vhil.stanford.edu/> explores that question, and I strapped on
+an Oculus Rift <https://www.oculus.com/en-us/> headset (one of the most
+popular devices people currently use to experience VR) to look for an
+answer.
+
+*A new way of understanding homelessness*
+
+The study, called /Empathy at Scale
+<https://vhil.stanford.edu/projects/2015/empathy-at-scale/>,/ puts
+participants in a variety of scenes designed to help them imagine the
+experience of being homeless themselves.
+
+'Empathy at Scale,' a computer simulation developed by Stanford
+researchers, attempts to help you experience what it is to live as a
+homeless person.
+‘Empathy at Scale,’ a computer simulation developed by Stanford
+researchers, attempts to help you experience what it is to live as a
+homeless person. (Photo: Courtesy Stanford’s Virtual Human Interaction Lab)
+
+Unlike VR that uses 360-degree video, this dramatization looks like a
+low-fi video game, so it’s hard to mistake it for reality. Even so, my
+brain responded to the immersive environment to some extent as if I did
+perceive it as real. When a cop pulled up and trained a flashlight into
+the car, I physically flinched.
+
+“There are people who come into our lab and say ‘I knew that was fake
+the whole time,’” says /Empathy at Scale/ project manager Elise Ogle.
+“But for some people, your brain just can’t determine the difference
+between real life and this powerful visual stimuli that we’re showing you.”
+
+*The 22 bus line story*
+
+As part of their research for the project, the creators of /Empathy at
+Scale/ incorporated local stories about homelessness. One they found
+particularly affecting was /Hotel 22/, a short documentary by a Stanford
+student filmmaker about Valley Transportation Authority bus line 22
+<http://www.vta.org/routes/rt22>, which runs all night between Palo Alto
+and San Jose. The line is nicknamed “Hotel 22,” because it’s popular
+with homeless people looking for a safe alternative to sleeping on the
+streets.
+
+/Hotel 22/ by Elizabeth Lo <https://vimeo.com/138190538> from Short of
+the Week <https://vimeo.com/shortoftheweek> on Vimeo <https://vimeo.com/>.
+
+The bus, it turns out, is an ideal virtual reality setting for
+delivering a variety of stories that show how complex the problem of
+homelessness is. As the bus travels down the street in the VR world, I
+click on each passenger, and hear a recording of Ogle telling me how
+they got on the bus.
+
+In the back, a man sits with a boy of about 10. “This is a father, Ray,
+and his son, named Ethan,” Ogle says in a flat, emotionally neutral
+tone. “Ethan’s mother suffered from a chronic illness and recently
+passed away. Left with the hospital bills, Ray is in debt. They’re on a
+family shelter waiting list. So until free spaces become available, they
+sleep on the bus at night./“/
+
+*Empathy is uncomfortable*
+
+Jamil Zaki, an assistant professor of psychology at Stanford’s Social
+Neuroscience Lab <http://ssnl.stanford.edu/>, helped the VR team design
+its study, and he says we often go out of our way to avoid feeling
+empathy. “People are incredibly efficient at cutting the world up into
+us and them,” Zaki says. “And when they do so, they’re also incredibly
+efficient at cutting off whoever’s on the other side of that boundary.
+Even when people acknowledge that someone who’s different from them
+experiences pain and suffering, they often find ways to blame that
+individual. They say ‘Well, that person’s having a bad time, but it’s
+because of the choices that they made.  I would never been in that
+position.’”
+
+Virtual Reality & Empathy on KQED
+
+<http://ww2.kqed.org/futureofyou/2016/04/22/stanfords-virtual-reality-lab-turned-me-into-a-cow-then-sent-me-to-the-slaughterhouse/>
+
+Stanford's Virtual Reality Lab Turned Me Into a Cow, Then Sent Me to the
+Slaughterhouse
+
+<http://ww2.kqed.org/futureofyou/2016/04/22/stanfords-virtual-reality-lab-turned-me-into-a-cow-then-sent-me-to-the-slaughterhouse/>
+
+<https://ww2.kqed.org/futureofyou/2015/10/19/affordable-virtual-reality-creates-worlds-for-people-with-disabilities/>
+
+How Virtual Reality Worlds Inspire People With Disabilities
+
+<https://ww2.kqed.org/futureofyou/2015/10/19/affordable-virtual-reality-creates-worlds-for-people-with-disabilities/>
+
+<http://ww2.kqed.org/arts/2016/04/29/6x9-solitary-confinement-vr-experience-merges-journalism-and-art/>
+
+'6x9' Solitary Confinement VR Experience Merges Journalism and Art
+
+<http://ww2.kqed.org/arts/2016/04/29/6x9-solitary-confinement-vr-experience-merges-journalism-and-art/>
+
+But wearing a VR headset that engages your ears, eyes and even
+peripheral vision, makes it hard to shut out the pain of the people or
+avatars in front of you. “Once you understand the world as someone else
+sees it, and inhabit their inner life, you’re on the hook!” Zaki says.
+“You now, in essence, have a responsibility to care for that person, and
+maybe invest in their well-being.”
+As University of Southern California VR researcher Nonny de la Peña
+<http://www.immersivejournalism.com/> explained in a recent TED talk,
+the VR scenario may also force people to confront strong emotions like
+panic when events occur that they feel powerless to stop. (Even though,
+physically, you could just take your headset off.)
+
+*Testing the technology*
+
+The Stanford researchers are looking for a diverse pool of around 1,000
+people to test /Empathy at Scale/ before the end of this year. So
+they’ve set up a mobile testing unit at places like the Tech Museum
+<http://www.thetech.org/> in San Jose.
+
+Jhansi Raju, an ophthalmologist from Chicago, tried out the technology
+while visiting the Tech Museum with her family recently. She found the
+/Hotel 22/ sequence most affecting. “It showed the human side of
+homelessness,” Raju says. “Everyone’s story was so different.”
+
+Raju was especially moved by the story of Ray and his son Ethan. “For
+me, having a child and imagining how you could live on a bus with a kid,
+that was very moving and very sad to see,” Rajus says.
+
+The study tests the level of empathy a user feels after experiencing the
+VR narratives by asking various questions after he or she goes through
+the various scenes. It also offers her the option to donate the $10 gift
+card she got for participating in the study to a local charity.  Raju
+agrees to donate. “I feel like I’m a pretty aware person, in terms of
+social issues like that,” Raju says. “But going through this process
+really makes you experience the feelings and the emotions of it.”
+
+Explore: Digital Arts <https://ww2.kqed.org/arts/category/digitalarts/>,
+News <https://ww2.kqed.org/arts/category/news/>, audio
+<https://ww2.kqed.org/arts/tag/audio/>, feature
+<https://ww2.kqed.org/arts/tag/feature/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=twitter&nb=1>
+  * 5Click to share on Pinterest (Opens in new window)5
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/?share=email&nb=1>
+  *
+
+0 Comments
+<http://ww2.kqed.org/arts/2016/06/27/stanfords-virtual-reality-lab-cultivates-empathy-for-the-homeless/#disqus_thread>
+Hide Comments <#>
+
+Related Posts from KQED Arts
+
+Does Literature Make You Empathic?
+
+<http://ww2.kqed.org/arts/2014/10/09/does-literature-make-you-empathic/>
+
+Three Highlights from the 2014 Game Developers Conference
+
+<http://ww2.kqed.org/arts/2014/03/25/three-highlights-from-the-2014-game-developers-conference/>
+
+New York Times Venture into VR Leaves Room for Improvement
+
+<http://ww2.kqed.org/arts/2015/11/13/new-york-times-venture-into-vr-leaves-room-for-improvement/>
+
+Fighting the Empathy Deficit: How the Arts Can Make Us More Compassionate
+
+<http://ww2.kqed.org/arts/2015/09/03/fighting-the-empathy-deficit-how-the-arts-can-make-us-more-compassionate/>
+
+Dance Companies Pull Audience Members On Stage To Engage
+
+<http://ww2.kqed.org/arts/2016/03/31/dance-companies-pull-audience-members-on-stage-to-engage/>
+
+Why Art-Making is Essential to the Tenderloin’s Homeless Population
+
+<http://ww2.kqed.org/arts/2016/06/29/why-art-making-is-essential-to-the-tenderloins-homeless-population/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Rachael Myrow
+
+Rachael Myrow is KQED's South Bay arts reporter, covering arts and
+culture in San Mateo, Santa Clara and Santa Cruz Counties. She
+also guest hosts for/  The California Report/ and /Forum,/ files stories
+for NPR and hosts a podcast called /Love in the Digital Age./
+
+Her passion for public radio was born as an undergrad at the University
+of California at Berkeley, writing movie reviews for KALX-FM. After
+finishing one degree in English, she got another in journalism, landed a
+job at /Marketplace/ in Los Angeles, and another at KPCC, before
+returning to the Bay Area to work at KQED.
+
+She spent more than seven years hosting /The California Report,/ and
+over the past 20 years has won a Peabody and three Edward R. Murrow
+Awards (one for covering the MTA Strike, her first assignment as a
+full-time reporter in 2000*) * as well as numerous other honors
+including from the Society of Professional Journalists, the Radio
+Television News Directors Association and the LA Press Club. *
+Follow @rachaelmyrow
+*
+
+View all posts by this author
+<https://ww2.kqed.org/arts/author/rachael-myrow/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Lucas Museum Will Have Different Design if Brought to Treasure Island
+
+<https://ww2.kqed.org/arts/2016/06/27/lucas-museum-will-have-different-design-if-brought-to-treasure-island/>
+Next "Happy Birthday" Song Has Been Set Free
+
+<https://ww2.kqed.org/arts/2016/06/27/happy-birthday-song-has-been-set-free/>
+
+
+
+  About KQED Arts
+
+KQED Arts provides daily arts news, reviews and profiles for the San
+Francisco Bay Area.
+
+  * Contributors <http://ww2.kqed.org/arts/contributors/>
+  * Contact Us <mailto:arts@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+Funding for KQED Arts is provided by The William and Flora Hewlett
+Foundation <http://www.hewlett.org/>.
+
+The William and Flora Hewlett Foundation <http://www.hewlett.org/>
+
+Support is also provided by the Kenneth Rainin Foundation and the
+members of KQED.
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+
+
+  When you need an art fix!
+
+Close
+
+:)

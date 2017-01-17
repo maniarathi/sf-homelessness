@@ -1,0 +1,840 @@
+KQED Menu
+
+  *
+
+
+      KQED Food
+
+    <http://ww2.kqed.org/food/>
+
+  * KQED Menu
+
+    <#>
+
+  * KQED Food Home
+
+    <http://www.kqed.org/food/>
+  * Cooking
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Cooking
+
+        <#>
+      o Bay Area Bites Recipes
+
+        <http://ww2.kqed.org/bayareabites/category/recipes/>
+      o Jacques Pépin Recipes
+
+        <http://ww2.kqed.org/jpepinheart/category/recipes/>
+  * Restaurants
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Restaurants
+
+        <#>
+      o Check, Please! Bay Area
+
+        <http://www.kqed.org/checkplease/>
+      o Bay Area Bites Guides
+
+        <http://ww2.kqed.org/bayareabites/category/guides/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o Bay Area Bites
+
+        <http://ww2.kqed.org/bayareabites/>
+      o Check, Please! Bay Area
+
+        <http://www.kqed.org/checkplease/>
+      o Jacques Pépin
+
+        <http://www.kqed.org/pepinheartandsoul>
+      o Taste This
+
+        <http://ww2.kqed.org/food/series/taste-this/>
+
+  *
+
+
+      KQED Food
+
+    <http://www.kqed.org/food/>
+
+  * KQED Food Home
+
+    <http://www.kqed.org/food/>
+  * Cooking
+
+    <#>
+      o Bay Area Bites Recipes
+
+        <http://ww2.kqed.org/bayareabites/category/recipes/>
+      o Jacques Pépin Recipes
+
+        <http://ww2.kqed.org/jpepinheart/category/recipes/>
+  * Restaurants
+
+    <#>
+      o Check, Please! Bay Area
+
+        <http://www.kqed.org/checkplease/>
+      o Bay Area Bites Guides
+
+        <http://ww2.kqed.org/bayareabites/category/guides/>
+  * Programs & Blogs
+
+    <#>
+      o Bay Area Bites
+
+        <http://ww2.kqed.org/bayareabites/>
+      o Check, Please! Bay Area
+
+        <http://www.kqed.org/checkplease/>
+      o Jacques Pépin
+
+        <http://www.kqed.org/pepinheartandsoul>
+      o Taste This
+
+        <http://ww2.kqed.org/food/series/taste-this/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+<https://ww2.kqed.org/bayareabites/>
+
+
+  Bay Area Bites <https://ww2.kqed.org/bayareabites/>
+
+Search
+
+<#search-container>
+
+
+  Bay Area Bites Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  * Home
+
+    <https://ww2.kqed.org/bayareabites/>
+  * Recipes
+
+    <https://ww2.kqed.org/bayareabites/category/recipes/>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Recipes
+
+        <https://ww2.kqed.org/bayareabites/category/recipes/>
+      o All
+
+        <https://ww2.kqed.org/bayareabites/category/recipes/>
+      o holiday
+
+        <https://ww2.kqed.org/bayareabites/category/recipes/holiday-recipes/>
+      o DIY
+
+        <https://ww2.kqed.org/bayareabites/category/diy-and-urban-homesteading/>
+  * Restaurants
+
+    <https://ww2.kqed.org/bayareabites/category/restaurants-and-bars/>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Restaurants
+
+        <https://ww2.kqed.org/bayareabites/category/restaurants-and-bars/>
+      o All
+
+        <https://ww2.kqed.org/bayareabites/category/restaurants-and-bars/>
+      o Guides
+
+        <https://ww2.kqed.org/bayareabites/category/guides-2/>
+      o Chefs
+
+        <https://ww2.kqed.org/bayareabites/category/chefs/>
+  * Holidays & Traditions
+
+    <https://ww2.kqed.org/bayareabites/category/holidays-and-traditions/>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Holidays & Traditions
+
+        <https://ww2.kqed.org/bayareabites/category/holidays-and-traditions/>
+      o Super Bowl
+
+        <https://ww2.kqed.org/bayareabites/tag/super-bowl/>
+      o Lunar New Year
+
+        <https://ww2.kqed.org/bayareabites/tag/lunar-new-year/>
+      o Valentine’s Day
+
+        <https://ww2.kqed.org/bayareabites/tag/valentines-day/>
+      o Easter
+
+        <https://ww2.kqed.org/bayareabites/tag/easter/>
+      o Cinco de Mayo
+
+        <https://ww2.kqed.org/bayareabites/tag/cinco-de-mayo/>
+      o Mother’s Day
+
+        <https://ww2.kqed.org/bayareabites/tag/mothers-day/>
+      o Memorial Day
+
+        <https://ww2.kqed.org/bayareabites/tag/memorial-day/>
+      o Father’s Day
+
+        <https://ww2.kqed.org/bayareabites/tag/fathers-day/>
+      o 4th of July
+
+        <https://ww2.kqed.org/bayareabites/tag/july-4th/>
+      o Labor Day
+
+        <https://ww2.kqed.org/bayareabites/tag/labor-day/>
+      o Halloween
+
+        <https://ww2.kqed.org/bayareabites/tag/halloween/>
+      o Thanksgiving
+
+        <https://ww2.kqed.org/bayareabites/tag/thanksgiving/>
+      o Christmas
+
+        <https://ww2.kqed.org/bayareabites/tag/christmas/>
+      o New Year’s
+
+        <https://ww2.kqed.org/bayareabites/tag/new-years/>
+  * health & nutrition
+
+    <https://ww2.kqed.org/bayareabites/category/health-and-nutrition/>
+  * food news & media
+
+    <https://ww2.kqed.org/bayareabites/category/food-news/>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o food news & media
+
+        <https://ww2.kqed.org/bayareabites/category/food-news/>
+      o news
+
+        <https://ww2.kqed.org/bayareabites/category/food-news/>
+      o politics & food safety
+
+        <https://ww2.kqed.org/bayareabites/category/politics-activism-food-safety/>
+      o technology
+
+        <https://ww2.kqed.org/bayareabites/category/food-and-technology/>
+      o TV, film, video
+
+        <https://ww2.kqed.org/bayareabites/category/tv-film-video/>
+      o radio
+
+        <https://ww2.kqed.org/bayareabites/category/radio/>
+      o science
+
+        <https://ww2.kqed.org/bayareabites/category/science/>
+      o sustainability
+
+        <https://ww2.kqed.org/bayareabites/category/sustainability/>
+      o Events
+
+        <https://ww2.kqed.org/bayareabites/category/events/>
+
+Skip to content
+
+<#content>
+
+  * Home
+
+    <https://ww2.kqed.org/bayareabites/>
+  * Recipes
+
+    <https://ww2.kqed.org/bayareabites/category/recipes/>
+      o All
+
+        <https://ww2.kqed.org/bayareabites/category/recipes/>
+      o holiday
+
+        <https://ww2.kqed.org/bayareabites/category/recipes/holiday-recipes/>
+      o DIY
+
+        <https://ww2.kqed.org/bayareabites/category/diy-and-urban-homesteading/>
+  * Restaurants
+
+    <https://ww2.kqed.org/bayareabites/category/restaurants-and-bars/>
+      o All
+
+        <https://ww2.kqed.org/bayareabites/category/restaurants-and-bars/>
+      o Guides
+
+        <https://ww2.kqed.org/bayareabites/category/guides-2/>
+      o Chefs
+
+        <https://ww2.kqed.org/bayareabites/category/chefs/>
+  * Holidays & Traditions
+
+    <https://ww2.kqed.org/bayareabites/category/holidays-and-traditions/>
+      o Super Bowl
+
+        <https://ww2.kqed.org/bayareabites/tag/super-bowl/>
+      o Lunar New Year
+
+        <https://ww2.kqed.org/bayareabites/tag/lunar-new-year/>
+      o Valentine’s Day
+
+        <https://ww2.kqed.org/bayareabites/tag/valentines-day/>
+      o Easter
+
+        <https://ww2.kqed.org/bayareabites/tag/easter/>
+      o Cinco de Mayo
+
+        <https://ww2.kqed.org/bayareabites/tag/cinco-de-mayo/>
+      o Mother’s Day
+
+        <https://ww2.kqed.org/bayareabites/tag/mothers-day/>
+      o Memorial Day
+
+        <https://ww2.kqed.org/bayareabites/tag/memorial-day/>
+      o Father’s Day
+
+        <https://ww2.kqed.org/bayareabites/tag/fathers-day/>
+      o 4th of July
+
+        <https://ww2.kqed.org/bayareabites/tag/july-4th/>
+      o Labor Day
+
+        <https://ww2.kqed.org/bayareabites/tag/labor-day/>
+      o Halloween
+
+        <https://ww2.kqed.org/bayareabites/tag/halloween/>
+      o Thanksgiving
+
+        <https://ww2.kqed.org/bayareabites/tag/thanksgiving/>
+      o Christmas
+
+        <https://ww2.kqed.org/bayareabites/tag/christmas/>
+      o New Year’s
+
+        <https://ww2.kqed.org/bayareabites/tag/new-years/>
+  * health & nutrition
+
+    <https://ww2.kqed.org/bayareabites/category/health-and-nutrition/>
+  * food news & media
+
+    <https://ww2.kqed.org/bayareabites/category/food-news/>
+      o news
+
+        <https://ww2.kqed.org/bayareabites/category/food-news/>
+      o politics & food safety
+
+        <https://ww2.kqed.org/bayareabites/category/politics-activism-food-safety/>
+      o technology
+
+        <https://ww2.kqed.org/bayareabites/category/food-and-technology/>
+      o TV, film, video
+
+        <https://ww2.kqed.org/bayareabites/category/tv-film-video/>
+      o radio
+
+        <https://ww2.kqed.org/bayareabites/category/radio/>
+      o science
+
+        <https://ww2.kqed.org/bayareabites/category/science/>
+      o sustainability
+
+        <https://ww2.kqed.org/bayareabites/category/sustainability/>
+      o Events
+
+        <https://ww2.kqed.org/bayareabites/category/events/>
+
+Search for:
+
+Food Banks, Hunger, Volunteer
+<https://ww2.kqed.org/bayareabites/category/food-banks-hunger-volunteer/>
+
+
+  Where Homeless People Can Get Free Meals in the Bay Area
+
+Volunteers prepare meals at St. Anthony's.
+
+Volunteers prepare meals at St. Anthony's. (/Justin Sullivan/Getty Images/)
+
+By Kelly O'Mara <https://ww2.kqed.org/bayareabites/author/kdomara/>
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=email&nb=1>
+*
+
+PRINT
+
+<#>
+
+There are about 7,500 homeless people living in San Francisco, and a
+larger number in the greater Bay Area. With rising housing and living
+costs, it’s not getting easier for people living on the street.
+
+Fortunately, there are also lots of local organizations providing
+services to those in need. We’ve compiled a list of many of the places,
+sorted roughly by geography, that provide regular hot and fresh meals.
+This list primarily focuses on the organizations and services that
+provide multiple hot meals each week or daily meal service. There are
+/many/ more places that provide a weekly or monthly meal, as well as
+food banks that distribute groceries and fresh food. Project Homeless
+Connect <https://www.projecthomelessconnect.org/> has a fairly
+comprehensive listing of homeless services if you’re looking for more
+information, and the independent county food banks are valuable
+resources for fresh food pick-ups. If we missed an organization that
+provides a place for homeless residents to get a regular hot meal,
+please let us know in the comments below.
+
+Most of these organizations are also in need of volunteers and/or
+donations. Contact them directly to sign up or to inquire about what
+they specifically are looking for.
+
+
+      San Francisco
+
+*Glide <http://www.glide.org/feedthehungry>*
+330 Ellis Street [map <https://goo.gl/JePMI8>]
+San Francisco, CA 94102
+Ph: (415) 674-6000
+Hours:
+Breakfast: Daily, 8am-9am (seniors’ breakfast 7:30am-8am)
+Lunch: Daily, noon-1:30pm (bagged lunches on Sat, Sun)
+Dinner: Mon-Fri, 4pm-5:30pm
+
+Begun in 1969, Glide provides meals daily in the dining room, plus
+special meals around the holidays and a number of other services.
+
+*St. Anthony’s <https://www.stanthonysf.org/>*
+121 Golden Gate Ave. [map <https://goo.gl/Idmghu>]
+San Francisco, CA 94102
+Ph: (415) 241-2600
+Hours: everyday, 10am-11:30am for seniors and families with children;
+everyday 11:45am-1:30pm for everyone
+
+The dining room also hosts two monthly food distribution programs, as
+well as clothing programs, a medical clinic, and a social work center.
+
+*Mother Brown’s Kitchen <http://www.uchsmotherbrowns.org/dining.room.html>*
+2111 Jennings St. [map <https://goo.gl/H39Ghk>]
+San Francisco, CA 94124
+Ph: (415) 671-1100
+Hours:
+Breakfast: Mon-Fri, 7am-9am
+Dinner: Mon-Fri, 5pm-7pm; Sun, 4pm-6pm
+
+The United Council of Human Services operates Mother Brown’s Kitchen,
+which started as a small mobile food operation 20 years ago. The
+organization also runs food pantries in Oakdale and Sunnyvale.
+
+*Martin de Porres House of Hospitality <http://www.martindeporres.org/>*
+225 Potrero Ave. [map <https://goo.gl/QUhE1d>]
+San Francisco, CA 94103
+Ph: (415) 552-0240
+Hours:
+Breakfast: Mon, Tues, Thurs, Fri, 5:30am-7:30am (hot tea, bread
+available at 5:30am; oatmeal served at 6:30am)
+Lunch: Tues-Sat, noon-2pm
+Breakfast: Sun, 9am-10:30am
+
+Meals are served daily, and typically the courtyard and dining room open
+early to allow people to come in off the street. Showers and hygiene
+products are available Tuesday and Thursday mornings.
+
+*Curry Senior Center <http://curryseniorcenter.org/>*
+333 Turk St. [map <https://goo.gl/ZuGFUd>]
+San Francisco, CA 94102
+Ph: (415) 885-2274
+Hours:
+Breakfast: Daily, 6:30am-9am
+Lunch: Daily, 10am-1:30pm
+
+Curry Senior Center is primarily focused on providing a place for
+low-income seniors to make connections with other people and get the
+health services they need. Meals are served daily (and bingo is
+available on weekends).
+
+*S.F. Rescue Mission <http://www.sfcityimpact.com/rescue-mission/>
+*140 Turk St. [map <https://goo.gl/olGW9j>]
+San Francisco, CA 94102
+Ph: (415) 292-1770
+Hours:
+Breakfast: Mon-Fri, opens at 10:30am
+Dinner: Mon-Fri, 4pm
+
+Based out of a church with different services, from a ministry to a
+health and wellness center, S.F. Rescue Mission provides meals,
+groceries, and hot food delivery.
+
+
+      East Bay
+
+*St. Vincent de Paul of Alameda County <http://www.svdp-alameda.org/>*
+9235 San Leandro St. [map <https://goo.gl/Gyl7QN>]
+Oakland, CA 94603
+Ph: (510) 638-7600
+Hours: Tues-Sat, 10:45am-12:45pm
+
+The largest dining room in Alameda County, St. Vincent’s serves a daily
+hot meal.
+
+*Cityteam <https://www.cityteam.org/>*
+722 Washington St. [map <https://goo.gl/qnevYo>]
+Oakland, CA 94607
+Ph: (510) 452-3758
+Hours:
+Breakfast: Daily, 7am
+Dinner: Sat-Thurs, 6:30pm; Fri, 5:30pm
+
+Along with a dining hall in San Francisco
+<https://www.cityteam.org/san-francisco/> and one in San Jose
+<https://www.cityteam.org/san-jose/>, Cityteam operates a daily dining
+hall in Oakland. (Check all the hours
+<https://www.cityteam.org/about/worldwide-offices.php> before going to
+the other locations.) Cityteam is a Christian nonprofit providing
+services to the homeless and impoverished.
+
+*Loaves and Fishes of Contra Costa County
+<http://www.loavesfishescc.org/what-we-do.html>*
+There are five LFCC-operated dining rooms, and one partner dining room.
+Check the website <http://www.loavesfishescc.org/what-we-do.html> for
+all locations.
+Ph: (925) 293-4792
+Hours: Mon-Fri, 11am-12:45pm
+
+Based in Martinez, Loaves & Fishes provides daily meals at a half-dozen
+dining rooms around Contra Costa County. The organization also
+distributes fresh groceries.
+
+*Food Not Bombs <http://ebfnb.org/>*
+Ph: (510) 644-4187
+Hours: Meals served Mon-Fri, 3pm, at People’s Park
+<https://goo.gl/BTuVRK>; Sun at 14th and Jefferson, Oakland
+
+Cooked at local residents’ houses, meals are typically served at the
+park. Schedule can vary. Call for more info.
+
+
+      North Bay
+
+*St. Vincent de Paul Society of Marin County <http://www.vinnies.org/>*
+820 B St. [map <https://goo.gl/zZlWdz>]
+San Rafael, CA 94901
+Ph: (415) 454-3303
+Hours: Everyday, 6am-1pm
+
+The dining room in San Rafael is open every day to provide a free
+kitchen and open pantry. The non-profit also has housing services and
+works with partner shelter organizations.
+
+*St. Vincent de Paul of Sonoma County
+<http://www.svdp-sonoma.org/svdp-sonoma_gethelp.html>*
+610 Wilson St. [map <https://goo.gl/yEC0sF>]
+Santa Rosa, CA 95401
+Ph: (707) 584-1579
+Hours: Daily, 11:30am-12:30pm
+
+The dining room serves a hot lunch meal every day of the year. The
+organization also operates a job training program, food pantry, and
+thrift store.
+
+*Committee on the Shelterless – Petaluma Kitchen
+<http://www.cots-homeless.org/index.php/what-we-do/food-programs/>*
+900 Hopper St. [map <https://goo.gl/a3Af8N>]
+Petaluma, CA 94952
+Ph: (707) 765-6530
+Hours: Daily, 11:30am-1pm
+
+The Committee on the Shelterless serves a daily hot lunch at its
+Petaluma Kitchen, as well as hands out weekly food boxes.
+
+
+      South Bay
+
+*North Peninsula Food Pantry and Dining Center of Daly City
+<http://fooddc.org/>*
+31 Bepler St. [map <https://goo.gl/F3HNSU>]
+Daly City, CA 94014
+Ph: (650) 994-5150
+Hours: Mon, Tues, Thurs, 5pm-6pm
+
+The North Peninsula Food Pantry and Dining Center is on the smaller end
+of homeless dining rooms — serving just about 70 people during dinner in
+the cafeteria — but it also operates a food pantry in conjunction with
+Second Harvest <http://www.shfb.org/>.
+
+*Cityteam <http://www.cityteam.org/>*
+1174 Old Bayshore Hwy. [map <https://goo.gl/VgCD9A>]
+San Jose, CA 95112
+Ph: (408) 288-2153
+Hours: Daily, 5pm
+
+Cityteam operates a men’s shelter in San Jose, along with the dining
+hall, which provides daily hot dinner.
+
+*Eastside Neighborhood Center
+<https://www.catholiccharitiesscc.org/eastside-neighborhood-center>*
+2150 Alum Rock Ave. [map <https://goo.gl/Hnm4jO>]
+San Jose, CA 95116
+Ph: (408) 251-0215
+Hours:
+Lunch: Mon-Fri, 11:15am-12:15pm
+Dinner: Mon-Fri, 4pm
+
+A Catholic neighborhood community center with educational and wellness
+programs, the nightly dinner is actually provided through Loaves &
+Fishes <http://www.loavesfishes.org/>, which no longer operates its own
+walk-in dining room, but instead cooks and distributes meals to other
+nonprofits and organizations. (Contact Loaves & Fishes for a full list
+of potential meal partners.)
+
+PRINT
+
+<#>
+Explore: bay area
+<https://ww2.kqed.org/bayareabites/category/bay-area/>, food banks,
+hunger, volunteer
+<https://ww2.kqed.org/bayareabites/category/food-banks-hunger-volunteer/>,
+food news <https://ww2.kqed.org/bayareabites/category/food-news/>,
+Guides <https://ww2.kqed.org/bayareabites/category/guides-2/>, food
+banks <https://ww2.kqed.org/bayareabites/tag/food-banks/>, homeless
+<https://ww2.kqed.org/bayareabites/tag/homeless/>, project homeless
+connect
+<https://ww2.kqed.org/bayareabites/tag/project-homeless-connect/>, soup
+kitchens <https://ww2.kqed.org/bayareabites/tag/soup-kitchens/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/?share=email&nb=1>
+  *
+
+2 Comments
+<http://ww2.kqed.org/bayareabites/2016/06/29/where-homeless-people-can-get-free-meals-in-the-bay-area/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+From Shelters to Startups: CHEFS Program Helps Homeless by Cooking for
+Tech Companies
+
+<https://ww2.kqed.org/bayareabites/2014/07/11/from-shelters-to-startups-chefs-program-helps-homeless-by-cooking-for-tech-companies/>
+
+Project Homeless Connect Provides Diverse Resources for Homeless San
+Franciscans
+
+<http://ww2.kqed.org/bayareabites/2015/12/07/shelter-is-just-the-beginning-project-homeless-connect-hosts-multi-service-events-to-help-homeless-san-franciscans/>
+
+Your Bay Area Guide to Holiday Volunteering and Donations
+
+<https://ww2.kqed.org/bayareabites/2015/11/16/your-bay-area-guide-to-holiday-volunteering-and-donations/>
+
+Volunteers Most Needed to Feed the Hungry After the Holiday Season
+
+<http://ww2.kqed.org/bayareabites/2014/01/11/volunteers-most-needed-to-feed-the-hungry-after-the-holiday-season/>
+
+Curry Without Worry: Soul-Pleasing Food for the Hungry and the Curious
+
+<https://ww2.kqed.org/bayareabites/2012/12/11/curry-without-worry-soul-pleasing-food-for-the-hungry-and-the-curious/>
+
+Volunteers Most Needed to Feed the Hungry After the Holiday Season
+
+<http://blogs.kqed.org/bayareabites/2014/01/11/volunteers-most-needed-to-feed-the-hungry-after-the-holiday-season/>
+Powered by
+
+<https://contextly.com/>
+
+
+    Author
+
+
+      Kelly O'Mara
+
+Kelly O'Mara is a writer and reporter in the San Francisco Bay Area. She
+writes about food, health, sports, travel, business and California news.
+Her work has appeared on KQED, online for Outside Magazine, epsnW, VICE
+and in Competitor Magazine, among others. Follow Kelly on Twitter
+@kellydomara <https://twitter.com/kellydomara>.
+
+View all posts by this author
+<https://ww2.kqed.org/bayareabites/author/kdomara/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev In the Queer Kitchen: A Conversation with John Birdsall, Preeti
+Mistry, and Nik Sharma
+
+<https://ww2.kqed.org/bayareabites/2016/06/27/in-the-queer-kitchen-a-conversation-with-john-birdsall-preeti-mistry-and-nik-sharma/>
+Next Should Pacific Bluefin Tuna Be Listed As An Endangered Species?
+
+<https://ww2.kqed.org/bayareabites/2016/06/30/should-pacific-bluefin-tuna-be-listed-as-an-endangered-species/>
+
+
+
+  About Bay Area Bites
+
+Bay Area Bites (BAB), KQED's public media food blog, feeds you visually
+compelling food-related stories, news, recipes and reviews from the San
+Francisco Bay Area and beyond.
+
+  * Contributors <http://ww2.kqed.org/bayareabites/contributors/>
+  * Contact Us <mailto:bayareabites@kqed.org>
+
+
+  About KQED
+
+  * About <http://ww2.kqed.org/about/>
+  * Jobs <http://ww2.kqed.org/about/jobs/>
+  * Internships <http://ww2.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://ww2.kqed.org/about/help/>
+
+
+  Follow Bay Area Bites
+
+  * Follow Us on Facebook <http://www.facebook.com/bayareabites>
+  * Follow Us on Twitter <http://www.twitter.com/bayareabites>
+  * Follow Us on Instagram <https://instagram.com/kqedbayareabites/>
+  * Connect on Pinterest <http://www.pinterest.com/kqed/bay-area-bites/>
+  * Connect on YouTube <http://www.youtube.com/user/KQEDLife>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

@@ -1,0 +1,920 @@
+CNBC <http://www.cnbc.com/>
+// <javascript:void(0)>// <javascript:void(0)>
+
+<http://www.cnbc.com/>
+
+  * HOME U.S.//
+
+    <http://www.cnbc.com/>
+      o EDITION
+      o U.S. Edition
+      o INTL Edition
+  * News
+
+    <http://www.cnbc.com/us-news/>
+      o Economy
+
+        <http://www.cnbc.com/economy/>
+      o Finance
+
+        <http://www.cnbc.com/finance/>
+      o Health Care
+
+        <http://www.cnbc.com/health-care/>
+      o Real Estate
+
+        <http://www.cnbc.com/real-estate/>
+      o Wealth
+
+        <http://www.cnbc.com/wealth/>
+      o Autos
+
+        <http://www.cnbc.com/autos/>
+      o Earnings
+
+        <http://www.cnbc.com/earnings/>
+      o Energy
+
+        <http://www.cnbc.com/energy/>
+      o Life
+
+        <http://www.cnbc.com/life/>
+      o Media
+
+        <http://www.cnbc.com/media/>
+      o Politics
+
+        <http://www.cnbc.com/politics/>
+      o Retail
+
+        <http://www.cnbc.com/retail/>
+      o Commentary
+
+        <http://www.cnbc.com/commentary/>
+      o Special Reports
+
+        <http://www.cnbc.com/special-reports/>
+      o Asia
+
+        <http://www.cnbc.com/asia-news/>
+      o Europe
+
+        <http://www.cnbc.com/europe-news/>
+      o CFO Council
+
+        <http://www.cnbc.com/global-cfo-council/>
+  * Markets
+
+    <http://www.cnbc.com/markets/>
+      o Pre-Markets
+
+        <http://www.cnbc.com/pre-markets/>
+      o U.S.
+
+        <http://www.cnbc.com/us-markets/>
+      o Asia
+
+        <http://www.cnbc.com/markets-asia-pacific/>
+      o Europe
+
+        <http://www.cnbc.com/markets-europe/>
+      o Stocks
+
+        <http://www.cnbc.com/stocks/>
+      o Commodities
+
+        <http://www.cnbc.com/commodities/>
+      o Currencies
+
+        <http://www.cnbc.com/currencies/>
+      o Bonds
+
+        <http://www.cnbc.com/bonds/>
+      o Funds
+
+        <http://www.cnbc.com/mutual-funds/>
+      o ETFs
+
+        <http://www.cnbc.com/exchange-traded-funds/>
+  * Investing
+
+    <http://www.cnbc.com/investing/>
+      o Trading Nation
+
+        <http://www.cnbc.com/trading-nation/>
+      o Financial Advisors
+
+        <http://www.cnbc.com/financial-advisors/>
+      o Personal Finance
+
+        <http://www.cnbc.com/personal-finance/>
+      o CNBC Explains
+
+        <http://www.cnbc.com/cnbc-explains/>
+      o Portfolio
+
+        <http://portfolio.cnbc.com/>
+      o Watchlist
+
+        <http://watchlist.cnbc.com/>
+      o Stock Screener
+
+        <http://www.cnbc.com/id/15839076>
+      o Fund Screener
+
+        <http://www.cnbc.com/id/15839074>
+  * Tech
+
+    <http://www.cnbc.com/technology/>
+      o Recode
+
+        <http://recode.net/>
+      o Mobile
+
+        <http://www.cnbc.com/mobile/>
+      o Social Media
+
+        <http://www.cnbc.com/social-media/>
+      o Enterprise
+
+        <http://www.cnbc.com/enterprise/>
+      o Gaming
+
+        <http://www.cnbc.com/gaming/>
+      o Cybersecurity
+
+        <http://www.cnbc.com/cybersecurity/>
+  * Make It
+
+    <http://www.cnbc.com/make-it/>
+      o Entrepreneurs
+
+        <http://www.cnbc.com/make-it/entrepreneurs/>
+      o Leadership
+
+        <http://www.cnbc.com/make-it/leadership/>
+      o Careers
+
+        <http://www.cnbc.com/make-it/careers/>
+      o Money
+
+        <http://www.cnbc.com/make-it/money/>
+      o Specials
+
+        <http://www.cnbc.com/make-it/special-reports/>
+      o Shows
+
+        <http://www.cnbc.com/make-it/shows/>
+  * Video
+
+    <http://video.cnbc.com/>
+      o Top Video
+
+        <http://www.cnbc.com/top-video/>
+      o Latest Video
+
+        <http://www.cnbc.com/video-all/>
+      o U.S. Video
+
+        <http://www.cnbc.com/us-video/>
+      o Asia Video
+
+        <http://www.cnbc.com/asia-video/>
+      o Europe Video
+
+        <http://www.cnbc.com/europe-video/>
+      o CEO Interviews
+
+        <http://www.cnbc.com/video-ceo-interviews/>
+      o Analyst Interviews
+
+        <http://www.cnbc.com/video-analyst-interviews/>
+      o Full Episodes
+
+        <http://www.cnbc.com/live-tv/>
+  * Shows
+
+    <http://www.cnbc.com/tv-worldwide/>
+      o Watch Live
+
+        <http://www.cnbc.com/live-tv/>
+      o CNBC U.S. Business Day
+
+        <http://www.cnbc.com/tv-worldwide/>
+      o CNBC U.S. Primetime
+
+        <http://www.cnbc.com/make-it/shows/>
+      o CNBC Asia-Pacific
+
+        <http://www.cnbc.com/asia-business-day/>
+      o CNBC Europe
+
+        <http://www.cnbc.com/europe-television/>
+      o CNBC World
+
+        <http://www.cnbc.com/global-television-shows/>
+      o Full Episodes
+
+        <http://www.cnbc.com/live-tv/>
+  *
+    More
+
+    <javascript:void(0)>
+          + Log In
+
+            <http://www.cnbc.com/application/generic/?action=signin>
+          + |
+          + Register
+
+            <http://www.cnbc.com/application/generic/?action=signup>
+          + Log Out
+
+            <javascript:void(0);>
+      o News
+
+        <http://www.cnbc.com/us-news/>
+      o
+          + Economy
+
+            <http://www.cnbc.com/economy/>
+          + Finance
+
+            <http://www.cnbc.com/finance/>
+          + Health Care
+
+            <http://www.cnbc.com/health-care/>
+          + Real Estate
+
+            <http://www.cnbc.com/real-estate/>
+          + Wealth
+
+            <http://www.cnbc.com/wealth/>
+          + Autos
+
+            <http://www.cnbc.com/autos/>
+          + Consumer
+
+            <http://www.cnbc.com/consumers/>
+          + Earnings
+
+            <http://www.cnbc.com/earnings/>
+          + Energy
+
+            <http://www.cnbc.com/energy/>
+          + Life
+
+            <http://www.cnbc.com/life/>
+          + Media
+
+            <http://www.cnbc.com/media/>
+          + Politics
+
+            <http://www.cnbc.com/politics/>
+          + Retail
+
+            <http://www.cnbc.com/retail/>
+          + Commentary
+
+            <http://www.cnbc.com/commentary/>
+          + Special Reports
+
+            <http://www.cnbc.com/special-reports/>
+          + Asia
+
+            <http://www.cnbc.com/asia-news/>
+          + Europe
+
+            <http://www.cnbc.com/europe-news/>
+          + CFO Council
+
+            <http://www.cnbc.com/global-cfo-council/>
+      o Pro
+
+        <http://www.cnbc.com/pro>
+      o
+          + View All
+
+            <http://www.cnbc.com/pro>
+          + News & Analysis
+
+            <http://www.cnbc.com/pro-story>
+          + Video
+
+            <http://www.cnbc.com/pro-video>
+          + PRO Talks
+
+            <http://www.cnbc.com/protalks>
+          + PRO Uncut
+
+            <http://www.cnbc.com/pro-uncut>
+          + Kensho Stats
+
+            <http://www.cnbc.com/kensho>
+          + Halftime Portfolio
+
+            <http://www.cnbc.com/halftime-portfolio>
+          + Squawk Box Portfolio
+
+            <http://www.cnbc.com/squawk-box-portfolio>
+          + Take a Tour
+
+            <javascript:void(0)>
+          + Subscribe
+
+            <http://www.cnbc.com/application/pro>
+      o Markets
+
+        <http://www.cnbc.com/markets/>
+      o
+          + Pre-Markets
+
+            <http://www.cnbc.com/pre-markets/>
+          + U.S.
+
+            <http://www.cnbc.com/us-markets/>
+          + Asia
+
+            <http://www.cnbc.com/markets-asia-pacific/>
+          + Europe
+
+            <http://www.cnbc.com/markets-europe/>
+          + Stocks
+
+            <http://www.cnbc.com/stocks/>
+          + Commodities
+
+            <http://www.cnbc.com/commodities/>
+          + Currencies
+
+            <http://www.cnbc.com/currencies/>
+          + Bonds
+
+            <http://www.cnbc.com/bonds/>
+          + Funds
+
+            <http://www.cnbc.com/mutual-funds/>
+          + ETFs
+
+            <http://www.cnbc.com/exchange-traded-funds/>
+      o Make It
+
+        <http://www.cnbc.com/make-it/>
+      o
+          + Entrepreneurs
+
+            <http://www.cnbc.com/make-it/entrepreneurs/>
+          + Leadership
+
+            <http://www.cnbc.com/make-it/leadership/>
+          + Careers
+
+            <http://www.cnbc.com/make-it/careers/>
+          + Money
+
+            <http://www.cnbc.com/make-it/money/>
+          + Specials
+
+            <http://www.cnbc.com/make-it/special-reports/>
+          + Shows
+
+            <http://www.cnbc.com/make-it/shows/>
+      o Investing
+
+        <http://www.cnbc.com/investing/>
+      o
+          + Trading Nation
+
+            <http://www.cnbc.com/trading-nation/>
+          + Financial Advisors
+
+            <http://www.cnbc.com/financial-advisors/>
+          + Personal Finance
+
+            <http://www.cnbc.com/personal-finance/>
+          + CNBC Explains
+
+            <http://www.cnbc.com/cnbc-explains/>
+          + Portfolio
+
+            <http://portfolio.cnbc.com/>
+          + Watchlist
+
+            <http://watchlist.cnbc.com/>
+          + Stock Screener
+
+            <http://www.cnbc.com/id/15839076>
+          + Fund Screener
+
+            <http://www.cnbc.com/id/15839074>
+      o Tech
+
+        <http://www.cnbc.com/technology/>
+      o
+          + Recode
+
+            <http://recode.net/>
+          + Mobile
+
+            <http://www.cnbc.com/mobile/>
+          + Social Media
+
+            <http://www.cnbc.com/social-media/>
+          + Enterprise
+
+            <http://www.cnbc.com/enterprise/>
+          + Gaming
+
+            <http://www.cnbc.com/gaming/>
+          + Cybersecurity
+
+            <http://www.cnbc.com/cybersecurity/>
+      o Video
+
+        <http://video.cnbc.com/>
+      o
+          + Top Video
+
+            <http://www.cnbc.com/top-video/>
+          + Latest Video
+
+            <http://www.cnbc.com/video-all/>
+          + U.S. Video
+
+            <http://www.cnbc.com/us-video/>
+          + Asia Video
+
+            <http://www.cnbc.com/asia-video/>
+          + Europe Video
+
+            <http://www.cnbc.com/europe-video/>
+          + CEO Interviews
+
+            <http://www.cnbc.com/video-ceo-interviews/>
+          + Analyst Interviews
+
+            <http://www.cnbc.com/video-analyst-interviews/>
+          + Full Episodes
+
+            <http://www.cnbc.com/live-tv/>
+      o Shows
+
+        <http://www.cnbc.com/tv-worldwide/>
+      o
+          + CNBC U.S. Business Day
+
+            <http://www.cnbc.com/tv-worldwide/>
+          + CNBC U.S. Primetime
+
+            <http://www.cnbc.com/make-it/shows/>
+          + CNBC Asia-Pacific
+
+            <http://www.cnbc.com/asia-business-day/>
+          + CNBC Europe
+
+            <http://www.cnbc.com/europe-television/>
+          + CNBC World
+
+            <http://www.cnbc.com/global-television-shows/>
+      o Special Reports
+
+        <http://www.cnbc.com/special-reports/>
+      o
+          + Investor Toolkit
+
+            <http://www.cnbc.com/investor-toolkit/>
+          + Advisor Insight
+
+            <http://www.cnbc.com/advisor-insight/>
+          + ETF Strategist
+
+            <http://www.cnbc.com/etf-strategist/>
+          + Portfolio Perspective
+
+            <http://www.cnbc.com/portfolio-perspective/>
+          + Tech Drivers
+
+            <http://www.cnbc.com/tech-drivers/>
+          + CNBC IQ 100
+
+            <http://www.cnbc.com/iq100/>
+      o Original Series
+      o
+          + Executive Edge
+
+            <http://www.cnbc.com/executive-edge/>
+          + Trading Nation
+
+            <http://www.cnbc.com/trading-nation/>
+          + Futures Now
+
+            <http://www.cnbc.com/futures-now/>
+          + Retire Well
+
+            <http://www.cnbc.com/retirewell/>
+          + The Pulse @ 1 Market
+
+            <http://www.cnbc.com/the-pulse/>
+          + The Bottom Line
+
+            <http://www.cnbc.com/the-bottom-line/>
+      o CNBC Events
+      o
+          + Davos
+
+            <http://www.cnbc.com/davos-world-economic-forum/>
+          + Delivering Alpha
+
+            <http://www.cnbc.com/delivering-alpha-ii/>
+          + eMerge Americas
+
+            <http://www.cnbc.com/emerge-americas/>
+          + iCONIC Conference
+
+            <http://www.cnbc.com/iconic-conference/>
+          + Cambridge Cyber Summit
+
+            <http://www.cnbc.com/securing-our-future/>
+          + Sohn Conference
+
+            <http://www.cnbc.com/sohn/>
+      o Follow CNBC
+      o
+          + //
+
+            <https://www.facebook.com/cnbc>
+          + //
+
+            <https://twitter.com/cnbc>
+      o
+          + EDITION
+          + U.S. Edition
+          + INTL Edition
+      o //
+
+        <javascript:void(0)>
+
+  * //
+
+    <javascript:void(0)>
+      o Register
+
+        <javascript:void(0);>
+      o Log In
+
+        <javascript:void(0);>
+
+  * //
+
+    <javascript:void(0)>
+      o Profile
+
+        <http://www.cnbc.com/account#profile>
+      o Email Preferences
+
+        <http://www.cnbc.com/account#newsletter>
+      o PRO
+
+        <http://www.cnbc.com/account#pro>
+      o Sign Out
+
+        <javascript:void(0);>
+
+  * SUBSCRIBE ›
+  * Pro
+
+    <http://www.cnbc.com/pro>
+      o View All
+
+        <http://www.cnbc.com/pro>
+      o News & Analysis
+
+        <http://www.cnbc.com/pro-story>
+      o Video
+
+        <http://www.cnbc.com/pro-video>
+      o PRO Talks
+
+        <http://www.cnbc.com/protalks>
+      o PRO Uncut
+
+        <http://www.cnbc.com/pro-uncut>
+      o Kensho Stats
+
+        <http://www.cnbc.com/kensho>
+      o Halftime Portfolio
+
+        <http://www.cnbc.com/halftime-portfolio>
+      o Squawk Box Portfolio
+
+        <http://www.cnbc.com/squawk-box-portfolio>
+      o Take a Tour
+
+        <javascript:void(0)>
+      o Subscribe
+
+        <http://www.cnbc.com/application/pro>
+  * LIVE TV
+
+    <javascript:void(0)>
+      o Watch CNBC TV
+
+        <http://www.cnbc.com/live-tv/>
+      o Watch CNBC Pro
+
+        <http://www.cnbc.com/application/pro>
+  * Watchlist
+
+    <http://watchlist.cnbc.com/>
+
+    <javascript:bouncex.close_ad(342019);>
+    Powered by Bounce Exchange®
+    <https://www.bounceexchange.com/?src=bcx_pwr&cid=342019>
+
+    <javascript:bouncex.close_ad(342019);>
+
+    GET A 30-DAY FREE TRIAL
+    when you sign up for an
+    annual subscription
+    LEARN MORE
+    <https://www.cnbc.com/application/pro/?__source=BounceExchange|display|cnbc|display|BounceExchange_PRO_SubInHeader>
+
+// <http://www.cnbc.com/markets/> // <http://video.cnbc.com/> //
+<javascript:void(0),>
+
+ 
+X
+
+
+×
+
+
+×
+
+
+×
+
+
+    The Pulse @ 1 Market <http://www.cnbc.com/the-pulse/>
+
+
+  From homeless in San Francisco to a job in the tech industry
+
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>	| @laurenthomasx3
+<http://twitter.com/laurenthomasx3>
+Wednesday, 29 Jun 2016 | 7:00 AM ET
+810
+SHARES
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+<#>
+show chapters//
+
+From homeless in SF to a job in tech <javascript:void(0)> // From
+homeless in SF to a job in tech   
+Wednesday, 29 Jun 2016 | 7:00 AM ET | 02:00
+
+<javascript:void(0)>
+
+Del Seymour grew up on the streets of San Francisco, where he spent 12
+years of his life homeless yet determined to do something about it. He
+was tired of "all talk and no action," so Seymour took it upon himself
+to create a solution to a problem that plagued his youth.
+
+Seymour's idea of a solution to homelessness isn't centered around
+finding immediate housing or a source of food, contradicting the
+"housing first" mentality that many people in the city believe is the
+answer, he said. Seymour's solution is employment.
+
+"A lot of people want to stick it on mental illness, which is a part of
+it," Seymour said in an interview. "They stick it on social issues, and
+that's a part of it. They stick it on criminal background, and that's a
+part of it. But the real deal is employment. ... You cannot go and rent
+a decent house without employment. You have to pay for that house."
+
+Last September Seymour formed Code Tenderloin, an incubator that takes
+participants through either a job readiness program, where students
+build a resume and prepare for job interviews, or a coding bootcamp,
+where students are taught front-end web development.
+
+Since its launch, Code Tenderloin has sent more than 60 people back to
+work by way of partnerships with tech companies such as Zendesk, Airbnb,
+Dolby and Uber. Instead of viewing the tech companies as the "bad guys,"
+Seymour said he was thinking of ways to work with them — ways to form
+relationships that would benefit everyone in San Francisco — as they
+flocked to the city around 2012.
+
+The gap between the rich and the poor intensified quickly as the offices
+of Spotify, Square, Twitter <http://data.cnbc.com/quotes/TWTR> and
+Yammer flooded San Francisco's Tenderloin and South of Market
+neighborhoods, some of the city's poorest and most underdeveloped areas
+at the time. Seymour saw an opportunity to bridge the divide and has
+worked ever since to bring the two parties together.
+
+
+        Code Tenderloin’s mission: “Crossing Market”
+
+A poster at Code Tenderloin’s headquarters in San Francisco Lauren
+Thomas | CNBC
+A poster at Code Tenderloin’s headquarters in San Francisco
+
+"Most people don't know the tech campuses — only 70 percent of the jobs
+in the tech campuses are tech-centered," Seymour explained. "The rest
+are front office, facilities maintenance, culinary, security, customer
+service, shipping and receiving. ... So we're trying to fill some of
+those jobs immediately when they open up to us."
+
+Code Tenderloin calls its mission "Crossing Market," after Market
+Street, since most of the tech community is situated south of Market
+St., and most of San Francisco's unemployed men and women reside north
+of Market.
+
+"We went viral in the Tenderloin," Neil Shah, a lead volunteer at Code
+Tenderloin, said in an interview. "Our job is to now scale this to other
+neighborhoods, to go into the hardest-hit areas and be a disruptor."
+
+Today, Code Tenderloin has placed its students at companies such as
+Dolby, Lending Club <http://data.cnbc.com/quotes/LC>, WeWork, Google
+<http://data.cnbc.com/quotes/GOOGL>, Macy's
+<http://data.cnbc.com/quotes/M>, Target
+<http://data.cnbc.com/quotes/TGT> and Dropbox.
+
+Retention is also important for Seymour, who said "my job begins the day
+they start theirs." More than 85 percent of Code Tenderloin participants
+have kept their jobs, Seymour said, and he continues to visit graduates
+after they leave his program, ensuring they have the resources they need
+to go to work every day.
+
+Without more programs like Code Tenderloin, Seymour doesn't see the city
+being able to reduce homelessness in the future. "I have not seen an
+aggressive enough plan to deal with [homelessness]," Seymour said.
+"There are too many silos. People are working in silos and not coming
+together on the issues."
+
+
+        Homelessness: A growing problem in San Francisco
+
+In January 2015, 564,708 people across the U.S. were homeless on any
+given night, according to a report
+<https://www.hudexchange.info/resources/documents/2015-AHAR-Part-1.pdf>
+from the U.S. Department of Housing and Urban Development, or HUD.
+Homelessness declined nationwide by 2 percent between 2014 and 2015, and
+by 11 percent since 2007, the report said.
+
+California accounted for 21 percent of the nation's homeless population
+in 2015, or 115,738 people. Between 2014 and 2015, 17 states experienced
+increases in homelessness. New York had the largest increase, followed
+by California, HUD said.
+
+In conjunction with the nationwide count, the city of San Francisco
+conducts its own Homeless Count & Survey
+<http://sfgov.org/lhcb/sites/sfgov.org.lhcb/files/2015%20San%20Francisco%20Homeless%20Count%20Report_0.pdf>.
+The number of homeless in San Francisco's streets and shelters in 2015
+was 6,686, an increase of 250 individuals compared with 2013, the latest
+report found. A 10-year analysis found a 7 percent increase in the
+number of people living without a home in San Francisco between 2005 and
+2015.
+
+Based on 2015 data, 57 percent of the unsheltered homeless population
+was located in District 6, which includes the Tenderloin and South of
+Market neighborhoods, and 25 percent of respondents reported job loss as
+the primary cause of their homelessness.
+
+Many individuals surveyed by the city said that employment and income
+were not enough to meet their basic needs. The unemployment rate for
+homeless respondents in San Francisco was 89 percent, up from 62 percent
+in 2013. Of those who were unemployed, the primary barriers to
+employment included a lack of a permanent address, clothing and showers.
+Twenty percent of respondents in San Francisco cited a dependence on
+drug or alcohol as an obstacle, the report said.
+
+Seymour said he's studied the stats, and he sees unemployment as the
+biggest the problem, so that's where he's targeting his efforts today —
+toward creating jobs.
+
+
+        Twitter, other tech companies show support
+
+Code Tenderloin’s coding classes Source: Code Tenderloin
+Code Tenderloin’s coding classes
+
+"After joining Twitter, Del was one of the first coffees I had,"
+Caroline Barlerin, Twitter's head of community outreach and
+philanthropy, said in an interview. "I went on a walking tour with the
+unofficial 'Mayor of the Tenderloin' to hear from him what's working and
+what's not. He's an expert, and he's bridging the world of tech and the
+Tenderloin in a meaningful way."
+
+Twitter hosted Code Tenderloin's first graduating class and is heavily
+involved with the nonprofit's fundraising campaign today, Barlerin said.
+Twitter employees volunteer to talk with Code Tenderloin participants
+about careers in tech and coding, and its engineers have been mentors to
+those who hope to pursue a job in the industry.
+
+"Del gives people hope and a pathway, and he's helping people take the
+first step to the future," Barlerin said. "Del is changing the
+trajectory for the homeless. … He's getting them housed."
+
+Code Tenderloin has received an influx of donations as of late,
+including $5,000 from Twitter in 2015, followed by $5,000 in 2016, Code
+Tenderloin volunteer Shah said. Dolby gave $30,000 to Code Tenderloin
+this year, after a $10,000 donation in 2015. The nonprofit has received
+additional investments from Zendesk, Benchmark Capital, Yammer and the
+Mid-Market Business Association, Shah said.
+
+Zendesk has been another one of Code Tenderloin's biggest supporters, by
+hosting events in its office's communal space and sending Zendesk
+employees on Seymour's guided walking tours of the Tenderloin. In the
+future, Zendesk will be a "feeder" employee for students who graduate
+from Code Tenderloin's job-readiness program, Tiffany Apczynski, vice
+president of public policy and social impact at Zendesk, said in an
+interview.
+
+"There are plenty of roles in our organizations," Apczynski said. "We're
+tech companies, but we're not all engineers. So you just have to open
+yourself up to hiring employees coming from a nontraditional pathway,
+then everybody is going to grow and benefit from that."
+
+Many who know Seymour say he's pioneering a movement in bringing the
+tech community and the city's homeless together, something he believes
+will get people off the streets faster than any other solutions being
+proposed in San Francisco.
+
+
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>
+Lauren Thomas <http://www.cnbc.com/lauren-thomas/>Special to CNBC.com
+
+<http://twitter.com/laurenthomasx3>
+SHOW COMMENTS
+Please add a username to view or add comments
+
+Public Username for Commenting
+
+JOIN THE DISCUSSION
+To learn more about how we use your information, please read our Privacy
+Policy <http://nbcuni.com/privacy/> and Terms of Service
+<http://www.cnbc.com/id/15837353/>.
+
+  * AdChoices
+
+    <http://info.evidon.com/pub_info/793?v=1&nt=0&nw=false>
+  * Subscribe to CNBC PRO
+
+    <https://www.cnbc.com/application/pro/?__source=pro|display|cnbc|house|PRO_Footer_MktgPg>
+
+×
+
+Thank you!
+Your account is all set up.
+Please log in to enjoy all of the features of CNBC.
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+Something went wrong.
+Please create your account again.
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+Something went wrong. Please try to log in again.
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+Something went wrong. Please try to log in again!
+------------------------------------------------------------------------
+OK
+×
+
+Oops!
+It appears you may be logged out of Xfinity.
+Would you like to log back in?
+------------------------------------------------------------------------
+Xfinity Subscribers: Log InCancel
+x
+×
+NoneNoneNoneNone

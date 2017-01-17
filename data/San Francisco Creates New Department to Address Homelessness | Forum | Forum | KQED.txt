@@ -1,0 +1,460 @@
+KQED Menu
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs
+
+        <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <http://ww2.kqed.org/perspectives/>
+
+  *
+
+
+      KQED Radio
+
+    <http://www.kqed.org/radio/>
+
+  * KQED Radio Home
+
+    <http://www.kqed.org/radio/>
+  * Listen Live
+
+    <http://www.kqed.org/radio/listen/>
+  * Programs
+
+    <#>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o The California Report
+
+        <http://ww2.kqed.org/news/programs/the-california-report>
+      o The Do List
+
+        <http://ww2.kqed.org/arts/programs/the-do-list/>
+      o News Fix
+
+        <http://ww2.kqed.org/news/programs/news-fix/>
+      o Perspectives
+
+        <http://ww2.kqed.org/perspectives/>
+  * Schedules
+
+    <#>
+      o Daily Schedule
+
+        <http://www.kqed.org/radio/schedules/daily>
+      o Weekly Schedule
+
+        <http://www.kqed.org/radio/schedules/weekly.jsp>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  Forum <https://ww2.kqed.org/forum/>
+
+Search
+
+<#search-container>
+
+
+  Forum Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+Search for:
+
+Forum <https://ww2.kqed.org/forum>
+
+
+  San Francisco Creates New Department to Address Homelessness
+
+Audio Player
+http://www.podtrac.com/pts/redirect.mp3/www.kqed.org/.stream/mp3splice/radio/forum/2016/06/Forum20160628a.mp3
+<https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?a=commentsATag>
+Comments
+ <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?a=commentsATag>
+Download
+ <http://www.podtrac.com/pts/redirect.mp3/www.kqed.org/.stream/mp3splice/radio/forum/2016/06/Forum20160628a.mp3?_=1>
+<https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness>
+
+
+
+    Forum
+
+
+      San Francisco Creates New Department to Address Homelessness
+      <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/>Jun
+      28, 2016 09:00 AM
+
+00:00
+00:00
+00:00
+Use Up/Down Arrow keys to increase or decrease volume.
+
+<javascript:void(0);>
+Host: Michael Krasny <https://ww2.kqed.org/forum/author/mkrasny/>
+June 28, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=email&nb=1>
+*
+
+tents set up on San Francisco's Division Street	
+
+This Friday, the city of San Francisco will launch a new Department
+of Homelessness and Supportive Housing with Jeff Kositsky at the
+helm. Kositsky, who has advocated for homeless rights for more than
+twenty years, most recently headed the Hamilton Family Center,
+an emergency shelter for homeless families. We’ll talk with Kositsky
+about his priorities as the department’s inaugural director, including
+the city’s goal of establishing six navigation centers to serve homeless
+around the city in the next two years.
+
+
+      *Interview Highlights*
+
+*On a Unified Strategy to Address Homelessness*
+
+“We need to have a unified city strategy on how we want to address 
+homelessness, not, you know, 60 different non-profit organizations all
+working to achieve their very honorable and important missions. But the
+city needs to decide: this is what we wanna do, these are the number of
+shelter beds we need, this is the number of housing units we need, this
+is our expectation around outcomes and success for people exiting
+shelters or people staying in housing, and then we need to drive our
+resources towards programs that meet the city’s strategy and the city’s
+priorities.”
+
+*On Encampments*
+
+“The mayor and I, and I think most people in San Francisco agree that
+encampments are not a healthy, safe or appropriate place for homeless
+people to stay. They are dangerous, there’s a high rate of sexual
+assault and crime. I also think that it’s important to recognize that
+people who live around the encampments and the businesses around the
+encampments also suffer from fear, from uncertainty, from disruptions of
+their lives. …We are actually going to be announcing today the creation
+of a special encampment response team that’s going to be led by Jason
+Albertson, who was a longtime member of the [Homeless Outreach Response
+Team] and has worked closely with law enforcement in other counties.
+
+“I’m not particularly worried or thinking about ballot measures or what
+the board of supervisors may or may not do in November”
+Jeff Kositsky, Director, Department of Homelessness and Supportive
+Housing for the City and County of San Francisco
+
+
+*On the Upcoming Election and Ballot Measures*
+
+“I’m not particularly worried or thinking about ballot measures or what
+the board of supervisors may or may not do in November. The mayor and I
+are just staying focused on good policy, trying to address the issue. I
+think ultimately, I hope, that good policy is what will be the best
+politics around the issue of homelessness.”
+
+* On Street Crime*
+
+“People conflate street crime with homelessness and it’s often not the
+case. … I don’t believe Supervisors [Scott] Wiener or [Mark] Farrell are
+looking for a crackdown on homeless people or expect the police to crack
+down on homeless folks. What they’re trying to do is find ways to
+enforce existing laws that are more effective, to make sure our
+neighborhoods are safer. … I don’t believe there is very much benefit to
+giving somebody a ticket because they’re sleeping on the street because
+they have nowhere else to go. However, I do believe if people are out on
+the streets breaking laws – that that needs to be, needs to be addressed.
+
+*On Permanent Housing*
+
+“I think we should really drive our investments towards permanent
+solutions to homelessness, like the Rapid Rehousing Program or permanent
+housing. Shelter and transitional housing only solves the problem of
+sleep; housing is what is going to solve homelessness.”
+
+ 
+
+*Related Coverage *
+
+  * SF Homeless Project
+    <http://ww2.kqed.org/news/series/sf-homeless-project>
+  * San Francisco’s Homeless  ‘Czar’  Sam Dodge
+    <http://ww2.kqed.org/forum/2016/01/29/san-franciscos-new-homeless-czar-tries-to-tackle-one-of-the-citys-most-intractable-issues/>
+    (Forum archives)
+  * Forum on the Road: San Rafael’s Homeless Plan Stirs Debate
+    <http://ww2.kqed.org/forum/2016/06/21/forum-on-the-road-san-rafael-s-homeless-plan-stirs-debate/> (Forum
+    archives)
+  *
+
+    SF Homeless Problem Looks the Same as it Did 20 Years Ago
+    <http://projects.sfchronicle.com/sf-homeless/overview/> (San
+    Francisco Chronicle)
+
+ 
+
+Guests:
+Jeff Kositsky, director, Department of Homelessness & Supportive Housing
+for the City & County of San Francisco;
+former executive director of Hamilton Family Center
+
+Explore: Forum <https://ww2.kqed.org/forum/category/forum/>, Bay Area
+<https://ww2.kqed.org/forum/tag/bay-area/>, Jeff Kositsky
+<https://ww2.kqed.org/forum/tag/jeff-kositsky/>, San Francisco
+<https://ww2.kqed.org/forum/tag/san-francisco/>, SF Homeless Project
+<https://ww2.kqed.org/forum/tag/sf-homeless-project/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=pinterest&nb=1>
+  * Click to share on LinkedIn (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=linkedin&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=google-plus-1&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/?share=email&nb=1>
+  *
+
+42 Comments
+<http://ww2.kqed.org/forum/2016/06/27/san-francisco-creates-new-department-to-address-homelessness/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+S.F. Supervisor Scott Wiener: Homeless Tent Camps 'Need to Go Away'
+
+<http://ww2.kqed.org/news/2016/01/25/s-f-supervisor-scott-wiener-city-needs-fast-response-to-homeless-tent-camps>
+
+Is San Francisco Effectively Fighting Homelessness?
+
+<http://ww2.kqed.org/forum/2014/04/24/is-san-francisco-effectively-fighting-homelessness/>
+
+San Francisco's New Homeless 'Czar' Tries to Tackle One of the City's
+Most Intractable Issues
+
+<http://ww2.kqed.org/forum/2016/01/29/san-franciscos-new-homeless-czar-tries-to-tackle-one-of-the-citys-most-intractable-issues/>
+
+In My Experience: Homeless in the Bay Area
+
+<https://ww2.kqed.org/forum/2016/06/28/in-my-experience-homeless-in-the-bay-area/>
+
+Mayor Lee Blasts Talk of Homeless 'Crisis,' Asks Critics to Aid City Efforts
+
+<http://ww2.kqed.org/news/2016/03/09/mayor-lee-blasts-talk-of-homeless-crisis-and-calls-for-critics-to-aid-citys-efforts>
+
+Navigating a Path From Homelessness to Housing in San Francisco
+
+<http://ww2.kqed.org/news/2016/03/24/navigating-a-path-from-homelessness-to-housing-in-san-francisco>
+Powered by
+
+<https://contextly.com/>
+
+
+    Host
+
+
+      Michael Krasny
+
+Michael Krasny, PhD, has been in broadcast journalism since 1983. He was
+with ABC in both radio and television and migrated to public
+broadcasting in 1993. He has been Professor of English at San Francisco
+State University and also taught at Stanford, the University of San
+Francisco and the University of California, as well as in the Fulbright
+International Institutes. A veteran interviewer for the nationally
+broadcast City Arts and Lectures, he is the author of a number of books,
+including “Off Mike: A Memoir of Talk Radio and Literary Life” (Stanford
+University Press) “Spiritual Envy” (New World); “Sound Ideas” (with M.E.
+Sokolik/ McGraw-Hill); “Let There Be Laughter” (Harper-Collins) as well
+as the twenty-four lecture series in DVD, audio and book, “Short Story
+Masterpieces” (The Teaching Company). He has interviewed many of the
+world’s leading political, cultural, literary, science and technology
+figures, as well as major figures from the world of entertainment. He is
+the recipient of many awards and honors including the S.Y. Agnon Medal
+for Intellectual Achievement; The Eugene Block Award for Human Rights
+Journalism; the James Madison Freedom of Information Award; the
+Excellence in Journalism Award from the National Lesbian and Gay
+Journalists Association; Career Achievement Award from the Society of
+Professional Journalists and an award from the Radio and Television News
+Directors Association. He holds a B.A. (cum laude) and M.A. from Ohio
+University and a PhD from the University of Wisconsin.
+
+View all posts by this host <https://ww2.kqed.org/forum/author/mkrasny/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Chicken Guns and Chili Grenades: Mary Roach Explores Unexpected
+Science of the Military World
+
+<https://ww2.kqed.org/forum/2016/06/24/chicken-guns-and-chili-grenades-mary-roach-explores-behind-the-scenes-science-of-the-military-world/>
+Next Mother Jones' Shane Bauer Goes Undercover as a Private Prison Guard
+
+<https://ww2.kqed.org/forum/2016/06/27/2010101855406/>
+
+
+  About Forum
+
+KQED's live call-in program presents balanced discussions of local,
+state, national, and world issues as well as in-depth interviews with
+leading figures in politics, science, entertainment, and the arts.
+
+  * Forum Staff <http://ww2.kqed.org/forum/contributors>
+  * Contact Forum <mailto:forum@kqed.org>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow Forum
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDForum/>
+  * Follow Us on Twitter <https://twitter.com/search/@kqedforum>
+  * Connect on Instagram <https://www.instagram.com/kqed_forum/>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<http://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<http://ww2.kqed.org/about/help/privacy/>| Contact Us
+<http://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

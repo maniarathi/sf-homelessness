@@ -1,0 +1,650 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+News Fix <https://ww2.kqed.org/news/programs/news-fix/>
+
+
+  ‘To Have and Have Not’: The Early Days of Bay Area Homelessness
+
+A still from the 1983 KQED documentary, "To Have and Have Not." (/KQED/)
+
+By Stephen Talbot
+June 27, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=email&nb=1>
+*
+
+Once upon a time there were no homeless people in San Francisco. Or
+California. Or the country, for that matter. Really. At least not in the
+way we have come to define “the homeless.”
+
+I remember when I first saw homeless people on the streets of San
+Francisco. It was fall of 1982 and I was producing a local documentary
+for KQED called “To Have and Have Not” about the growing gap between
+rich and poor in San Francisco.
+
+Recession, unemployment, cutbacks in federal support and a breakdown in
+mental health services — all this formed a perfect storm.
+
+Sound familiar?
+
+In the Tenderloin and other run-down corners of the city, my TV crew and
+I began to notice and speak with people who told us they had nowhere to
+live. I’d been renting a place in the city for five years. I was
+accustomed to a few panhandlers downtown, winos and derelicts in the
+Tenderloin, some runaways in the Haight. But this was different.
+
+Suddenly, St. Anthony’s Dining Hall was swamped with people needing a
+free meal. Emergency shelters were overrun. At night, people huddled in
+storefronts in the rain.
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*
+
+sfproject3 <http://ww2.kqed.org/news/series/sf-homeless-project>
+
+“We’re seeing more and more women and children,” Clare Doyle, the
+director of a Catholic-run soup kitchen in the Mission, told us. “More
+families. More children who come in here by themselves, sometimes with
+jars saying, ‘Can I have some soup to take home to my mom?’ ”
+
+tohaveandhavenot
+A still from the 1983 KQED documentary. (KQED)
+
+This was shocking and it was new. Homeless people in San Francisco. No
+one was sure how many, but emergency shelters were taking in close to a
+thousand, while many more eked out a life in the alleys and the parks.
+
+Why was this happening?
+
+For one thing, we were in the middle of a recession. Twelve million
+people were unemployed across the country, 1.5 million in California,
+and 150,000 in the Bay Area. Manufacturing plants were shutting down,
+people were hurting. It was the beginning of what we now know as “the
+de-industrialization of America.”
+
+Newsweek declared it “The Hard-Luck Christmas of ’82,” saying “with 12
+million unemployed and 2 million homeless, private charity cannot make
+up for federal cutbacks.”
+
+And that was the other reason: cutbacks. Under President Ronald Reagan,
+who was elected in 1980, the government had slashed federal housing
+subsidies and poverty programs, including food stamps. Low-cost housing
+was vanishing, especially in cities like San Francisco, where the
+housing market was already tight and expensive.
+
+A still from the 1983 KQED documentary, "To Have and Have Not."
+A still from the 1983 KQED documentary, “To Have and Have Not.” (KQED)
+
+There was at least one more cause of this new homeless calamity: the
+closing of mental health hospitals without creating an adequate safety
+net of neighborhood clinics and support services. This process had begun
+in the ’70s but deepened every year. “We have a lot more people with
+emotional problems,” Doyle told us at her shelter in the Mission. “A lot
+of people who have been dumped out of the mental health system literally
+with a handful of Thorazine and dumped on the streets.”
+
+Recession, unemployment, cutbacks in federal support for housing and the
+poor, and a breakdown in mental health services — all this formed a
+perfect storm, and the victims were people we began to call “the homeless.”
+
+It wasn’t as bad as the Great Depression of the 1930s, when a third of
+the country was unemployed, and sprawling camps of the hungry and
+desperate – “Hoovervilles” – emerged everywhere from New York’s Central
+Park to downtown L.A.
+
+But in some ways it had a nastier edge. The homeless in San Francisco in
+the early 1980s lived in the midst of recession-proof wealth. They were
+surrounded by those with old Pacific Heights money and the new
+prosperity of Silicon Valley entrepreneurs and venture capitalists. In
+Los Gatos, a Ferrari dealer told me he was experiencing record sales.
+Sometimes customers forked over $80,000 in cash for a new sports car.
+
+In my lifetime, which began in the postwar prosperity of the ’50s and
+’60s, this “tale of two cities” clash was the beginning of the long era
+of “income inequality” that has so divided our country.
+
+A still from the 1983 KQED documentary, "To Have and Have Not."
+<https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/shelterthehomeless_crop/>
+A still from the 1983 KQED documentary, “To Have and Have Not.”
+
+A still from the 1983 KQED documentary, "To Have and Have Not."
+<https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/shelterthehomeless_1-2/>
+A still from the 1983 KQED documentary, “To Have and Have Not.”
+
+There are scenes in “To Have and Have Not” of homeless people and their
+advocates starting to organize and march on City Hall to demand and
+receive emergency shelter. There’s also a skirmish in which police drag
+off some homeless men who refused to leave the temporary sanctuary of a
+broken-down Muni bus.
+
+In many ways, this is still what’s happening, still the way we treat the
+homeless: provide services, which are ample but never enough, tolerate a
+certain level of suffering on the streets, and resort to criminal
+prosecution and even police shootings when someone feels threatened.
+
+Thirty-four years after I first saw and filmed homeless people in the
+City of St. Francis, I never expected to see this crisis still
+festering, still unresolved. And I have the same thought I had back
+then: We are a resilient, democratic, prosperous society, but at what
+point does a city, a country, become so economically divided that it
+tears itself apart?
+
+/Stephen Talbot was a staff reporter and producer at KQED-TV from 1980
+to 1989. He went on to become a producer for the PBS series “Frontline,”
+but has returned to KQED over the years to produce documentaries like
+“The Celebrity and the City” about Jerry Brown as mayor of Oakland and
+the show “Sound Tracks: Music Without Borders.”
+<http://www.pbs.org/soundtracks/> He just completed senior producing an
+independent documentary in Indianapolis called “Under the Bridge: The
+Criminalization of Homelessness.”
+<https://www.facebook.com/underthebridgedoc/> Talbot now works for ITVS
+<http://itvs.org/>, the San Francisco-based nonprofit that runs the
+documentary series “Independent Lens.”/
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>, San Francisco
+<https://ww2.kqed.org/news/tag/san-francisco/>, video
+<https://ww2.kqed.org/news/tag/video/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/?share=email&nb=1>
+  *
+
+4 Comments
+<https://ww2.kqed.org/news/2016/06/27/to-have-and-have-not-a-look-back-at-the-early-days-of-the-bay-areas-homeless-problem/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+
+Video: Mario Cuomo's Speech at 1984 Democratic Convention in San Francisco
+
+<http://ww2.kqed.org/news/2015/01/02/video-mario-cuomos-speech-at-1984-democratic-convention-in-san-francisco>
+
+San Francisco Adds Beds for the Homeless as Rain Pounds the City
+
+<http://ww2.kqed.org/news/2016/01/23/san-francisco-adds-beds-for-the-homeless-as-rain-pounds-the-city>
+
+Finding Redemption in West Oakland: One Man's Journey Back From the Streets
+
+<http://ww2.kqed.org/news/2016/05/13/finding-redemption-in-west-oakland-one-mans-journey-back-from-the-streets>
+
+Mass Deportation May Sound Unlikely, But It's Happened Before
+
+<http://ww2.kqed.org/news/2015/09/08/mass-deportation-may-sound-unlikely-but-its-happened-before>
+
+Why San Jose Is Barely in the Black Despite the Tech Boom
+
+<http://ww2.kqed.org/news/2015/07/07/why-san-jose-is-barely-in-the-black-despite-the-tech-boom>
+Powered by
+
+<https://contextly.com/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<https://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results/>
+Next Supreme Court Strikes Down Most of Restrictive Texas Abortion Law
+
+<https://ww2.kqed.org/news/2016/06/27/supreme-court-strikes-down-most-of-restrictive-texas-abortion-law/>
+
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+
+
+  Get the facts!
+
+Close
+
+:)

@@ -1,0 +1,381 @@
+  * English
+
+    <http://eltecolote.org/content/en/>
+  * Spanish
+
+    <http://eltecolote.org/content/es/>
+
+El Tecolote
+
+<http://eltecolote.org/content/en/>
+//
+
+  * Home
+
+    <http://eltecolote.org/content/en/>
+  * News
+
+    <http://eltecolote.org/content/en/category/news/>
+      o Education
+
+        <http://eltecolote.org/content/en/category/news/education/>
+      o Immigration
+
+        <http://eltecolote.org/content/en/category/news/immigration-news/>
+      o Housing
+
+        <http://eltecolote.org/content/en/category/news/housing-news/>
+      o Health
+
+        <http://eltecolote.org/content/en/category/news/health-news/>
+  * Arts & Culture
+
+    <http://eltecolote.org/content/en/category/arts_culture/>
+      o Film and Literary Reviews
+
+        <http://eltecolote.org/content/en/category/arts_culture/film-and-literary-reviews/>
+      o People in the Arts
+
+        <http://eltecolote.org/content/en/category/arts_culture/people-in-the-arts/>
+      o Event Coverage
+
+        <http://eltecolote.org/content/en/category/arts_culture/event-coverage/>
+  * Features
+
+    <http://eltecolote.org/content/en/category/features/>
+  * Community
+
+    <http://eltecolote.org/content/en/category/community-2/>
+  * Latin America
+
+    <http://eltecolote.org/content/en/category/latin_america/>
+  * Commentary
+
+    <http://eltecolote.org/content/en/category/commentary/>
+      o Immigration 101
+
+        <http://eltecolote.org/content/en/category/commentary/immigration-101/>
+      o Veterans’ Voices
+
+        <http://eltecolote.org/content/en/category/commentary/veterans-voices-commentary/>
+      o Letters
+
+        <http://eltecolote.org/content/en/category/commentary/letters/>
+      o Opinion
+
+        <http://eltecolote.org/content/en/category/commentary/opinion-en/>
+  * About
+
+    <http://eltecolote.org/content/en/about-2/>
+      o Archive
+
+        <http://eltecolote.org/content/en/print-issue-archive/>
+      o Volunteer
+
+        <http://eltecolote.org/content/en/about-2/volunteer/>
+      o Acción Latina
+
+        <http://accionlatina.org/>
+  * Advertise
+
+    <http://eltecolote.org/content/en/advertise-2/>
+  * Contact
+
+    <http://eltecolote.org/content/en/contact/>
+
+
+  New app designed specifically to aid homeless people
+
+// June 29, 2016 // Adrian Pintor
+Share this: Facebook <#> Twitter <#> Google+ <#> Pinterest <#> Email to
+a Friend <#>
+Profile: homeless entrepreneur
+Darcel Jackson poses next to a poster for his campaign as supervisor, at
+the corner 24th and Lucky streets on June 26. Photo Adrian PintorDarcel
+Jackson poses next to a poster for his campaign as supervisor, at the
+corner 24th and Lucky streets on June 26. Photo Adrian Pintor
+
+<http://eltecolote.org/content/wp-content/uploads/2016/06/Darcel-Profile_03web_box.jpg>
+Darcel Jackson holds his mobile phone, which displays a photo of him on
+the masthead of AskDarcel.org a resourceful website built to help
+low-income, homeless and underserved people. Photo Adrian PintorDarcel
+Jackson holds his mobile phone, which displays a photo of him on the
+masthead of AskDarcel.org a resourceful website built to help
+low-income, homeless and underserved people. Photo Adrian Pintor
+
+<http://eltecolote.org/content/wp-content/uploads/2016/06/Darcel-Profile_02web.jpg>
+Darcel Jackson poses next to a poster for his campaign as supervisor, at
+the corner 24th and Lucky streets on June 26. Photo Adrian PintorDarcel
+Jackson poses next to a poster for his campaign as supervisor, at the
+corner 24th and Lucky streets on June 26. Photo Adrian Pintor
+
+<http://eltecolote.org/content/wp-content/uploads/2016/06/Darcel-Profile_03web_box.jpg>
+Darcel Jackson holds his mobile phone, which displays a photo of him on
+the masthead of AskDarcel.org a resourceful website built to help
+low-income, homeless and underserved people. Photo Adrian PintorDarcel
+Jackson holds his mobile phone, which displays a photo of him on the
+masthead of AskDarcel.org a resourceful website built to help
+low-income, homeless and underserved people. Photo Adrian Pintor
+
+<http://eltecolote.org/content/wp-content/uploads/2016/06/Darcel-Profile_02web.jpg>
+Darcel Jackson, founder of "Shelter Tech" and "Ask Darcel," poses with
+his mobile phone in front of a mural of the Golden Gate Bridge at 24th
+and Folsom streets on June 26. Photo Adrian Pintor
+<http://eltecolote.org/content/wp-content/uploads/2016/06/Darcel-Profile_01web-2.jpg>
+
+Darcel Jackson, founder of “Shelter Tech” and “Ask Darcel,” poses with
+his mobile phone in front of a mural of the Golden Gate Bridge at 24th
+and Folsom streets on June 26. Photo Adrian Pintor
+
+It was 2014 and Darcel Jackson, who was homeless at the time, was laying
+in one of the 334 beds at Next Door Shelter, when he thought of
+something that shelters didn’t have: Wi-Fi.
+
+Jackson, a Bay Area native, viewed a lack of internet access as a
+barrier between homelessness and opportunities for employment. While
+living at Next Door, a shelter at 1001 Polk St. that provides 24-hour
+housing in San Francisco, he realized that Wi-Fi and computers were
+non-existent.
+
+“Having Wi-Fi is something that most people take for granted,” Jackson
+said. “They turn on their phone, they have Wi-Fi. So I thought the other
+half [homeless] could use Wi-Fi to better their situation, because most
+housing opportunities have you apply online [as do most] employment
+opportunities. And they need access to both those services to escape
+homelessness.”
+
+Installing Wi-Fi in shelters was just the platform Jackson needed to
+come up with the idea of an app that could revolutionize how homeless
+people access housing and employment opportunities.
+
+“Ask Darcel” is a mobile resource app designed to better inform the
+homeless community about housing, job listings and also serves as a
+contact for medical and dental centers. The app is still in its
+development stages, but it’s set to launch in August 2016.
+
+One of its features is a global positioning system that will provide the
+user with alternative options on how to reach the service and the
+expected arrival time.
+
+“Basically what it does, it keeps you from running around depending on
+people that live on the street to tell you where the resources are,”
+Jackson said.
+
+Ask Darcel will also feature “Darcel’s List,” intended to be very
+similar to Craigslist. Jackson says it will enhance the way homeless
+individuals seek employment. The objective is to post day labor jobs,
+Jackson explained, where workers will earn minimum wage and move toward
+a more stable lifestyle.
+
+Jackson said the app would allow the user to build a profile that will
+allow employers to view a headshot, full biography and a list of skills
+that could be applicable to specific jobs.
+
+The app will use a 0-5 star rating system where the employer could rate
+the employee based on previously done work, and vice-versa. If the user
+reaches five stars, bigger job opportunities would be available, such as
+working at a restaurant, for example.
+
+“The key is to create a motivational tool,” Jackson said.
+
+Ask Darcel will also feature motivational games, and an avatar named
+“Casey,” who Jackson hopes will teach the user about case-management.
+The more achievements the user obtains, the more wardrobe options you
+get to dress your avatar. Each piece of wardrobe will be a reward, such
+as obtaining identification at the DMV or getting access to counseling.
+
+*Becoming, and overcoming homelessness*
+
+Jackson worked in construction as a welder almost all of his life, but
+eventually work became scarce and work-related injuries convinced him
+that his welding days were over.
+
+“I got old,” Jackson chuckled. “I couldn’t hang off a 30-story building
+and weld. Also my vision was failing.”
+
+After the 2008 recession, it was difficult for Jackson to find work.
+Then Jackson lost his housing, and eventually wound up at Next Door.
+
+Jackson spent 10 months at Next Door and several other shelters, such as
+The Sanctuary, until an opportunity arose to enroll in the Conquering
+Homelessness through Employment in Food Services (CHEFS) training
+program, which is offered for homeless adults by the Episcopal Community
+Services.
+
+Jackson completed a six-month non-paid culinary program, and now works
+as a caterer and cooks every Wednesday. But during the program—one that
+started off with 19 students but finished with only three
+graduates—Jackson witnessed the difficulty many homeless people face
+when striving for stability. Many of his peers dropped the program due
+to not having housing, drug addiction or a lack of commitment.
+
+“It was very challenging because I was 55-years-old,” Jackson said.
+“When I first started I already knew a little about cooking, but when I
+entered the program I told myself ‘You are here to learn everything,’ so
+that’s what I did.”
+
+Soon after moving to the Mission District, Jackson decided to attend a
+town hall meeting about whether tech companies could alleviate, or
+better, find a solution to homelessness.
+
+The town hall was held by tech entrepreneur Greg Gopman, founder of
+AngelHack who made headlines in 2013 for an infamous Facebook rant about
+San Francisco’s homeless, in which he referred to them as “degenerates”
+and “trash” among other insults. Gopman apologized almost immediately
+for his comments, and has since decided that solving San Francisco’s
+homelessness problem is a worthy endeavor.
+
+At that town hall, Jackson realized the meeting wasn’t an open forum. A
+guest had to text their question into a pool of questions, and if it got
+enough “likes,” the panel would answer.
+
+“It was all high tech,” Jackson said. “So I thought to myself: ‘Homeless
+people don’t have access to this type of stuff [internet], so they can’t
+even participate in a discussion that is designed to help them.’”
+
+It was at that moment Jackson realized that not having access to the
+internet in this era can impair an individual’s ability to improve their
+living status or even have their voice be heard at hall meetings.
+
+This motivated Jackson to approach Gopman about the idea of installing
+Wi-Fi in homeless shelters. Jackson said they talked and Gopman brought
+MonkeyBrains—an internet service provider—to the table.
+
+According to Jackson, Next Door Shelter wasn’t interested in computers,
+but liked the idea of installing Wi-Fi. Wi-Fi has since been installed
+at Next Door and both Jackson and Gopman have created Shelter Tech, a
+nonprofit. Since then, they have been working to bring Wi-Fi to two
+low-income housing projects in the Tenderloin by August 2016.
+
+Jackson also announced his candidacy for District 9 Supervisor, but had
+to drop out due to financial reasons. He has since decided to work with
+candidate Josh Arce on how to approach homelessness.
+
+“It’s a social hazard,” Jackson said. “It’s pretty much everywhere, but
+the way you deal with social hazards, just like we do with earthquakes,
+first we need to alleviate the problem and then put safeguards out
+there, so people attack homelessness before people become homeless.”
+
+/For more information, visit askdarcel.org <http://askdarcel.org/>/
+
+ 
+
+ 
+
+AngelHack <http://eltecolote.org/content/en/tag/angelhack/> Ask Darcel
+<http://eltecolote.org/content/en/tag/ask-darcel/> Darcel Jackson
+<http://eltecolote.org/content/en/tag/darcel-jackson/> Greg Gopman
+<http://eltecolote.org/content/en/tag/greg-gopman/> Homeless
+<http://eltecolote.org/content/en/tag/homeless-en/> homeless app
+<http://eltecolote.org/content/en/tag/homeless-app/> Josh Arce
+<http://eltecolote.org/content/en/tag/josh-arce/> mission district
+<http://eltecolote.org/content/en/tag/mission-district-en/> Next Door
+Shelter <http://eltecolote.org/content/en/tag/next-door-shelter/> SF
+Homeless Project
+<http://eltecolote.org/content/en/tag/sf-homeless-project/> Shelter Tech
+<http://eltecolote.org/content/en/tag/shelter-tech/>
+
+Previous Post
+
+
+      El Tecolote joins SF Homeless Project
+      <http://eltecolote.org/content/en/features/el-tecolote-joins-sf-homeless-project/>
+
+Next Post
+
+
+      Once homeless youth talks life on the street
+      <http://eltecolote.org/content/en/features/once-homeless-youth-talks-life-on-the-street/>
+
+Latest Print Issue
+Powered by <https://issuu.com/explore>
+Publish for Free <https://issuu.com/publishers?entryPoint=embed>
+El Tecolote on Youtube
+Recent Posts
+cf6_kkk-bold-eagle_01_web
+<http://eltecolote.org/content/en/commentary/election-cartoons/>	
+
+
+    Election Cartoons
+    <http://eltecolote.org/content/en/commentary/election-cartoons/>
+
+// 0
+<http://eltecolote.org/content/en/commentary/election-cartoons/#respond>
+A detention center in Arizona. Photo: Steve Pavey
+<http://eltecolote.org/content/en/commentary/opinion-en/there-are-no-borders-that-can-contain-the-cry-of-justice/>
+
+
+
+    There are no borders that can contain the cry of...
+    <http://eltecolote.org/content/en/commentary/opinion-en/there-are-no-borders-that-can-contain-the-cry-of-justice/>
+
+
+// 0
+<http://eltecolote.org/content/en/commentary/opinion-en/there-are-no-borders-that-can-contain-the-cry-of-justice/#respond>
+
+A stencil disparaging tech workers on a 24th Street sidewalk. Photo:
+Mabel Jiménez
+<http://eltecolote.org/content/en/commentary/letters/letter-to-the-editor-techie-hate/>
+
+
+
+    Letter to the editor: Techie hate
+    <http://eltecolote.org/content/en/commentary/letters/letter-to-the-editor-techie-hate/>
+
+
+// 0
+<http://eltecolote.org/content/en/commentary/letters/letter-to-the-editor-techie-hate/#respond>
+
+Photo: Ekevara Kitpowsong
+<http://eltecolote.org/content/en/arts_culture/my-people-love-is-stronger-than-hate/>
+
+
+
+    My people: Love is stronger than hate
+    <http://eltecolote.org/content/en/arts_culture/my-people-love-is-stronger-than-hate/>
+
+
+// 0
+<http://eltecolote.org/content/en/arts_culture/my-people-love-is-stronger-than-hate/#respond>
+
+Prop 58 passed, allowing bilingual education in California schools. El
+Tecolote Archives/Photo: Marina Forte
+<http://eltecolote.org/content/en/news/ballot-measure-results-show-ca-is-well-left-of-nation/>
+
+
+
+    Ballot measure results show CA is well left of...
+    <http://eltecolote.org/content/en/news/ballot-measure-results-show-ca-is-well-left-of-nation/>
+
+
+// 0
+<http://eltecolote.org/content/en/news/ballot-measure-results-show-ca-is-well-left-of-nation/#respond>
+
+Voter Guide
+
+
+      About
+
+El Tecolote newspaper began as a project in a La Raza Studies class at
+San Francisco State University. Prof. Juan Gonzales created the class as
+a way to channel more Latinos into journalism. In the 1970s, Latinos and
+other people of color were virtually invisible in the major newsrooms.
+
+Today El Tecolote continues to provide original local news, portraying
+the diverse spectrum of Latino life.
+
+
+      //Twitter
+
+  * //RT @AccionLatinaSF <http://twitter.com/AccionLatinaSF>: Our Juan
+    R. Fuentes Gallery turns 1 next month and to celebrate/fundraise we
+    are hosting a special art auction with som…
+    November 29th, 2016
+  * //Encuentro del Canto Popular 30th Anniversary! • Dec. 11 • 7pm
+    #encuentro <http://twitter.com/search?q=encuentro> @AccionLatinaSF
+    <http://twitter.com/AccionLatinaSF> https://t.co/QWugKbgTKM	
+    November 23rd, 2016
+
+Copyright (c) 2016. All rights reserved.
+Published by Acción Latina <http://www.accionlatina.org/>	
+<#>

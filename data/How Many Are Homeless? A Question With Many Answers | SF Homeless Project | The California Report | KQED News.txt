@@ -1,0 +1,786 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+San Francisco Chronicle <http://www.sfchronicle.com/>
+
+
+  How Many Are Homeless? A Question With Many Answers
+
+A San Francisco homeless man drags his tent down the sidewalk on 13th
+Street between Bryant and Harrison as the San Francisco Public Works
+Department's "alley crew" begins cleaning an encampment Wednesday, July
+1, 2015. The alley crew visits homeless encampments on a daily basis to
+disinfect the ground and haul away refuse.
+
+A San Francisco homeless man drags his tent down the sidewalk on 13th
+Street between Bryant and Harrison as the San Francisco Public Works
+Department's "alley crew" begins cleaning an encampment Wednesday, July
+1, 2015. The alley crew visits homeless encampments on a daily basis to
+disinfect the ground and haul away refuse. (/Loren Elliott/San Francisco
+Chronicle/)
+
+By *Joaquin Palomino <http://www.sfchronicle.com/author/joaquin-palomino/>
+San Francisco Chronicle*
+June 28, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=email&nb=1>
+*
+
+How many people are homeless in San Francisco?
+
+That question is the basis for the most frequent Google search in the
+city regarding homelessness. The answer, though, is elusive.
+
+Multiple government agencies have attempted to calculate the scope of
+homelessness, but accurately measuring it or its social and economic
+impacts is difficult, if not impossible. Homelessness can take many
+forms and is often a temporary status, making it hard to reliably track.
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*
+
+sfproject3 <http://ww2.kqed.org/news/series/sf-homeless-project>
+
+The city hopes to build a more comprehensive information system, making
+it easier to count and provide assistance to homeless people. Currently,
+however, estimates on the number of people living on San Francisco’s
+streets — and the costs associated with them — vary dramatically.
+
+The figure 6,686 is the most widely circulated approximation of those
+who are homeless in the city. That number comes from a count made on a
+single night in January 2015, when volunteers fanned out across San
+Francisco and identified people who appeared to be sleeping on the
+streets, in parks, in cars, or anywhere else not meant for human habitation.
+
+Those staying in a temporary shelter that evening were also counted to
+come up with the final estimate.
+
+The biennial survey — conducted in cities across the country at the
+behest of the federal Department of Housing and Urban Development —
+provides the only consistent and uniform data enumerating street people.
+The information from those counts influences everything from federal
+funding for homeless services to newspaper headlines to discussions at
+City Hall. But they stem from an imprecise science.
+
+homeless_data_web
+<http://ww2.kqed.org/news/wp-content/uploads/sites/10/2016/06/homeless_data_web.jpg>
+
+In some cities, including San Francisco, volunteers are told not to
+speak with the people they’re counting for safety reasons, forcing them
+to rely on visual cues. Some, like a person curled up in a sleeping bag
+on the street, are pretty clear. Others, like someone pushing a cart
+full of recyclables, are less definitive.
+
+“It’s a big undercount, because they just look at someone and assume a
+housing status,” said Jennifer Friedenbach, executive director of the
+San Francisco advocacy group Coalition to End Homelessness.
+
+The HUD survey also excludes people in jail, in hospitals, sleeping on a
+friend’s couch or waiting for a shelter bed, as well as individuals who
+evaded the canvassers. The thousands of formerly homeless residing in
+permanent supportive housing — which offers a suite of services along
+with an apartment room for life — are also excluded from the figure.
+
+“It’s not perfect, but it’s a good snapshot in time of the homeless,”
+said Eduardo Cabrera, a spokesman for HUD who participated in San
+Francisco’s most recent survey. “At this point, it’s the best tool we
+have to measure the extent of homelessness.”
+
+A homeless person sleeps on Market St. in San Francisco.
+A homeless person sleeps on Market St. in San Francisco. (Michael
+Macor/San Francisco Chronicle)
+
+*9,975 Homeless in the City?*
+
+San Francisco’s Department of Public Health maintains a robust database
+that accounts for every homeless person that uses medical, mental health
+or substance abuse services in the city.
+
+Unlike the HUD count, which takes place over just a few hours, Public
+Health’s database, called the Coordinated Care Management System, tracks
+people who have experienced homelessness at any point during an entire
+fiscal year.
+
+“It’s better for getting a sense of how many people in a community are
+touched by homelessness over a longer time span,” said Barry Lee, a Penn
+State sociology professor familiar with similar tracking systems. “By
+its nature, homelessness is episodic, it’s fluid.”
+
+In fiscal 2014-15, Public Health’s CCMS reported 9,975 homeless
+individuals in the city, a figure nearly 50 percent higher than the
+biennial homeless count’s estimate (32 percent higher when including the
+supplemental youth count). The database, which provides a detailed
+breakdown of the health conditions and demographics of the people it
+tracks, paints a stark picture.
+
+In the 2014-15 fiscal year:
+
+  * More than half of the homeless people in CCMS had a history of
+    depression or psychoses.
+  * Roughly 60 percent had, at some point, abused drugs or alcohol.
+  * A third had been intermittently homeless for longer than a decade,
+    up from 9 percent in 2007. Nearly half of those individuals were
+    African American. Just 6 percent of the city’s general population is
+    black.
+  * The number of homeless people age 60 or older jumped 30 percent,
+    from 856 individuals in 2007 to 1,103 last year.
+  * 79 homeless people died in 2014-15. As of April, 87 homeless
+    individuals had died in 2015-16, with three months left in the
+    fiscal year.
+  * Homeless people cost the city more than $150 million in emergency
+    health care last year, including ambulance rides, emergency room
+    visits, placements in sobering centers and other services. A
+    relatively small number accrued significantly high care costs.
+  * The 1,320 homeless people needing the most aid required $108 million
+    in emergency medical and mental health services last year — or
+    roughly $80,000 on average — accounting for nearly a quarter of all
+    such costs in San Francisco.
+
+“They’re a very vulnerable, very sick, and very high-cost group,” said
+Maria X. Martinez, a Public Health director who helps oversee CCMS.
+“They’re the people you’re stepping over on the streets.”
+
+Public Health’s information system has helped San Francisco target and
+track its most needy residents, but it has a practical limitation: It
+only captures those using medical, mental health or substance abuse
+services.
+
+Younger street people, who are typically healthier, are
+under-represented, according to Friedenbach. The more than 2,000
+schoolchildren living without a stable home, according to the San
+Francisco Unified School District, are also probably missing from the
+database.
+
+Friedenbach estimates there are closer to 13,000 homeless people in the
+city over the course of an entire year.
+
+A homeless man, uses a pew to catch up on some sleep recently at St.
+Boniface Catholic church. The highly-regarded Gubbio project at St.
+Boniface church in San Francisco's Tenderloin community is facing hard
+times. Nearly 100 homeless men and women, who are now able to sleep in
+the pews and use the church bathroom, are being forced back onto the
+streets early next week due to shortened hours and a lack of funding.
+A homeless man, uses a pew to catch up on some sleep recently at St.
+Boniface Catholic church. The highly-regarded Gubbio project at St.
+Boniface church in San Francisco’s Tenderloin community is facing hard
+times. Nearly 100 homeless men and women, who are now able to sleep in
+the pews and use the church bathroom, are being forced back onto the
+streets early next week due to shortened hours and a lack of funding.
+(Brant Ward/San Francisco Chronicle)
+
+*Growing or Shrinking?*
+
+While Public Health’s database shows the homeless population is getting
+older, sicker, and spending more time on the streets, it also suggests
+there are now fewer of them in San Francisco. In 2007, the city health
+department recorded nearly 12,000 homeless individuals.
+
+The data run counter to the point-in-time estimates. Both HUD and the
+biennial count show the number of homeless, particularly those without
+shelter, has grown over the past decade — a trend that matches public
+perception in the city.
+
+“I’ve been here 26 years, and the homeless problem is worse than it has
+ever been,” said Candace Combs, a massage studio owner and president of
+the Mission Creek Merchants Association. “When I walk by these
+encampments, as a woman, it doesn’t feel safe.”
+
+Combs isn’t the only person concerned about the growing number of tarps
+and tents on the sidewalks; there has been a surge in 311 complaints
+regarding encampments in recent years.
+
+In 2013, the city’s 311 line recorded 898 encampment-related grievances,
+or between two and three per day, according to a Chronicle analysis. As
+of mid-May this year, there had been 6,982 complaints about homeless
+camps, or more than 50 per day. (Andy Maimoni, deputy director of 311,
+attributed some of the growth to a new category for homeless camps added
+to the mobile app in October.)
+
+311 complaints, of course, don’t measure the number of homeless people,
+but public sentiment. The spike in such grievances may not reflect a
+growing homeless population, just a more visible one.
+
+“There used to a be a lot of marginal space, but that has become
+valuable real estate in a lot of places,” Lee, of Penn State, said,
+referring not just to the situation in San Francisco, but many parts of
+the nation. “You might be seeing more people out and about, but it could
+be because they have nowhere else to go.”
+
+A homeless man shows his rings he has collected over the past 5 years.
+He spends his days sitting in the branches of an Australian Tea Tree
+reading books and taking with passers by in Golden Gate Park.
+A homeless man shows his rings he has collected over the past 5 years.
+He spends his days sitting in the branches of an Australian Tea Tree
+reading books and taking with passers by in Golden Gate Park. (Michael
+Macor/San Francisco Chronicle)
+
+*Creating a Better System*
+
+The difficulty of accurately tracking how many people are homeless isn’t
+unique to San Francisco. Due to its often transient and temporary
+nature, it’s virtually impossible to make a precise count of homeless
+individuals.
+
+“I don’t think any city will ever say, ‘We feel confident that we have
+counted every single homeless person,’” said Nan Roman, president of
+National Alliance to End Homelessness in Washington, D.C. “But you can
+get close, you can get the dimensions, and if you’re consistent in the
+count methodology, you can measure progress from year to year.”
+
+Currently, San Francisco doesn’t have a single information network to
+track homeless people, but rather a number of separate databases managed
+by different service providers. Jeff Kositsky, director of San
+Francisco’s new Department of Homelessness and Supportive Housing, hopes
+to solve that problem.
+
+Kositsky plans to unite the disparate homeless information systems,
+including the Department of Public Health’s CCMS, allowing the city to
+better track its neediest residents and connect them to appropriate
+services — whether that’s housing, a shelter bed or medical care.
+
+Putting all services under one roof should not only make it easier for
+the city to track the number of people living on the streets, it should
+also make it simpler for homeless people to access care.
+
+“If you’re homeless, you may need to be assessed three, four different
+times, answering the same questions each time; it’s unfair, inefficient
+and not respectful of people we’re trying to serve,” Kositsky said.
+“Clients have to get into many different lines to access services, and
+we’re going to ask them to get into one line.”
+
+Kositsky anticipates the new homeless system will be partially running
+by next October, and fully functional by the fall of 2018.
+
+/Joaquin Palomino is a San Francisco Chronicle staff writer. Email:
+jpalomino@sfchronicle.com Twitter: @JoaquinPalomino/
+
+/About this project: This week, the Chronicle joins more than 70 other
+news organizations to focus San Francisco’s attention on the seemingly
+intractable problem of homelessness in our city. Videos, interactive
+graphics, and coverage from other media can be found online at
+sfchronicle.com/homeless and sfhomelessproject.com, and on Twitter at
+@bayareahomeless. Join the online conversation at #sfhomelessproject./
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>, San Francisco
+<https://ww2.kqed.org/news/tag/san-francisco/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/?share=email&nb=1>
+  *
+
+0 Comments
+<https://ww2.kqed.org/news/2016/06/28/how-many-are-homeless-a-question-with-many-answers/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+
+Homelessness: You've Got Questions, We've Got Answers
+
+<https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers>
+
+How San Francisco and L.A. Are Addressing Homelessness
+
+<http://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness>
+
+S.F. Proposition Q Would Ban Tents on City Sidewalks
+
+<http://ww2.kqed.org/news/2016/09/16/s-f-proposition-q-would-ban-tents-on-city-sidewalks/>
+
+San Francisco Adds Beds for the Homeless as Rain Pounds the City
+
+<http://ww2.kqed.org/news/2016/01/23/san-francisco-adds-beds-for-the-homeless-as-rain-pounds-the-city>
+
+Tent Cities Compete With Super Bowl City for Attention
+
+<http://ww2.kqed.org/news/2016/02/02/tent-cities-compete-with-super-bowl-city-for-attention>
+Powered by
+
+<https://contextly.com/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev Persistence, Community Support Help S.F. Neighborhood Fight
+Homelessness
+
+<https://ww2.kqed.org/news/2016/06/28/persistence-community-support-help-san-francisco-neighborhood-fight-homelessness/>
+Next Oakland City Council Votes to Block Coal Shipments Through Port
+
+<https://ww2.kqed.org/news/2016/06/28/oakland-city-council-votes-to-block-coal-shipments-through-port/>
+
+
+
+  About The California Report
+
+The California Report provides daily coverage of news and culture
+throughout the state.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact <https://ww2.kqed.org/news/contact-the-california-report/>
+  * Tune In <https://ww2.kqed.org/news/tune-in/>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Support for The California Report is Provided By
+
+  * Eric and Wendy Schmidt <http://www.theschmidt.org/>
+  * The California Endowment <http://www.calendow.org/>
+  * California HealthCare Foundation <http://www.chcf.org/>
+  * Rowbotham <http://www.rowbotham.com/>
+  * The Westly Foundation <http://www.westly.org/> 
+
+
+
+  * The James Irvine Foundation <http://www.irvine.org/>
+  * Barracuda Networks <https://www.barracuda.com/>
+  * Blach Construction <http://www.blach.com/>
+  * Digital Foundry <http://www.digitalfoundry.com/>
+  * Wharton San Francisco <http://sf.wharton.upenn.edu/> 
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

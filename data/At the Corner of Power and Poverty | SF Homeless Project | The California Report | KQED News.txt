@@ -1,0 +1,682 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Debbie Bartley sells the Homeward newspaper near the state Capitol in
+Sacramento.
+
+Debbie Bartley sells the Homeward newspaper near the state Capitol in
+Sacramento. (/Steve Yeater/CALmatters/)
+
+The California Report
+<https://ww2.kqed.org/news/programs/the-california-report/>
+
+
+  At the Corner of Power and Poverty
+
+By *Laurel Rosenhall
+CALMatters*
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=email&nb=1>
+*
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+The Capitol dome looms over downtown Sacramento, a magnet for money and
+power.
+
+Shiny-shoed politicians and well-dressed lobbyists hustle toward the
+building where billion-dollar decisions are made. Nearby shops sell fine
+cigars and custom suits. A bar serves $16 martinis.
+
+But the streets that surround this regal building also are home to some
+of Sacramento’s most destitute residents, many suffering from mental
+illness or drug addiction in addition to extreme poverty. It’s not
+uncommon to see them rifling through trashcans, shouting incoherently or
+sleeping barefoot in the shade on the Capitol’s manicured grounds.
+
+Bridging these two worlds is Debbie Bartley, a 55-year-old grandmother
+who stands across the street selling Homeward, a newspaper produced by
+homeless people. She chats with the political staffers and lobbyists who
+give her a few dollars as they pass by. Then she buys food for people
+who sleep on these streets.
+
+“I can’t feed the world, but I would if I could,” Bartley said. “Because
+I understand the concept of being hungry.”
+
+Across the sprawling county of Sacramento, roughly 950 people
+<http://sacramentostepsforward.org/understanding-homelessness/point-in-time-pit-scope-size-populations/>
+have no shelter on a typical night. On the streets surrounding the
+Capitol, local officials counted 62 people sleeping in March — almost
+double the number they counted two years earlier.
+
+Debbie Bartley helps homeless people around the state Capitol. 
+Debbie Bartley helps homeless people around the state Capitol. (Steve 
+Yeater/CALmatters)
+
+It is heartbreaking evidence of a long-standing problem in many cities
+across California, a state home to more than one-fifth
+<https://www.hudexchange.info/resources/documents/2015-AHAR-Part-1.pdf>
+of all homeless people nationwide. Inside the marble-floored Capitol,
+lawmakers are considering a $2 billion bond
+<http://www.latimes.com/local/lanow/la-me-ln-brown-plan-to-ease-homelessness-20160513-story.html>
+to build housing for homeless people who are mentally ill. (Update
+Thursday 1:00 p.m.: Lawmakers have now passed the bond.)
+
+The proposal was partly crafted by Darrell Steinberg, the former state
+Senate leader who was recently elected mayor of Sacramento. He hopes it
+will help local governments statewide.
+
+Debbie Bartley talks to people waiting for free meals at a church near
+the state Capitol.
+Debbie Bartley talks to people waiting for free meals at a church near
+the state Capitol. (Steve Yeater/CALmatters)
+
+“It would be folly to say we can end homelessness and get everybody off
+the streets. But we must make it better,” he said.
+
+As mayor, Steinberg is promising an approach that combines more housing
+with additional outreach, case management and mental health services.
+
+Bartley thinks she can help. Until last year, she was homeless, bouncing
+among shelters, cheap motel rooms and a tent after losing her job at a
+mini-mart in 2011. Now she makes enough money most months selling
+Homeward to pay the $400 monthly rent at a Sacramento trailer park.
+
+Debbie Bartley, 55, lives in a trailer in Sacramento but worries about
+becoming homeless again.
+Debbie Bartley, 55, lives in a trailer in Sacramento but worries about
+becoming homeless again. (Steve Yeater/CALmatters)
+
+‘I worry every day about being homeless again.’
+Debbie Bartley
+
+“I worry every day about being homeless again,” she said, pointing to a
+broken tooth and the deep lines on her face as testimony to life on the
+streets.
+
+Bartley buys the papers from the nonprofit publisher for 10 cents apiece
+and sells them for a minimum donation of $1. Each weekday morning, she
+sweeps her graying hair into a bun, rides the bus downtown at 7 o’clock,
+then spends hours on a busy street corner, waving the paper high above
+her head and greeting everyone who passes by.
+
+“Good morning, guys,” Bartley calls out. “Would you like to make a
+donation to a homeless nonprofit?”
+
+State Sen. Richard Pan (D-Sacramento) shakes hands with Debbie Bartley.
+State Sen. Richard Pan (D-Sacramento) shakes hands with Debbie Bartley.
+(Steve Yeater/CALmatters.)
+
+Some lawmakers pass without making eye contact. Bartley can name others
+who regularly shake her hand. There are days when she feels angry,
+watching people with means stroll by without sharing. But for the most
+part, she says, the Capitol workforce is a generous bunch.
+
+Bartley says she was addicted to methamphetamines for many years and
+weathered abusive relationships. A stern warning from a judge prompted
+her to get sober.
+
+She raised five children, working at minimum wage jobs. Two of her
+daughters are now drug addicts who live on the streets. She looks for
+them in abandoned houses some afternoons when she’s done selling newspapers.
+
+Bartley says she’s been diagnosed with bipolar disorder but shuns
+medication because it makes her feel weird. She carries receipts from
+her rent payments in her backpack, eagerly showing them to people who
+give her donations. She wants them to know she doesn’t spend their money
+on drugs.
+
+“She has a work ethic that won’t quit,” said John Lovell, a lobbyist for
+law enforcement groups who gives Bartley money and buys her ham
+sandwiches. “She is out here rain or shine.”
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*sfproject3
+<http://ww2.kqed.org/news/series/sf-homeless-project>
+
+On a recent morning, Bartley had collected $17 by 10:30 a.m. That was
+after she spent $1 on a Pepsi for a homeless man she frequently takes
+care of. He’s a regular presence around the Capitol; outreach workers
+say they have tried to help him but can’t break through a fog of mental
+illness.
+
+The summer sun was baking the sidewalk as the man approached Bartley on
+her corner. She went into a market and came out with the soda.
+
+“Here, baby,” she said. “Have a blessed day.”
+
+‘There is no reason for anybody in this world to eat out of a garbage
+can. There is too much money here.’
+Debbie Bartley
+
+Bartley said she began sharing food with the man after she saw him
+eating from a garbage can. Now she picks up a bag lunch for him from a
+nearby charity or gives him leftovers she collects from lunchtime events
+on the Capitol grounds.
+
+“There is no reason for anybody in this world to eat out of a garbage
+can,” Bartley said. “There is too much money here.”
+
+/CALmatters is a nonprofit journalism venture dedicated to exploring
+state policies and politics. For more stories by Laurel Rosenhall, go
+to/ /calmatters.org/newsanalysis/ <http://calmatters.org/newsanalysis>
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/?share=email&nb=1>
+  *
+
+0 Comments
+<https://ww2.kqed.org/news/2016/06/29/at-the-corner-of-power-and-poverty/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+Perfect Policy Storm Rains Money on Legislative Races
+
+<http://ww2.kqed.org/news/2016/06/16/perfect-policy-storm-rains-money-on-legislative-races>
+
+Hey Big Spenders: Three Multimillionaires Stake a Claim on State Ballot
+
+<https://ww2.kqed.org/news/2016/09/15/hey-big-spenders-three-multimillionaires-stake-a-claim-on-state-ballot/>
+
+On the Offense: Transgender Californians Aim to Pre-Empt Ballot Struggle
+
+<http://ww2.kqed.org/news/2016/08/17/on-the-offense-transgender-californians-aim-to-pre-empt-ballot-struggle/>
+
+Homelessness: You've Got Questions, We've Got Answers
+
+<https://ww2.kqed.org/news/2016/06/28/homelessness-youve-got-questions-weve-got-answers>
+
+S.F. Homeless Problem Looks the Same as It Did 20 Years Ago
+
+<http://ww2.kqed.org/news/2016/06/27/endless-efforts-meager-results>
+
+Climate Retreat? Legislature May Ditch Plan to Radically Reduce Emissions
+
+<http://ww2.kqed.org/news/2016/08/04/climate-retreat-legislature-may-ditch-plan-to-radically-reduce-emissions/>
+Powered by
+
+<https://contextly.com/>
+
+
+  Post navigation
+
+Prev City Data: More Than 1,500 Housing Code Violations in S.F. Mission
+
+<https://ww2.kqed.org/news/2016/06/29/san-francisco-mission-district-fires-housing-code-violations/>
+Next Mayor, Business Groups Line Up to Fight S.F. Tech Tax Proposal
+
+<https://ww2.kqed.org/news/2016/06/29/mayor-business-groups-line-up-to-fight-s-f-tech-tax-proposal/>
+
+
+
+  About The California Report
+
+The California Report provides daily coverage of news and culture
+throughout the state.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact <https://ww2.kqed.org/news/contact-the-california-report/>
+  * Tune In <https://ww2.kqed.org/news/tune-in/>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Support for The California Report is Provided By
+
+  * Eric and Wendy Schmidt <http://www.theschmidt.org/>
+  * The California Endowment <http://www.calendow.org/>
+  * California HealthCare Foundation <http://www.chcf.org/>
+  * Rowbotham <http://www.rowbotham.com/>
+  * The Westly Foundation <http://www.westly.org/> 
+
+
+
+  * The James Irvine Foundation <http://www.irvine.org/>
+  * Barracuda Networks <https://www.barracuda.com/>
+  * Blach Construction <http://www.blach.com/>
+  * Digital Foundry <http://www.digitalfoundry.com/>
+  * Wharton San Francisco <http://sf.wharton.upenn.edu/> 
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)

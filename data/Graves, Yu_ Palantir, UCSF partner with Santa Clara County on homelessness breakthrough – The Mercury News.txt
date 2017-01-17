@@ -1,0 +1,853 @@
+  * Most Popular
+
+    <#>
+  * News <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+The Mercury News
+
+<http://www.mercurynews.com/>
+
+  * Weather <http://www.mercurynews.com/weather/>
+  * Today’s E Edition <http://mercurynews.ca.newsmemory.com/>
+  * Subscribe <https://myaccount.mercurynews.com/dssSubscribe.aspx>
+  * Newsletter <http://direct.mercurynews.com/mrc/mrcreg.action>
+
+  * Most Popular
+
+    <#>
+  * News
+
+    <http://www.mercurynews.com/news/>
+      o News
+
+        <http://www.mercurynews.com/news/>
+      o Latest Headlines
+
+        <http://www.mercurynews.com/latest-headlines/>
+      o Opinion
+
+        <http://www.mercurynews.com/opinion/>
+      o California News
+
+        <http://www.mercurynews.com/news/california-news/>
+      o Environment & Science
+
+        <http://www.mercurynews.com/news/environment-science/>
+      o Nation & World
+
+        <http://www.mercurynews.com/news/nation-world/>
+      o Education
+
+        <http://www.mercurynews.com/news/education/>
+      o Crime & Courts
+
+        <http://www.mercurynews.com/news/crime-courts/>
+      o Health
+
+        <http://www.mercurynews.com/news/health/>
+      o Politics
+
+        <http://www.mercurynews.com/news/politics/>
+      o Transportation
+
+        <http://www.mercurynews.com/news/transportation/>
+      o Traffic Map
+
+        <http://www.mercurynews.com/traffic/>
+      o Weather
+
+        <http://www.mercurynews.com/weather/>
+  * Local
+
+    <#0>
+      o Bay Area
+
+        <http://www.mercurynews.com/location/california/bay-area/>
+      o San Jose
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/san-jose/>
+      o Santa Clara County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/>
+      o Peninsula
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/>
+      o San Mateo County
+
+        <http://www.mercurynews.com/location/california/bay-area/peninsula/san-mateo-county/>
+      o Alameda County
+
+        <http://www.mercurynews.com/location/california/bay-area/east-bay/alameda-county/>
+      o Santa Cruz County
+
+        <http://www.mercurynews.com/location/california/bay-area/south-bay/santa-cruz-county/>
+  * Sports
+
+    <http://www.mercurynews.com/sports/>
+      o Sports
+
+        <http://www.mercurynews.com/sports/>
+      o San Francisco 49ers
+
+        <http://www.mercurynews.com/sports/san-francisco-49ers/>
+      o San Francisco Giants
+
+        <http://www.mercurynews.com/sports/san-francisco-giants/>
+      o Golden State Warriors
+
+        <http://www.mercurynews.com/sports/golden-state-warriors/>
+      o Oakland Raiders
+
+        <http://www.mercurynews.com/sports/oakland-raiders/>
+      o Oakland Athletics
+
+        <http://www.mercurynews.com/sports/oakland-athletics/>
+      o San Jose Sharks
+
+        <http://www.mercurynews.com/sports/san-jose-sharks/>
+      o San Jose Earthquakes
+
+        <http://www.mercurynews.com/sports/san-jose-earthquakes/>
+      o College Sports
+
+        <http://www.mercurynews.com/sports/college-sports/>
+      o High School Sports
+
+        <http://www.mercurynews.com/sports/high-school-sports/>
+      o High School Scores
+
+        <http://bayareapreps.com/>
+      o Sports Scoreboard
+
+        <http://m.mercurynews.sportsdirectinc.com/gamematchups.aspx>
+      o Sports Columnists
+
+        <http://www.mercurynews.com/sports/columnists/>
+      o Sports Blogs
+
+        <http://www.mercurynews.com/blogs/>
+  * Business
+
+    <http://www.mercurynews.com/business/>
+      o Business
+
+        <http://www.mercurynews.com/business/>
+      o Technology
+
+        <http://www.mercurynews.com/business/technology/>
+      o Personal Technology
+
+        <http://www.mercurynews.com/tag/personal-technology/>
+      o Economy
+
+        <http://www.mercurynews.com/business/economy/>
+      o Startups
+
+        <http://www.mercurynews.com/tag/startups>
+      o Real Estate
+
+        <http://www.mercurynews.com/business/real-estate/>
+      o SiliconValley.com
+
+        <http://www.siliconvalley.com/>
+      o SiliconBeat
+
+        <http://www.siliconbeat.com/>
+  * Entertainment
+
+    <http://www.mercurynews.com/entertainment/>
+      o Entertainment
+
+        <http://www.mercurynews.com/entertainment/>
+      o Lifestyle
+
+        <http://www.mercurynews.com/lifestyle/>
+      o Celebrities
+
+        <http://www.mercurynews.com/tag/celebrities/>
+      o Television
+
+        <http://www.mercurynews.com/entertainment/television/>
+      o Movies
+
+        <http://www.mercurynews.com/entertainment/movies/>
+      o Music
+
+        <http://www.mercurynews.com/entertainment/music/>
+      o Theater & Arts
+
+        <http://www.mercurynews.com/entertainment/theater-arts/>
+      o Event Listings
+
+        <http://events.mercurynews.com/>
+      o Movie Listings
+
+        <http://movies.mercurynews.com/>
+      o Comics
+
+        <http://www.mercurynews.com/comics/>
+      o Horoscopes
+
+        <http://www.mercurynews.com/horoscopes/>
+      o Puzzles and Games
+
+        <http://www.mercurynews.com/puzzle-games/>
+  * Obituaries
+
+    <http://www.mercurynews.com/news/obituaries/>
+      o Obituaries
+
+        <http://www.mercurynews.com/news/obituaries/>
+      o Local Obituaries
+
+        <http://www.legacy.com/obituaries/mercurynews/>
+      o Place an Obituary
+
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+  * The Cannifornian
+
+    <http://thecannifornian.com/>
+
+
+        Graves, Yu: Palantir, UCSF partner with Santa…
+        <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/>
+
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/#print>
+*
+
+<#>
+
+Trending:
+
+  * Sherri Papini case
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+  * 49ers should’ve kept Smith
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+  * Kim K. to divorce?
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+  * Pitt vs. Jolie
+    <http://www.mercurynews.com/2016/12/07/brad-pitt-moves-to-seal-documents-in-angelina-jolie-custody-dispute/>
+
+  * After cold snap, rain
+    <http://www.mercurynews.com/2016/12/06/bay-area-weather-after-cold-snap-rain-on-the-way/>
+
+  * Bay Area poverty
+    <http://www.mercurynews.com/2016/12/07/more-bay-area-residents-struggling-than-poverty-statistics-indicate/>
+
+
+
+News <http://www.mercurynews.com/news/>
+
+
+  Graves, Yu: Palantir, UCSF partner with Santa Clara County on
+  homelessness breakthrough
+
+
+Share this:
+
+  * Click to share on Facebook (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/?share=twitter&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/?share=email&nb=1>
+  * Click to print (Opens in new window)
+    <http://www.mercurynews.com/2016/06/28/graves-yu-palantir-ucsf-partner-with-santa-clara-county-on-homelessness-breakthrough/#print>
+*
+
+By Special to the Mercury News
+<http://www.mercurynews.com/author/special-to-the-mercury-news/>	
+June 28, 2016 at 9:02 am
+
+In the birthplace of the lean startup philosophy, Santa Clara County is
+thinking differently about its approach to combating homelessness.
+
+Last July the county, with partners throughout the Bay Area, launched a
+new initiative: Project Welcome Home. It combines an evidence-based
+permanent, supportive housing strategy with the ethos of Silicon
+Valley’s data- and outcome-driven approach at a critical moment for the
+county.
+
+Here’s how it works.
+
+On any given night, more than 6,500 people are homeless in the county.
+More than 2,200 of them are chronically homeless and suffering from
+serious mental illness, chronic physical health issues, or other
+disabling conditions.
+
+Studies have shown that chronically homeless individuals consume a
+disproportionate amount of government resources using safety net
+services, such as emergency departments and jails. In fact, the most
+costly 10 percent of homeless individuals in the county annually consume
+more in services than it would cost to provide them with supportive
+housing, which includes the health care, counseling and other services
+they need to lead stable lives.
+
+Targeting these individuals is an opportunity to both save money for the
+county and improve clients’ health and lives. This is what led the
+county to launch Project Welcome Home and partner with Abode Services, a
+national leader in homeless services to provide community-based clinical
+services and permanent supportive housing to 150-200 chronically
+homeless individuals who are among the most frequent users of the
+county’s emergency rooms, acute mental health facilities and jail system.
+
+Identifying those most costly and needy clients might sound simple, but
+it required building a complex system and sustainable infrastructure for
+data analytics so that county partners can track individuals as they
+access multiple separate safety net facilities. So in 2015 the county
+partnered with Palantir, a Palo Alto-based company known for world-class
+big data analytics software, to build a platform that reveals a holistic
+view of the county’s most vulnerable populations.
+
+The platform links key social service data systems, including criminal
+justice, Valley Medical Center, outpatient behavioral health services,
+homeless services and Abode’s programmatic data. Harnessing the data
+helps the county, Abode and UC San Francisco to identify the highest
+need clients, locate and connect them to services, track their progress
+and monitor the success of the program every day — all while protecting
+the privacy and civil liberties of clients.
+
+Stakeholders across government, non-profit, academic and technology
+sectors are collaborating in novel ways to generate insights, spot
+trends and proactively improve outcomes for clients.
+
+To further ensure both successful results and accountable government
+spending, the county is combining this “housing first” strategy with a
+new approach to contracting for social services, a performance-based
+system known as Pay for Success.
+
+Using Pay for Success, governments, and by extension taxpayers, only pay
+for successful outcomes rather than paying for the activities or
+services provided. Using the system — the first of its kind in
+California and just the eighth nationwide — the county only pays if
+Project Welcome Home achieves defined, measurable outcomes of long-term,
+stable tenancy verified by UCSF.
+
+One year in, the program is meeting its success metric. The county is
+tracking and paying for outcomes that better target taxpayer dollars to
+improve lives.
+
+Project Welcome Home is just the start of an ongoing experiment. UCSF
+researchers are also evaluating the effectiveness of the county’s
+housing services in improving client health, lowering unnecessary use of
+services and producing savings. This will be a rigorous, six-year study
+that can be the basis for policy decisions here and across the country.
+
+Innovation in the public sector can happen when governments are willing
+to take a different approach and leverage the collective expertise of
+their community. Santa Clara County is fundamentally reshaping how
+homeless services are being delivered in the 21st century, while
+embracing the best of Silicon Valley.
+
+With this mind set and data orientation, Project Welcome Home is just
+the beginning of how governments engaging in innovative partnerships are
+redefining social services.
+
+Gary Graves recently retired as COO of Santa Clara County and has been
+deeply involved in supportive housing projects. Alice Yu is a Deployment
+Strategist at Palantir and led the design and development of the data
+platform for Santa Clara County. They wrote this for the Mercury News.
+
+Review: Samsung Fixes the TV Remote
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Sponsored Content
+
+
+        Review: Samsung Fixes the TV Remote
+        <http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+
+By Samsung
+<http://www.mercurynews.com/sponsor-content?prx_t=lnMCAb3YKArLEPA&ntv_fr>
+
+Geoffrey A. Fowler tests Samsung’s 2016 TVs, which have one smart
+clicker to control all our cable boxes, disc players, video streamers
+and apps
+
+
+      Special to the Mercury News
+<http://www.mercurynews.com/author/special-to-the-mercury-news/>
+
+Subscribe Today! All Access Digital offer for just 99 cents!
+<https://myaccount.mercurynews.com/dsssubscribe.aspx>
+ 
+You Might Also Like
+
+  *
+    How I Finally Understood My 401(k)… in 10 minutes How I Finally
+    Understood My 401(k)… in 10 minutes Mint.com
+    <https://ad.doubleclick.net/ddm/trackclk/N9515.186294OUTBRAININC0/B8198435.127074735;dc_trk_aid=300209997;dc_trk_cid=58834128;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=>
+
+  *
+    Up To 50,000 Bonus Miles: Best Travel Credit Cards Up To 50,000
+    Bonus Miles: Best Travel Credit Cards GET.com
+    <https://www.get.com/10-best-airline-credit-cards/?ad=outbrain_airline_miles&utm_medium=cpc&utm_source=outbrain_248358&utm_campaign=outbrain_airline_miles_70153484&oclid=32f19b0ce434088439962375575a575b>
+
+  *
+    How to Dump Cable and Save Money by Streaming TV How to Dump Cable
+    and Save Money by Streaming TV Walmart.com
+    <http://www.walmart.com/ideas/choosing-devices/how-to-save-money-by-cutting-cable/48204?adid=1500000000000038257880&veh=cont&wmlspartner=outbrain&utm_campaign=ERC&utm_medium=60936687&utm_term=248358>
+
+
+  *
+    Looking to Fold the Latest Tactics Into Your Sales Strategy? Looking
+    to Fold the Latest Tactics Into Your Sales… Salesforce
+    <https://ad.doubleclick.net/ddm/clk/314701008;142500863;o>
+  *
+    Check out the innovations that are already paving the way for
+    better, safer transportation systems Check out the innovations that
+    are already paving the… Intel Servers Rock
+    <https://ad.doubleclick.net/ddm/clk/310019248;137045239;x>
+  *
+    Why Now's The Best Time To Put Money In The Market Why Now's The
+    Best Time To Put Money In The Market The Liberty Project
+    <http://i.geistm.com/l/57c062c0257bc22d12389e08?utm_source=geist&utm_campaign=584847acdde95b75cf023ad3&bhid=57d01fc93f2a62f226e42f89&bcid=58485094dde95b75cf023b25&utm_content=70797861>
+
+
+  *
+    Florida man who bought a $297,738 Sherman tank sues, says he never
+    got it Florida man who bought a $297,738 Sherman tank sues…
+    MercuryNews.com
+    <http://www.mercurynews.com/2015/11/13/florida-man-who-bought-a-297738-sherman-tank-sues-says-he-never-got-it/>
+
+  *
+    DA: Palo Alto woman stabbed sister-in-law 41 times DA: Palo Alto
+    woman stabbed sister-in-law 41 times MercuryNews.com
+    <http://www.mercurynews.com/2016/10/11/da-palo-alto-woman-stabbed-sister-in-law-41-times/>
+
+  *
+    Is Selena Gomez responsible for Angelina Jolie divorcing Brad Pitt?
+    Is Selena Gomez responsible for Angelina Jolie… MercuryNews.com
+    <http://www.mercurynews.com/2016/09/21/is-selena-gomez-responsible-for-angelina-jolie-divorcing-brad-pitt/>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+Sign up for our newsletters!
+
+Subscribe <http://direct.mercurynews.com/mrc/mrcreg.action>
+Follow Us
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+
+    Most Popular
+
+ 1. Oakland fire aftermath: Evictions as artists’ worst fears come true
+
+    <http://www.mercurynews.com/2016/12/07/evictions-in-ghost-ships-wake-artists-worst-fears-coming-true/>
+
+ 2. Kim Kardashian is plotting to divorce Kanye West, one report says
+
+    <http://www.mercurynews.com/2016/12/07/is-kim-kardashian-plotting-to-divorce-kanye-west/>
+
+ 3. San Jose: Firefighters knock down abandoned home fire, suspect squatter
+
+    <http://www.mercurynews.com/2016/12/07/san-jose-firefighters-knock-down-abandoned-home-fire-suspect-squatter/>
+
+ 4. Oakland warehouse fire: Officials release names of 9 more victims
+
+    <http://www.mercurynews.com/2016/12/06/oakland-warehouse-fire-search-for-victims-85-percent-complete-death-toll-still-36/>
+
+ 5. Purdy: It’s now obvious the 49ers should have kept Smith, not
+    Kaepernick
+
+    <http://www.mercurynews.com/2016/12/06/purdy-the-kap-vs-alex-argument-is-settled-and-its-become-obvious-the-49ers-made-the-wrong-choice/>
+
+ 6. Eddy Lepp free after 10-year sentence for growing marijuana
+
+    <http://www.mercurynews.com/2016/12/07/cannabis-convict-eddy-lepp-free-after-long-prison-term/>
+
+ 7. Sherri Papini ‘consultant’ asked to find another missing California mom
+
+    <http://www.mercurynews.com/2016/12/06/sherri-papini-consultant-asked-to-find-another-missing-california-mom/>
+
+ 8. Oakland: Artists, restaurant at odds over Salt Lick warehouse
+    following deadly Ghost Ship blaze
+
+    <http://www.mercurynews.com/2016/12/07/oakland-artists-restaurant-at-odds-over-salt-lick-warehouse/>
+
+
+
+    More in Opinion
+
+  *
+    <http://www.mercurynews.com/2016/12/07/cepeda-media-still-talking-down-to-people-of-the-heartland/>
+
+    The media are covering the Trump states more often, but they're
+    talking down to the people they say they want to pay attention to.
+    <http://www.mercurynews.com/2016/12/07/cepeda-media-still-talking-down-to-people-of-the-heartland/>
+
+
+
+              Cepeda: Media still talking down to people of the
+              Heartland
+              <http://www.mercurynews.com/2016/12/07/cepeda-media-still-talking-down-to-people-of-the-heartland/>
+
+
+    December 07, 2016, 7:07 pm
+
+    The media are covering the Trump states more often, but they’re
+    talking down to the people they say they want to pay attention to.
+    3
+
+    <#comments>
+
+  *
+    <http://www.mercurynews.com/2016/12/07/will-with-carrier-trump-tramples-conservative-values/>
+
+    By paying public money to coerce Carrier to keep some of its jobs in
+    Indiana, Donald Trump and Mike Pence trampled free market principles
+    and showed themselves to be no more conservative than Barack Obama.
+    <http://www.mercurynews.com/2016/12/07/will-with-carrier-trump-tramples-conservative-values/>
+
+
+
+              Will: With Carrier, Trump tramples conservative values
+              <http://www.mercurynews.com/2016/12/07/will-with-carrier-trump-tramples-conservative-values/>
+
+
+    December 07, 2016, 5:22 pm
+
+    By paying public money to coerce Carrier to keep some of its jobs in
+    Indiana, Donald Trump and Mike Pence trampled free market principles
+    and showed themselves to be no more conservative than Barack Obama.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/editorial-contra-costa-district-attorney-should-resign/>
+
+    Contra Costa DA Mark Peterson's illegal use of $66,372 of campaign
+    funds for personal expenses was an egregious breach of state rules
+    by the county's top law enforcement official.
+    <http://www.mercurynews.com/2016/12/07/editorial-contra-costa-district-attorney-should-resign/>
+
+
+
+              Editorial: Contra Costa district attorney should resign
+              <http://www.mercurynews.com/2016/12/07/editorial-contra-costa-district-attorney-should-resign/>
+
+
+    December 07, 2016, 11:16 am
+
+    Contra Costa DA Mark Peterson’s illegal use of $66,372 of campaign
+    funds for personal expenses was an egregious breach of state rules
+    by the county’s top law enforcement official.
+
+  *
+    <http://www.mercurynews.com/2016/12/07/nasol-mann-nguyen-evergreen-college-land-can-provide-education-revenue/>
+
+    Board members say the Evergreen College 27 acres that neighbors want
+    to preserve for education can better be used for commercial space
+    and can pay rent to support education.
+    <http://www.mercurynews.com/2016/12/07/nasol-mann-nguyen-evergreen-college-land-can-provide-education-revenue/>
+
+
+
+              Nasol, Mann, Nguyen: Evergreen College land can provide
+              education revenue
+              <http://www.mercurynews.com/2016/12/07/nasol-mann-nguyen-evergreen-college-land-can-provide-education-revenue/>
+
+
+    December 07, 2016, 9:29 am
+
+    Board members say the Evergreen College 27 acres that neighbors want
+    to preserve for education can better be used for commercial space
+    and can pay rent to support education.
+
+  * Member Services <https://myaccount.mercurynews.com/>
+  * News Alerts <https://digioh.com/BANG/general?source=TakeAction>
+
+  * Facebook
+
+    <https://facebook.com/mercurynews>
+  * Twitter
+
+    <https://twitter.com/mercnews>
+  * Instagram
+
+    <https://instagram.com/mercnews>
+  * RSS
+
+    <http://www.mercurynews.com/feed/>
+
+  * Subscribe
+
+    <https://myaccount.mercurynews.com/dssSubscribe.aspx?pid=22>
+
+    <#>
+      o Manage Your Subscription <https://myaccount.mercurynews.com/>
+      o All Access Subscriptions <http://www.bayareanewsaccess.com/>
+      o Today’s e-Edition <http://mercurynews.ca.newsmemory.com/>
+      o Newsletter Sign-Up <http://direct.mercurynews.com/mrc/mrcreg.action>
+      o Mobile Apps <http://www.mercurynews.com/mobile/>
+  * Contact Us
+
+    <http://www.mercurynews.com/contact-us/>
+
+    <#>
+      o Corrections <http://www.mercurynews.com/news/corrections/>
+      o Reprints <http://www.mercurynews.com/reprints/>
+      o Archive Search <http://www.mercurynews.com/archive-search/>
+      o Lottery <http://www.mercurynews.com/lottery/>
+  * Classifieds
+
+    <http://marketplace.bayareanewsgroup.com/marketplace/>
+
+    <#>
+      o Autos <http://www.norcaldrives.com/>
+      o Jobs <http://www.mercurynews.com/jobs/>
+      o Real Estate <http://realestate.mercurynews.com/>
+      o Place an Obituary
+        <http://bang.theadhawk.com/bang-adportal/obits/index.html>
+      o Place a Legal Ad
+        <http://bang.theadhawk.com/bang-adportal/legals/index.html>
+  * Advertise With Us
+
+    <http://www.mercurynews.com/advertise/>
+
+    <#>
+      o Today’s Ads <http://ads.mercurynews.com/>
+      o Weekly Ads <http://www.mercurynews.com/weekly-ads/>
+      o Local Guide <http://mylocal.mercurynews.com/>
+      o Fry’s Ad
+        <http://newspaperads.mercurynews.com/FSI/tiles.aspx?advid=200177&loc=53824>
+      o Public Notices <http://capublicnotice.com/>
+
+  * © 2016 Digital First Media <http://www.digitalfirstmedia.com/>
+  * Site Map <http://www.mercurynews.com/sitemap.xml>
+  * Copyright <http://www.mercurynews.com/copyright/>
+  * Privacy Policy <http://www.mercurynews.com/privacy-policy/>
+  * Arbitration
+    <http://local.digitalfirstmedia.com/common/dfm/arbitration.pdf>
+  * Powered by WordPress.com VIP <https://vip.wordpress.com/>
+  * Bay Area News Group
+
+    <http://www.bayareanewsgroup.com/>
+
+
+      Email This Article
+
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel
+
+<#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+Quantcast
+:)

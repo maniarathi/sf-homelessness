@@ -1,0 +1,814 @@
+
+Mashable
+
+  *
+
+    <#>
+  * MashableHeader_logo.v2.usHeader_logo.v2.us.dark
+
+    <http://mashable.com/>
+    Mashable Asia
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=AS&utm_cid=mash-prod-nav-geo>
+    Mashable Australia
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=AU&utm_cid=mash-prod-nav-geo>
+    Mashable France
+
+    <http://mashable.france24.com/?ns_campaign=mashablefr&ns_source=mashnav>
+    Mashable India
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=IN&utm_cid=mash-prod-nav-geo>
+    Mashable UK
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=GB&utm_cid=mash-prod-nav-geo>
+
+  * Sign in
+
+    <http://mashable.com/login/>
+  *
+
+    <http://mashable.com/follow-mashable/>
+      o Like
+      o Follow <https://twitter.com/mashable>
+      o
+      o Follow <https://plus.google.com/+Mashable/auto>
+      o
+      o
+        Mashable
+      o
+      o <http://feeds.mashable.com/Mashable>
+        <http://mashable.com/subscriptions> see more  >
+        <http://mashable.com/follow-mashable>
+  * Search <http://mashable.com/search/>
+
+  * Videos
+
+    <http://mashable.com/videos/?utm_cid=mash-prod-nav-ch>
+  * Social Media
+
+    <http://mashable.com/social-media/?utm_cid=mash-prod-nav-ch>
+  * Tech
+
+    <http://mashable.com/tech/?utm_cid=mash-prod-nav-ch>
+  * Business
+
+    <http://mashable.com/business/?utm_cid=mash-prod-nav-ch>
+  * Entertainment
+
+    <http://mashable.com/entertainment/?utm_cid=mash-prod-nav-ch>
+  * World
+
+    <http://mashable.com/world/?utm_cid=mash-prod-nav-ch>
+  * Lifestyle
+
+    <http://mashable.com/lifestyle/?utm_cid=mash-prod-nav-ch>
+  * Watercooler
+
+    <http://mashable.com/watercooler/?utm_cid=mash-prod-nav-ch>
+  * Shop
+
+    <http://shop.mashable.com/?utm_source=mashable&utm_medium=nav>
+  * More
+
+    <#>
+      o
+          + Channels
+          + Videos
+
+            <http://mashable.com/videos/>
+          + Social Media
+
+            <http://mashable.com/social-media/>
+          + Tech
+
+            <http://mashable.com/tech/>
+          + Business
+
+            <http://mashable.com/business/>
+          + Entertainment
+
+            <http://mashable.com/entertainment/>
+          + World
+
+            <http://mashable.com/world/>
+          + Lifestyle
+
+            <http://mashable.com/lifestyle/>
+          + Watercooler
+
+            <http://mashable.com/watercooler/>
+          + Shop
+
+            <http://shop.mashable.com/?utm_source=mashable&utm_medium=nav>
+      o
+          + Company
+          + About Us
+
+            <http://mashable.com/about/>
+          + Licensing & Reprints
+
+            <http://www.wrightsmedia.com/sites/mashable/>
+          + Archive
+
+            <http://mashable.com/2015/>
+          + Mashable Careers
+
+            <http://mashable.com/careers/>
+      o
+          + Contact
+          + Contact Us
+
+            <http://mashable.com/contact-us/>
+          + Submit News
+
+            <http://mashable.com/submit/>
+      o
+          + Advertise
+          + Advertise
+
+            <http://mashable.com/advertise/>
+      o
+          + Legal
+          + Privacy Policy
+
+            <http://mashable.com/privacy/>
+          + Terms of Use
+
+            <http://mashable.com/terms/>
+          + Cookie Policy
+
+            <http://mashable.com/cookie-policy/>
+      o
+          + Apps
+          + iPhone / iPad
+
+            <https://itunes.apple.com/us/app/mashable/id910775754?mt=8>
+          + Android
+
+            <https://play.google.com/store/apps/details?id=com.mashable.android.phoenix>
+      o
+          + Resources
+          + Subscriptions
+
+            <http://mashable.com/follow-mashable/>
+      o
+          + Sites
+          + Mashable Shop
+
+            <http://shop.mashable.com/?utm_source=mashable&utm_medium=nav>
+          + Job Board
+
+            <http://findjobs.mashable.com/>
+          + Social Good Summit
+
+            <http://mashable.com/sgs/>
+  * Terms of Use
+
+    <http://mashable.com/terms/>
+  * Privacy
+
+    <http://mashable.com/privacy/>
+  * About Us
+
+    <http://mashable.com/about/>
+
+We're using cookies to improve your experience. Click Here to find out
+more. <http://mashable.com/cookie-policy/>
+
+  *
+
+    <#>
+  * MashableHeader_logo.v2.usHeader_logo.v2.us.dark
+
+    <http://mashable.com/> Mashable Asia
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=AS&utm_cid=mash-prod-nav-geo>
+    Mashable Australia
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=AU&utm_cid=mash-prod-nav-geo>
+    Mashable France
+
+    <http://mashable.france24.com/?ns_campaign=mashablefr&ns_source=mashnav>
+    Mashable India
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=IN&utm_cid=mash-prod-nav-geo>
+    Mashable UK
+
+    <http://mashable.com/2016/06/30/homeless-tribe/?geo=GB&utm_cid=mash-prod-nav-geo>
+
+  * Sign in
+
+    <http://mashable.com/login/>
+  *
+
+    <http://mashable.com/follow-mashable/>
+      o Like
+      o Follow <https://twitter.com/mashable>
+      o
+      o Follow <https://plus.google.com/+Mashable/auto>
+      o
+      o
+        Mashable
+      o
+      o <http://feeds.mashable.com/Mashable>
+        <http://mashable.com/subscriptions> see more  >
+        <http://mashable.com/follow-mashable>
+  * Search
+
+    <http://mashable.com/search/>
+
+  * Videos
+
+    <http://mashable.com/videos/?utm_cid=mash-prod-nav-ch>
+  * Social Media
+
+    <http://mashable.com/social-media/?utm_cid=mash-prod-nav-ch>
+  * Tech
+
+    <http://mashable.com/tech/?utm_cid=mash-prod-nav-ch>
+  * Business
+
+    <http://mashable.com/business/?utm_cid=mash-prod-nav-ch>
+  * Entertainment
+
+    <http://mashable.com/entertainment/?utm_cid=mash-prod-nav-ch>
+  * World
+
+    <http://mashable.com/world/?utm_cid=mash-prod-nav-ch>
+  * Lifestyle
+
+    <http://mashable.com/lifestyle/?utm_cid=mash-prod-nav-ch>
+  * Watercooler
+
+    <http://mashable.com/watercooler/?utm_cid=mash-prod-nav-ch>
+  * Shop
+
+    <http://shop.mashable.com/?utm_source=mashable&utm_medium=nav>
+  * More
+
+    <#>
+      o
+          + Channels
+          + Videos
+
+            <http://mashable.com/videos/>
+          + Social Media
+
+            <http://mashable.com/social-media/>
+          + Tech
+
+            <http://mashable.com/tech/>
+          + Business
+
+            <http://mashable.com/business/>
+          + Entertainment
+
+            <http://mashable.com/entertainment/>
+          + World
+
+            <http://mashable.com/world/>
+          + Lifestyle
+
+            <http://mashable.com/lifestyle/>
+          + Watercooler
+
+            <http://mashable.com/watercooler/>
+          + Shop
+
+            <http://shop.mashable.com/?utm_source=mashable&utm_medium=nav>
+      o
+          + Company
+          + About Us
+
+            <http://mashable.com/about/>
+          + Licensing & Reprints
+
+            <http://www.wrightsmedia.com/sites/mashable/>
+          + Archive
+
+            <http://mashable.com/2015/>
+          + Mashable Careers
+
+            <http://mashable.com/careers/>
+      o
+          + Contact
+          + Contact Us
+
+            <http://mashable.com/contact-us/>
+          + Submit News
+
+            <http://mashable.com/submit/>
+      o
+          + Advertise
+          + Advertise
+
+            <http://mashable.com/advertise/>
+      o
+          + Legal
+          + Privacy Policy
+
+            <http://mashable.com/privacy/>
+          + Terms of Use
+
+            <http://mashable.com/terms/>
+          + Cookie Policy
+
+            <http://mashable.com/cookie-policy/>
+      o
+          + Apps
+          + iPhone / iPad
+
+            <https://itunes.apple.com/us/app/mashable/id910775754?mt=8>
+          + Android
+
+            <https://play.google.com/store/apps/details?id=com.mashable.android.phoenix>
+      o
+          + Resources
+          + Subscriptions
+
+            <http://mashable.com/follow-mashable/>
+      o
+          + Sites
+          + Mashable Shop
+
+            <http://shop.mashable.com/?utm_source=mashable&utm_medium=nav>
+          + Job Board
+
+            <http://findjobs.mashable.com/>
+          + Social Good Summit
+
+            <http://mashable.com/sgs/>
+
+Header_share_logo.v2 Mobile_logo <http://mashable.com/>
+1.1k
+Share on Facebook Share Tweet on Twitter Share Share
+<whatsapp://send?text=To%20help%20the%20homeless%2C%20first%20think%20of%20them%20as%20part%20of%20your%20tribe%20http%3A%2F%2Fmashable.com%2F2016%2F06%2F30%2Fhomeless-tribe%2F%23.MybXRuYe05L>
+
+
+
+World
+
+Like Follow
+<https://twitter.com/intent/follow?region=follow_link&screen_name=mashable&tw_p=followbutton&variant=2.0>
+Follow <https://plus.google.com/+Mashable/auto>
+
+
+  To help the homeless, first think of them as part of your tribe
+
+/1.1k/
+Shares
+1.1k
+Share on Facebook Share Tweet on Twitter Share Share
+<whatsapp://send?text=To%20help%20the%20homeless%2C%20first%20think%20of%20them%20as%20part%20of%20your%20tribe%20http%3A%2F%2Fmashable.com%2F2016%2F06%2F30%2Fhomeless-tribe%2F%23.MybXRuYe05L>
+
+What's This?
+
+<#><#><#><#>
+April Campbell and her dog Rocky, who live behind a Neiman Marcus near
+Powell St. in San Francisco.
+April Campbell and her dog Rocky, who live behind a Neiman Marcus near
+Powell St. in San Francisco.
+
+Image: josh edelson/AFP/Getty Images
+
+2016%2f06%2f30%2ff1%2f201507140cheadshot_20.b2214.78bb0
+<http://mashable.com/author/chris-taylor/>By Chris Taylor
+<http://mashable.com/author/chris-taylor/>
+Jun 30, 2016
+
+
+    Opinion
+
+<http://mashable.com/category/opinion>
+
+Powell Street, just south of Union Square, is San Francisco's busiest
+transit hub. Here tourists line up at the Cable Car terminus, eager to
+get to Fisherman's Wharf, squinting up in surprise at the cold summer
+fog streaming overhead, squinting down and frowning at their phones to
+avoid the panhandlers.    
+
+But regular commuters know the most shame-inducing section of Powell. It
+is the long, wide entry tunnel where people sleep during the day,
+huddled up against the walls, their faces buried in coats and other
+makeshift blankets. On those walls, and sometimes on the floor and
+ceiling, marketers have posted ill-advised wrap-around ads. 
+
+SEE ALSO: What 6 survivors of homelessness want you to know
+<http://mashable.com/2016/06/29/sf-homeless-project/>
+
+ADVERTISEMENT
+
+Most times when you encounter people who live on the streets, you can at
+least look them in the eye, human to human. Express your sorrow, hand
+them a dollar, hand them your leftovers. But in the tunnel there are no
+eyes to connect with, just a gauntlet of sleeping forms. 
+
+Above them, the giant ads scream at you to buy a $2,000 laptop, to watch
+a meaningless movie, to play a blood-soaked video game. Order your
+coffee via an app and you won't have to wait in line, the wall says —
+oblivious to the line of people who can't afford beds to sleep in, let
+alone coffee when they wake up. 
+
+Walking down to the BART train you shudder, flush, grow angry at the
+whole mess. You feel powerless to fix it, so you turn up your headphones
+and focus your mind. /Just get through this. Just get home. /Then you
+get a double-dose of guilt for having a home to go to. / /
+
+In tunnels like this, little bits of San Francisco's soul die every day.
+This is where the homeless become a "crisis" or a "problem" or a
+"tragedy" to passers-by, instead of unique human beings like you — each
+of whom has their own story, and needs a little help in changing the plot.
+
+SEE ALSO: A young man rebounds from homelessness and drugs — with an
+assist from soccer
+<http://mashable.com/2016/06/29/sf-homeless-project-street-soccer/>
+
+As part of the SF Homeless Project <https://sfhomelessproject.com/>, in
+which 70 media organizations have united to spotlight the plight of the
+city's worst-off from June 29 onwards, we at /Mashable/ have tried to
+focus on the humanity at the core of the issue. The more we reported it,
+the less we saw the homeless as a homogenous whole. 
+
+Instead, we saw Philip Jones
+<http://mashable.com/2016/06/29/sf-homeless-project-street-soccer/>, a
+24-year-old footballer and recovering meth addict who slept on the
+sidewalk until he turned his life around with the help of a group called
+Street Soccer USA. We saw Charles Hardigree
+<http://mashable.com/2016/06/29/sf-homeless-project/>, who slept in a
+four-bedroom house and drove a minivan until unemployment and health
+problems came calling at the same time — a perfect storm of homelessness. 
+
+"It sucks to generalize people," said Mariah Holmes
+<http://mashable.com/2016/06/29/sf-homeless-project/>, a young mom who
+struggled to find housing because cheap motels looked askance at the
+subsidies she received from the city. We couldn't agree more.  
+
+SEE ALSO: The app that matches surplus food with the hungry
+<http://mashable.com/2016/06/29/copia-app/>
+
+For too long, the strong ties of society — the kind that allow us to see
+each other as our brother's keeper rather than generalizing people —
+have been disintegrating. In fact, they started to disintegrate in the
+1970s and 1980s, right around the time the U.S. learned a new word:
+homelessness.
+
+In his excellent bestseller from earlier this year, simply
+called /Tribe/, author Sebastian Junger faults civilian society for
+failing war veterans in a similar fashion. 
+
+They may mouth the words "thank you for your service," says Junger, "but
+they still see vets as something apart from the whole, something other,
+with experiences we can never understand, so why bother? They're
+respected, but not really part of the tribe."
+
+"Two of the behaviors that set early humans apart were the systematic
+sharing of food and altruistic group defense," Junger writes. He continued:
+
+    Other primates did very little of either but, increasingly, hominids
+    did, and those behaviors helped set them on an evolutionary path
+    that produced the modern world. The earliest and most basic
+    definition of community — of tribe — would be the group of people
+    that you would both help feed and help defend. 
+
+    A society that doesn't offer its members the chance to act
+    selflessly in these ways isn't a society in any tribal sense of the
+    word; it's just a political entity that, lacking enemies, will
+    probably fall apart on its own ... 
+
+    Lack of social support has been found to be twice as reliable at
+    predicting PTSD as the severity of the trauma itself. 
+
+Clearly, society has taken this approach to the homeless too — often
+meaning well, but still "other-izing" them. This process starts at the
+very top, with a large and fast-growing body of laws that effectively
+criminalize homelessness.
+
+Even in supposedly enlightened California, a recent UC Berkeley Law
+School study
+<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2558944> found 592
+laws on the books in the state's 58 largest cities, or just over 10 laws
+per city, that target homeless behavior. The number of anti-homeless
+laws in these cities is growing by around 100 per decade.
+
+Most ban sitting, lying down or sleeping in public places. But in 15
+percent of the cities, laws have actually turned the most basic way we
+can connect on a human level with the homeless — by offering our spare
+food — into illegal behavior.
+
+*SEE ALSO: **The app that matches surplus food with the hungry*
+<http://mashable.com/2016/06/29/copia-app/>
+
+And it isn't like the laws aren't being enforced, either. Quite the
+opposite. "Arrests for general 'vagrancy' crimes — the status of being
+homeless — have more than doubled since 2000," the report notes, "even
+as enforcement of laws criminalizing specific behaviors like
+'drunkenness' and 'disorderly conduct' has fallen."
+
+In San Francisco, as we have seen most recently this year, there has
+been a series of clueless opinions on homelessness shared by frustrated
+tech entrepreneurs
+<http://mashable.com/2016/02/19/homelessness-tech/#myY0TW7bDmqF>. They,
+through poor choices of words, betray a sense of entitled anger that the
+homeless even exist.
+
+The irony being that these entrepreneurs think their apps are creating a
+more connected society, when it's really their attitudes to their fellow
+humans that are tearing its fabric apart.
+
+An extremely connected society often emerges in the wake of an
+earthquake, in a city under siege, or after a terror attack — like in
+the United States after 9/11. Every time researchers have studied such
+situations, they are shocked by the results. Crime drops. Suicide rates
+plummet. The barriers between rich and poor vanish, at least until the
+threat has passed.
+
+SEE ALSO: Why are tech bros so clueless about the homeless?
+<http://mashable.com/2016/02/19/homelessness-tech/>
+
+If you're sleeping on the streets, at the end of your tether, afflicted
+with diseases like depression or drug addiction, you desperately need
+society to tell you still matter in some way. Instead, the entire legal
+system is weighted against your ability to sleep and eat. 
+
+Prejudice against whatever subsidies you're able to scrape out of the
+local bureaucracy is allowed to run rampant. Making assumptions about an
+"underclass" is just as insidious as generalizing about race. 
+
+So before we start to fix the problem, we need to stop talking about it
+as an abstract problem. Let's visualize it as exactly what it is: humans
+having a long series of bad days, humans who need your helping hand
+because they're part of your tribe, and because helping is what we do.
+
+Let's all turn our faces away from the wall, and get our vision out of
+the tunnel.
+
+<#><#><#><#>
+
+Topics: homeless <http://mashable.com/category/homeless/>, homelessness
+<http://mashable.com/category/homelessness/>, Social Good
+<http://mashable.com/category/social-good/>, World
+<http://mashable.com/category/world/>
+
+ 
+Sponsored Content
+
+  *
+    Enter Your Name, Wait 13 Seconds, "Brace Yourself". Enter Your Name,
+    Wait 13 Seconds, "Brace Yourself". background checks: criminal,
+    arrest, marriage/divorce, public records, court records
+    <https://www.backgroundalert.com/pa/?tg_ref=bgaobran&camp_id=ad_id&keyword=keyword&sub2={origscid}&camp_id=69892960&keyword=Public+Records+Search&sub2=5473295>
+
+  *
+    Homeowners Must Claim their $4271 Before End of 2016. Homeowners
+    Must Claim their $4271 Before End of 2016. FetchRate
+    <https://www.fetcharate.com/pa/mortgage/?tg_ref=fetobran&csg_ref=tapa&keyword=ad_id&sub2=5473295&camp_id=ad_title&camp_id=67898727&keyword=New+Illinois+Home+Refinance+Plan+Banks+Don%27t+Wan&sub2=5473295>
+
+  *
+    You Need To Do This Every Time You Turn On Your Computer... You Need
+    To Do This Every Time You Turn On Your Computer... Web Life Advice
+    <http://track.globaltechadvice.com/66cc09b6-37f0-4cd4-82be-6414e2c4522b?source=5473295&ADID=1>
+
+
+  *
+    Tiny Device a Forefront of Technological Breakthrough (Shocking)
+    Tiny Device a Forefront of Technological Breakthrough (Shocking) The
+    Sovereign Investor
+    <http://thesovereigninvestor.com/exclusives/missing-wall-street-poster-boy-releases-shocking-video/?z=513569>
+
+  *
+    Ever Wondered Why Hillary Clinton Doesn't Talk About Her Daughter
+    Chelsea? Here’s Why Ever Wondered Why Hillary Clinton Doesn't Talk
+    About Her Daughter Chelsea? Here’s Why Scribol
+    <http://scribol.com/a/news-and-politics/politics/things-about-chelsea-clinton-that-hillary-and-bill-never-mention/?utm_source=Outbrain&utm_medium=CPC&utm_campaign=Chelsea_Clinton_Hidden_Facts_US_Desktop&utm_content=5473295>
+
+  *
+    Hillary Clinton Net Worth! – How Rich Is Hillary Clinton? Hillary
+    Clinton Net Worth! – How Rich Is Hillary Clinton? Celebsio
+    <http://celebsio.com/richest-politicians-in-the-us-2016/> 
+
+  *
+    12 Mysterious Photos That Can Not be Explained 12 Mysterious Photos
+    That Can Not be Explained CyberBreeze
+    <http://cyber-breeze.com/12-mysterious-photos-that-cannot-be-explained/?utm_content=225926&utm_source=Outbrain&utm_medium=referral&utm_campaign=OB-Mysterious&utm_term=5473295>
+
+  *
+    7 Steve Bannon Quotes That Confirm He Loves To Dog-Whistle The
+    Alt-Right 7 Steve Bannon Quotes That Confirm He Loves To Dog-Whistle
+    The Alt-Right Bustle
+    <https://www.bustle.com/articles/195091-7-steve-bannon-quotes-that-confirm-he-loves-to-dog-whistle-the-alt-right?utm_source=outbrain&utm_medium=pro&utm_campaign=obmpubs&sr_source=lift_outbrain>
+
+  *
+    Beyond Insulin: New Treatments to Keep Blood Glucose Under Control
+    Beyond Insulin: New Treatments to Keep Blood Glucose Under Control
+    Healthgrades
+    <https://healthguides.healthgrades.com/your-guide-to-treating-diabetes/beyond-insulin-new-treatments-to-keep-blood-glucose-under-control?did=t9_outrss1>
+
+
+Recommended by<http://www.outbrain.com/what-is/default/en>
+
+
+  Get our hottest stories delivered to your inbox.
+
+
+      Sign up for Mashable Newsletters to get personalized updates on
+      top stories and viral hits.
+
+<http://mashable.com/2016/11/17/arctic-sea-ice-slow-growth/?utm_cid=a-rr-world>
+
+World
+
+<http://mashable.com/world/>
+
+
+  Global warming gobbled up a piece of sea ice the size of Alaska and
+  Texas combined
+
+  <http://mashable.com/2016/11/17/arctic-sea-ice-slow-growth/?utm_cid=a-rr-world>
+
+
+Andrew Freedman
+
+Sea ice extent was nearly 1 million square miles below average at the
+end of October.
+*765* shares
+<http://mashable.com/2016/11/17/arctic-sea-ice-slow-growth/> 6 hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://mashable.com/2016/11/17/news-anchor-cannon-doodle/?utm_cid=a-rr-world>
+
+Watercooler
+
+<http://mashable.com/watercooler/>
+
+
+  News anchor attempts to draw a cannon, draws something NSFW instead
+
+  <http://mashable.com/2016/11/17/news-anchor-cannon-doodle/?utm_cid=a-rr-world>
+
+
+Rebecca Brown
+
+Don't play drawing games on live TV.
+*1.9k* shares
+<http://mashable.com/2016/11/17/news-anchor-cannon-doodle/> 9 hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://mashable.com/2016/11/17/obama-talks-fake-news/?utm_cid=a-rr-world>
+World
+
+<http://mashable.com/world/>
+
+
+  Fake news has gotten so bad Obama had to weigh in
+
+  <http://mashable.com/2016/11/17/obama-talks-fake-news/?utm_cid=a-rr-world>
+
+
+Marissa Wenzke
+
+"We won't know what to fight for."
+*1.7k* shares <http://mashable.com/2016/11/17/obama-talks-fake-news/> 7
+hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://mashable.com/2016/11/17/paris-hilton-donald-trump-election/?utm_cid=a-rr-world>
+
+Entertainment
+
+<http://mashable.com/entertainment/>
+
+
+  Paris Hilton voted for Donald Trump, and her reasoning is not that hot
+
+  <http://mashable.com/2016/11/17/paris-hilton-donald-trump-election/?utm_cid=a-rr-world>
+
+
+Jerico Mandybur
+
+Is that hot?
+*874* shares
+<http://mashable.com/2016/11/17/paris-hilton-donald-trump-election/> 6
+hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssoRd085DXPMvVSS80edk-x0L-CGvEGZpa8HtX24BSwPeGR4zrJKII8Y7EIAxmKBoVB0KPGjv5HwE5pGjxil8nUj08RsXsDnr40bnZ7SlI4xN2-Fgo0LYGh1Dku5MlgSp2OrVqYxV0FgqLeI46TC7OkirISL8nxbFlUpENWM48D9CAt9sCi6Nuobl8xNv0948T2O3JraOnuAO2662SpRbqWys6F8Q1Z2wsc7Xg%2526sig%253DCg0ArKJSzLzyPsCSzjr6EAE%2526urlfix%253D1%2526adurl%253Dhttp://ad.doubleclick.net/ddm/trackclk/N763.150394.MASHABLE/B10507218.140456148%3Bdc_trk_aid%3D313473506%3Bdc_trk_cid%3D75858714%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Fhttp://mashable.com/2016/11/14/how-to-choose-vr-headset/%23Q_AWlKITWqqm>
+
+Paid Content by Mattel ViewMaster
+
+<http://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssoRd085DXPMvVSS80edk-x0L-CGvEGZpa8HtX24BSwPeGR4zrJKII8Y7EIAxmKBoVB0KPGjv5HwE5pGjxil8nUj08RsXsDnr40bnZ7SlI4xN2-Fgo0LYGh1Dku5MlgSp2OrVqYxV0FgqLeI46TC7OkirISL8nxbFlUpENWM48D9CAt9sCi6Nuobl8xNv0948T2O3JraOnuAO2662SpRbqWys6F8Q1Z2wsc7Xg%2526sig%253DCg0ArKJSzLzyPsCSzjr6EAE%2526urlfix%253D1%2526adurl%253Dhttp://ad.doubleclick.net/ddm/trackclk/N763.150394.MASHABLE/B10507218.140456148%3Bdc_trk_aid%3D313473506%3Bdc_trk_cid%3D75858714%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Fhttp://mashable.com/2016/11/14/how-to-choose-vr-headset/%23Q_AWlKITWqqm>
+
+How to choose the right VR headset
+<http://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssoRd085DXPMvVSS80edk-x0L-CGvEGZpa8HtX24BSwPeGR4zrJKII8Y7EIAxmKBoVB0KPGjv5HwE5pGjxil8nUj08RsXsDnr40bnZ7SlI4xN2-Fgo0LYGh1Dku5MlgSp2OrVqYxV0FgqLeI46TC7OkirISL8nxbFlUpENWM48D9CAt9sCi6Nuobl8xNv0948T2O3JraOnuAO2662SpRbqWys6F8Q1Z2wsc7Xg%2526sig%253DCg0ArKJSzLzyPsCSzjr6EAE%2526urlfix%253D1%2526adurl%253Dhttp://ad.doubleclick.net/ddm/trackclk/N763.150394.MASHABLE/B10507218.140456148%3Bdc_trk_aid%3D313473506%3Bdc_trk_cid%3D75858714%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Fhttp://mashable.com/2016/11/14/how-to-choose-vr-headset/%23Q_AWlKITWqqm>
+
+*1.1k* shares
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://mashable.com/2016/11/17/jon-stewart-reacts-trumps-election-cbs-this-morning/?utm_cid=a-rr-world>
+
+Watercooler
+
+<http://mashable.com/watercooler/>
+
+
+  Jon Stewart says Trump is 'a reaction' to both Democrats and Republicans
+
+  <http://mashable.com/2016/11/17/jon-stewart-reacts-trumps-election-cbs-this-morning/?utm_cid=a-rr-world>
+
+
+Christina Careaga
+
+Jon Stewart has spoken.
+*1.3k* shares
+<http://mashable.com/2016/11/17/jon-stewart-reacts-trumps-election-cbs-this-morning/>
+9 hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://mashable.com/2016/11/17/artist-stuffed-animal-paintings/?utm_cid=a-rr-world>
+
+Watercooler
+
+<http://mashable.com/watercooler/>
+
+
+  These incredibly detailed paintings of stuffed animals will make you
+  feel like a kid again
+
+  <http://mashable.com/2016/11/17/artist-stuffed-animal-paintings/?utm_cid=a-rr-world>
+
+
+Sophie Hirsh
+
+My Little Pony has never looked this good.
+*514* shares
+<http://mashable.com/2016/11/17/artist-stuffed-animal-paintings/> 6
+hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+<http://mashable.com/2016/11/17/ways-to-fight-muslim-registry/?utm_cid=a-rr-world>
+
+Watercooler
+
+<http://mashable.com/watercooler/>
+
+
+  There's already a plan to fight Trump's Muslim registry, and it's
+  brilliant
+
+  <http://mashable.com/2016/11/17/ways-to-fight-muslim-registry/?utm_cid=a-rr-world>
+
+
+Heather Dockray
+
+Allies of the community are one step ahead of the president-elect.
+*1.4k* shares
+<http://mashable.com/2016/11/17/ways-to-fight-muslim-registry/> 7 hours ago
+Share <javascript:void(0);> Tweet <javascript:void(0);> Share
+<javascript:void(0);> Share <javascript:void(0);>
+
+  * About Us
+
+    <http://mashable.com/about/>
+  * Jobs
+
+    <http://findjobs.mashable.com/>
+  * Advertise
+
+    <http://mashable.com/advertise/>
+  * Subscribe
+
+    <http://mashable.com/2011/05/09/connect-with-mashable/>
+  * Privacy
+
+    <http://mashable.com/privacy/>
+  * Terms
+
+    <http://mashable.com/terms/>
+
+  * <http://www.facebook.com/mashable/>
+  * <https://twitter.com/mashable>
+  * <https://plus.google.com/+Mashable>
+  * <http://feeds.mashable.com/Mashable>
+  * <http://pinterest.com/mashable/>
+  * <http://www.youtube.com/user/mashable>
+  * <http://www.stumbleupon.com/channel/Mashable>
+  * <http://www.linkedin.com/today/mashable.com>
+
+Mashable <http://mashable.com/> is a global, multi-platform media and
+entertainment company. Powered by its own proprietary technology,
+Mashable is the go-to source for tech, digital culture and entertainment
+content for its dedicated and influential audience around the globe.
+
+  * ©2005-2016 Mashable, Inc.
+  * Reproduction without explicit permission is prohibited. All Rights
+    Reserved.
+  * Designed in collaboration with Code & Theory
+    <http://www.codeandtheory.com/>
+

@@ -1,0 +1,644 @@
+KQED Menu
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Menu
+
+    <#>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Topics
+
+        <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs & Blogs
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Programs & Blogs
+
+        <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o
+
+
+                  Back
+
+                  <javascript:void(0)>
+
+      o Special Coverage
+
+        <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  *
+
+
+      KQED News
+
+    <https://ww2.kqed.org/news/>
+
+  * KQED News Home
+
+    <https://ww2.kqed.org/news/>
+  * Topics
+
+    <#>
+      o Arts and Culture
+
+        <https://ww2.kqed.org/arts/>
+      o Economy
+
+        <https://ww2.kqed.org/news/category/economy/>
+      o Education
+
+        <https://ww2.kqed.org/news/category/education/>
+      o Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o Immigration
+
+        <https://ww2.kqed.org/news/category/immigration/>
+      o Environment
+
+        <https://ww2.kqed.org/news/category/environment/>
+      o Housing
+
+        <https://ww2.kqed.org/news/category/housing/>
+      o Law and Justice
+
+        <https://ww2.kqed.org/news/category/law-and-justice/>
+      o Politics and Government
+
+        <https://ww2.kqed.org/news/category/politics-and-government/>
+      o Science
+
+        <https://ww2.kqed.org/science/>
+      o Sports
+
+        <https://ww2.kqed.org/news/category/sports/>
+      o Technology
+
+        <https://ww2.kqed.org/news/category/technology/>
+      o Transportation
+
+        <https://ww2.kqed.org/news/category/transportation/>
+  * Programs <#> Programs & Blogs
+
+    <#>
+      o News Fix
+
+        <https://ww2.kqed.org/news/programs/news-fix/>
+      o The California Report
+
+        <https://ww2.kqed.org/news/programs/the-california-report/>
+      o Forum
+
+        <http://www.kqed.org/radio/programs/forum/>
+      o Future of You
+
+        <https://ww2.kqed.org/futureofyou/>
+      o KQED Newsroom
+
+        <http://www.kqed.org/tv/programs/newsroom/>
+      o Love In The Digital Age
+
+        <https://ww2.kqed.org/news/category/arts-and-culture/love-in-the-digital-age/>
+      o MindShift
+
+        <https://ww2.kqed.org/mindshift/>
+      o Bay Curious
+
+        <https://ww2.kqed.org/news/series/baycurious>
+      o Perspectives
+
+        <http://www.kqed.org/radio/programs/perspectives/>
+      o State of Health
+
+        <https://ww2.kqed.org/stateofhealth/>
+      o The Lowdown
+
+        <https://ww2.kqed.org/lowdown/>
+      o Truth Be Told
+
+        <https://ww2.kqed.org/news/programs/truthbetold/>
+      o Video
+
+        <https://ww2.kqed.org/news/video/>
+  * Special Coverage
+
+    <#>
+      o Boomtown
+
+        <https://ww2.kqed.org/news/series/boomtown/>
+      o Drawn to the Bay
+
+        <https://ww2.kqed.org/news/series/mark-fiore-drawn-to-the-bay/>
+      o Election 2016
+
+        <https://ww2.kqed.org/news/series/election-2016>
+      o El Niño
+
+        <https://ww2.kqed.org/science/tag/el-nino/>
+      o Immigrant Shift
+
+        <https://ww2.kqed.org/news/series/california-immigrants-at-work>
+      o SF Homeless Project
+
+        <https://ww2.kqed.org/news/series/sf-homeless-project/>
+
+  * NPR
+
+    <http://www.npr.org/>
+  * PBS
+
+    <http://www.pbs.org/>
+
+  * Donate <https://www.kqed.org/donate/>
+  * Search
+
+    <http://www.kqed.org/search/>
+
+Go
+
+Close
+
+
+    Popular
+
+  * KQED Home <http://www.kqed.org/>
+  * Listen Live <http://www.kqed.org/radio/listen/>
+  * Watch Episodes <http://video.kqed.org/>
+  * Podcasts <http://www.kqed.org/podcasts/>
+  * Radio Schedules <http://www.kqed.org/radio/schedules/daily/>
+  * TV Schedules <http://www.kqed.org/tv/schedules/daily/>
+  * Mobile/Apps <http://www.kqed.org/mobile/>
+  * Donate <https://www.kqed.org/donate/>
+
+
+    Sections
+
+  * Radio <http://www.kqed.org/radio/>
+  * TV <http://www.kqed.org/tv/>
+  * News <http://www.kqed.org/news/>
+  * Arts <http://www.kqed.org/arts/>
+  * Food <http://www.kqed.org/food/>
+  * Science <http://www.kqed.org/science/>
+  * Education <http://www.kqed.org/education/>
+  * Support KQED <http://www.kqed.org/support/>
+  * About KQED <http://www.kqed.org/about/>
+
+
+
+    	KQED
+    	
+    	
+    	
+    	
+
+    <http://www.kqed.org/>
+
+Public Media for Northern California
+
+
+  KQED News <https://ww2.kqed.org/news/>
+
+Search
+
+<#search-container>
+
+
+  KQED News Menu
+
+  <#>
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Skip to content
+
+<#content>
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+Search for:
+
+Newsroom <https://ww2.kqed.org/news/programs/kqed-newsroom/>
+
+
+  Homelessness More Complex Since San Jose Shut Down ‘The Jungle’
+
+Workers clean out the Jungle in San Jose, California, on Wednesday, Dec.
+4, 2014. The city of San Jose cleared out the part of Coyote Creek that
+was home to around 300 people.
+
+Workers clean out the Jungle in San Jose, California, on Wednesday, Dec.
+4, 2014. The city of San Jose cleared out the part of Coyote Creek that
+was home to around 300 people. (/James Tensuan/KQED/)
+
+By *Thuy Vu <http://www.kqed.org/tv/programs/newsroom/about/staff.jsp>*
+June 29, 2016
+
+Share
+
+<#>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=email&nb=1>
+*
+
+San Jose sits in Silicon Valley — one of the wealthiest regions in the
+country — yet homelessness is a persistent problem. Take a look around
+some of the biggest streets in East San Jose and you’ll notice what are
+essentially modern nomadic villages. On Lucretia Avenue, right across
+from Yerba Buena High School, we found numerous people living out of
+cars and campers.
+
+*Homelessness is a complex issue. Learn more >>
+<http://ww2.kqed.org/news/series/sf-homeless-project>*
+
+sfproject3 <http://ww2.kqed.org/news/series/sf-homeless-project>
+
+That’s where we spotted Joseph Luprete sweeping the sidewalk in front of
+his camper. He bought it about a month ago for $690 and recently blacked
+out the windows.
+
+“At night with the lights on, the cops will drive by and try to ticket
+me or tell me to move along because it’s illegal to live in your car, “
+Luprete says. “I blacked it out so, at night, it doesn’t look like
+anyone is in here.”
+
+Luprete works nearly full time as a valet parking cars and makes $2,500
+a month. He says it’s not enough to afford a one-bedroom apartment in
+San Jose, so he takes his chances every night living on the streets,
+knowing he’ll probably get cited by the police. “Oh yeah, they will bang
+on the door at 2, 3 in the morning and look at you like a homeless piece
+of crap. They just say, ‘You gotta move, you can’t be here.’ ”
+
+It’s estimated there are more than 4,000 homeless people in San Jose.
+About 500 of them are living out of their vehicles, according to Ray
+Bramson, San Jose’s homelessness response manager
+<https://www.sanjoseca.gov/index.aspx?NID=738>.
+
+“One of the solutions the city is looking at is finding safe parking
+lots where people can park and get connected to housing and long-term
+services,” Bramson says. He notes the city has identified one potential
+partner and is working out some issues to have it as a pilot site.
+
+Unlike San Francisco, where tent encampments are easily spotted on
+sidewalks and under freeway overpasses, many of San Jose’s homeless stay
+out of sight by setting up shelter deep along the city’s 140 miles of
+trails, creeks and riverbeds.
+
+This was the case with The Jungle
+<http://ww2.kqed.org/news/2014/12/04/homeless-evicted-from-the-jungle-in-san-jose>,
+which was one of the nation’s largest homeless encampments until the
+city shut it down in 2014. More than 300 people were moved out and the
+area was fenced off.
+
+We returned to the site of The Jungle recently with Leonard Jackson, who
+says he spent five years living there. The area is now overgrown with
+weeds. But when Jackson called it home, The Jungle resembled a small
+community.
+
+Goods that cannot be hauled away by residents are left at the Jungle in
+San Jose, Calif. on Wednesday, Dec. 4, 2014. The city of San Jose
+cleared out the part of Coyote Creek that was home to around 300 people.
+Goods that cannot be hauled away by residents are left at the Jungle in
+San Jose, California, on Wednesday, Dec. 4, 2014. The city of San Jose
+cleared out the part of Coyote Creek that was home to around 300 people.
+(James Tensuan/KQED)
+
+“It was tents. It was couches, tarps, stoves, it was motor homes,” he says.
+
+Jackson ended up homeless due to drug addiction. He says many people in
+the Jungle struggled with drugs and mental health issues, but there were
+also plenty of people who were working and barely surviving.
+
+“9-to-5 good paying jobs. They just didn’t have no place to live,”
+Jackson says. “I knew people who worked for Google, who worked for
+Cisco, and they were homeless right here in The Jungle with us.”
+
+The Jungle’s closure led to new doors opening for Jackson. Outreach
+workers helped him get off drugs, find a job and move into a new home
+subsidized by the city. According to San Jose housing officials,more
+than 200 former residents of The Jungle now have homes,
+<http://ww2.kqed.org/news/2015/11/20/a-year-after-the-jungle-san-joses-new-approach-to-homelessness>
+but the city still faces a daunting challenge.
+
+“People can’t find units in the market. The vacancy rate for rentals
+hovers around 4 percent,” says Bramson. “We’re doing everything we can,
+rehabbing a lot of hotels and motels, buying manufactured housing that’s
+assembled elsewhere and bringing it on site to get people into
+supportive services that they need to keep them stable and safe.”
+
+
+In what’s being hailed as the largest effort yet to end regional
+homelessness in the South Bay, the Santa Clara County Board of
+Supervisors recently approved a $950 million affordable housing bond
+measure for the November ballot. A 2015 survey found that Santa Clara
+County has more than 6,500 homeless people, which would make it the
+fourth-largest homeless population in the nation.
+
+Leonard Jackson is grateful he won’t have to wait until November to find
+out if more help is coming. He says he’s thankful every day for the
+outreach workers who found him in The Jungle.
+
+“By the grace of God, these people came along and saved a lot of us,”
+Jackson says. “It feels great to have my own place, my own job,
+security. It feels like I am on top of the world.”
+
+/Thuy Vu reported on this story for “KQED Newsroom,” a weekly news
+magazine program on television, radio and online. Watch Fridays at 8
+p.m. on KQED Public Television 9, listen on Sundays at 6 p.m. on KQED
+Public Radio 88.5 FM and watch on demand here./
+
+Explore: Housing <https://ww2.kqed.org/news/category/housing/>, News
+<https://ww2.kqed.org/news/category/news/>, affordable housing
+<https://ww2.kqed.org/news/tag/affordable-housing/>, homelessness
+<https://ww2.kqed.org/news/tag/homelessness/>, housing
+<https://ww2.kqed.org/news/tag/housing-3/>, San Jose
+<https://ww2.kqed.org/news/tag/san-jose/>
+
+  * Click to share on Facebook (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=facebook&nb=1>
+  * Click to share on Twitter (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=twitter&nb=1>
+  * Click to share on Pinterest (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=pinterest&nb=1>
+  * Click to share on Google+ (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=google-plus-1&nb=1>
+  * Click to share on Tumblr (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=tumblr&nb=1>
+  * Click to email this to a friend (Opens in new window)
+    <https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/?share=email&nb=1>
+  *
+
+0 Comments
+<https://ww2.kqed.org/news/2016/06/29/homelessness-more-complex-since-san-jose-shut-down-the-jungle/#disqus_thread>
+Hide Comments <#>
+
+Related
+
+A Year After 'The Jungle,' San Jose's New Approach to Homelessness
+
+<http://ww2.kqed.org/news/2015/11/20/a-year-after-the-jungle-san-joses-new-approach-to-homelessness>
+
+Tent Cities Compete With Super Bowl City for Attention
+
+<http://ww2.kqed.org/news/2016/02/02/tent-cities-compete-with-super-bowl-city-for-attention>
+
+How San Francisco and L.A. Are Addressing Homelessness
+
+<http://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness>
+
+Homeless Evicted From 'The Jungle' in San Jose
+
+<http://ww2.kqed.org/news/2014/12/04/homeless-evicted-from-the-jungle-in-san-jose>
+
+Homelessness in San Francisco's Mission: A Neighborhood View
+
+<http://ww2.kqed.org/news/2016/07/12/homelessness-in-san-franciscos-mission-a-neighborhood-view/>
+
+Santa Clara County's Homeless Hope for Hotel Rooms After Shelter Closes
+
+<http://ww2.kqed.org/news/2014/12/27/santa-clara-county-homelessness-jungle-shelters>
+Powered by
+
+<https://contextly.com/>
+
+
+  Sponsored by
+
+Become a KQED sponsor <http://www.kqed.org/support/sponsorship/>
+
+
+  Post navigation
+
+Prev How San Francisco and L.A. Are Addressing Homelessness
+
+<https://ww2.kqed.org/news/2016/06/29/how-san-francisco-and-la-are-addressing-homelessness/>
+Next California Congressional Republicans Urge Blocking Obamacare for
+Undocumented Immigrants
+
+<https://ww2.kqed.org/news/2016/06/29/california-congressional-republicans-urge-blocking-obamacare-for-undocumented-immigrants/>
+
+
+
+  About KQED News
+
+KQED News provides daily and in-depth coverage of regional and state
+issues, and is a service of KQED Public Radio, TV, and Interactive.
+
+  * Contributors <https://ww2.kqed.org/news/contributors/>
+  * Contact the Newsroom <mailto:assignmentdesk@kqed.org>
+
+
+  About KQED
+
+  * About <http://www.kqed.org/about/>
+  * Jobs <http://www.kqed.org/about/jobs/>
+  * Internships <http://www.kqed.org/about/internships/>
+  * Donate to KQED <https://www.kqed.org/donate/>
+  * Website help <http://www.kqed.org/about/help/index.jsp>
+
+
+  Follow KQED News
+
+  * Follow Us on Facebook <https://www.facebook.com/KQEDnews>
+  * Follow Us on Twitter <https://twitter.com/kqednews>
+  * Connect on Instagram <http://instagram.com/kqednews>
+  * Connect on Google+ <https://plus.google.com/117185877001714843452/posts>
+  * Connect on YouTube <https://www.youtube.com/user/KQEDnews>
+
+Copyright © 2016 KQED Inc. All Rights Reserved. | Terms of Service
+<https://ww2.kqed.org/about/help/terms-service/> | NEWPrivacy Policy
+<https://ww2.kqed.org/about/help/privacy/>| Contact Us
+<https://ww2.kqed.org/about/contact/>
+
+[blank image]
+Send to Email Address
+
+Your Name
+
+Your Email Address
+
+loading Cancel <#cancel> Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.
+
+
+  Get the facts!
+
+Close
+
+wmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgilwmkgil
+:)
